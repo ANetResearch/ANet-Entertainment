@@ -1,0 +1,25 @@
+# ep14 s35_a  duration=9s  seed=1963105456
+# input images: ['episodes/ep14/storyboard/s35.png', 'refs/props/prop_node.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm macro, camera at shelf level on a slider, looking along a dusty scaffold shelf. A soft out-of-focus scaffold upright fills the left edge. Mismatched handmade node boxes stand in a receding row: dented ammo tins, cigarette cans, a lunchbox. Their circuit boards are dark, and dust lies thick on their lids. One tiny LED on the nearest tin at frame centre-right is just beginning to glow green. Everything else is black, faint red spill from the off-screen robot grazes the tins' edges. Blocking lock: the shelf runs on a slight diagonal into depth from frame left to right; the boxes keep their order; each LED sits at the same height band across the frame's middle.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+Along the dark shelf, one node box's lamp lights green, then the next, then a whole row of mismatched boxes light up one after another.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro close-up, 100mm macro, shelf height; one slow lateral slider move right-to-left along the shelf, about 60cm over 9 seconds, with foreground scaffold parallax.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the shelf runs on a slight diagonal into depth from frame left to right; the boxes keep their order; each LED sits at the same height band across the frame's middle. Start: The first green LED blinks on with a chime. The camera begins sliding. Middle: The next box lights, then the next. Each green point flares slightly in the lens as the camera passes uprights in the foreground. End: The camera lands looking down a long row of small green points receding into the dark, a constellation along the shelf. Mood: awakening, quiet wonder. Blur: Very shallow focus; focus pulled to keep the box nearest frame centre crisp as it lights; farther LEDs become soft green bokeh discs. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Overlapping soft chimes in different pitches, tiny relay clicks, fan whirs spinning up; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

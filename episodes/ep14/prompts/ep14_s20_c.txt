@@ -1,0 +1,25 @@
+# ep14 s20_c  duration=9s  seed=1190548341
+# input images: ['episodes/ep14/storyboard/s20.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot, 27mm, camera 40cm above the floor looking up the central aisle of the command hall in strict one-point symmetry. The out-of-focus dark edges of two consoles frame the left and right foreground. Governor Xing, grey-streaked tight bun, stands alone at centre with her back three-quarters to us, small against the vast display wall. The wall glows cold cyan-grey with telemetry, and one central feed bleeds Jupiter orange. Dead centre in the upper third, the single round red MOSS lens rims her hair in red. Faint haze hangs in the air. Blocking lock: Xing on the exact vertical centre line in the middle band of the frame; the red lens on the same axis, high in the upper third; consoles symmetric in the foreground. She does not move.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+Governor Xing stands alone before the display wall while MOSS calmly orders: 'Unauthorised network detected. Purge immediately.'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide, 27mm, low angle at 40cm. A dead-straight, very slow dolly push-in along the aisle, about 1.5m over 9 seconds. It starts wide with the full wall and ends medium-wide, her silhouette and the red lens stacked on one axis.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xing on the exact vertical centre line in the middle band of the frame; the red lens on the same axis, high in the upper third; consoles symmetric in the foreground. She does not move. Start: Xing stands small and still before the immense wall. The console edges slide outward as the push begins. Middle: MOSS's flat male voice says '检测到未授权网络。' The red lens holds steady, and her shoulders do not move. End: '即刻清除。' The push lands with Xing larger in frame, the lens directly above her head, and the symmetry total. Mood: cold, rigid, monumental, isolated. Blur: Xing and the red lens are crisp at a deep stop. The foreground console edges are soft, and the wall is readable. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 检测到未授权网络。即刻清除。</d>; Final line of this shot: end on “网络。即刻清除。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+A low electronic hum and the faint tick of the display wall. MOSS's voice carries a slight hall reverb; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

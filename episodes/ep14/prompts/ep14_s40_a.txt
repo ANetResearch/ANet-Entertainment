@@ -1,0 +1,25 @@
+# ep14 s40_a  duration=11s  seed=1497151023
+# input images: ['episodes/ep14/storyboard/s40.png', 'refs/characters/boye.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 85mm, camera at seated chest level. Boye sits in the left third of frame on a plain metal chair, leaning slightly forward. Both his hands are spread palms-down in front of him at lower frame, as if laying pieces on a table. His black-framed glasses are taped, his grey beard is short, and his eyes look toward the interviewer just off lens to frame right. A soft key from frame right sculpts his face and hands. The right two-thirds of the frame is deep dark space with out-of-focus pipes. Blocking lock: Boye in the left third, eyeline toward the right negative space, hands kept in the lower-middle band clear of the bottom edge; key from the right is his consistent setup.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In the 2078 interview, Boye spreads his hands as if laying things on a table and says slowly and firmly: "没有谁看得见全部。可每个人看见的那一小块，摆到一张桌上，就是一张图。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 11.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, 85mm, chest level; an almost imperceptible slow dolly push-in over 11 seconds, ending slightly tighter while keeping the hands in frame.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye in the left third, eyeline toward the right negative space, hands kept in the lower-middle band clear of the bottom edge; key from the right is his consistent setup. Start: Boye lays his hands flat and begins the first sentence. Middle: His hands move apart in small placing gestures, one piece after another, as he speaks the second clause. End: On "就是一张图" his hands come to rest. The camera lands on a slightly tighter medium shot of face and hands in the left third. Mood: wise, steady, warm. Blur: Eyes crisp, hands slightly softer, T2.2; the background pipes are fully defocused into darkness. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 没有谁看得见全部。可每个人看见的那一小块，摆到一张桌上，就是一张图。</d>; Final line of this shot: end on “上，就是一张图。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone, faint ventilation, the soft brush of his palms on cloth; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

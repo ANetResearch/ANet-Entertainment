@@ -1,0 +1,27 @@
+# ep14 s37_a  duration=10s  seed=917488677
+# input images: ['episodes/ep14/storyboard/s37.png', 'refs/characters/xing.png', 'refs/characters/boye.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium two-shot, 65mm, camera at chest height, three-quarter profile along the barred door. Governor Xing is in the near plane, frame left third, gripping a heavy manual key in the lock, her face lit warm from below by a flashlight clipped to her coat. The iron bars run vertically through the centre. Beyond them in frame right, Boye stands holding a bar, his glasses with taped frames catching the light, his grey beard soft. Cold cyan-grey concrete corridor behind both of them, falling to black. Light haze. Blocking lock: Xing outside in frame left, Boye inside in frame right, bars between them at centre; the flashlight warmth sits between their faces; both mouths stay visible.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+Governor Xing unlocks the barred door with a manual key. She says "我来晚了。"; Boye, holding the bars inside, answers "不晚。灯还没灭完。" and the door opens.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium two-shot, 65mm, chest height; locked framing with one rack focus from Xing (near) to Boye (far) and back to the opening gap.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xing outside in frame left, Boye inside in frame right, bars between them at centre; the flashlight warmth sits between their faces; both mouths stay visible. Start: The key turns with heavy metal grinding. Xing, sharp, looks up through the bars and says her line. Middle: Focus racks to Boye behind the bars. He gives a small, tired smile and answers. End: The lock clanks and the door swings away from frame. The bars leave the centre, and the two face each other with nothing between them in warm light. Mood: humble, reconciling, warm. Blur: Shallow T2.8: Xing crisp first, then Boye crisp after the rack; the bars always soft in the middle plane. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 我来晚了。</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 不晚。灯还没灭完。</d>; Final line of this shot: end on “晚。灯还没灭完。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Key grinding and lock bolts clanking, the hinge creaking, the echoing concrete corridor; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

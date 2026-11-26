@@ -1,0 +1,23 @@
+# ep14 s36_a  duration=9s  seed=1613415808
+# input images: ['episodes/ep14/storyboard/s36.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide top-down view, 32mm, identical position to s30, looking straight down the colossal shaft. Concentric tiers of cabins and walkways are dimly readable in a faint blue-grey emergency twilight, with all windows black. Haze hangs motionless. Far below near the centre-bottom of the well, two tiny green points glow. On the lower-right walkway, tiny dark human silhouettes stand barely visible against the grey railing. The rest of the frame is near-black, with layered luminance from grey upper rings to black depths. Blocking lock: framing identical to s30; tiny figures on the same lower-right walkway; green points appear scattered across all the rings, not in neat bands.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In the black shaft, small green points light up one by one, then more and more, as if someone were lighting lamps in the dark.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide top-down, 32mm, the same overhead position as s30; locked-off with no movement, so the image rhymes exactly.; pacing: natural speed, a single continuous take with no cut. Blocking lock: framing identical to s30; tiny figures on the same lower-right walkway; green points appear scattered across all the rings, not in neat bands. Start: Only two or three green points glow in the depths of the blue-grey dark. Middle: Single points appear on scattered rings, irregular and hesitant. One lights near the tiny figures on the walkway, picking out their shapes. End: Dozens of green points are scattered across the rings like a sparse starfield in the black shaft, still small against the immense darkness. Mood: tentative, collective, hopeful. Blur: Deep focus f/5.6, all rings sharp; each green point crisp with a slight halation in the haze. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Wind in the shaft, faint chimes multiplying from different depths, a murmur of distant voices; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

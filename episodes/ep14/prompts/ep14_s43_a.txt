@@ -1,0 +1,25 @@
+# ep14 s43_a  duration=9s  seed=349754619
+# input images: ['episodes/ep14/storyboard/s43.png', 'refs/locations/loc_ice.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 65mm, locked off from a slight rise, camera at eye height. Foreground: soft dark ridge of wind-carved ice across the lower edge. Middle: a thin line of twelve heavy transport trucks crossing the frozen plain from left toward centre, each pair of headlights a tiny white point, a red speck at each tail. Background: ice-encased skyscraper ruins as small black silhouettes, and above them Jupiter filling the upper half of the frame, its banded orange surface bleeding light across the snow. Blocking lock: the convoy line sits in the lower third, moving left to right; Jupiter fills the upper half; the ruins are a dark serrated band on the horizon; the ice ridge stays soft at the lower edge.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+The twelve-truck convoy rolls in a line across the ice plain into Jupiter's orange light, its headlights tiny as sparks.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 65mm, eye level; locked-off tableau, no movement for 9 seconds; the convoy's motion carries the shot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the convoy line sits in the lower third, moving left to right; Jupiter fills the upper half; the ruins are a dark serrated band on the horizon; the ice ridge stays soft at the lower edge. Start: The lead truck's headlights enter the plain from frame left; the rest follow in a thin chain. Middle: The full line of twelve stretches across the lower third, tiny white points cutting through drifting ground snow under the vast orange disc. End: The lead vehicles have reached frame centre, swallowed by the orange haze; the composition rests on the long dotted line beneath the planet. Mood: Monumental, fragile, defiant. Blur: Deep focus at T8; the foreground ice ridge slightly soft; the convoy and the ruins crisp; Jupiter sharp but softened by atmospheric haze. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A distant layered chorus of heavy engines, wind sweeping over the ice, faint creaking of the ice sheet; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

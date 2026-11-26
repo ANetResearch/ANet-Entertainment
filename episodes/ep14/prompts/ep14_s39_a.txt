@@ -1,0 +1,23 @@
+# ep14 s39_a  duration=9s  seed=135832270
+# input images: ['episodes/ep14/storyboard/s39.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide, 24mm, locked-off, perfect one-point symmetry from the back of the tiered command hall at upper-tier height. Rows of dark consoles step down toward a giant black display wall that fills the upper two-thirds of frame. Tiny operators sit in silhouette at the consoles. The red lens hangs dead centre above the wall. Only a scatter of small green and white dots glows on the black wall. Cold haze hangs in the hall air. Blocking lock: wall centred, red lens on the vertical centre axis; console rows symmetric left and right; operators stay small silhouettes in the lower third.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+The giant wall lights up again as a rough map built from thousands of small dots, and the operators rise to their feet one by one.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 24mm, elevated rear position; locked-off symmetric tableau with no movement.; pacing: natural speed, a single continuous take with no cut. Blocking lock: wall centred, red lens on the vertical centre axis; console rows symmetric left and right; operators stay small silhouettes in the lower third. Start: A few dots glow on the black wall. The silhouetted operators sit frozen. Middle: Thousands of dots fill in unevenly, forming the rough outline of the shaft city. The glow begins to backlight the haze and the operators' heads. End: The wall is a dense, irregular map of light. Silhouettes stand up one after another until rows of tiny standing figures face the vast luminous wall. Mood: awe, collective, monumental. Blur: Deep focus f/8, the whole hall crisp from the foreground rows to the wall; the dots sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A low collective intake of breath, chairs scraping, a soft swelling electronic tick; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

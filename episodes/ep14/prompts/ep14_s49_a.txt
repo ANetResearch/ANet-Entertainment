@@ -1,0 +1,25 @@
+# ep14 s49_a  duration=9s  seed=411876230
+# input images: ['episodes/ep14/storyboard/s49.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot, 40mm, camera low at crouch height, angled slightly down. Foreground right: Xiaoman's shoulder and arm, soft and dark. Centre: Amu's gloved hands holding the dented steel node box, every small lamp on it dark. Snow dust drifts across it. Background: a heap of broken concrete and ice choking the shaft mouth, and beyond it the dark wall of the stopped engine. Orange Jupiter light from above, cold blue-white truck headlight raking from the left across the frost. Blocking lock: Xiaoman's soft shoulder holds the right foreground; Amu holds the centre-left; the rubble and engine fill the background; Amu's face settles in the middle band after the tilt.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Amu crouches by the buried shaft holding a node box with all its lights out, looks up at the engine, and tells Xiaoman '中继断了。下面听不见我们。'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close, 40mm, low angle; one slow tilt up from the dark node box in his hands to Amu's face over about 4 seconds, then held.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's soft shoulder holds the right foreground; Amu holds the centre-left; the rubble and engine fill the background; Amu's face settles in the middle band after the tilt. Start: The dark node box fills the centre; his thumb presses a switch; nothing lights. Middle: The camera tilts up with his gaze as he lifts his face to the engine towering above, the eyebrow scar catching the headlight, breath fogging. End: He turns his head toward Xiaoman and speaks the line, mouth clear, the frame resting on his face between the soft shoulder and the dark engine. Mood: Quiet dread, grim clarity. Blur: Shallow T2.8; first the node box crisp, then Amu's face crisp; Xiaoman's shoulder soft; the engine and rubble a soft dark mass. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 中继断了。下面听不见我们。</d>; Final line of this shot: end on “下面听不见我们。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Wind, small stones and ice clattering down the rubble pile, the dry click of the dead switch, breath; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

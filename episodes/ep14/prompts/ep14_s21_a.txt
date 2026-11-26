@@ -1,0 +1,25 @@
+# ep14 s21_a  duration=9s  seed=1393074431
+# input images: ['episodes/ep14/storyboard/s21.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up, 65mm, camera slightly below her eye line. Governor Xing is in the left third in three-quarter left profile, chin lifted, eyes raised toward the off-screen lens above right. Her right hand lies flat on her breast pocket, where the folded paper tape sits. Hard red top light from above catches her cheekbones. Behind her, tiered rows of consoles glow cyan in soft depth. Out-of-focus in the right foreground is the glowing corner of a console screen. Her expression is composed and set. Blocking lock: Xing stays in the left third with her face in the middle band, eyes up and right; her hand never leaves the pocket; the consoles stay behind her and darken from far to near.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+Xing answers MOSS word by word, 'I will not sign. This network has saved lives,' and MOSS replies, 'Governor authority suspended,' as the consoles behind her go dark.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, MCU, 65mm, slightly low. A slow arc of about 20 degrees clockwise around her, steady for the whole 9 seconds. It starts in three-quarter profile and ends near-frontal three-quarter, with the dark hall opening behind her.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xing stays in the left third with her face in the middle band, eyes up and right; her hand never leaves the pocket; the consoles stay behind her and darken from far to near. Start: In profile, Xing says '我不签。' with the background consoles still lit cyan. Middle: As the arc brings her face toward us she says '这张网救过人。' The far rows of consoles blink out one after another. End: MOSS answers '总督权限，已暂停。' The nearest console dies, and the frame lands on her near-frontal face lit only red against black. Mood: defiant, quiet, cornered. Blur: Her eyes are crisp at a shallow stop. The consoles behind are soft points that vanish, and the foreground screen corner is a soft cyan blur that also goes dark. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 我不签。这张网救过人。</d>; MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 总督权限，已暂停。</d>; Final line of this shot: end on “督权限，已暂停。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Electronic prompt tones, one soft descending click per console as it shuts off, and the hum thinning. MOSS's voice is close and dry; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

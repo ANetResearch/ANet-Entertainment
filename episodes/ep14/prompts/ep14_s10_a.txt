@@ -1,0 +1,25 @@
+# ep14 s10_a  duration=9s  seed=2084441079
+# input images: ['episodes/ep14/storyboard/s10.png', 'refs/characters/xiaoman.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm macro, level with the robot's screen. The black square screen fills the band, thick with dust that glows in a raking warm lamp light from the back-left. In the foreground, the soft out-of-focus edge of yellow chipped casing frames the left. The tip of a red paint marker in Xiaoman's fingers touches the glass, beginning a curved red stroke. Dimly reflected in the black glass, Xiaoman's face hovers in soft focus. Blocking lock: the screen stays parallel to the lens, filling the frame band. The drawing builds at frame centre. Xiaoman's hand enters from the right and his reflection stays in the upper-middle of the glass.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+With a red marker, Xiaoman draws a smiling face inside a speech bubble on the dusty black screen, wipes the edge with his sleeve and says: '给你起个名儿，叫螺丝。'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro, 100mm, screen level. One move: a slow lateral slider move left to right following the marker tip. It starts on the first stroke and ends with the finished bubble-and-smile centred, with his reflection readable above it.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the screen stays parallel to the lens, filling the frame band. The drawing builds at frame centre. Xiaoman's hand enters from the right and his reflection stays in the upper-middle of the glass. Start: The marker tip squeaks along the glass, tracing a red bubble outline through the dust. Middle: The camera glides with the pen as he adds the smile. Dust particles drift through the warm beam. End: His sleeve wipes the edge of the bubble. The camera settles on the completed drawing, and his reflected face in the black glass speaks the line, his mouth softly visible. Mood: Tender, playful, a small birth. Blur: Extremely shallow depth of field. The pen tip and red lines are crisp and the dust sparkles in the plane of focus. The casing edge is heavily blurred and the reflection gently soft. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 给你起个名儿，叫螺丝。</d>; Final line of this shot: end on “个名儿，叫螺丝。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Squeak of marker on glass, a soft sleeve wipe, Xiaoman's quiet breath, faint lamp buzz; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

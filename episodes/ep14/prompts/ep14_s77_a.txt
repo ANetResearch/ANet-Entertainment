@@ -1,0 +1,23 @@
+# ep14 s77_a  duration=10s  seed=1748652382
+# input images: ['episodes/ep14/storyboard/s77.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up, 50mm, chest height, camera hugging the corridor wall and looking down its length. In the foreground, one thermal receipt strip hangs out of focus, glowing amber because a tungsten wall lamp behind it shines through the paper; its barcode rows are faintly visible. Beyond it, thousands of pinned strips recede along the concrete wall in soft overlapping layers, stirring in the vent draught. Deep in the cyan-grey corridor stand small, dark figures of people before the wall. Warm lamp pools alternate with shadow, and light haze drifts through the beams. Blocking lock: the strip wall runs along frame-left the whole time; people stand quietly in the corridor at mid-depth; the child and the small robot wait frame-right of centre at the destination; nobody crosses the lens.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+Moving slowly down a corridor wall covered in thousands of receipt strips stirring in the vent air, we arrive at a child touching one strip beside a small maintenance robot.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close foreground into medium, 50mm, chest height. Slow forward tracking along the wall at walking-pace-and-a-half slower than a stroll, with the strips passing as foreground parallax. It starts on the backlit strip in the foreground and ends on a medium two-shot of the child and the robot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the strip wall runs along frame-left the whole time; people stand quietly in the corridor at mid-depth; the child and the small robot wait frame-right of centre at the destination; nobody crosses the lens. Start: The glowing foreground strip flutters and slides out of frame-left as the camera begins to move; layers of strips pass by in soft focus. Middle: Silent adults pass in profile, some reading strips, their warm-lit faces drifting by as the corridor opens ahead. End: The camera eases to a stop. The child reaches up and touches a single strip with a fingertip; the little robot stands still beside the child. The paper glows warm against the cool corridor. Mood: hushed, communal, tender. Blur: Shallow focus at the start, with only the foreground strip's grain readable. Focus follows smoothly ahead and lands crisp on the child's hand and the strip; the background wall stays soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Rustling of thousands of paper strips, a soft ventilation draught, low murmured conversation, distant footsteps; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,25 @@
+# ep14 s58_c  duration=8s  seed=1141767114
+# input images: ['episodes/ep14/storyboard/s58.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm macro on a slider, level with the robot's cracked screen in total darkness. Foreground: soft falling dust streaks. Subject left of centre: the square screen, a crack across it, the red speech-bubble smiley with its left half dead black and the right half flickering red and white. Its light glows on scratched yellow paint at the bezel. Frame right is black, with the base of the antenna mast faintly lit. Above, the underside of the slab is barely visible. The dust is lit as a red curtain. Blocking lock: screen left of centre, crack diagonal; the antenna mast rises from the right of the screen; the slab is a dark mass at the top of frame; the dead half of the smiley is on the left.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+Half of the smiley on Luosi's screen has gone dark, the other half flickers; the antenna is still raised as dust keeps falling.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro close-up, 100mm, level. Slow lateral slider move left to right (about 15 cm in 8 seconds). It starts on the half-dead smiley and ends on the antenna rising vertically in the frame-right third, with the flickering screen soft at left. The cracked screen with the smiley stays inside the frame for the whole shot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: screen left of centre, crack diagonal; the antenna mast rises from the right of the screen; the slab is a dark mass at the top of frame; the dead half of the smiley is on the left. Start: The half-dead face flickers, its pixels sputtering, dust falling across it. Middle: The slider drifts right past the crack and the yellow bezel to the antenna base. A dull thud shakes down more dust. End: The antenna stands upright and still, lit by stuttering red light, the screen a soft pulsing glow at the left edge. Mood: fading, defiant, fragile. Blur: Wafer-thin depth of field at T2.8 macro. The screen pixels are crisp, then focus slides to the antenna. Falling dust is out of focus in the foreground. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Crackle of electrical arcing, a dull heavy thud of the slab settling, a dust hiss, a weak servo hum; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

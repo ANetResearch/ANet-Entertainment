@@ -1,0 +1,23 @@
+# ep14 s70_a  duration=9s  seed=648076532
+# input images: ['episodes/ep14/storyboard/s70.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 40mm, camera low on the frozen sea. Foreground: a soft black ridge of pressure ice along the bottom edge, with a tiny transport truck and two tiny standing figures silhouetted on it at frame-left. Midground and right: the colossal tilted steering engine rises from the ice like a leaning mountain, its nozzle firing a thick blue-white beam diagonally up toward the upper left. There Jupiter's orange-red bands fill the sky. The beam bleaches the ice plain white, and haze glows along its length. Blocking lock: tiny truck and figures on the foreground ridge at frame-left; engine mass in the right two-thirds; beam on a diagonal from the right base to the upper left; Jupiter fills the upper left.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+On the frozen sea, the colossal tilted steering engine fires its blue beam at full power toward Jupiter, bleaching the ice white.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 40mm, low on the ice; locked-off tableau with no movement, letting the beam's force and the light shifts carry the shot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: tiny truck and figures on the foreground ridge at frame-left; engine mass in the right two-thirds; beam on a diagonal from the right base to the upper left; Jupiter fills the upper left. Start: The engine fires; the blue column thickens and stabilises, light racing across the ice toward the camera. Middle: The ice plain flares from grey to bleached white; snow dust lifts off the ridge in the blast. End: Held: the beam steady and full, the tiny figures unmoving against it, Jupiter's orange face overhead. Final composition unchanged and monumental. Mood: colossal, defiant, overwhelming. Blur: Deep focus: figures, engine and Jupiter all readable; the foreground ridge only slightly soft; haze gives the light its volume. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Tearing, roaring thunder of the engine; wind-blown snow hissing across the ice; deep sub-bass vibration; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

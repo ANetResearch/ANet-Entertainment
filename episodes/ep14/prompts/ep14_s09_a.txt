@@ -1,0 +1,25 @@
+# ep14 s09_a  duration=8s  seed=780357753
+# input images: ['episodes/ep14/storyboard/s09.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close low shot, 27mm, camera on the floor, looking into the dark gap under a sagging metal shelf. In the foreground, out-of-focus scraps of wire and a coil of cable lie on the concrete. In the gap sits a knee-high tracked maintenance robot with chipped yellow paint. Its square screen is switched off, completely black and blank, and coated in dust. Xiaoman's thin hands grip its frame from above-right as he bends double. The warm desk lamp deep behind backlights a haze of dust. Blocking lock: the robot travels straight toward camera along the floor axis. Xiaoman stays right of it, bent over and then crouching. The screen stays black and blank throughout. The warm lamp remains in the deep background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+Bent double, Xiaoman drags a chipped yellow tracked robot out from under a shelf and brushes the dust off it; its screen stays dark.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close to medium, 27mm, floor height. One move: a slow pull-back on a floor slider at the robot's pace. It starts tight on the robot in the shelf gap and ends with a low medium of the robot left of centre and Xiaoman crouched at right in the cramped corner.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the robot travels straight toward camera along the floor axis. Xiaoman stays right of it, bent over and then crouching. The screen stays black and blank throughout. The warm lamp remains in the deep background. Start: Xiaoman's hands seize the robot and he hauls. Its tracks scrape forward out of the shadow. Middle: The camera retreats with it as the robot emerges, and Xiaoman's bent figure enters fully, coughing. End: He crouches and slaps the dust off the yellow casing. A cloud hangs glowing in the lamp's backlight. The final frame holds the dark blank screen facing camera, with the shelves towering behind. Mood: Dusty, curious, quietly hopeful. Blur: Moderate depth of field with the robot crisp throughout. Foreground debris is soft, Xiaoman is sharp by the end, and the lamp blooms in the background haze. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Harsh metal scraping on concrete, rattling tracks, coughing, dust settling, a faint lamp buzz; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

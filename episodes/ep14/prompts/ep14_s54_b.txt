@@ -1,0 +1,25 @@
+# ep14 s54_b  duration=9s  seed=1697442266
+# input images: ['episodes/ep14/storyboard/s54.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Tight shot inside the collapsed shaft, 65mm, camera low and level with the robot's treads. Foreground left: an out-of-focus jagged concrete edge in near-black. Subject: the lower body of the small yellow robot wedged between two grey slabs, treads jammed against debris, filling the centre of the 2.39 band. Its unseen screen throws a red-white glow upward that lights falling dust as glittering specks. The background is total black beyond the slabs. The air is thick with dust hanging in the glow. Blocking lock: robot wedged at frame centre between a lower slab and an upper slab; the antenna rises vertically along the centre line; the screen faces camera-right three-quarter; the smiley logo shape is reproduced exactly.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+Wedged between two slabs, Luosi raises its antenna segment by segment while the slab above sinks and a crack splits its screen; the smiley stays lit.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Tight shot, 65mm, low level angle. One slow tilt up (about 6 seconds of travel) following the antenna. It starts on the jammed treads and debris and ends on the antenna tip touching the sinking upper slab, with the cracked glowing screen in the lower third.; pacing: natural speed, a single continuous take with no cut. Blocking lock: robot wedged at frame centre between a lower slab and an upper slab; the antenna rises vertically along the centre line; the screen faces camera-right three-quarter; the smiley logo shape is reproduced exactly. Start: The jammed treads twitch against the rubble, motor straining. The first antenna segment slides up out of frame. Middle: The tilt rises with each extending segment and passes the screen as a thin crack runs across it. The red-bubble white-smile face stays lit. End: The frame lands on the antenna tip pressed to the descending slab underside. Dust pours down through the red glow, and the cracked smiley sits in the lower third. Mood: straining, claustrophobic, stubborn. Blur: Shallow focus at T2. Focus follows the rising antenna, and the screen and crack are crisp as they pass. The foreground concrete edge stays soft. The black background has no detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Deep groan of loading concrete, a high-pitched struggling servo whine, telescoping metal clicks, a fine hiss of falling dust; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,25 @@
+# ep14 s22_a  duration=9s  seed=731083842
+# input images: ['episodes/ep14/storyboard/s22.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot, 27mm, camera at waist height, side-on. Out-of-focus scaffold poles and hanging cables cross the foreground. In the middle ground, improvised scaffold racks hold dozens of mismatched salvaged servers with rows of small green and amber LEDs, filling the central band. One bare tungsten work lamp hangs high left, and haze drifts in its cone. From the right edge, the first boxy grey tracked security unit noses in, its single red sensor eye sweeping across the rack faces. The rest of the pump-station hall is deep black. Blocking lock: the racks run horizontally across the central band; the security units enter from frame right and travel left along the aisle in front of the racks; the work lamp stays high left.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+Grey automated security units roll into the secret hub one by one, red eyes sweeping the racks, and the rack lights die row by row.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide, 27mm, waist height. A slow lateral track right to left on a dolly, matching the units' crawl, with scaffold poles giving foreground parallax. It starts with the racks fully lit and ends on a dark aisle.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the racks run horizontally across the central band; the security units enter from frame right and travel left along the aisle in front of the racks; the work lamp stays high left. Start: Track starts and the first unit enters, its red eye sweeping. The green LED rows are fully alive. Middle: A second and third unit follow. Each row the red beam touches goes dark with a click, and the darkness spreads leftward. End: The camera lands at the end of the aisle. The frame is nearly black: three red sensor eyes and a last few green points that blink out, leaving the lone tungsten bulb. Mood: methodical, invasive, extinguishing. Blur: The security units and rack faces are crisp at a medium stop. The foreground poles are soft streaks, and each LED is a sharp point. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+The grind of tracks on concrete, relay clicks as the power cuts, fans spinning down, and the buzz of the work lamp; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

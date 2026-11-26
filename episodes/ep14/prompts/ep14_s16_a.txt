@@ -1,0 +1,25 @@
+# ep14 s16_a  duration=10s  seed=1892426806
+# input images: ['episodes/ep14/storyboard/s16.png', 'refs/characters/amu.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up, 85mm, camera at seated eye level. Amu sits at the right third of the frame, leaning forward, hands clasped low at the bottom of the band, orange-grey coverall. His face is turned slightly left toward the off-camera interviewer: short messy black hair, thin old scar through his left eyebrow, calm eyes. A single soft key from the left wraps his face, and his far cheek falls into shadow. The left two-thirds is deep negative space with out-of-focus pipes and a faint warm practical glow, fading to black. Blocking lock: Amu at the right third, eyeline to the left of the lens, hands clasped at the bottom of the frame, key from the left, negative space at left; keep this exact setup for all Amu interviews.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+Amu, leaning forward with clasped hands, calmly tells the interviewer: '它们不问上面。它们互相问：谁会修？谁在附近？我来。' and gives a slight nod at the end.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close-up, 85mm, seated eye level, locked composition with one almost imperceptible push-in over 10 seconds, ending slightly tighter on his face.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at the right third, eyeline to the left of the lens, hands clasped at the bottom of the frame, key from the left, negative space at left; keep this exact setup for all Amu interviews. Start: Amu settles forward, gathers the thought and begins: '它们不问上面。' Middle: He lists the questions evenly, eyes steady, with small movements of his clasped hands. End: '我来.' A slight nod and stillness; the frame lands on a tighter close-up with deep dark space at left. Mood: calm, grounded, quietly proud. Blur: Amu's eyes crisp; shallow depth of field; pipes and practical glow melt into soft dark bokeh. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 它们不问上面。它们互相问：谁会修？谁在附近？我来。</d>; Final line of this shot: end on “谁在附近？我来。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone, faint ventilation hum, chair creak when he leans; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

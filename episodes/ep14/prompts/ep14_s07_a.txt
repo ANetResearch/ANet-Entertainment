@@ -1,0 +1,25 @@
+# ep14 s07_a  duration=11s  seed=2072306988
+# input images: ['episodes/ep14/storyboard/s07.png', 'refs/characters/boye.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up, 85mm, eye level. Old Boye sits on a plain metal chair placed on the right third of frame, with deep dark negative space to the left. A single soft key from camera-left models his grey-white beard and thinning grey hair, and the shadow side falls into black. He wears a navy quilted jacket and a stained apron. He holds his black-framed glasses, the bridge wrapped in tape, in both hands at chest height, looking down at them. Out-of-focus pipes and a dim steel door sink into darkness behind him. Blocking lock: Boye stays on the right third with the key from the left. His eyeline goes to the interviewer just camera-left of the lens. Negative space stays on the left. This setup is fixed for all Boye interviews.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In the 2078 interview, Boye studies his taped glasses, slowly puts them on, looks up and says: '五八年，我们把网接了回来，又把钥匙全交给了一台机器。'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 11.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close-up, 85mm, eye level. One move: an almost imperceptible slow push-in over 11 seconds. It starts at a medium close-up including his hands and the glasses and ends at a close-up of his face with his eyes on the upper third.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye stays on the right third with the key from the left. His eyeline goes to the interviewer just camera-left of the lens. Negative space stays on the left. This setup is fixed for all Boye interviews. Start: Boye looks down at the taped glasses turning slightly in his fingers, in silence. Middle: He unfolds them and slowly puts them on. The key light catches the lenses. End: He lifts his head toward the interviewer and speaks the line slowly. The frame settles on a close-up: face on the right third, darkness on the left, a glint in the glasses. Mood: Reflective, regretful, measured. Blur: Shallow depth of field. His eyes and glasses are crisp. The background pipes and door are fully defocused into soft dark shapes. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 五八年，我们把网接了回来，又把钥匙全交给了一台机器。</d>; Final line of this shot: end on “交给了一台机器。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone, a faint creak of the metal chair, the soft click of the glasses' arms; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

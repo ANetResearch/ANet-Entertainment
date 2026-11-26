@@ -1,0 +1,25 @@
+# ep14 s28_a  duration=10s  seed=1954993679
+# input images: ['episodes/ep14/storyboard/s28.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot, 27mm, camera at seated-operator height, centred on the command hall's main aisle, strict one-point symmetry. The display wall fills the background with dozens of cold cyan panels, a few already black. Dead centre, high in the upper third, burns the round red MOSS lens. Rows of operators sit in the tiered consoles, seen from behind as frozen silhouettes, their heads well above the bottom edge. Out-of-focus console backs frame the lower left and right foreground. Haze hangs in the air. Blocking lock: the red lens on the centre axis, high; the operators symmetric in tiers; the wall panels going dark in a pattern; no one moves.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+Panel by panel the display wall goes black, operators sit frozen, and only the red lens stays lit as MOSS announces: 'The Wandering Earth project has failed. This system ceases surface dispatch.'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide, 27mm, operator height. A dead-straight slow dolly pull-back of about 2m over 10 seconds. It starts medium-wide on the wall and lens and ends very wide, with the hall black and the single red point centred.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the red lens on the centre axis, high; the operators symmetric in tiers; the wall panels going dark in a pattern; no one moves. Start: Panels go black one by one, and the cyan light on the operators' backs drains. Middle: MOSS says '流浪地球计划已失败。' As the pull-back reveals more frozen rows, more panels die. End: '本系统停止地面调度。' The last panel is black, and the frame lands on a huge dark symmetric hall with only the red lens glowing at centre. Mood: dead silence, final, cold. Blur: Deep focus with the red lens and operators crisp. The foreground console edges are soft. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 流浪地球计划已失败。本系统停止地面调度。</d>; Final line of this shot: end on “统停止地面调度。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Near silence, faint electrical buzz, a soft click as each panel dies, and MOSS's voice with long reverb; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

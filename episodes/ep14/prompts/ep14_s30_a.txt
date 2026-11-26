@@ -1,0 +1,23 @@
+# ep14 s30_a  duration=8s  seed=1011241230
+# input images: ['episodes/ep14/storyboard/s30.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide top-down view, 32mm, camera at the uppermost railing looking straight down a colossal vertical shaft. Concentric tiers of stacked steel cabins ring the frame and recede to a small dark well at centre. Hundreds of warm tungsten and sodium-orange windows still glow in irregular bands. Thin haze drifts upward and catches the light. On a lit walkway in the lower right ring stand three or four tiny human silhouettes, heads tilted up. Cables and pipes cut black diagonals across the rings. Outside the lit bands the blacks are absolute. Blocking lock: shaft centre exactly at frame centre, tiers as concentric rings; the tiny figures stay on the lower-right walkway; the last surviving clusters sit just below centre; the composition must match s36 exactly.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+Seen from high above, the lights of the underground city's shaft die district by district until it is almost completely dark.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide top-down, 32mm, vertical overhead from the top railing; locked-off with no movement, the stillness making each blackout read clearly.; pacing: natural speed, a single continuous take with no cut. Blocking lock: shaft centre exactly at frame centre, tiers as concentric rings; the tiny figures stay on the lower-right walkway; the last surviving clusters sit just below centre; the composition must match s36 exactly. Start: The rings are mostly lit. The outermost upper ring goes dark in one block, then the ring opposite it. Middle: Darkness steps inward ring by ring. The walkway under the tiny figures goes out and they vanish. Haze loses its glow and turns grey-black. End: Only two or three small warm clusters flicker near the bottom of the well inside an almost entirely black frame. The last one dims to an ember. Mood: vast, hollow, irreversible. Blur: Deep focus at f/5.6, rings sharp from top to bottom; haze softens only the farthest depths. The light points stay crisp pin-sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Hollow wind rising up the shaft, heavy relay clunks as each district cuts out, distant overlapping shouts fading downward; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,25 @@
+# ep14 s55_a  duration=9s  seed=399935267
+# input images: ['episodes/ep14/storyboard/s55.png', 'refs/props/prop_node.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot, 85mm, camera at chest height, slightly low, on the gloved hands of Amu holding a dented steel ammunition-tin node box. The box fills the lower-left foreground in sharp focus, its row of small LEDs dark except one green point. Behind and above, frame right, Amu's bowed head is soft: short messy black hair, light stubble, breath vapour. Orange Jupiter light backlights his hair and the blowing snow. His face is in cool shadow. The ice plain beyond is a dark orange-grey blur. Blocking lock: node box lower left in the foreground; Amu's head upper right, behind; Jupiter backlight from behind him at frame right; snow blows left to right.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+The lamps on Amu's node box come back on, green, one after another; he snaps his head up and shouts that the link is through and Luosi has made itself a relay.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close shot, 85mm, slightly low. Locked frame with a single rack focus. Focus starts on the LEDs and racks to Amu's face as he looks up, ending on him sharp with the green dots as soft bokeh in the foreground.; pacing: natural speed, a single continuous take with no cut. Blocking lock: node box lower left in the foreground; Amu's head upper right, behind; Jupiter backlight from behind him at frame right; snow blows left to right. Start: The green LEDs blink on one by one across the box, each with a short beep, while Amu's head stays bowed and soft. Middle: As the last lamp lights, Amu's head jerks up. Focus racks to his face as the orange rim catches his scar and wet eyes. End: Amu shouts, mouth fully visible, eyes past camera-left toward the rubble. The green LEDs glow as soft out-of-focus points at lower left. Mood: sudden hope, urgent. Blur: T1.8 with very shallow depth of field. LEDs crisp at the start; rack focus over about 1 second to Amu's eyes. Snowflakes pass as soft streaks. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 通了！螺丝把自己架成了中继！</d>; Final line of this shot: end on “自己架成了中继！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+A rapid ascending chain of electronic beeps, gusting wind, Amu's shout cracking in the cold; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

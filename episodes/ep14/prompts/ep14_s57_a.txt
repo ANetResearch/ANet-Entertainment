@@ -1,0 +1,25 @@
+# ep14 s57_a  duration=9s  seed=1236102248
+# input images: ['episodes/ep14/storyboard/s57.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 40mm, camera inside the black gap at ground level, looking out and slightly up at Xiaoman. Foreground: out-of-focus jagged concrete edges top and bottom, framing a wide horizontal slot. In the slot, centre-right, Xiaoman kneels: a tall thin 19-year-old with messy overgrown black hair and pale skin, both palms pressed on the slab, leaning in. The orange Jupiter sky behind him rims his hair and shoulders. His face is lit only faintly red by the robot glow from inside. Breath vapour and blown snow drift around him. Blocking lock: camera inside the gap; Xiaoman kneels centre-right in the slot between slab edges, facing camera; hands on the slab at the lower frame; Jupiter backlight behind him.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Xiaoman kneels at the gap with both hands on the concrete and screams into the dark for Luosi to hold on, his voice breaking.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, 40mm, ground level, looking slightly up. Slow dolly push-in (about 20 cm over 9 seconds) through the gap. It starts as a medium shot inside the concrete slot and ends as a medium close-up with his face filling the slot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: camera inside the gap; Xiaoman kneels centre-right in the slot between slab edges, facing camera; hands on the slab at the lower frame; Jupiter backlight behind him. Start: Xiaoman's hands brace on the slab. He leans into the darkness, breath fogging. Middle: He screams the line, mouth wide and visible, voice splitting. Concrete cracks somewhere and grit falls past the foreground. End: Medium close-up: his tear-wet face framed between the dark slab edges, eyes searching the black toward camera, orange rim on his hair. Mood: anguished, pleading, helpless. Blur: Xiaoman's eyes crisp at T2. Foreground slab edges fully soft and dark. The orange sky behind him is a soft glow. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 撑住！螺丝！再撑一会儿！</d>; Final line of this shot: end on “丝！再撑一会儿！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Cracking concrete, wind, his raw voice echoing into the narrow cavity, falling pebbles; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

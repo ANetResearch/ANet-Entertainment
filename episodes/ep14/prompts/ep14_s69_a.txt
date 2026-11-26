@@ -1,0 +1,23 @@
+# ep14 s69_a  duration=8s  seed=330651070
+# input images: ['episodes/ep14/storyboard/s69.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro profile two-shot, 100mm macro, camera level with a frozen valve wheel. A gloved human hand enters from frame-left and a steel robot manipulator claw from frame-right, both gripping the same rim of an ice-crusted valve wheel, meeting near frame centre. A soft out-of-focus pipe edge crosses the extreme foreground. Behind them, hard blue-white engine light floods through haze, backlighting the glove's fibres and the claw's edges, turning frost into a bright halo. Deep black falls on the near side of both. Blocking lock: hand from frame-left and claw from frame-right in strict profile, both on the upper rim of the wheel, meeting at centre; backlight directly behind; matches every earlier hand-and-claw shot.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+A gloved human hand and a steel robot claw grip the same frozen valve wheel and strain together until the frost cracks and the wheel turns.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro profile two-shot, 100mm macro, level; one very slow slider push-in, from hand, claw and the wheel rim to an extreme close-up where knuckle and claw tip nearly touch on the ice.; pacing: natural speed, a single continuous take with no cut. Blocking lock: hand from frame-left and claw from frame-right in strict profile, both on the upper rim of the wheel, meeting at centre; backlight directly behind; matches every earlier hand-and-claw shot. Start: Both hold still on the iced rim, glove tightening, claw joints locking, breath vapour drifting through the backlight. Middle: They strain together; fine cracks spider through the frost and the first shards spring off, glittering in the blue-white light. End: The ice gives with a crack and the wheel turns a quarter, frost showering down. Final frame: glove and claw side by side, almost touching, rim-lit against the glare. Mood: tense, intimate, together. Blur: Wafer-thin focus held on the point where glove and claw meet the rim; the foreground pipe and background are soft blue-white; ice shards sparkle as bokeh. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Creak of strained metal, sharp crackle of breaking ice, a heavy grinding turn of the valve, deep engine rumble underneath; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

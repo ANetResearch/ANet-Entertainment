@@ -1,0 +1,25 @@
+# ep14 s47_a  duration=10s  seed=421150543
+# input images: ['episodes/ep14/storyboard/s47.png', 'refs/characters/jin.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 85mm, camera at seated eye level. Boss Jin sits on a plain metal chair in the right third of the frame, body angled slightly left, a walking cane laid across his knees, both hands resting on it. A soft key from frame left falls on his weathered face and frost-grey beard; the right side of his face sinks into shadow. His eyes are red-rimmed and wet, looking past the lens to the left. The left two-thirds is dark negative space: out-of-focus pipes and concrete dissolving into black. Blocking lock: Jin is fixed in the right third, his eyes on the upper-middle line; negative space on the left; the cane horizontal at the lower edge; this setup is Jin's for the whole film.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In the 2078 interview, Boss Jin, cane across his knees, says slowly '十二台车出去，八台到。老秦没到。' and then wipes his face with his hand.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, 85mm, eye level; one almost imperceptible slow push-in over 10 seconds, from a medium shot with the cane visible to a medium close where the cane just leaves the bottom edge.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Jin is fixed in the right third, his eyes on the upper-middle line; negative space on the left; the cane horizontal at the lower edge; this setup is Jin's for the whole film. Start: Jin sits in silence, eyes wet, gaze resting past the lens; his hands are still on the cane. Middle: He speaks the line slowly, with a pause before the last sentence, his mouth clear in the soft key. End: He lifts one hand and drags it down over his face; the frame lands in medium close, his hand lowering, eyes still off to the left in the dark. Mood: Grief, restraint, plain truth. Blur: Shallow T2; Jin's eyes crisp; the cane falls slightly soft as we push; the background pipes are diffuse shapes melting into black. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 十二台车出去，八台到。老秦没到。</d>; Final line of this shot: end on “台到。老秦没到。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone, a faint ventilation hum, the creak of the metal chair, his breath catching; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

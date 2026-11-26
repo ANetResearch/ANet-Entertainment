@@ -1,0 +1,25 @@
+# ep14 s38_a  duration=9s  seed=1798113615
+# input images: ['episodes/ep14/storyboard/s38.png', 'refs/props/prop_node.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up, 40mm, camera at console height. On the dark main console in frame centre sits a dented ammo-tin node box with a red-and-white smiley sticker, its small LED green. Xiaoman's thin hands enter from frame left holding a cable plug, warm from a flashlight laid on the console. Behind, soft and symmetric, the vast black command hall recedes in rows of dead consoles. Far up at the centre vanishing point, the red ceiling lens glows constant. Cold blackness, haze. Blocking lock: the node box on the centre line of the console; Xiaoman frame left, Xing standing frame right of centre; the red lens stays on the hall's centre axis above and behind them.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the dark command hall, Xiaoman sets the smiley node box on the main console and plugs it in as Governor Xing orders: "接进来。全城的眼睛，都接进来。" under the silent red lens.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up to medium close-up, 40mm, starting at console height; one slow tilt up with a slight rise from the node box to Xing's face.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the node box on the centre line of the console; Xiaoman frame left, Xing standing frame right of centre; the red lens stays on the hall's centre axis above and behind them. Start: Xiaoman's hands push the plug home with a click. The green LED flickers. Middle: The camera tilts up past Xiaoman's lit shoulder to Xing, standing upright. She points down at the console and gives the order, her mouth clear. End: Xing is in medium close-up at frame right of centre, her face warm from below. The red lens is a small cold point in the black far behind her head on the centre axis. Mood: decisive, defiant, charged. Blur: Box and plug crisp at the start, focus following to Xing; the hall and red lens remain soft points, f/2.8. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 接进来。全城的眼睛，都接进来。</d>; Final line of this shot: end on “眼睛，都接进来。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+The plug's sharp click, footsteps on the steel floor, a low electrical hum starting; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

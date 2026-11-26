@@ -1,0 +1,23 @@
+# ep14 s75_a  duration=8s  seed=1449124056
+# input images: ['episodes/ep14/storyboard/s75.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme close-up, 100mm macro, camera dead level with the MOSS lens, perfectly centred and symmetric. The round black glass fills the middle of the wide frame, ringed by a thin brushed-steel bezel that fades out of focus at the left and right edges. At the centre glows the steady red iris. Curved across the lower half of the glass lies a small reflection of Amu, seen from the front, standing in the warm speckle of the dot map. Above and around him, the reflected hall is near-black. A faint red halo blooms into the surrounding darkness. Blocking lock: the red iris stays fixed at frame centre; Amu's reflection sits just below and left of centre, curved by the glass; the bezel frames both sides symmetrically; the red light never changes intensity.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the red lens's black glass, Amu's reflection turns and walks away, growing smaller, while the lens itself does not change.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme close-up, 100mm macro, eye-level and frontal. Locked-off, no movement; the start and end framing are identical.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the red iris stays fixed at frame centre; Amu's reflection sits just below and left of centre, curved by the glass; the bezel frames both sides symmetrically; the red light never changes intensity. Start: The reflection of Amu faces the lens for a beat, small and warm against the black glass. Middle: He turns his back and begins walking; his reflected figure shrinks and drifts toward the curved centre of the glass. End: He becomes a tiny warm speck and dissolves into the reflected darkness. Only the unchanging red iris remains in the dead-centre composition. Mood: silent, cold, unresolved. Blur: Focus is set on the glass surface and iris, which stay crisp; the reflection is readable but slightly soft; the bezel falls off to blur at the frame edges. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A faint electrical whine from the terminal, distant footsteps fading in the hall, then only the hum; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

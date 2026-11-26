@@ -1,0 +1,25 @@
+# ep14 s19_a  duration=8s  seed=1395459033
+# input images: ['episodes/ep14/storyboard/s19.png', 'refs/locations/loc_jupiter.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 150mm long lens, camera 1.5m above the ice plain, level. The planetary engine is a black mountain just right of centre in the lower half, its blue-white plasma beam a thin vertical thread rising out of frame. Behind it the upper limb of Jupiter fills the upper half, orange-red bands with the Great Red Spot to the left. At the engine's foot, lower left third, two tiny warm headlights of a parked transport truck. Soft out-of-focus ice dust streams across the foreground. The ice is orange. Blocking lock: engine mass right of centre in the lower half; beam vertical, right of centre; Jupiter behind, rising across the upper half; truck headlights fixed at lower left at the engine's base. Horizon stays on the lower third.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Jupiter rises behind the planetary engine until it owns half the sky, and the blue beam looks thin and fragile against it.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 150mm, eye-level from the ice. Locked-off tableau on a heavy tripod with a faint wind tremor. No move: the framing at the end is the same as at the start, and Jupiter's rise is the only motion.; pacing: natural speed, a single continuous take with no cut. Blocking lock: engine mass right of centre in the lower half; beam vertical, right of centre; Jupiter behind, rising across the upper half; truck headlights fixed at lower left at the engine's base. Horizon stays on the lower third. Start: Jupiter's limb sits just above the engine's shoulders. Ice dust blows left to right through the foreground, and the beam burns steady. Middle: The bands climb imperceptibly and the Red Spot clears the engine's silhouette. The orange light on the ice deepens. End: Jupiter fills half the sky and the beam reads as a hairline in front of it. The truck headlights are two specks at the bottom of a monumental frame. Mood: dwarfed, ominous, silent dread. Blur: Deep focus from the engine to Jupiter, both crisp. The foreground ice dust is soft, and the truck headlights are sharp points. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Wind across the ice. A deep rumble that keeps dropping in pitch, felt more than heard; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

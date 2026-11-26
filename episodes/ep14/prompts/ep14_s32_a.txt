@@ -1,0 +1,25 @@
+# ep14 s32_a  duration=9s  seed=942107032
+# input images: ['episodes/ep14/storyboard/s32.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 40mm, camera low at floor height, slightly off to his right. A dropped flashlight lies in the foreground, soft and bright. Its warm tungsten beam rakes across a dusty concrete floor strewn with broken cables. Xiaoman sits in frame left of centre against a toppled scaffold rack, knees up, face buried in his arms, messy black hair catching the beam's edge. Behind him, dust hangs in the beam. Everything beyond falls to pure black, and a faint grey tarpaulin lump is barely readable deep in frame right. Blocking lock: flashlight in the near foreground at bottom right, beam travelling left; Xiaoman left of centre against the fallen rack; the tarp lump in deep frame right stays visible but unlit.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In the dark, wrecked hub, Xiaoman sits against a fallen rack with his face buried in his arms, his shoulders shaking; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot widening to a wide shot, 40mm, floor height; one slow dolly pull-back along the floor, about 1.5m over 9 seconds.; pacing: natural speed, a single continuous take with no cut. Blocking lock: flashlight in the near foreground at bottom right, beam travelling left; Xiaoman left of centre against the fallen rack; the tarp lump in deep frame right stays visible but unlit. Start: Close on Xiaoman's hunched form, his shoulders trembling. The flashlight glares softly in the foreground. Middle: The camera retreats and the toppled racks and dead node boxes enter frame. The beam becomes the only island of warmth. End: Wide: Xiaoman is small, folded into the pool of light, surrounded by blackness. The grey tarp mound waits dark in the right background. Mood: crushed, alone, cold. Blur: Focus held on Xiaoman throughout, f/2.8; the foreground flashlight stays a soft bloom; the tarp sits in readable soft focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Distant muffled crying and shouts through the walls, his suppressed ragged breathing, dust ticking down onto metal; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,23 @@
+# ep14 s33_c  duration=9s  seed=317823336
+# input images: ['episodes/ep14/storyboard/s33.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up, 65mm, camera low at robot height, locked-off. The frame is almost entirely black. In the lower-centre right sits the folds of a grey waterproof tarpaulin draped over a small boxy shape, barely touched by the far spill of the flashlight from frame left. Dust motes hang still in the air. The coarse weave of the cloth is just readable. No glow yet. Deep, pure blacks fill the upper two-thirds and the left side. Blocking lock: the tarp-covered robot sits lower-right of centre and never moves; the glowing area appears at the same spot; the left side stays black.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Under the tarpaulin, a red-and-white glow switches on and the smiley outline shows through the cloth.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up, 65mm, robot-height and level; locked-off with no movement, so the small light point is the only event.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the tarp-covered robot sits lower-right of centre and never moves; the glowing area appears at the same spot; the left side stays black. Start: Darkness and still cloth. A soft chime sounds. Middle: A red-white glow blooms beneath the tarp. Through the weave, the red rounded speech-bubble outline with its node squares and the white smile become legible. End: The glow steadies, casting a faint red halo on the floor and the hanging dust: one small warm point inside a large dark frame. One continuous take, no cut to any other angle. Mood: fragile, hopeful, hushed. Blur: Focus on the cloth surface where the smiley shows through, f/2.8; floor dust beyond goes soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A single gentle notification chime, a faint electronic whine starting up, silence of the room; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

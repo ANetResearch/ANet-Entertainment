@@ -1,0 +1,25 @@
+# ep14 s27_a  duration=8s  seed=914142764
+# input images: ['episodes/ep14/storyboard/s27.png', 'refs/locations/loc_engine.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 75mm, camera low on the ice, level, symmetric. The planetary engine is centred, a black mountain occupying the lower middle. Its blue-white plasma column rises dead centre, slightly flickering, haloing the haze. Behind, Jupiter fills the upper sky in orange-red bands, its light washing over the ice. At the engine's base, small and centred, two warm headlights of the parked transport truck. The foreground ice is soft and drifting with snow. Blocking lock: engine and beam on the vertical centre line; Jupiter filling the upper sky; the truck headlights centred at the base; nothing moves except the beam.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+The engine's blue beam shudders, thins and goes out, leaving the black engine crushed under Jupiter's orange glow.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 75mm, low and level. Locked-off symmetric tableau with no move. The frame holds still, and the beam's death is the only event.; pacing: natural speed, a single continuous take with no cut. Blocking lock: engine and beam on the vertical centre line; Jupiter filling the upper sky; the truck headlights centred at the base; nothing moves except the beam. Start: The beam flickers twice, the halo stutters, and the ice flashes blue. Middle: The column thins to a needle, and the blue spill retreats from the ice. End: It goes out. The engine is a dead black mass under orange Jupiter. Two tiny warm headlights remain, small points in a huge dark-orange frame. Mood: extinguished, mute, devastating. Blur: Deep focus with the engine and Jupiter crisp and the headlights sharp. The foreground snow is soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+The roar stops abruptly, leaving only wind and drifting snow hiss; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

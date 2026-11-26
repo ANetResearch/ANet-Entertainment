@@ -1,0 +1,25 @@
+# ep14 s48_a  duration=8s  seed=227715031
+# input images: ['episodes/ep14/storyboard/s48.png', 'refs/locations/loc_engine.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot, 40mm, locked off at low height on the ice plain, frame vibrating. Foreground: soft chunks of frosted debris at the lower edge. Centre-left: the base of the dead planetary engine, a dark wall of steel and concrete rising out of frame, its nozzle cold. At its foot, a thin steel relay mast stands beside a square shaft opening. Far right: a parked transport truck with blue-white headlights and two tiny figures beside it. Jupiter's orange light floods the sky and the ice; dust and ice haze hang in the air. Blocking lock: the engine wall fills the left two-thirds; the mast and shaft opening sit centre-left at its foot; the truck and two tiny figures stay far right, small; the horizon line is low.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+At the foot of the stopped engine, a relay mast snaps and falls as ice and concrete slide down and bury the shaft opening.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide, 40mm, low angle; locked-off tableau for 8 seconds, shaking only with the ground tremor.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the engine wall fills the left two-thirds; the mast and shaft opening sit centre-left at its foot; the truck and two tiny figures stay far right, small; the horizon line is low. Start: Ice dust trickles from the engine's flank; the mast sways against the orange sky. Middle: The mast buckles at its base and topples sideways; a sheet of ice and broken concrete slides down the engine wall. End: The avalanche buries the shaft opening in rubble and a rolling dust cloud; it settles to a dim orange haze, the tiny figures and truck still far right. Mood: Crushing, indifferent, catastrophic. Blur: Deep focus at T5.6; the engine base, mast and shaft crisp; the foreground debris soft; the dust cloud diffuses the background light. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A shriek of tearing steel, a thunderous roar of sliding ice and concrete, a deep ground rumble, the wind returning as the dust settles; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

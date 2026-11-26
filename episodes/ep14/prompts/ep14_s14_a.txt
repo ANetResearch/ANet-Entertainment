@@ -1,0 +1,25 @@
+# ep14 s14_a  duration=9s  seed=1951600953
+# input images: ['episodes/ep14/storyboard/s14.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up from the passenger seat, 40mm, eye level, slightly favouring the driver. The node tin with its smiley sticker sits large and soft in the lower-left foreground on the dashboard. Boss Jin is frame right: broad weathered face, frost-grey patches in his short beard, fur collar of a black suit, one gloved hand on the wheel. His eyes slide sideways toward the box in a scowl. Amber gauge light rises from below; through the windscreen behind him, snow streaks blue-white in the beam of the truck ahead. The cab is otherwise dark. Blocking lock: node tin lower-left foreground on the dashboard, Jin frame right facing forward with his eyes cutting left to the box, windscreen and snow behind him; his face stays in the middle band.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Boss Jin, one hand on the wheel, glares sideways at the smiley-stickered tin on the dashboard and grumbles '一个破铁盒子，能顶什么用？', then shakes his head.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close-up to close-up, 40mm, eye level from the passenger seat; one slow dolly push-in over 9 seconds, from the box plus Jin's upper body to Jin's face with the edge of the box soft at left.; pacing: natural speed, a single continuous take with no cut. Blocking lock: node tin lower-left foreground on the dashboard, Jin frame right facing forward with his eyes cutting left to the box, windscreen and snow behind him; his face stays in the middle band. Start: Jin drives, jaw set, the truck rocking; his eyes flick to the tin. Middle: He scowls at it and growls the line, mouth clearly visible in amber light. End: He shakes his head and looks back to the road; the push lands on a close-up of his weathered profile, the soft tin shape still at the left edge. Mood: gruff, sceptical, cramped. Blur: Jin crisp throughout; the node tin a soft foreground shape; snow beyond the windscreen soft streaks. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 一个破铁盒子，能顶什么用？</d>; Final line of this shot: end on “子，能顶什么用？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Heavy engine rumble through the cab, wind battering the glass, wipers thudding, rattle of loose metal; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

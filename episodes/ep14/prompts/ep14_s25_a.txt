@@ -1,0 +1,23 @@
+# ep14 s25_a  duration=8s  seed=337858612
+# input images: ['episodes/ep14/storyboard/s25.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 27mm, camera 1m above the empty ice plain, angled slightly up. The lower third is wind-scoured orange-lit ice with out-of-focus ice grit blowing past the lens. On the horizon, dead centre, the tiny black silhouette of the planetary engine and its thin blue beam. Above, already crowding the upper two-thirds, the lower bands of Jupiter in orange, rust and cream, immense and close. The sky between is a narrow dark strip, and a faint haze stream rises from the horizon. Blocking lock: the engine silhouette stays dead centre on the horizon; the atmosphere stream rises from the horizon toward the upper left; no people.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+From the empty ice plain, Jupiter fills the entire sky, and a thin stream of Earth's atmosphere is pulled toward it.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide, 27mm, low angle at 1m. A slow tilt up of about 25 degrees over 8 seconds with a faint ground tremor. It starts with horizon and engine in the lower third and ends with Jupiter filling the frame and the engine's tip at the bottom edge.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the engine silhouette stays dead centre on the horizon; the atmosphere stream rises from the horizon toward the upper left; no people. Start: Ice, a tiny engine and the beginning of Jupiter's bands. Grit streams past. Middle: The tilt rises through the narrow dark band of sky. A pale filament of atmosphere becomes visible, drawn upward in a curve. End: Jupiter fills the whole frame, bands and storms in orange-red. The atmosphere stream vanishes into it, and only the engine's beam tip pokes up from the bottom. Mood: overwhelming, cosmic, crushing. Blur: Deep focus with Jupiter and the engine crisp. The foreground grit is soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+An extremely low rumble like distant thunder, wind hiss, and the faint creak of ice; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

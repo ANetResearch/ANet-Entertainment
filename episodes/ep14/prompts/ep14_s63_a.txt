@@ -1,0 +1,23 @@
+# ep14 s63_a  duration=10s  seed=1790013061
+# input images: ['episodes/ep14/storyboard/s63.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm, slider level with a small battered field printer on a truck tailgate. Foreground: soft out-of-focus snow on the steel tailgate edge. Subject left: the printer's slot feeding a short curl of thermal paper. A warm tungsten work lamp behind the paper glows through it, showing rows of abstract barcode marks in silhouette. Background: soft blue-white engine light on snow and drifting ice crystals. Cold breath vapour hangs above. Blocking lock: printer at frame left, the tape curling rightward; the warm lamp behind the paper; the gloved hand enters from the top right; blue engine light in the background.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+The field printer on the tailgate prints a short strip of receipt tape stamped with a red mark, and a gloved hand tears it off and clenches it.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro close-up, 100mm. Slow lateral slider move left to right along the tape (about 10 cm in 10 seconds). It starts on the print head and emerging paper and ends on the red stamp and the gloved fist closing around the strip.; pacing: natural speed, a single continuous take with no cut. Blocking lock: printer at frame left, the tape curling rightward; the warm lamp behind the paper; the gloved hand enters from the top right; blue engine light in the background. Start: The print head clacks. Paper inches out, glowing warm from behind. Middle: The slider follows the strip to its end as the small red square stamp prints, bright through the backlit paper. End: A gloved hand tears the strip off and crushes it into a fist, warm light leaking through the glove fingers. The blue glow stays behind. Mood: intimate, quiet, earned. Blur: Very shallow macro at T2.8. The paper fibre and stamp are crisp. The background blue is soft bokeh. Focus follows the tape edge. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A clicking print head, a paper tear, the glove creaking, the distant low engine roar, wind; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

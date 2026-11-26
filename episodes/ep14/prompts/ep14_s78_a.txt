@@ -1,0 +1,23 @@
+# ep14 s78_a  duration=9s  seed=1605602522
+# input images: ['episodes/ep14/storyboard/s78.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 65mm, camera at seated eye level, side-on. In the foreground, out-of-focus shelf clutter of coiled wire and an old monitor edge blocks frame-left. Through the gap, Xiaoman bends over the workbench, his face lowered, holding a soldering iron inside the opened, dented yellow body of the robot; its cracked screen is black. Frame-right, Boye's arm and shoulder hold a tungsten work lamp low over the bench, casting a warm pool. A thin thread of solder smoke curls through the beam; the stall behind falls into near-black shelves. Blocking lock: the workbench runs horizontally across the lower-middle band; Xiaoman is seated left of centre behind the robot; the robot's dark cracked screen faces camera-right; Boye stands frame-right holding the lamp, his face partly above the beam; the lamp stays steady.
+<Subject 2> is Boye's electronics repair stall from <Picture 2>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+Under the warm lamp in the repair stall, Xiaoman solders wires inside Luosi's crushed body while Boye holds the lamp for him.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, 65mm, eye level of the seated Xiaoman. Slow lateral track right-to-left with foreground shelf parallax. It starts half-masked by the clutter and ends on a clean three-quarter view of Xiaoman's face with the robot body and Boye's lamp hand in frame.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the workbench runs horizontally across the lower-middle band; Xiaoman is seated left of centre behind the robot; the robot's dark cracked screen faces camera-right; Boye stands frame-right holding the lamp, his face partly above the beam; the lamp stays steady. Start: Foreground wire coils slide across; behind them the iron tip touches a joint and a puff of smoke rises in the beam. Middle: The clutter clears. Xiaoman's focused face appears, lit from below by the warm lamp; Boye shifts the lamp a little closer. End: The camera settles on Xiaoman in three-quarter view, eyes red-rimmed and steady, the dark cracked screen in the lower foreground and Boye's lamp hand at frame-right. Mood: patient, warm, quietly hopeful. Blur: Shallow focus: Xiaoman's hands and face are crisp; the foreground clutter is heavily blurred; Boye is slightly soft; the background shelves melt into darkness. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Sizzle of the soldering iron, the tick of the cooling iron, Boye's slow breathing, faint alley hum outside; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

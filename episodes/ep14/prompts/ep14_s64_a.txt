@@ -1,0 +1,25 @@
+# ep14 s64_a  duration=12s  seed=695929314
+# input images: ['episodes/ep14/storyboard/s64.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close shot, 85mm, eye level. Xiaoman sits in the right third of the frame, body angled toward the interviewer off frame-left, leaving deep negative space at left falling to darkness. A soft key light from frame left models his pale face. The right side of his face drops into shadow. He is a tall thin young man with messy overgrown hair and wet eyes, smiling through tears. The crushed yellow robot head is cradled in his lap at the lower frame edge, scratched paint catching the key. Background: soft out-of-focus pipes in a dim concrete room. Blocking lock: Xiaoman in the right third, eyeline to frame left, matching his earlier interview setup; key from the left; the robot head in his lap at lower frame; negative space at left.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In the 2078 interview, Xiaoman holds the crushed robot head in his lap, crying and smiling, pauses mid-sentence to breathe, then says Luosi could not speak but touched his hand, and he knows it was afraid.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Interview close shot, 85mm, eye level. An almost imperceptible slow push-in (about 8 cm over 12 seconds). It starts with head, shoulders and the robot head in frame and ends on a tighter close-up of his face, the robot head just at the lower edge.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman in the right third, eyeline to frame left, matching his earlier interview setup; key from the left; the robot head in his lap at lower frame; negative space at left. Start: He looks down at the robot head, thumb on its cracked screen, and begins speaking with a wavering smile. Middle: He stops, lips trembling, and takes a breath. Tears run as he half laughs. End: He lifts his eyes toward the interviewer and finishes the line quietly, mouth clearly visible. Hold on his wet, steady face. Mood: tender, raw, grateful. Blur: Eyes crisp at T2. The robot head is slightly soft at the bottom edge. The background pipes are deeply soft, falling to black. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 它不会说话。可它那一下，碰了碰我的手。我知道，它是怕的。</d>; Final line of this shot: end on “知道，它是怕的。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone, a faint hum, his breath catching, a small sniff; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

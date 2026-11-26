@@ -1,0 +1,23 @@
+# ep14 s03_a  duration=8s  seed=1072063131
+# input images: ['episodes/ep14/storyboard/s03.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 300mm, camera low on the ice plain, angled slightly up. Foreground: blowing snow streaks horizontally across the lens, out of focus. Subject: the mountain-sized planetary engine fills the right two-thirds, a dark ribbed industrial mass, its base glowing blue-white. At its foot, lower left of the band, a single tiny transport vehicle sits on the ice, two warm headlights pinpricks against the engine. Background: black night sky. The plasma light rakes across the snow; ice dust glows in the beams. Blocking lock: engine mass anchored in the right two-thirds; the tiny parked vehicle stays motionless at the engine's foot in the lower-left third at the start; the plasma column rises straight up the right-centre of frame; snow always blows left to right.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+On the frozen plain at night the planetary engine fires its blue-white plasma column into the sky while snow blows sideways across the lens; no one speaks.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide shot, 300mm, low angle; one slow tilt up over 8 s, with slight wind-buffeted tremor, starting on the engine base with the tiny vehicle for scale, ending on the plasma column piercing the black sky with only the engine's top edge at the bottom of the band.; pacing: natural speed, a single continuous take with no cut. Blocking lock: engine mass anchored in the right two-thirds; the tiny parked vehicle stays motionless at the engine's foot in the lower-left third at the start; the plasma column rises straight up the right-centre of frame; snow always blows left to right. Start: The tiny vehicle's two warm lights sit at the foot of the vast dark engine; blue-white glow floods the ice; snow streaks past the lens. Middle: The camera tilts up the ribbed flank of the engine; the vehicle drops out of the bottom of frame as the blinding nozzle and the root of the plasma column come into view. End: The frame lands on the blue-white column rising straight into the black sky, steady and monumental, haze and ice dust glowing around it, the engine's crown a dark silhouette along the bottom. Mood: colossal, cold, awe-struck, relentless. Blur: Deep focus at infinity; engine, vehicle and plasma column crisp; foreground snow streaks soft and out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Deep sub-bass rumble of the engine felt more than heard, howling wind, hiss of snow driven across the ice; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,23 @@
+# ep14 s17_a  duration=9s  seed=850652261
+# input images: ['episodes/ep14/storyboard/s17.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot, 50mm, camera at adult chest height, moving parallel to a steel pipe wall in the underground street. A blurred passer-by's dark coat sweeps through the left foreground. Mid-ground, cold cyan-grey pipes run horizontally across the band, dotted with a few red-and-white smiley stickers. A warm tungsten lamp hung on a cable makes a pool of amber light ahead at right. In the soft background, stacked habitation modules and a hazy crowd recede into cold mist. Blocking lock: pipe wall running horizontally through the mid-ground, stickers scattered along it, child on an adult's shoulders arriving in the warm lamp pool at right of centre; passers-by cross only in the foreground.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+A child riding on an adult's shoulders presses a red-and-white smiley sticker onto a pipe already dotted with others, and passers-by glance at it and smile.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, 50mm, chest height; one slow lateral tracking move right along the wall with foreground parallax, from the scattered stickers to the child pressing a new one under the lamp.; pacing: natural speed, a single continuous take with no cut. Blocking lock: pipe wall running horizontally through the mid-ground, stickers scattered along it, child on an adult's shoulders arriving in the warm lamp pool at right of centre; passers-by cross only in the foreground. Start: The track glides past pipes and the first scattered stickers as a passer-by crosses close in the foreground. Middle: The child on the shoulders enters the lamp pool, reaches out and presses the sticker flat with both small hands. End: The child pats it and giggles; a passing worker glances and smiles; the frame lands with the new bright sticker centred among the others in warm light. Mood: spreading, warm, communal. Blur: Child's hands and sticker crisp; foreground passers-by heavily soft; background crowd and modules gently blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Market chatter, footsteps on steel grating, child's giggle, hiss of steam pipes, distant PA hum; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,25 @@
+# ep14 s72_a  duration=10s  seed=1297933368
+# input images: ['episodes/ep14/storyboard/s72.png', 'refs/characters/amu.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close group shot, 65mm, camera at face height slightly low. A blurred hooded shoulder and a drifting cloud of breath vapour fill the left foreground. Amu stands left of centre, chin raised, scarred eyebrow lit, eyes wide. Just beyond him, Xiaoman's thin pale face is tilted up, mouth slightly open. Further right, soft in depth, other crew members look up too. Hard, even white light falls from the sky onto every face, bleaching skin and frost. The background is a pale, washed-out ice plain under a white sky. Blocking lock: everyone faces frame-right and upward toward the light; order left to right is Amu, Xiaoman, other crew, Boss Jin leaning on his cane, then the small robot; faces in the middle horizontal band.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+On the ice, Amu, Xiaoman, Boss Jin on his cane and the others stand with faces lit white, looking up in silence, and beside them a small robot tilts its sensor head up too.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close group shot, 65mm, face height slightly low; one slow lateral track left-to-right past the line of upturned faces, foreground shoulders and breath sliding by, ending on the small robot.; pacing: natural speed, a single continuous take with no cut. Blocking lock: everyone faces frame-right and upward toward the light; order left to right is Amu, Xiaoman, other crew, Boss Jin leaning on his cane, then the small robot; faces in the middle horizontal band. Start: Amu's lit face, then Xiaoman's, unmoving, breath vapour rising. Middle: The track passes strangers and arrives at Boss Jin, both hands on the cane, beard frosted, staring up with wet eyes. End: Beside Jin's leg, a small robot slowly tilts its sensor head upward, mirroring the humans. Final frame: Jin's soft profile at the left edge, the little robot crisp at right of centre, its head raised into the white light. Mood: silent, reverent, unified. Blur: Each face crisp as it passes centre, with a gentle focus pull from face to face; foreground shoulders and breath blurred; background a soft white wash. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Wind across the ice, the faint creak of the cane, robot servos whirring as its head tilts, no voices; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

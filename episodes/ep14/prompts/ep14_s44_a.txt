@@ -1,0 +1,23 @@
+# ep14 s44_a  duration=9s  seed=1725551443
+# input images: ['episodes/ep14/storyboard/s44.png', 'refs/characters/jin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close shot, 27mm, handheld from the passenger seat at dashboard height, angled toward the driver. Foreground left: the dented steel node box on the dashboard, its small lamps flashing rapidly, a red-and-white smiley sticker on its lid, soft. Middle: Boss Jin gripping the wheel with both hands, beard frosted, jaw clenched, eyes on the road. Background: the windscreen filled with orange Jupiter light, headlight beams raking churning snow and a dark seam in the ice ahead. Cab interior dim, lit by the dashboard and the flashing lamps. Blocking lock: the node box stays in the left foreground; Jin holds the centre-right of the middle band; the windscreen spans the background; his face never drops below the lower third, even when thrown.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+
+summary:
+The node box flashes urgently; Boss Jin wrenches the wheel hard left and is thrown sideways, shouting '前面裂了！它让我们往左！'
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close, 27mm, dashboard height; one handheld move, shaking hard with the cab, absorbing the jolt as Jin swings left and ending tighter on his face.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the node box stays in the left foreground; Jin holds the centre-right of the middle band; the windscreen spans the background; his face never drops below the lower third, even when thrown. Start: The cab shudders; the node box lamps blink frantically in the foreground; Jin's eyes dart from the box to the windscreen. Middle: He hauls the wheel to the left; the whole cab lurches; the camera swings with the force and the orange windscreen slides across the frame; he is thrown hard toward the door. End: He shouts the line, mouth clear, straining against the turn; the frame lands on his face in medium close, the flashing box a soft green-red smear at the left edge. Mood: Violent, urgent, instinctive. Blur: Node box soft in the foreground with lamp bokeh; Jin's face crisp; the windscreen scene in soft orange; motion blur from the shake allowed only at the frame edges. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 前面裂了！它让我们往左！</d>; Final line of this shot: end on “！它让我们往左！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Rapid electronic warning beeps, the engine roaring under load, tyres grinding on ice, a deep crack of the ice under the cab, the creak of the steering column; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

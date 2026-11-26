@@ -1,0 +1,25 @@
+# ep14 s46_a  duration=9s  seed=212096740
+# input images: ['episodes/ep14/storyboard/s46.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up, 85mm, camera at eye level beside the driver's window, angled back toward the cab. Foreground left: the side rear-view mirror, crisp, showing dark ice and drifting snow with no headlights. Right of centre, soft: Boss Jin's broad weathered face in three-quarter, frostbite scars on his cheek, beard frosted, a battered radio handset clenched to his mouth, knuckles white. Orange Jupiter light through the side glass rims his face; faint green dashboard glow from below. Darkness behind him in the cab. Blocking lock: the mirror holds the left foreground; Jin's face holds the right of centre in the middle band; the handset stays at his mouth throughout, mouth visible beside it.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Boss Jin grips the radio handset and stares into the mirror, shouting '七号车！老秦！回话！', but only static answers.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up, 85mm, eye level; one rack focus from the mirror (foreground) to Jin's face (background) at the start of his line; no camera movement.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the mirror holds the left foreground; Jin's face holds the right of centre in the middle band; the handset stays at his mouth throughout, mouth visible beside it. Start: The mirror is sharp: dark ice, snow, no lights; Jin is a soft orange shape behind it. Middle: Focus racks to Jin as he presses the transmit key and shouts the line, veins in his neck, mouth clear beside the handset. End: He releases the key; only static hisses back; he holds absolutely still, eyes locked on the mirror, which is now a soft dark smear in the foreground. Mood: Desperate, raw, suspended. Blur: Shallow T2; first the mirror crisp and Jin soft, then Jin crisp and the mirror soft; the background of the cab falls to black. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 七号车！老秦！回话！</d>; Final line of this shot: end on “车！老秦！回话！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Engine drone, a hiss and crackle of empty radio static, the click of the transmit key, wind against the glass; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

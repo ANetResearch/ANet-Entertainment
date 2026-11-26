@@ -1,0 +1,25 @@
+# ep14 s59_a  duration=9s  seed=985184440
+# input images: ['episodes/ep14/storyboard/s59.png', 'refs/characters/amu.png', 'refs/props/prop_core.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot, 65mm, low angle just below a steel socket, looking up along it. Foreground: the soft dark edge of the socket collar at lower frame. Subject centre: Amu's gloved hands gripping a forearm-length metal igniter core glowing ember red at its tip, half inserted. Above, soft but readable: his strained face lit red from below, scar through his eyebrow, jaw clenched. To the right a heavy locking lever stands upright, catching a red edge. The background is black engine machinery and haze, with one distant amber lamp. Blocking lock: socket centre-low; Amu's hands on the core at centre; his face above at centre-left; the lever at frame right; all key light comes from the core's red glow.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the engine igniter core in its steel case from <Picture 3>, serving as prop reference. Close-up of an engine igniter core resting in the foam cradle of an open rugged steel carrying case inside a truck cabin: a forearm-length metal cylinder with a translucent section glowing deep ember red, frost on the case latches, a gloved hand on the lid.
+
+summary:
+Amu drives the red-glowing igniter core into the socket, throws his whole weight onto it and slams the locking lever down.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close shot, 65mm, low angle. Slow dolly push-in (about 25 cm over 9 seconds). It starts on hands, core and face together and ends on the lever and his gloved fist slammed down, the red glow sealed in the socket.; pacing: natural speed, a single continuous take with no cut. Blocking lock: socket centre-low; Amu's hands on the core at centre; his face above at centre-left; the lever at frame right; all key light comes from the core's red glow. Start: Hands shove the core into the socket. Red light streaks up his face as metal grinds. Middle: He leans his full body onto it, roaring, and the core seats with a massive clank. End: His right hand drags the lever down hard into frame. The push lands on fist and lever locked, the red glow contained, his face soft above. Mood: violent effort, all-in. Blur: Hands and core crisp at T2.8, then focus rides to the lever. His face is readable but slightly soft. The haze background is soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+A grinding metal slide, a huge interlocking clang, Amu's hoarse yell, a deep resonant hum building inside the machine; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

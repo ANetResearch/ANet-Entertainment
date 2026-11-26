@@ -1,0 +1,25 @@
+# ep14 s11_a  duration=8s  seed=2014973443
+# input images: ['episodes/ep14/storyboard/s11.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm macro, camera level with the robot's square screen, slightly off-axis from the left. The dark, dust-filmed glass fills the centre of the wide frame, with the faint red marker line Xiaoman drew still visible on it. A scratched yellow bezel edge sits soft in the right foreground. A thin warm tungsten beam from an unseen desk lamp cuts diagonally through the air in front of the glass, catching slow-drifting dust motes. The rest of the frame falls to deep black. Faint lamp reflection on the glass. Blocking lock: screen centred in the horizontal band, yellow bezel edge soft at frame right, warm lamp beam crossing diagonally upper-left to lower-right in front of the glass; logo must match the reference exactly.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+The robot's dead black screen flickers twice and lights up with the red speech-bubble, red node squares and white smile; its glow lights the dust in the air.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up, 100mm macro, eye level with the screen; one slow slider push-in over 8 seconds, from the full screen with bezel and beam to the logo filling the central band, with dust drifting in front.; pacing: natural speed, a single continuous take with no cut. Blocking lock: screen centred in the horizontal band, yellow bezel edge soft at frame right, warm lamp beam crossing diagonally upper-left to lower-right in front of the glass; logo must match the reference exactly. Start: Black glass, the red marker stroke and dust in the lamp beam; stillness, then two quick flickers of grey light behind the glass. Middle: A clean start-up chime; the red speech-bubble outline and node squares bloom on, then the white smile, and red-white light spills forward into the dust. End: The push settles with the glowing logo filling the central band. The dust in front glows red and white, a hint of warm lamp beam stays at the edge, and black surrounds it. Mood: fragile, waking, hopeful. Blur: Screen surface and logo crisp; very shallow depth of field, so the bezel edge and the nearest dust motes are soft bokeh specks. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Bright start-up chime, rising low motor hum, faint tick of cooling metal, distant muffled alley hum; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

@@ -1,0 +1,23 @@
+# ep14 s01_a  duration=8s  seed=1847727513
+# input images: ['episodes/ep14/storyboard/s01.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up, 100mm macro, camera at the height of the printer's paper slot, level and slightly side-on. Foreground: the dark, out-of-focus metal lip of the battered field printer crosses the lower left. Subject: a narrow strip of thermal paper emerging horizontally across the centre band, its abstract barcode rows sharp where they leave the slot. Background: one small tungsten desk lamp far behind, a soft amber bloom glowing through the paper fibres. Everything else falls to pure black. Faint dust hangs in the lamp's glow. Blocking lock: printer slot fixed at frame left, tape travels left to right along the horizontal centre band; warm lamp bloom stays behind the paper at frame centre-right; the red stamp lands in the right third and the tape hangs there at the end.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In darkness an old field printer feeds out its paper tape tick by tick, stamps a small red mark at the end, and the strip drops and sways gently; no one speaks.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro close-up, 100mm macro on a slider, level at slot height; one very slow lateral slide left to right (about 3 cm over 8 s), starting on the paper emerging from the slot and ending on the stamped tail of the tape as it hangs.; pacing: natural speed, a single continuous take with no cut. Blocking lock: printer slot fixed at frame left, tape travels left to right along the horizontal centre band; warm lamp bloom stays behind the paper at frame centre-right; the red stamp lands in the right third and the tape hangs there at the end. Start: The printer slot sits at frame left; the paper inches out one step at a time with each tick, the barcode marks crisp, lamp light glowing amber through the strip. Middle: The camera drifts with the paper as it lengthens; the printer head pauses, and a tiny red square stamp is pressed onto the tape's end, the first point of strong colour in the frame. End: The tape slips free, drops and sways gently in the lamp glow; the camera settles with the red stamp in the right third, backlit paper against black, and the swaying slows to stillness. Mood: intimate, hushed, archival, fragile. Blur: Extremely shallow depth of field; focus held on the paper surface and the barcode marks, then on the red stamp; printer lip in foreground soft, lamp a soft amber blur behind. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Dry tick-tick of the print head stepping the paper, a soft mechanical clunk of the stamp, the faint rustle of the tape falling, then room silence with a low electrical hum; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)

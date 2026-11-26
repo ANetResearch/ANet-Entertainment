@@ -1,0 +1,23 @@
+# ep14 s13_a  duration=8s  seed=772606017
+# input images: ['episodes/ep14/storyboard/s13.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot, 300mm long lens, camera low on the ice at a distance, side-on. The soft, dark silhouette of a frozen girder from a collapsed tower cuts the left foreground. In the lower third, a line of heavy-haul trucks crawls left to right, tiny under ice-encased skyscraper ruins that rise to the top of the band. Their warm tungsten headlights cut cones through horizontal blowing snow. The plain is cyan-grey and the sky near-black. Low at frame right hangs a small, sharp, orange-banded disc of Jupiter. Blocking lock: trucks in a line in the lower third moving left to right, ruins towering behind them, Jupiter small in the lower right sky, foreground girder at left; the trucks must read as tiny against the ruins.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+A convoy of heavy trucks crosses the frozen plain through blowing snow under ice-bound ruins, with a small banded Jupiter low in the sky.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Extreme wide shot, 300mm, low side-on angle; one slow pan right at convoy speed, starting with the lead truck entering past the foreground girder and ending with the convoy centred and Jupiter clear at right.; pacing: natural speed, a single continuous take with no cut. Blocking lock: trucks in a line in the lower third moving left to right, ruins towering behind them, Jupiter small in the lower right sky, foreground girder at left; the trucks must read as tiny against the ruins. Start: The foreground girder slides across; the lead truck's headlights punch through the snow at frame left. Middle: The pan holds pace with the trucks; long-lens compression stacks the trucks, the snow veils and the ruins into layers. End: The convoy is strung across the lower band, headlight cones glowing in the snow, ruins looming, and the small orange Jupiter at right as the only other warm point. Mood: vast, cold, relentless. Blur: Trucks and ruins crisp; the foreground girder heavily defocused; snow streaks soft in front; Jupiter sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+Deep diesel roar softened by distance, tyres grinding ice, howling wind, snow hiss; production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: unscored location sound only)
