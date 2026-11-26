@@ -1,0 +1,23 @@
+# ep11 s36_a  duration=8s  seed=57108601
+# input images: ['episodes/ep11/storyboard/s36.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide sky shot from the ice plain: Jupiter filling the sky, and rising from beyond the far horizon a hair-thin blue-white line of light stretching toward the planet, tiny silhouettes of people at the bottom edge of frame. Blocking lock: Jupiter fills the upper and central sky, the thin blue-white line of light rises from the far horizon at centre, and tiny motionless human silhouettes sit along the bottom edge of frame in the foreground.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+On the ice plain beneath a Jupiter-filled sky, a hair-thin blue-white line of light rises from beyond the far horizon and slowly reaches toward the planet while tiny figures watch from the bottom of frame.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, locked-off camera with an extremely slow tilt up; pacing: natural speed, a single continuous take with no cut. Blocking lock: Jupiter fills the upper and central sky, the thin blue-white line of light rises from the far horizon at centre, and tiny motionless human silhouettes sit along the bottom edge of frame in the foreground. Start: The camera holds on the vast sky and horizon as the hair-thin blue-white line of light begins to rise from beyond the far horizon, with the tiny silhouettes standing still at the bottom edge. Middle: The line of light extends upward bit by bit toward Jupiter while the camera tilts up very slowly and the silhouettes remain completely motionless. End: The line of light stretches further across the sky toward the planet, the frame settled higher on Jupiter, and the tiny figures still unmoving at the bottom. Mood: awe-inspiring, solemn, silent. Blur: Deep focus throughout, with the sky, horizon and light line all sharp and the tiny silhouettes in the foreground slightly soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind, distant low rumble; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

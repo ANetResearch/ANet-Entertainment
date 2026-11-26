@@ -1,0 +1,318 @@
+{
+ "s01_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_a": {
+  "want": "各发动机注意：推力不足以脱离。唯一的办法，是点燃木星。",
+  "heard": "各发动机注意，推力不足以脱离。唯一的办法，是点燃木星。",
+  "ratio": 1.0,
+  "music": "a low, tense cinematic synth drone swell",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s03_a": {
+  "want": "",
+  "heard": "What is that?",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s04_a": {
+  "want": "满功率要烧十五分钟。冷却液只够四分钟。",
+  "heard": "哎，满功率要烧十五分钟，冷却液只够四分钟。",
+  "ratio": 0.97,
+  "music": "low, tense synthesizer drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s05_a": {
+  "want": "缺冷却液，缺备件，缺电，缺人。能下命令的那台机器，不说话了。",
+  "heard": "缺粮缺药，缺备件，缺电，缺人。能下命令的那台机器，不说话了。",
+  "ratio": 0.88,
+  "music": "a low, somber synth drone swells quietly in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_a": {
+  "want": "冷却液在咱们这儿，备件在兰州，电在三台邻机手里。谁也不认识谁。",
+  "heard": "哎，冷却液在咱们这儿，配件在兰州，电在三台临机手里，谁也不认识谁。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s09_a": {
+  "want": "凭什么给？我车上的油是拿命换的。给了一个没见过的人，找谁要去？",
+  "heard": "凭什么给 我车上的油是拿命换的 给了一个没见过的人 找谁要去",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_a": {
+  "want": "你们敦煌的人，我凭什么信？",
+  "heard": "你们敦煌的人，我凭什么信？",
+  "ratio": 1.0,
+  "music": "a dramatic orchestral score with deep brass notes, low percussion, and tense sustained strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s11_a": {
+  "want": "别信我。信这个盒子，账都在里头，你自己查。",
+  "heard": "别信我，信这个盒子，账都在里头，你自己查。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_a": {
+  "want": "就像路边客栈墙上的账。谁欠谁一碗面，过路的都能看见。所以你敢赊给一个再也见不着的人。",
+  "heard": "就像路边客栈墙上的账，谁欠谁一碗面，过路的都能看见。所以你敢赊给一个再也见不着的人？",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_a": {
+  "want": "给出去的，网上记成贝壳。往后你缺东西，拿贝壳换。不是钱，是记性。",
+  "heard": "把给出去的，往上记成贝壳，往后你缺东西，拿贝壳换。不是钱，是记性。",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s15_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_a": {
+  "want": "城里的备用冷却液，够他们多烧六分钟。全城会降四度。给。我来签。",
+  "heard": "城里的备用冷却液，够他们多烧六分钟。全城会降四度。给，我来签。",
+  "ratio": 1.0,
+  "music": "subtle, low sustained synth atmospheric score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s17_a": {
+  "want": "冷就冷吧。七区冷过，知道怎么熬。",
+  "heard": "切，冷就冷吧，七区冷过，知道怎么熬。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s18_a": {
+  "want": "这一笔，记我的名字。出了事，找我。",
+  "heard": "这一笔，记我的名字。出了事，找我。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_a": {
+  "want": "那是全城的储备。我没有请示任何人。字是我签的，账上记的是我。",
+  "heard": "那是全城的储备 我没有请示任何人 字是我签的 账上记的是我",
+  "ratio": 1.0,
+  "music": "melancholic, slow background orchestral string music",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s20_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s24_a": {
+  "want": "周研究员，我是阿牧。喷口的图纸我有，我念，你做。",
+  "heard": "喂。周元周元，我是阿木。喷口的图纸我有，我念，你做。",
+  "ratio": 0.77,
+  "music": "none",
+  "flags": []
+ },
+ "s25_a": {
+  "want": "听到了。我们没见过面，对吧？没有。",
+  "heard": "听到了。 我们没见过面对吧？ 没有。",
+  "ratio": 1.0,
+  "music": "a low, tense sustained synth drone chord",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s26_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_a": {
+  "want": "第三道卡箍，逆时针半圈。听见咔一声再松手。",
+  "heard": "第三道卡箍 逆时针半圈 听见咔一声再松手",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_a": {
+  "want": "咔了。冷却液在走。",
+  "heard": "卡拉，冷却液在漏。",
+  "ratio": 0.57,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s30_a": {
+  "want": "那天用的冷却液来自一座我没去过的城。拧阀门的手，听的是一个陌生人的声音。",
+  "heard": "那天用的冷却液来自一座我没去过的城。拧阀门的手，听的是一个陌生人的声音。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_a": {
+  "want": "苏拉威西签收了！四十一项，全齐了！",
+  "heard": "哈！苏拉威西签收了！四十一项，全齐了！",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s32_a": {
+  "want": "转向发动机，满功率。点火。",
+  "heard": "号，转向发动机，满功率，点火！",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s33_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_a": {
+  "want": "够得着吗？看着。",
+  "heard": "哥，够得着吗？看着",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s36_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s38_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_a": {
+  "want": "没人下过命令。一群互不相识的人，各自给了一点，账记清了，火就点着了。",
+  "heard": "没人下过命令，一群互不相识的人各自给了一点，账记清了，火就点着了。",
+  "ratio": 1.0,
+  "music": "a soft, reflective ambient synthesizer and piano score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "a low, tense atmospheric drone with a slow rhythmic pulse",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s42_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ }
+}

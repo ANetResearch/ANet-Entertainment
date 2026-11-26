@@ -1,0 +1,27 @@
+# ep11 s02_a  duration=10s  seed=130497957
+# input images: ['episodes/ep11/storyboard/s02.png', 'refs/locations/loc_admin.png', 'refs/characters/xing.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld medium shot in the administration command hall: operators crowd around an old battered radio set on a console, Governor Xing in her charcoal uniform and Amu in his orange-grey coverall standing among them, heads bowed, listening. Blocking lock: the battered radio sits centre foreground on the console; Governor Xing and Amu stand centre midground among the operators, who ring the console on both sides; the dim command hall fills the background.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 4> is Amu (34, male communications engineer, the protagonist) from <Picture 4>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In the administration command hall, operators, Governor Xing and Amu stand in silence around an old radio as a crackling broadcast plays, opening and ending on the single line 「各发动机注意：推力不足以脱离。唯一的办法，是点燃木星。」
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, handheld with a slight natural shake, slow push-in between the crowd's shoulders toward the radio.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the battered radio sits centre foreground on the console; Governor Xing and Amu stand centre midground among the operators, who ring the console on both sides; the dim command hall fills the background. Start: The camera looks over the shoulders of the operators, who stand with bowed heads in a tight circle around the old radio on the console. Middle: The camera creeps forward between two shoulders, bringing the radio and the lowered faces of Xing and Amu closer while everyone stays motionless. End: The radio fills the centre of the frame, and the listeners remain frozen, heads still bowed. Mood: tense, hushed, ominous. Blur: Shoulders in the near foreground are soft, the radio stays sharp, and the background of the hall falls into blur. The 广播声 (extra, ordinary voice) says, <d>[Chinese] 各发动机注意：推力不足以脱离。唯一的办法，是点燃木星。</d>; Final line of this shot: end on “法，是点燃木星。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio static crackle, distant keyboard typing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

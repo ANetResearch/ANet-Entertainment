@@ -1,0 +1,27 @@
+# ep11 s18_a  duration=10s  seed=1486702637
+# input images: ['episodes/ep11/storyboard/s18.png', 'refs/characters/xing.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot at a console in the command hall: Governor Xing bends over a strip of receipt tape hanging from a small thermal printer, pressing a pen to it with her own hand, operators watching in the blurred background. Blocking lock: Governor Xing at centre of frame bent over the console, thermal printer at frame right foreground, blurred operators watching in the background behind her.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the receipt paper strip from a field printer from <Picture 3>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, Governor Xing tears off a receipt tape, signs it by hand at the console and looks up to speak, opening and ending on the line "这一笔，记我的名字。出了事，找我。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing at centre of frame bent over the console, thermal printer at frame right foreground, blurred operators watching in the background behind her. Start: Governor Xing tears a strip of receipt tape from the small thermal printer and presses it flat against the console surface. Middle: She presses the pen to the tape and signs her name with her own hand, the pen scratching across the paper. End: She sets the pen down and lifts her head toward the person beside her, ready to speak. Mood: resolute, tense, solemn. Blur: shallow depth of field, operators in the background softly out of focus Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 这一笔，记我的名字。出了事，找我。</d>; Final line of this shot: end on “。出了事，找我。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+pen nib scratching on paper, rhythmic clicking of the thermal printer; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

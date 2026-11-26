@@ -1,0 +1,25 @@
+# ep11 s06_a  duration=8s  seed=909387456
+# input images: ['episodes/ep11/storyboard/s06.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle in the command hall looking up at the giant dark display wall, completely blank, with the single red lens glowing in its centre; empty operator chairs in the lower foreground. Blocking lock: the dark display wall fills the upper and background frame, the single red lens sits at frame centre, and empty operator chairs sit in the lower foreground.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the silent command hall, a giant blank display wall looms with only MOSS's red lens glowing at its centre; no dialogue is spoken in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle wide shot looking up, locked-off camera with an extremely slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: the dark display wall fills the upper and background frame, the single red lens sits at frame centre, and empty operator chairs sit in the lower foreground. Start: The vast black display wall hangs overhead, with the red lens glowing steadily at its centre above the empty chairs. Middle: The camera creeps almost imperceptibly closer while the red lens stays constant and nothing on the wall changes. End: The red lens sits slightly larger in frame, still unwavering, with the hall empty and motionless below it. Mood: ominous, hollow, still. Blur: Deep focus on the wall and red lens, with the foreground chair backs slightly soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low electrical hum in a cavernous empty hall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
