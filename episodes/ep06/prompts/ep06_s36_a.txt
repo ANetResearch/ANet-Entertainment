@@ -1,0 +1,25 @@
+# ep06 s36_a  duration=8s  seed=785905102
+# input images: ['episodes/ep06/storyboard/s36.png', 'refs/locations/loc_street.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. On a street corner of the underground city: a sanitation worker in a grey padded coverall scrapes a red-and-white smiley sticker off a steel pillar with a putty knife, while two more identical stickers are visible on the pipe just above his head. Blocking lock: the sanitation worker in a grey padded coverall is at centre, facing the steel pillar; the two smiley stickers are on the pipe just above his head; passersby are in the foreground, partly blocking the frame edges.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+On a street corner of the underground city, a sanitation worker scraping a smiley sticker off a steel pillar looks up, notices two more stickers on the pipe above him, and stops. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld, shooting through a crowd with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the sanitation worker in a grey padded coverall is at centre, facing the steel pillar; the two smiley stickers are on the pipe just above his head; passersby are in the foreground, partly blocking the frame edges. Start: The worker scrapes a red-and-white smiley sticker off the steel pillar with a putty knife, working in short, steady strokes. Middle: Half the sticker is peeled away. He pauses and tilts his head up, noticing two more identical stickers on the pipe above him. End: His hand freezes with the putty knife against the pillar, his gaze fixed on the stickers overhead. Mood: wry, quiet, observational. Blur: Shallow depth of field; foreground passersby are soft and out of focus, while the worker and the stickers stay sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+putty knife scraping on metal, low chuckles from passersby; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

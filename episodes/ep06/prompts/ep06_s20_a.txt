@@ -1,0 +1,23 @@
+# ep06 s20_a  duration=8s  seed=1528933841
+# input images: ['episodes/ep06/storyboard/s20.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide exterior over a frozen tropical sea at twilight: a colossal steering engine built into a coastal mountain firing its plasma column at a steep slant across the sky, pack ice to the horizon, the lit ring of a control room small on the slope. Blocking lock: the mountain with the steering engine fills frame left and centre, the slanted plasma column rises from it toward frame right, the small lit control room ring sits on the lower slope, and pack ice spreads across the foreground and background to the horizon.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+At twilight, a colossal steering engine in a coastal mountain fires a slanted plasma column across the sky above a frozen tropical sea, while the small lit ring of a control room glows on the slope.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, fixed frame with a slight handheld sway; pacing: natural speed, a single continuous take with no cut. Blocking lock: the mountain with the steering engine fills frame left and centre, the slanted plasma column rises from it toward frame right, the small lit control room ring sits on the lower slope, and pack ice spreads across the foreground and background to the horizon. Start: The slanted plasma column blazes steadily out of the mountain into the darkening sky, casting blue light over the frozen sea. Middle: The blue glow shifts faintly across the pack ice as the column holds its slant, and the small lights of the control room ring stay lit on the slope. End: The plasma column still burns at its slant above the ice, with the tiny control room ring glowing against the vast mountainside. Mood: awe-inspiring, desolate, ominous. Blur: deep focus, everything from the foreground ice to the distant horizon stays sharp No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+distant low rumble, echoing cracks of splitting ice; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

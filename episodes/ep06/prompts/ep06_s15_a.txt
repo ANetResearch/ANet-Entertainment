@@ -1,0 +1,23 @@
+# ep06 s15_a  duration=7s  seed=1454935160
+# input images: ['episodes/ep06/storyboard/s15.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up in warm lamplight: a bright new steel nut turning down the thread of an old rust-brown bolt held between wrinkled fingers, fine dust on the threads. Blocking lock: the old rust-brown bolt held by wrinkled fingers sits at frame centre in the foreground, the new steel nut on its thread at centre, with only warm lamplit darkness in the background.
+<Subject 2> is Boye's electronics repair stall from <Picture 2>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In warm lamplight, a bright new steel nut is turned smoothly down the thread of an old rust-brown bolt held in wrinkled fingers, pushing rust dust out of the threads; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 7.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the old rust-brown bolt held by wrinkled fingers sits at frame centre in the foreground, the new steel nut on its thread at centre, with only warm lamplit darkness in the background. Start: The bright new steel nut sits at the top of the old bolt's thread, its first turn just beginning between the wrinkled fingers. Middle: The nut keeps rotating smoothly down the thread, turn after turn, squeezing rust flakes and fine dust out of the grooves. End: The nut has travelled well down the bolt, and the last rust dust drifts down past the threads as the turning slows. Mood: tender, patient, warm. Blur: very shallow depth of field, only the threads and nut in sharp focus, fingers and background softly blurred No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+faint metal thread friction, tiny rust grains falling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep06 s37_a  duration=10s  seed=1937056346
+# input images: ['episodes/ep06/storyboard/s37.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: Governor Xing, grey hair in a neat bun, crisp charcoal uniform, sits upright on the metal chair in the dim concrete interview room, hands folded on her knee. Blocking lock: Governor Xing sits centre frame on the metal chair, facing slightly toward the off-screen interviewer, hands folded on her knee, with the bare concrete wall behind her and nobody else in frame.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In a dim concrete interview room, Governor Xing sits upright and answers the interviewer in a restrained tone, pausing mid-sentence; she opens with "起初我以为，那只是孩子们的涂鸦。" and ends on "后来我认出来了，没让人去查。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing sits centre frame on the metal chair, facing slightly toward the off-screen interviewer, hands folded on her knee, with the bare concrete wall behind her and nobody else in frame. Start: Governor Xing sits upright on the metal chair, hands folded on her knee, and begins addressing the interviewer with a controlled, composed expression. Middle: Halfway through her answer she stops, her gaze dropping slightly and her jaw tightening, holding a brief silent beat while her hands stay folded. End: She lifts her eyes back toward the interviewer, finishes her answer, and settles into stillness, posture upright and hands unmoved. Mood: restrained, solemn, tense. Blur: Shallow depth of field; the concrete wall behind her falls softly out of focus while her face and uniform stay sharp. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 起初我以为，那只是孩子们的涂鸦。后来我认出来了，没让人去查。</d>; Final line of this shot: end on “了，没让人去查。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low air hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep06 s09_a  duration=9s  seed=427693744
+# input images: ['episodes/ep06/storyboard/s09.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In a cluttered workshop in another underground city: a tall rust-streaked old industrial robot arm of unfamiliar design on a wheeled base, a hand-made tin node box with a red-and-white smiley sticker wired to its side, two workers in padded coats watching a small lamp on the box turn green. Blocking lock: the rust-streaked robot arm on its wheeled base stands at frame centre with the tin node box on its side at centre-right, the two padded-coat workers at frame left and right behind the box, cluttered workshop in the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+In a cluttered workshop in another underground city, the small lamp on a hand-made node box wired to an old rusty robot arm turns from red to green, and two padded-coat workers exchange a glance as one gives a thumbs-up.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight shake, steady framing on the node box and workers; pacing: natural speed, a single continuous take with no cut. Blocking lock: the rust-streaked robot arm on its wheeled base stands at frame centre with the tin node box on its side at centre-right, the two padded-coat workers at frame left and right behind the box, cluttered workshop in the background. Start: The small lamp on the tin node box wired to the robot arm glows red while the two workers stand watching it. Middle: The lamp switches from red to green and the two workers turn and look at each other. End: One worker raises a thumbs-up toward the node box while the other keeps looking at the green lamp. Mood: hopeful, gritty, relieved. Blur: shallow depth of field, workshop clutter and background tools softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+metal clanging in the workshop, electric motor hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,27 @@
+# ep06 s06_a  duration=8s  seed=1996803712
+# input images: ['episodes/ep06/storyboard/s06.png', 'refs/locations/loc_ice.png', 'refs/props/prop_node.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Long-lens view across the frozen plain at dusk: a lone radio relay mast in the foreground with a small tin node box fixed to its base, a red-and-white smiley sticker on its lid and one tiny green lamp lit, the convoy's tail lights fading into blowing snow in the distance. Blocking lock: the relay mast and its tin node box with the smiley sticker sit in the foreground, slightly off-centre, and the convoy's tail lights are small in the distant background across the plain.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 4> is the ANET smiley logo from <Picture 4>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+At dusk on a frozen plain, a small node box at the foot of a relay mast lights a green lamp while the convoy's tail lights fade into the blowing snow; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Telephoto establishing shot, locked-off fixed camera with compressed depth.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the relay mast and its tin node box with the smiley sticker sit in the foreground, slightly off-centre, and the convoy's tail lights are small in the distant background across the plain. Start: The node box sits strapped to the mast leg in the dusk wind, with the convoy's tail lights still faintly visible far behind it. Middle: A tiny green lamp on the node box lights up, and the wind lifts one corner of the smiley sticker on its lid. End: The convoy's tail lights shrink and vanish into the blowing snow, leaving the mast and glowing green lamp alone in the foreground. Mood: Lonely, quiet, bittersweet. Blur: Very shallow depth of field from the telephoto lens; the foreground mast and box are sharp while the plain and the distant tail lights are soft and hazy with snow. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind, distant engine fading away; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
