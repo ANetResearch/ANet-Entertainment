@@ -1,0 +1,25 @@
+# ep03 s29_a  duration=8s  seed=1444239297
+# input images: ['episodes/ep03/storyboard/s29.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of the robot's square screen with the glowing red speech-bubble smiley, the short antenna beside it tipped with a lit amber LED. Blocking lock: Luosi's square screen with the red smiley fills frame left and centre, the short antenna with its amber LED stands at frame right, and the soft background sits behind both.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a macro close-up, Luosi's smiley screen pulses in rhythm while the antenna light flashes a rapid series, then holds steady. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro extreme close-up, locked-off static camera.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi's square screen with the red smiley fills frame left and centre, the short antenna with its amber LED stands at frame right, and the soft background sits behind both. Start: The red smiley on the square screen pulses softly, brightening and dimming in a steady rhythm, while the amber LED on the antenna tip begins to blink. Middle: The antenna LED flashes a rapid string of blinks while the smiley keeps pulsing in time. End: The flashing stops and the amber antenna LED holds a steady glow beside the pulsing smiley screen. Mood: tense, curious, intimate. Blur: Very shallow depth of field; only the screen face and antenna tip are sharp, and the background falls into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rapid series of electronic prompt beeps, low electric motor hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

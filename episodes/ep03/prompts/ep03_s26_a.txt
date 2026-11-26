@@ -1,0 +1,25 @@
+# ep03 s26_a  duration=14s  seed=1753086895
+# input images: ['episodes/ep03/storyboard/s26.png', 'refs/characters/boye.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: old Boye in the dim interview room, one hand cupped beside his mouth as if calling out across a crowd, eyes bright behind the taped glasses. Blocking lock: Boye sits at frame centre in the middle ground, facing slightly off-camera toward the interviewer, with the dim interview room empty behind him and nothing else in the foreground.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, old Boye gives a calm interview and mimics calling out across a market crowd, opening with "发现是一次查询，而不是一次引荐。" and ending on "会的人自己答应。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 14.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close-up, locked-off interview camera, completely static.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame centre in the middle ground, facing slightly off-camera toward the interviewer, with the dim interview room empty behind him and nothing else in the foreground. Start: Boye sits at centre with his taped glasses catching the light, his hands low and relaxed, finishing his thought in a slow, unhurried way. Middle: He raises one hand and cups it beside his mouth in a market-style calling gesture, his eyes bright behind the taped glasses. End: He lowers his hand, gives a small warm smile, and nods once. Mood: warm, reflective, intimate. Blur: Shallow depth of field, with Boye sharp and the dim room behind him softly out of focus. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 发现是一次查询，而不是一次引荐。好比赶集，你站在当中喊：谁会修阀？会的人自己答应。</d>; Final line of this shot: end on “会的人自己答应。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

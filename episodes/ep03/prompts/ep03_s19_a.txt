@@ -1,0 +1,23 @@
+# ep03 s19_a  duration=9s  seed=1297164
+# input images: ['episodes/ep03/storyboard/s19.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot on the ice plain: one heavy-haul truck in the convoy stopped at an angle with its cargo bed stuck half-raised, dark hydraulic fluid steaming on the ice beneath it, the other trucks braking behind in blowing snow. Blocking lock: the stopped truck with its half-raised cargo bed is at frame centre, steaming fluid on the ice in the lower centre foreground, the other convoy trucks braking in the background behind it in blowing snow.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+On the ice plain, a heavy-haul truck in the middle of the convoy jolts to a halt with its cargo bed jammed half-raised and hydraulic fluid steaming on the ice, while the trucks behind brake one after another.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto long shot, violent handheld shake with compressed perspective; pacing: natural speed, a single continuous take with no cut. Blocking lock: the stopped truck with its half-raised cargo bed is at frame centre, steaming fluid on the ice in the lower centre foreground, the other convoy trucks braking in the background behind it in blowing snow. Start: The convoy rolls across the ice plain, and the middle heavy-haul truck lurches and jolts to a sudden stop. Middle: Its cargo bed hangs crooked, stuck half-raised, as dark hydraulic fluid sprays from underneath and lands on the ice, rising as white steam. End: The trucks behind brake hard one after another and slide to a stop in the blowing snow, bunched up behind the stalled truck. Mood: tense, chaotic, urgent. Blur: shallow telephoto depth of field, with the trucks at the back soft and smeared by blowing snow No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+shrill metal screech, brakes squealing, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

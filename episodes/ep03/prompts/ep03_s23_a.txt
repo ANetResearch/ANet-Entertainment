@@ -1,0 +1,25 @@
+# ep03 s23_a  duration=7s  seed=1236426802
+# input images: ['episodes/ep03/storyboard/s23.png', 'refs/props/prop_node.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up under the dashboard: the old ammunition-tin node box with its short antenna and smiley sticker on the lid, a single small green LED lit on its side. Blocking lock: the ammunition-tin node box with its short antenna and smiley sticker sits at frame centre, the green LED on its side at lower right, and the dashboard underside blurs in the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a vehicle cab, a macro shot slowly pushes in on the old ammunition-tin node box beneath the dashboard as its small green LED blinks; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 7.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, slow push-in toward the node box; pacing: natural speed, a single continuous take with no cut. Blocking lock: the ammunition-tin node box with its short antenna and smiley sticker sits at frame centre, the green LED on its side at lower right, and the dashboard underside blurs in the background. Start: The battered metal box sits motionless under the dashboard, its antenna and smiley sticker clear in frame, the green LED glowing softly on its side. Middle: The camera creeps closer while the green LED keeps pulsing, fading dim and then bright again in a steady rhythm. End: The lens settles tight on the box and its blinking LED, the box still and quiet as the last pulse of green light lingers. Mood: quiet, tense, intimate. Blur: Very shallow depth of field; only the box lid and LED are sharp, while the dashboard underside and cab interior fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind outside the car window, faint relay clicks; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

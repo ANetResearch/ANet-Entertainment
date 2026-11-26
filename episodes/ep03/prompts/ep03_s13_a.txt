@@ -1,0 +1,25 @@
+# ep03 s13_a  duration=9s  seed=1964308650
+# input images: ['episodes/ep03/storyboard/s13.png', 'refs/characters/amu.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot from inside a dark abandoned pump station: a rusted steel door pushed open, old Boye in his navy quilted jacket and Amu stepping in with flashlights, dust hanging in the beams, dead pumps and empty pipe flanges around them. Blocking lock: the rusted steel door sits at frame centre in the background, Boye in his navy quilted jacket at frame left and Amu at frame right entering together, dead pumps and pipe flanges filling the foreground and sides.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+Inside a dark abandoned pump station, Boye and Amu shoulder open a rusted steel door and step in with flashlights, their beams sweeping over dusty dead pumps and pipes; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld camera waiting in the dark with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the rusted steel door sits at frame centre in the background, Boye in his navy quilted jacket at frame left and Amu at frame right entering together, dead pumps and pipe flanges filling the foreground and sides. Start: The handheld camera holds on the dark doorway as the rusted steel door is pushed open by a shoulder, grinding inward. Middle: Boye and Amu step through the gap with flashlights raised, their beams cutting through hanging dust. End: The light beams sweep across old dust-covered water pumps and pipes as the two walk further into the hall. Mood: eerie, tense, desolate. Blur: Shallow depth of field, the far end of the pump hall dissolving into dark, with dusty pumps in the foreground slightly soft No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+harsh screech of the iron door scraping, echoing footsteps in the empty space, dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

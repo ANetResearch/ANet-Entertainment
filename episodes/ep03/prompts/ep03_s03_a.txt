@@ -1,0 +1,25 @@
+# ep03 s03_a  duration=9s  seed=773849290
+# input images: ['episodes/ep03/storyboard/s03.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot of Boss Jin, broad face, short full beard, frostbite scars on his cheeks, heavy black surface suit with the fur collar open, striking the winch drum on the front of a truck with a long wrench while shouting over his shoulder. Blocking lock: Boss Jin is centre frame in medium shot, facing the truck's front winch drum on frame right; the truck's bumper fills the foreground, the convoy and crew stay soft in the background.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Boss Jin walks along the front of a convoy truck, rapping each winch drum with a long wrench and shouting back at his crew, opening and ending on the line "绞盘都给我敲一遍！冻住一个，扣谁的口粮。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld follow with a faint shake, tracking alongside Jin as he walks; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin is centre frame in medium shot, facing the truck's front winch drum on frame right; the truck's bumper fills the foreground, the convoy and crew stay soft in the background. Start: Jin steps along the truck's front and swings the long wrench against the first winch drum, head tilted to listen to the metal ring. Middle: He moves on to the next drum and strikes it, then turns his head and looks back over his shoulder toward his crew, mouth open to shout. End: He turns back to the line of drums, raises the wrench and prepares to strike the next one, his fur collar swinging open. Mood: gruff, urgent, authoritative. Blur: shallow depth of field; the background trucks and crew are soft and out of focus while Jin and the winch drums stay sharp Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 绞盘都给我敲一遍！冻住一个，扣谁的口粮。</d>; Final line of this shot: end on “个，扣谁的口粮。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+wrench clanging on metal, idling engine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

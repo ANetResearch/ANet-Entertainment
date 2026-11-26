@@ -1,0 +1,25 @@
+# ep03 s09_a  duration=8s  seed=2078672749
+# input images: ['episodes/ep03/storyboard/s09.png', 'refs/characters/xiaoman.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up under the dashboard of a truck cab: young hands twisting bare wires from the old ammunition-tin node box onto the terminals of the cab computer, a small torch held in the mouth lighting the work. Blocking lock: Xiaoman's hands are centre frame in the foreground working at the cab computer's terminals, the ammunition-tin node box sits at frame left, and the dark underside of the dashboard fills the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+Under the dashboard of a truck cab, Xiaoman's hands twist wires from an old ammunition-tin node box onto the cab computer's terminals, tape them, and flip a small switch; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off with a very slight handheld drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's hands are centre frame in the foreground working at the cab computer's terminals, the ammunition-tin node box sits at frame left, and the dark underside of the dashboard fills the background. Start: Xiaoman's hands hold bare wires from the ammunition-tin node box and begin twisting the first wire onto a terminal post, lit by a small torch held in the mouth. Middle: The hands twist the remaining wires onto the terminals one by one, then wrap each connection with strips of tape. End: A finger pushes a small switch up into the on position and the hands pause on it. Mood: focused, tense, intimate. Blur: Very shallow depth of field; only the wires and fingertips are sharp, while the dashboard underside and the node box fall into soft dark blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+tape tearing, small switch click, faint cab interior hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

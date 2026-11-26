@@ -1,0 +1,303 @@
+{
+ "s01_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_a": {
+  "want": "绞盘都给我敲一遍！冻住一个，扣谁的口粮。",
+  "heard": "啊！脚盘都给我撬一遍！冻住一个扣谁的口粮！",
+  "ratio": 0.86,
+  "music": "Heavy, rhythmic, suspenseful orchestral percussion hits and deep low-frequency impacts",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s04_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_a": {
+  "want": "这铁盒子是啥？一个朋友。给您的车作个伴。",
+  "heard": "这铁盒子是啥？一个朋友，给您的车做个伴。",
+  "ratio": 0.94,
+  "music": "a gentle, warm acoustic guitar melody accompanied by soft orchestral strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_a": {
+  "want": "一个毛头小子，抱着个弹药盒，说要装进我的车。我差点把他扔出去。",
+  "heard": "呵，一个毛头小子，抱着个弹药盒，说要装进我的车，我差点把他扔出去。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s07_a": {
+  "want": "不费您的油。就让它跟一趟。出了事，我只找MOSS。",
+  "heard": "不费您的油，就让他跟一趟。出了事，我池兆茂死...",
+  "ratio": 0.7,
+  "music": "none",
+  "flags": []
+ },
+ "s08_a": {
+  "want": "打个赌。它要是没用，你给我洗一个月车。成！",
+  "heard": "呵，打个赌。他要是没用，你给我洗一个月车。成！",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s09_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s11_a": {
+  "want": "我头一回上地表车，手一直抖。不是冷，是怕他真把我扔下去。",
+  "heard": "哎，我头一回上地表车，手一直抖。不是冷，是怕他真把我扔下去。",
+  "ratio": 0.98,
+  "music": "a low, tense sustained synthesizer pad providing a moody background score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s12_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_a": {
+  "want": "这根线，不过MOSS的手。五八年我亲手埋的。",
+  "heard": "这根线，不过冒失的手，五八年我亲手埋的。",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s15_a": {
+  "want": "这几台算力箱，够它们想事情了。",
+  "heard": "这几台算力箱够他们想事情了",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s16_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s17_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_a": {
+  "want": "老规矩是，你要找谁办事，得先有人引荐。MOSS，就是那个唯一的介绍人。",
+  "heard": "老规矩是，你要找谁办事，得先有人引荐。MOS就是那个唯一的介绍人。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s19_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_a": {
+  "want": "队长，液压阀卡死了，货厢放不下来。",
+  "heard": "慢！队长，液压阀卡死了，货箱放不下来。",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s21_a": {
+  "want": "金老板，维修支援已排队。预计等待九小时。",
+  "heard": "金老板，维修支援已排队，预计等待九小时。",
+  "ratio": 1.0,
+  "music": "a low, tense synthesizer drone with subtle ambient chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s22_a": {
+  "want": "九小时？这个温度，货早冻废了！",
+  "heard": "九小时，这个温度，货早就废了！",
+  "ratio": 0.92,
+  "music": "low ominous synth drone creating tension",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s23_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s24_a": {
+  "want": "让它问一句吧。问谁？它认识谁？",
+  "heard": "让他问一句吧 问谁 他认识谁",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s25_a": {
+  "want": "谁也不认识。它就喊一嗓子：谁会修这种阀？",
+  "heard": "啊，谁也不认识，他就喊一嗓子，谁会修这种阀？",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s26_a": {
+  "want": "发现是一次查询，而不是一次引荐。好比赶集，你站在当中喊：谁会修阀？会的人自己答应。",
+  "heard": "发现是一次查询，而不是一次引见。好比赶集，你站在当中喊：谁会修筏？会的人自己答应。",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s27_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_a": {
+  "want": "有人在问液压阀。不是我们认识的。那就让螺丝自己答。",
+  "heard": "有人在问叶亚发，不是我们认识的。那就让罗斯自己答。",
+  "ratio": 0.77,
+  "music": "none",
+  "flags": []
+ },
+ "s29_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s30_a": {
+  "want": "有人应了！它修过四十多个这种阀。谁？",
+  "heard": "哈，有人应了，他修过四十多个这种法。谁？",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s31_a": {
+  "want": "一台……膝盖这么高的机器人。",
+  "heard": "一台膝盖这么高的机器人",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_a": {
+  "want": "先泄压。再拧左边那颗螺栓，半圈。",
+  "heard": "啊，先谢了啊。先谢了啊。在您左边那颗螺栓，半圈。",
+  "ratio": 0.56,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s33_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_a": {
+  "want": "队长，才二十分钟。",
+  "heard": "啊？队长，才20分钟？",
+  "ratio": 0.67,
+  "music": "none",
+  "flags": []
+ },
+ "s36_a": {
+  "want": "它们俩从没见过面。没人介绍，没人批准。一个问，一个答，就找着了。",
+  "heard": "我们俩从没见过面 没人介绍 没人批准 一个问 一个答 就找着了",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s37_a": {
+  "want": "我跑了二十年冰原。头一回，帮我的不是上头，是个我没见过的小东西。",
+  "heard": "我跑了二十年冰原 头一回 帮我的不是上头 是个我没见过的小东西",
+  "ratio": 1.0,
+  "music": "subtle, slow synth pad swelling in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s38_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s41_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ }
+}

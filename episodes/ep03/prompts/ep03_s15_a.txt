@@ -1,0 +1,23 @@
+# ep03 s15_a  duration=9s  seed=2081511779
+# input images: ['episodes/ep03/storyboard/s15.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide handheld shot in the pump station now lit by one hanging work lamp: Amu sliding a salvaged grey GPU compute chassis with a blue three-bladed swirl badge on its side onto a rack welded from scrap steel shelving, next to a stack of old routers; old Boye below sorting a tangle of cables, one hand patting the chassis. Blocking lock: Amu stands at frame centre-right sliding the grey chassis onto the scrap-steel rack, old routers stacked beside him; Boye sits low at frame left foreground among tangled cables; the work lamp hangs overhead.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In the pump station, now lit by a single hanging work lamp, Amu racks a salvaged GPU chassis while Boye sorts cables below; the clip opens and ends on Boye's line "这几台算力箱，够它们想事情了。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu stands at frame centre-right sliding the grey chassis onto the scrap-steel rack, old routers stacked beside him; Boye sits low at frame left foreground among tangled cables; the work lamp hangs overhead. Start: Amu pushes the grey chassis with the blue swirl badge along the shelf of the scrap-steel rack while Boye sits on the floor untangling cables. Middle: The chassis settles onto the rack beside the old routers with a metallic knock, and Boye reaches up to hand Amu a cable end. End: Boye pats the side of the chassis with one hand while the fan hums to life, and Amu takes the cable end. Mood: industrious, warm, hopeful. Blur: Deep focus on the rack and both figures; the far pump-station walls fall into dim shadow beyond the lamp's glow. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 这几台算力箱，够它们想事情了。</d>; Final line of this shot: end on “够它们想事情了。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+equipment clunking onto the iron rack, cables dragging across the floor, fan humming as it starts up; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep03 s38_a  duration=9s  seed=1437949585
+# input images: ['episodes/ep03/storyboard/s38.png', 'refs/characters/luosi.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot of the pump station now working as a hidden machine room: the scrap rack of old routers with rows of small lights, two grey compute chassis with blue three-bladed swirl badges and blinking status lights on its bottom shelf, the wooden crate with the black-and-white wordmark logo, the yellow robot with its smiley screen, old Boye sitting on a stool with his enamel mug. Blocking lock: scrap router rack with the two grey compute chassis on its bottom shelf at frame centre, wooden crate with the wordmark logo at frame right, Luosi at the foot of the rack in the centre foreground, Boye seated on a stool at frame left.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+Inside the pump station turned hidden machine room, the compute chassis hum and blink while Boye sits quietly watching over the rack, with no dialogue in this establishing shot.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, locked-off camera with an extremely slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: scrap router rack with the two grey compute chassis on its bottom shelf at frame centre, wooden crate with the wordmark logo at frame right, Luosi at the foot of the rack in the centre foreground, Boye seated on a stool at frame left. Start: The rows of small lights on the router rack glow steadily while the chassis fans spin and their status lights blink on and off; Boye sits on his stool holding his enamel mug. Middle: The camera creeps slightly closer as the blinking lights continue, with Luosi parked still at the foot of the rack and the crate standing beside it. End: Boye keeps his gaze on the glowing machines, mug in hand, as the frame settles slightly closer on the rack. Mood: quiet, secretive, watchful. Blur: deep focus across the whole room, with only a very slight softness on the far pump station walls No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+steady humming of the compute chassis fans, slow dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

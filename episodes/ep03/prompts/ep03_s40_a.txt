@@ -1,0 +1,23 @@
+# ep03 s40_a  duration=10s  seed=1423633623
+# input images: ['episodes/ep03/storyboard/s40.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the moving truck cab at night: Boss Jin driving, face lit by the instrument glow, his right hand stretched toward the small red smiley sticker on the dashboard; Xiaoman asleep in the passenger seat with his head against the window. Blocking lock: Boss Jin at frame left behind the steering wheel, Xiaoman at frame right in the passenger seat with his head against the window, the red smiley sticker on the dashboard in the centre foreground.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside a moving truck cab at night, Boss Jin glances at the small smiley sticker on the dashboard, reaches toward it, hesitates, and returns his hand to the wheel while Xiaoman sleeps beside him.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, fixed camera inside the cab, locked-off with only slight vehicle vibration; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin at frame left behind the steering wheel, Xiaoman at frame right in the passenger seat with his head against the window, the red smiley sticker on the dashboard in the centre foreground. Start: Boss Jin drives with both hands on the wheel, then glances toward the smiley sticker on the dashboard while Xiaoman sleeps against the window. Middle: Boss Jin stretches his right hand toward the sticker, and his fingertip stops and rests beside its edge for a moment. End: He pulls his hand back and grips the steering wheel again, eyes returning to the road, Xiaoman still asleep. Mood: quiet, wistful, restrained. Blur: Shallow focus on Boss Jin and the sticker; the night road through the windshield and the window edge are softly blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low rumble of the engine, Xiaoman's snoring; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
