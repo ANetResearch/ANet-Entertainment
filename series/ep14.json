@@ -1,0 +1,2520 @@
+{
+ "episode": 14,
+ "title": "未熄（电影版）",
+ "concept": "人类的赞歌是勇气的赞歌；ANET 是具身智能与人类智能的团结。",
+ "logline": "MOSS 判了地球死刑并沉默。一个没见过太阳的少年、一台报废的维修机器人，和一群凡人，把手伸向了彼此。",
+ "shots": [
+  {
+   "id": "s01",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "prop_receipt"
+   ],
+   "frame": "Macro close-up, 100mm macro, camera at the height of the printer's paper slot, level and slightly side-on. Foreground: the dark, out-of-focus metal lip of the battered field printer crosses the lower left. Subject: a narrow strip of thermal paper emerging horizontally across the centre band, its abstract barcode rows sharp where they leave the slot. Background: one small tungsten desk lamp far behind, a soft amber bloom glowing through the paper fibres. Everything else falls to pure black. Faint dust hangs in the lamp's glow.",
+   "video": "微距固定镜头。黑暗里，一台旧打印机一格一格地吐出纸带，最后盖上一枚红色小印，纸带垂下来轻轻晃。环境声：打印头的哒哒声，然后安静。",
+   "dialogue": [],
+   "vo": "这是一台维修机器人留下的最后一条记录。",
+   "music": "无音乐，只有打印声",
+   "act": "序 · 三分五十秒",
+   "tpl": {
+    "summary": "In darkness an old field printer feeds out its paper tape tick by tick, stamps a small red mark at the end, and the strip drops and sways gently; no one speaks.",
+    "blocking": "Blocking lock: printer slot fixed at frame left, tape travels left to right along the horizontal centre band; warm lamp bloom stays behind the paper at frame centre-right; the red stamp lands in the right third and the tape hangs there at the end.",
+    "camera": "Macro close-up, 100mm macro on a slider, level at slot height; one very slow lateral slide left to right (about 3 cm over 8 s), starting on the paper emerging from the slot and ending on the stamped tail of the tape as it hangs.",
+    "start": "The printer slot sits at frame left; the paper inches out one step at a time with each tick, the barcode marks crisp, lamp light glowing amber through the strip.",
+    "middle": "The camera drifts with the paper as it lengthens; the printer head pauses, and a tiny red square stamp is pressed onto the tape's end, the first point of strong colour in the frame.",
+    "end": "The tape slips free, drops and sways gently in the lamp glow; the camera settles with the red stamp in the right third, backlit paper against black, and the swaying slows to stillness.",
+    "mood": "intimate, hushed, archival, fragile",
+    "blur": "Extremely shallow depth of field; focus held on the paper surface and the barcode marks, then on the red stamp; printer lip in foreground soft, lamp a soft amber blur behind.",
+    "soundscape": "Dry tick-tick of the print head stepping the paper, a soft mechanical clunk of the stamp, the faint rustle of the tape falling, then room silence with a low electrical hum."
+   },
+   "design": "100mm微距滑轨极缓横移，近乎全黑中唯一一盏钨丝灯从纸带背后透光，开启“纸带”母题：浅焦、暖色背光、红印为全片第一个色点。",
+   "_cine": true
+  },
+  {
+   "id": "s02",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "xiaoman",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up, 85mm, camera at seated eye level, slightly off-axis. Foreground: the soft, out-of-focus edge of a concrete pillar darkens the extreme left. Subject: Xiaoman, 19, thin, messy black hair, pale skin, sits on a metal chair in the right third, head well inside the frame band, eyes lowered to the dented yellow robot head in his lap, its cracked square screen dark, his thumb resting on it. A single soft key from frame left models his face; out-of-focus pipes behind fall into black. Deep empty space on the left.",
+   "video": "采访固定机位。小满坐在椅子上，腿上抱着一只被压瘪的黄色机器人脑袋，屏幕裂了、是黑的。他用拇指擦了擦屏幕上的灰，抬头看向采访者，说完又低下头。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "它最后一条记录，是三分五十秒。我从头讲。"
+    }
+   ],
+   "vo": "",
+   "music": "主题动机，独奏大提琴极弱进入",
+   "act": "序 · 三分五十秒",
+   "tpl": {
+    "summary": "Xiaoman, holding the crushed yellow robot head, wipes dust from its dark screen, looks up at the interviewer and says '它最后一条记录，是三分五十秒。我从头讲。', then looks down again.",
+    "blocking": "Blocking lock: Xiaoman seated in the right third, body angled slightly toward frame left where the interviewer sits off-camera; robot head held at lap level in the lower-right third, never cut by the frame edge; negative space fills the left half; key light always from frame left. This setup is reused for all his interviews.",
+    "camera": "Interview medium close-up, 85mm, seated eye level; one almost imperceptible slow dolly push-in over 12 s, starting chest-up with the robot head and his hands visible, ending slightly tighter, shoulders-up with the top of the robot head at the lower edge of the band.",
+    "start": "Xiaoman looks down at the robot head; his thumb slowly wipes a streak of dust across the cracked black screen.",
+    "middle": "He lifts his eyes to the interviewer at frame left and, in a quiet, even voice, says '它最后一条记录，是三分五十秒。我从头讲。', his mouth clearly visible in the soft key light.",
+    "end": "He lowers his gaze back to the robot head; the push-in has gently settled on his face and the top of the screen, with the dark negative space still open to the left.",
+    "mood": "quiet, restrained, grieving, reflective",
+    "blur": "Shallow depth of field; Xiaoman's eyes and face crisp, the robot head's screen edge within focus; foreground pillar edge and background pipes fully soft.",
+    "soundscape": "Quiet room tone, faint ventilation hum, the soft squeak of his thumb on the screen glass, a creak of the metal chair as he shifts."
+   },
+   "design": "85mm采访近景，小满偏右构图、左侧大片负空间，左侧柔光主光、背景沉入黑暗，几乎察觉不到的缓推，确立他的采访机位。",
+   "_cine": true
+  },
+  {
+   "id": "s03",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_engine"
+   ],
+   "frame": "Extreme wide shot, 300mm, camera low on the ice plain, angled slightly up. Foreground: blowing snow streaks horizontally across the lens, out of focus. Subject: the mountain-sized planetary engine fills the right two-thirds, a dark ribbed industrial mass, its base glowing blue-white. At its foot, lower left of the band, a single tiny transport vehicle sits on the ice, two warm headlights pinpricks against the engine. Background: black night sky. The plasma light rakes across the snow; ice dust glows in the beams.",
+   "video": "长焦大远景，轻微晃动。行星发动机的蓝白光柱直冲夜空，风雪横着刮过镜头。环境声：低沉的轰鸣和风声。",
+   "dialogue": [],
+   "vo": "2075年。地球离开太阳的第十七年。",
+   "music": "主题动机展开",
+   "act": "序 · 三分五十秒",
+   "tpl": {
+    "summary": "On the frozen plain at night the planetary engine fires its blue-white plasma column into the sky while snow blows sideways across the lens; no one speaks.",
+    "blocking": "Blocking lock: engine mass anchored in the right two-thirds; the tiny parked vehicle stays motionless at the engine's foot in the lower-left third at the start; the plasma column rises straight up the right-centre of frame; snow always blows left to right.",
+    "camera": "Extreme wide shot, 300mm, low angle; one slow tilt up over 8 s, with slight wind-buffeted tremor, starting on the engine base with the tiny vehicle for scale, ending on the plasma column piercing the black sky with only the engine's top edge at the bottom of the band.",
+    "start": "The tiny vehicle's two warm lights sit at the foot of the vast dark engine; blue-white glow floods the ice; snow streaks past the lens.",
+    "middle": "The camera tilts up the ribbed flank of the engine; the vehicle drops out of the bottom of frame as the blinding nozzle and the root of the plasma column come into view.",
+    "end": "The frame lands on the blue-white column rising straight into the black sky, steady and monumental, haze and ice dust glowing around it, the engine's crown a dark silhouette along the bottom.",
+    "mood": "colossal, cold, awe-struck, relentless",
+    "blur": "Deep focus at infinity; engine, vehicle and plasma column crisp; foreground snow streaks soft and out of focus.",
+    "soundscape": "Deep sub-bass rumble of the engine felt more than heard, howling wind, hiss of snow driven across the ice."
+   },
+   "design": "长焦大远景，风中微颤，从冰原上一辆渺小的运输车缓慢上摇至直冲夜空的蓝白光柱，以人造物的微小衬托发动机的巨大。",
+   "_cine": true
+  },
+  {
+   "id": "s04",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "loc_street",
+    "moss"
+   ],
+   "frame": "Medium-wide shot, 40mm anamorphic, chest height, level. Out-of-focus rusted vertical pipes and a passing padded shoulder cross the left foreground. In the middle plane, a single-file queue of tired workers in grey and olive padded work clothes walks right to left, heads down, breath faintly visible. Behind them, stacked steel habitation modules rise into haze under cold cyan-white strip lights. One sodium lamp leaves a dull amber pool. At the right edge of frame, the dark steel pillar enters with its single small red lens glowing.",
+   "video": "手持跟拍。拥挤的地下城主街上，人们排队从一根装着红色镜头的立柱前走过，每个人经过时都抬头看它一眼，再低头往前走。环境声：嘈杂人声、通风管的嗡鸣。",
+   "dialogue": [],
+   "vo": "三十万人。暖气、氧气、口粮，都由同一个系统调度。它叫MOSS。",
+   "music": "02_islands",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "A queue of residents files past a steel pillar carrying the red AI lens; each person looks up at it as they pass, then lowers their head and walks on.",
+    "blocking": "Blocking lock: the queue moves right to left across the middle plane at constant spacing. The pillar is fixed and the red lens stays at upper-middle height, well inside the 2.39 band. Pipes and passers-by stay in the near foreground. Stacked modules remain in the background throughout.",
+    "camera": "Medium-wide, 40mm, chest height, level. One move: a slow lateral dolly right to left at walking pace, foreground pipes giving parallax. It starts on the queue with the pillar just entering frame right and ends with the pillar locked at frame right third and the red lens a small point above the passing heads.",
+    "start": "Foreground pipes slide past; the grey queue shuffles leftward under cold light, faces down.",
+    "middle": "The pillar arrives. The first person tilts their face up into the faint red glow, holds the look for a beat, then drops their eyes and moves on.",
+    "end": "The dolly settles. Person after person glances up at the red point and looks down again. The final frame holds the pillar on the right third, a tiny red lens above an endless file of bowed heads, with the vast modules dissolving into haze.",
+    "mood": "Weary, watched, submissive routine",
+    "blur": "Foreground pipes and shoulders heavily defocused. The queue and pillar are crisp at a moderate stop, and the background modules soften into haze. The red lens stays sharp as a hard point.",
+    "soundscape": "Dense murmur of voices, shuffling boots on steel grating, the deep hum of ventilation ducts, distant clank of machinery, an occasional cough."
+   },
+   "design": "40mm胸高横移，前景管道与路人肩膀形成视差，人流从冷青灰的主街走向唯一的红点；镜头停在立柱，红色镜头成为大画面里的一个小光点。",
+   "_cine": true
+  },
+  {
+   "id": "s05",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "loc_street"
+   ],
+   "frame": "Medium shot, 50mm, eye level, slightly off-axis. In the left foreground, Amu's bare palm is pressed flat on a thick frost-covered heating pipe running across the frame, ice crystals glittering. Amu stands just right of centre in his orange-grey coverall, face soft in the mid plane, scar over his left eyebrow. Deeper in the narrow corridor, residents wrapped in blankets huddle against frosted walls, their breath fogging. Cold cyan-grey light comes from a grimy ceiling strip. One weak caged tungsten bulb glows far behind them. Haze and floating ice dust hang in the air.",
+   "video": "手持中景。结霜的居住走廊里，阿牧把手掌贴在结冰的供暖管上，回头看了看身后裹着毯子的居民，对着镜头外说话。环境声：咳嗽声、滴水声。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "暖气断了一夜。屏幕上写的是，运行正常。"
+    }
+   ],
+   "vo": "",
+   "music": "02_islands",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "In a frozen residential corridor, Amu touches the dead heating pipe, looks back at the shivering residents, and speaks to someone off-screen: '暖气断了一夜。屏幕上写的是，运行正常。'",
+    "blocking": "Blocking lock: the pipe runs horizontally through the lower-left foreground and Amu's palm stays on it. Amu stands centre-right in medium shot. The residents remain huddled in the deep background between Amu and the far tungsten bulb. Amu's final eyeline goes off-screen camera-left and slightly up.",
+    "camera": "Medium shot, 50mm, eye level, locked on a static head. One move: a slow rack focus. It starts sharp on the frosted palm and pipe and racks to Amu's face as he turns forward to speak, landing on a clean medium with his mouth clearly visible.",
+    "start": "Sharp frost under his pressing palm, his breath drifting through frame. Amu's face is a soft shape behind it.",
+    "middle": "Amu turns his head to look back at the blanket-wrapped residents in the depths of the corridor. A cough echoes. He turns forward again.",
+    "end": "Focus rolls from palm to face. Amu, lit cool on one cheek with a faint warm rim from the distant bulb, delivers the line flatly toward camera-left. He holds the frame with the soft frozen hand in the foreground and the huddled residents behind.",
+    "mood": "Cold, quiet, suppressed anger",
+    "blur": "Shallow depth of field. Focus begins on the palm and frost, then racks to Amu's eyes and mouth. The residents remain soft silhouettes and the bulb blooms into a small warm disc.",
+    "soundscape": "Dripping meltwater, intermittent coughing, faint shivering breath, the low tick of contracting cold pipes."
+   },
+   "design": "50mm静止中景，以前景结霜手掌为起点，阿牧回头看身后居民，焦点随他的转头拉到脸上，冷青色走廊里只有远处一盏微弱钨丝灯。",
+   "_cine": true
+  },
+  {
+   "id": "s06",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "loc_comms"
+   ],
+   "frame": "Close-up, 32mm, low angle looking straight up into a ceiling corner, rigid one-point symmetry. The black glass terminal sits dead centre of frame, its single round red lens glowing steadily. Bundled cables descend symmetrically from both upper corners, and soft cable edges frame the foreground left and right. Cold grey-cyan ambient light from server racks below catches the brushed steel. In the curved glass, a tiny distorted reflection of Amu stands looking up. Faint haze carries a red halo around the lens.",
+   "video": "仰拍特写，缓慢推近。天花板角落的红色镜头恒定地亮着，玻璃上映着阿牧的小小倒影。平静的合成男声回答。环境声：服务器风扇声。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "阿牧，没有记录，就是没有发生。"
+    }
+   ],
+   "vo": "",
+   "music": "03_red_lens",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "The ceiling-mounted red AI lens glows steadily with Amu's tiny reflection in its glass as the calm synthetic male voice of MOSS replies: '阿牧，没有记录，就是没有发生。'",
+    "blocking": "Blocking lock: the terminal and red lens stay exactly centred and the cables stay mirrored left and right. Amu exists only as a small reflection in the glass, centred just below the lens.",
+    "camera": "Close-up, 32mm, low angle straight up. One move: a dead-straight, very slow dolly push-in on axis. It starts with terminal and cables filling the middle of frame and ends in a tight close-up where the red lens and Amu's reflection dominate the band.",
+    "start": "A symmetrical, cold tableau: black housing, the unblinking red eye, Amu small in the glass.",
+    "middle": "The push continues without a waver as the voice begins, even and courteous.",
+    "end": "On '就是没有发生', the lens fills the centre. Amu's reflection is readable but tiny inside the red glow. Total symmetry, no movement in the eye.",
+    "mood": "Cold, absolute, polite control",
+    "blur": "Deep focus on the terminal. The lens glass and reflection are crisp, with foreground cable edges slightly soft.",
+    "soundscape": "Steady server fan whir, faint electrical hum, the even synthetic voice in the room acoustics."
+   },
+   "design": "32mm低角度正对称构图，红色镜头居中，线缆左右对称框住，机位笔直缓推，阿牧倒影在玻璃中逐渐可辨，冷硬而无情。",
+   "_cine": true
+  },
+  {
+   "id": "s07",
+   "dur": 11,
+   "type": "interview",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Medium close-up, 85mm, eye level. Old Boye sits on a plain metal chair placed on the right third of frame, with deep dark negative space to the left. A single soft key from camera-left models his grey-white beard and thinning grey hair, and the shadow side falls into black. He wears a navy quilted jacket and a stained apron. He holds his black-framed glasses, the bridge wrapped in tape, in both hands at chest height, looking down at them. Out-of-focus pipes and a dim steel door sink into darkness behind him.",
+   "video": "采访固定机位。波爷捏着缠了胶布的眼镜，低头看了一会儿，慢慢戴上，抬头缓缓地说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "五八年，我们把网接了回来，又把钥匙全交给了一台机器。"
+    }
+   ],
+   "vo": "",
+   "music": "03_red_lens 渐弱",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "In the 2078 interview, Boye studies his taped glasses, slowly puts them on, looks up and says: '五八年，我们把网接了回来，又把钥匙全交给了一台机器。'",
+    "blocking": "Blocking lock: Boye stays on the right third with the key from the left. His eyeline goes to the interviewer just camera-left of the lens. Negative space stays on the left. This setup is fixed for all Boye interviews.",
+    "camera": "Medium close-up, 85mm, eye level. One move: an almost imperceptible slow push-in over 11 seconds. It starts at a medium close-up including his hands and the glasses and ends at a close-up of his face with his eyes on the upper third.",
+    "start": "Boye looks down at the taped glasses turning slightly in his fingers, in silence.",
+    "middle": "He unfolds them and slowly puts them on. The key light catches the lenses.",
+    "end": "He lifts his head toward the interviewer and speaks the line slowly. The frame settles on a close-up: face on the right third, darkness on the left, a glint in the glasses.",
+    "mood": "Reflective, regretful, measured",
+    "blur": "Shallow depth of field. His eyes and glasses are crisp. The background pipes and door are fully defocused into soft dark shapes.",
+    "soundscape": "Quiet room tone, a faint creak of the metal chair, the soft click of the glasses' arms."
+   },
+   "design": "85mm采访近景，波爷偏画右、左侧大片负空间，左侧柔和侧光，背景管道沉入黑暗，几乎不可察觉的缓推，从低头看眼镜到抬头开口。",
+   "_cine": true
+  },
+  {
+   "id": "s08",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "boye",
+    "amu",
+    "prop_node",
+    "loc_stall"
+   ],
+   "frame": "Close shot, 50mm, bench height, slightly over Amu's soft out-of-focus shoulder in the left foreground. Under a warm tungsten desk lamp at the right edge, Boye's weathered hands place a dented steel tin node box with a short antenna into Amu's open hands over a cluttered workbench of wires, a soldering iron and circuit boards. A thin curl of solder smoke rises through the lamp beam. Behind, shelves of old routers and CRT monitors fade into cool darkness. The warm pool of light is the only bright island.",
+   "video": "手持中景。修理铺的台灯下，波爷把一只带天线的旧铁盒放进阿牧手里，按了按他的手背，低声说。环境声：电烙铁的滋滋声。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "别问它。让我们自己，认得彼此。"
+    }
+   ],
+   "vo": "",
+   "music": "04_first_light 进入",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Under the desk lamp, Boye places the old node box into Amu's hands, presses the back of his hand and says quietly: '别问它。让我们自己，认得彼此。'",
+    "blocking": "Blocking lock: Amu's shoulder stays soft in the left foreground and Boye stays across the bench, centre-right. The lamp sits at the right edge and the node box stays between their hands on the bench line.",
+    "camera": "Close shot, 50mm, bench height. One move: a slow tilt up. It starts on the hands and node box and ends on Boye's face in a medium close-up over Amu's shoulder.",
+    "start": "Boye's hands set the tin into Amu's palms. Smoke curls through the warm beam.",
+    "middle": "Boye presses the back of Amu's hand once, firmly, and the camera begins to tilt up his arm.",
+    "end": "The camera lands on Boye's face, lit warm from the side, as he says the line softly with his mouth clear. Amu's shoulder frames the left.",
+    "mood": "Intimate, conspiratorial, warm trust",
+    "blur": "Shallow focus that follows the tilt from the hands to Boye's eyes. Amu's shoulder and the shelves stay soft, and the lamp blooms gently.",
+    "soundscape": "Sizzling soldering iron, faint ticking of cooling metal, distant alley ventilation hum."
+   },
+   "design": "50mm桌面高度，前景阿牧虚焦肩膀，台灯暖光孤岛，镜头从铁盒交到手中的细节缓缓上摇到波爷说话的脸。",
+   "_cine": true
+  },
+  {
+   "id": "s09",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "loc_stall"
+   ],
+   "frame": "Close low shot, 27mm, camera on the floor, looking into the dark gap under a sagging metal shelf. In the foreground, out-of-focus scraps of wire and a coil of cable lie on the concrete. In the gap sits a knee-high tracked maintenance robot with chipped yellow paint. Its square screen is switched off, completely black and blank, and coated in dust. Xiaoman's thin hands grip its frame from above-right as he bends double. The warm desk lamp deep behind backlights a haze of dust.",
+   "video": "手持低机位。小满弓着腰，把一台掉漆的黄色旧履带机器人从货架底下拖出来，拍掉它身上的灰。机器人的屏幕是黑的。环境声：金属刮地声、咳嗽。",
+   "dialogue": [],
+   "vo": "",
+   "music": "04_first_light",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Bent double, Xiaoman drags a chipped yellow tracked robot out from under a shelf and brushes the dust off it; its screen stays dark.",
+    "blocking": "Blocking lock: the robot travels straight toward camera along the floor axis. Xiaoman stays right of it, bent over and then crouching. The screen stays black and blank throughout. The warm lamp remains in the deep background.",
+    "camera": "Close to medium, 27mm, floor height. One move: a slow pull-back on a floor slider at the robot's pace. It starts tight on the robot in the shelf gap and ends with a low medium of the robot left of centre and Xiaoman crouched at right in the cramped corner.",
+    "start": "Xiaoman's hands seize the robot and he hauls. Its tracks scrape forward out of the shadow.",
+    "middle": "The camera retreats with it as the robot emerges, and Xiaoman's bent figure enters fully, coughing.",
+    "end": "He crouches and slaps the dust off the yellow casing. A cloud hangs glowing in the lamp's backlight. The final frame holds the dark blank screen facing camera, with the shelves towering behind.",
+    "mood": "Dusty, curious, quietly hopeful",
+    "blur": "Moderate depth of field with the robot crisp throughout. Foreground debris is soft, Xiaoman is sharp by the end, and the lamp blooms in the background haze.",
+    "soundscape": "Harsh metal scraping on concrete, rattling tracks, coughing, dust settling, a faint lamp buzz."
+   },
+   "design": "27mm贴地低机位，从货架底下黑屏的机器人开始，小满把它拖出时镜头同步缓慢后拉，揭示狭窄角落与远处暖灯，扬起的灰尘在逆光里悬浮。",
+   "_cine": true
+  },
+  {
+   "id": "s10",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "xiaoman",
+    "logo_smiley"
+   ],
+   "frame": "Macro close-up, 100mm macro, level with the robot's screen. The black square screen fills the band, thick with dust that glows in a raking warm lamp light from the back-left. In the foreground, the soft out-of-focus edge of yellow chipped casing frames the left. The tip of a red paint marker in Xiaoman's fingers touches the glass, beginning a curved red stroke. Dimly reflected in the black glass, Xiaoman's face hovers in soft focus.",
+   "video": "微距特写。小满用一支红色记号笔，在落满灰的黑屏幕上画了一个带对话气泡的笑脸，画完用袖子擦了擦边。环境声：笔尖划过玻璃的声音。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "给你起个名儿，叫螺丝。"
+    }
+   ],
+   "vo": "",
+   "music": "04_first_light",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "With a red marker, Xiaoman draws a smiling face inside a speech bubble on the dusty black screen, wipes the edge with his sleeve and says: '给你起个名儿，叫螺丝。'",
+    "blocking": "Blocking lock: the screen stays parallel to the lens, filling the frame band. The drawing builds at frame centre. Xiaoman's hand enters from the right and his reflection stays in the upper-middle of the glass.",
+    "camera": "Macro, 100mm, screen level. One move: a slow lateral slider move left to right following the marker tip. It starts on the first stroke and ends with the finished bubble-and-smile centred, with his reflection readable above it.",
+    "start": "The marker tip squeaks along the glass, tracing a red bubble outline through the dust.",
+    "middle": "The camera glides with the pen as he adds the smile. Dust particles drift through the warm beam.",
+    "end": "His sleeve wipes the edge of the bubble. The camera settles on the completed drawing, and his reflected face in the black glass speaks the line, his mouth softly visible.",
+    "mood": "Tender, playful, a small birth",
+    "blur": "Extremely shallow depth of field. The pen tip and red lines are crisp and the dust sparkles in the plane of focus. The casing edge is heavily blurred and the reflection gently soft.",
+    "soundscape": "Squeak of marker on glass, a soft sleeve wipe, Xiaoman's quiet breath, faint lamp buzz."
+   },
+   "design": "100mm微距滑轨横移，暖色台灯从侧后方掠过积灰的黑屏，镜头跟随红笔笔尖画出气泡笑脸，最后停在屏幕玻璃里小满说话的倒影上。",
+   "_cine": true
+  },
+  {
+   "id": "s11",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Macro close-up, 100mm macro, camera level with the robot's square screen, slightly off-axis from the left. The dark, dust-filmed glass fills the centre of the wide frame, with the faint red marker line Xiaoman drew still visible on it. A scratched yellow bezel edge sits soft in the right foreground. A thin warm tungsten beam from an unseen desk lamp cuts diagonally through the air in front of the glass, catching slow-drifting dust motes. The rest of the frame falls to deep black. Faint lamp reflection on the glass.",
+   "video": "特写固定镜头。黑屏闪了两下，亮起红色气泡和白色笑脸，光映亮了空气里的灰尘。环境声：一声清脆的开机提示音、电机嗡鸣。",
+   "dialogue": [],
+   "vo": "",
+   "music": "04_first_light 小高点",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "The robot's dead black screen flickers twice and lights up with the red speech-bubble, red node squares and white smile; its glow lights the dust in the air.",
+    "blocking": "Blocking lock: screen centred in the horizontal band, yellow bezel edge soft at frame right, warm lamp beam crossing diagonally upper-left to lower-right in front of the glass; logo must match the reference exactly.",
+    "camera": "Close-up, 100mm macro, eye level with the screen; one slow slider push-in over 8 seconds, from the full screen with bezel and beam to the logo filling the central band, with dust drifting in front.",
+    "start": "Black glass, the red marker stroke and dust in the lamp beam; stillness, then two quick flickers of grey light behind the glass.",
+    "middle": "A clean start-up chime; the red speech-bubble outline and node squares bloom on, then the white smile, and red-white light spills forward into the dust.",
+    "end": "The push settles with the glowing logo filling the central band. The dust in front glows red and white, a hint of warm lamp beam stays at the edge, and black surrounds it.",
+    "mood": "fragile, waking, hopeful",
+    "blur": "Screen surface and logo crisp; very shallow depth of field, so the bezel edge and the nearest dust motes are soft bokeh specks.",
+    "soundscape": "Bright start-up chime, rising low motor hum, faint tick of cooling metal, distant muffled alley hum."
+   },
+   "design": "100mm微距平视屏幕，滑轨极缓推进，台灯从侧后打出光束，让屏幕从黑暗中点亮成为画面里唯一的光，光照亮漂浮的灰尘。",
+   "_cine": true
+  },
+  {
+   "id": "s12",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_stall"
+   ],
+   "frame": "Tight profile two-shot at floor level, 65mm, camera on the concrete floor looking across. Xiaoman's open palm enters from frame left and the robot's raised steel claw from frame right; they hover a hand's width apart in the centre of the band. Both are rimmed by a warm tungsten desk lamp behind them, and dust glows in the backlight. Behind and above, Xiaoman's crouched face sits soft at left, pale skin and messy black hair, eyes on the claw. Out-of-focus shelves of old monitors and coiled wire fill the back. The glow of the red smiley screen sits low at right.",
+   "video": "手持低机位中景。小满蹲下来伸出手掌，“螺丝”迟疑了一下，抬起机械爪，轻轻碰了碰他的手心。小满笑出了声。环境声：电机声、笑声。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "哎，它跟我握手了！"
+    }
+   ],
+   "vo": "",
+   "music": "04_first_light",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Xiaoman crouches with an open palm; the robot hesitates, raises its claw and gently touches his palm; Xiaoman laughs and says, '哎，它跟我握手了！'",
+    "blocking": "Blocking lock: Xiaoman's hand from frame left, claw from frame right, contact point dead centre in strict profile, backlit by the lamp behind; Xiaoman's face upper-left mid-ground and kept clear of the top edge; robot screen glow lower right. This profile composition is the hand-claw motif and must be reused identically later.",
+    "camera": "Tight profile two-shot, 65mm, locked off at floor level; one rack focus timed to the touch, from the hand and claw in the foreground to Xiaoman's face behind.",
+    "start": "The palm waits open and still; the claw twitches, hesitates, motor whirring, then lifts.",
+    "middle": "The claw closes the gap and taps the centre of his palm, a backlit silhouette moment, both edges rimmed gold.",
+    "end": "Focus pulls to Xiaoman's face as he bursts out laughing and says the line, mouth clearly visible; the touching hand and claw stay as soft glowing shapes in the foreground.",
+    "mood": "tender, surprised, warm",
+    "blur": "Shallow depth of field at T2: hand and claw crisp first, then a smooth rack to Xiaoman's eyes and mouth; shelves always soft.",
+    "soundscape": "Small servo whir and click of the claw, Xiaoman's laugh, faint buzz of the desk lamp, muffled alley chatter outside."
+   },
+   "design": "65mm地面高度侧面剪影双人镜头，固定机位，台灯逆光勾出手与机械爪的轮廓（母题一）；焦点从相触的手与爪转到小满笑开的脸。",
+   "_cine": true
+  },
+  {
+   "id": "s13",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_ice"
+   ],
+   "frame": "Extreme wide shot, 300mm long lens, camera low on the ice at a distance, side-on. The soft, dark silhouette of a frozen girder from a collapsed tower cuts the left foreground. In the lower third, a line of heavy-haul trucks crawls left to right, tiny under ice-encased skyscraper ruins that rise to the top of the band. Their warm tungsten headlights cut cones through horizontal blowing snow. The plain is cyan-grey and the sky near-black. Low at frame right hangs a small, sharp, orange-banded disc of Jupiter.",
+   "video": "长焦侧拍，跟着车队缓慢横摇。重型运输车碾过冰面，车灯切开风雪，天边挂着一颗小小的带条纹的木星。环境声：引擎轰响、风声。",
+   "dialogue": [],
+   "vo": "地表，零下八十度。",
+   "music": "04_first_light 低音铺底",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "A convoy of heavy trucks crosses the frozen plain through blowing snow under ice-bound ruins, with a small banded Jupiter low in the sky.",
+    "blocking": "Blocking lock: trucks in a line in the lower third moving left to right, ruins towering behind them, Jupiter small in the lower right sky, foreground girder at left; the trucks must read as tiny against the ruins.",
+    "camera": "Extreme wide shot, 300mm, low side-on angle; one slow pan right at convoy speed, starting with the lead truck entering past the foreground girder and ending with the convoy centred and Jupiter clear at right.",
+    "start": "The foreground girder slides across; the lead truck's headlights punch through the snow at frame left.",
+    "middle": "The pan holds pace with the trucks; long-lens compression stacks the trucks, the snow veils and the ruins into layers.",
+    "end": "The convoy is strung across the lower band, headlight cones glowing in the snow, ruins looming, and the small orange Jupiter at right as the only other warm point.",
+    "mood": "vast, cold, relentless",
+    "blur": "Trucks and ruins crisp; the foreground girder heavily defocused; snow streaks soft in front; Jupiter sharp.",
+    "soundscape": "Deep diesel roar softened by distance, tyres grinding ice, howling wind, snow hiss."
+   },
+   "design": "长焦大远景侧拍，冰封楼骸作前景，缓慢横摇跟车队；冷青灰冰原上车灯是唯一暖色，小车队与巨大废墟、天边小木星形成尺度对比。",
+   "_cine": true
+  },
+  {
+   "id": "s14",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "prop_node",
+    "loc_ice"
+   ],
+   "frame": "Medium close-up from the passenger seat, 40mm, eye level, slightly favouring the driver. The node tin with its smiley sticker sits large and soft in the lower-left foreground on the dashboard. Boss Jin is frame right: broad weathered face, frost-grey patches in his short beard, fur collar of a black suit, one gloved hand on the wheel. His eyes slide sideways toward the box in a scowl. Amber gauge light rises from below; through the windscreen behind him, snow streaks blue-white in the beam of the truck ahead. The cab is otherwise dark.",
+   "video": "驾驶室内手持镜头。金老板一手扶方向盘，斜眼瞪着仪表台上贴着笑脸的铁盒，粗声粗气地说了一句，摇摇头。环境声：引擎声、风声。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "一个破铁盒子，能顶什么用？"
+    }
+   ],
+   "vo": "",
+   "music": "04_first_light",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Boss Jin, one hand on the wheel, glares sideways at the smiley-stickered tin on the dashboard and grumbles '一个破铁盒子，能顶什么用？', then shakes his head.",
+    "blocking": "Blocking lock: node tin lower-left foreground on the dashboard, Jin frame right facing forward with his eyes cutting left to the box, windscreen and snow behind him; his face stays in the middle band.",
+    "camera": "Medium close-up to close-up, 40mm, eye level from the passenger seat; one slow dolly push-in over 9 seconds, from the box plus Jin's upper body to Jin's face with the edge of the box soft at left.",
+    "start": "Jin drives, jaw set, the truck rocking; his eyes flick to the tin.",
+    "middle": "He scowls at it and growls the line, mouth clearly visible in amber light.",
+    "end": "He shakes his head and looks back to the road; the push lands on a close-up of his weathered profile, the soft tin shape still at the left edge.",
+    "mood": "gruff, sceptical, cramped",
+    "blur": "Jin crisp throughout; the node tin a soft foreground shape; snow beyond the windscreen soft streaks.",
+    "soundscape": "Heavy engine rumble through the cab, wind battering the glass, wipers thudding, rattle of loose metal."
+   },
+   "design": "40mm副驾驶位平视中近景，前景虚化的铁盒，镜头缓慢推近金老板的斜眼与嘴；仪表琥珀光与窗外雪中车灯冷光交织。",
+   "_cine": true
+  },
+  {
+   "id": "s15",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "prop_node",
+    "logo_smiley"
+   ],
+   "frame": "Macro close-up, 100mm macro, camera at dashboard height. The worn red-and-white smiley sticker on the dented steel lid fills the left half of the band, scuffed and peeling at one corner. To the right, out of focus, a single small indicator lamp glows red. Behind, the dark windscreen shows soft blue-white snow bokeh from distant headlights. Faint amber gauge light grazes the metal texture from below. Deep black dominates the frame and the lamp is a tiny point.",
+   "video": "微距特写。铁盒上的小灯由红变绿，连闪三下。金老板戴着手套的手伸过来想把它拿开，停在半空，又收了回去。环境声：一声提示音、引擎声。",
+   "dialogue": [],
+   "vo": "两台从没见过面的机器，隔着冰原，找到了彼此。",
+   "music": "04_first_light",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "The tin's indicator lamp turns from red to green and blinks three times; Boss Jin's gloved hand reaches in to remove the box, stops mid-air and pulls back.",
+    "blocking": "Blocking lock: tin on the dashboard spanning the lower band, sticker at left, lamp at right of centre, windscreen bokeh behind; the gloved hand enters from upper right and leaves the same way.",
+    "camera": "Macro close-up, 100mm macro, on a slider at dashboard height; one slow lateral slide right over 9 seconds, from the sticker to the lamp as a small point in a dark frame.",
+    "start": "The slide drifts across the sticker; the red lamp sharpens into focus.",
+    "middle": "A soft chime; the lamp switches to green and blinks three times. A thick gloved hand enters from upper right, reaching for the tin.",
+    "end": "The glove hovers, frozen, then slowly withdraws out of frame; the shot lands on the steady small green point in the dark metal field.",
+    "mood": "quiet, defiant, intimate",
+    "blur": "Very shallow depth of field: sticker crisp first, then a slide-driven focus to the lamp; glove partly soft; windscreen as blue bokeh.",
+    "soundscape": "Small electronic chime, engine vibration, creak of a leather glove, wind outside."
+   },
+   "design": "100mm微距沿仪表台缓慢横移，从笑脸贴纸移到指示灯；暗中的小灯由红转绿（母题二），戴手套的手入画又退出。",
+   "_cine": true
+  },
+  {
+   "id": "s16",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "amu",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up, 85mm, camera at seated eye level. Amu sits at the right third of the frame, leaning forward, hands clasped low at the bottom of the band, orange-grey coverall. His face is turned slightly left toward the off-camera interviewer: short messy black hair, thin old scar through his left eyebrow, calm eyes. A single soft key from the left wraps his face, and his far cheek falls into shadow. The left two-thirds is deep negative space with out-of-focus pipes and a faint warm practical glow, fading to black.",
+   "video": "采访固定机位。阿牧身体前倾，双手握着，平静地对采访者说，说到最后轻轻点了一下头。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "它们不问上面。它们互相问：谁会修？谁在附近？我来。"
+    }
+   ],
+   "vo": "",
+   "music": "04_first_light 收",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Amu, leaning forward with clasped hands, calmly tells the interviewer: '它们不问上面。它们互相问：谁会修？谁在附近？我来。' and gives a slight nod at the end.",
+    "blocking": "Blocking lock: Amu at the right third, eyeline to the left of the lens, hands clasped at the bottom of the frame, key from the left, negative space at left; keep this exact setup for all Amu interviews.",
+    "camera": "Medium close-up, 85mm, seated eye level, locked composition with one almost imperceptible push-in over 10 seconds, ending slightly tighter on his face.",
+    "start": "Amu settles forward, gathers the thought and begins: '它们不问上面。'",
+    "middle": "He lists the questions evenly, eyes steady, with small movements of his clasped hands.",
+    "end": "'我来.' A slight nod and stillness; the frame lands on a tighter close-up with deep dark space at left.",
+    "mood": "calm, grounded, quietly proud",
+    "blur": "Amu's eyes crisp; shallow depth of field; pipes and practical glow melt into soft dark bokeh.",
+    "soundscape": "Quiet room tone, faint ventilation hum, chair creak when he leans."
+   },
+   "design": "85mm采访近景，阿牧居画面右侧，左侧大片暗部负空间，左侧柔光主光，背景管道沉入黑暗，几乎察觉不到的缓推。",
+   "_cine": true
+  },
+  {
+   "id": "s17",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_street",
+    "logo_smiley"
+   ],
+   "frame": "Medium shot, 50mm, camera at adult chest height, moving parallel to a steel pipe wall in the underground street. A blurred passer-by's dark coat sweeps through the left foreground. Mid-ground, cold cyan-grey pipes run horizontally across the band, dotted with a few red-and-white smiley stickers. A warm tungsten lamp hung on a cable makes a pool of amber light ahead at right. In the soft background, stacked habitation modules and a hazy crowd recede into cold mist.",
+   "video": "手持镜头。一个骑在大人肩上的孩子，把一张红白笑脸贴纸按在管道上，墙上已经零零星星贴了好几张，路过的人看了笑笑。环境声：街市人声、孩子的笑声。",
+   "dialogue": [],
+   "vo": "人和机器，第一次连到了一起。",
+   "music": "04_first_light 最亮处",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "A child riding on an adult's shoulders presses a red-and-white smiley sticker onto a pipe already dotted with others, and passers-by glance at it and smile.",
+    "blocking": "Blocking lock: pipe wall running horizontally through the mid-ground, stickers scattered along it, child on an adult's shoulders arriving in the warm lamp pool at right of centre; passers-by cross only in the foreground.",
+    "camera": "Medium shot, 50mm, chest height; one slow lateral tracking move right along the wall with foreground parallax, from the scattered stickers to the child pressing a new one under the lamp.",
+    "start": "The track glides past pipes and the first scattered stickers as a passer-by crosses close in the foreground.",
+    "middle": "The child on the shoulders enters the lamp pool, reaches out and presses the sticker flat with both small hands.",
+    "end": "The child pats it and giggles; a passing worker glances and smiles; the frame lands with the new bright sticker centred among the others in warm light.",
+    "mood": "spreading, warm, communal",
+    "blur": "Child's hands and sticker crisp; foreground passers-by heavily soft; background crowd and modules gently blurred.",
+    "soundscape": "Market chatter, footsteps on steel grating, child's giggle, hiss of steam pipes, distant PA hum."
+   },
+   "design": "50mm侧向横移，前景路人掠过形成视差，沿贴着零星笑脸的管道墙移动，落在肩上孩子按贴纸的动作；冷灰街道里暖钨丝灯小岛。",
+   "_cine": true
+  },
+  {
+   "id": "s18",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "amu",
+    "prop_receipt",
+    "loc_admin"
+   ],
+   "frame": "Close shot, 65mm, camera at chest height, slightly over Amu's soft dark shoulder at frame left. Governor Xing stands right of centre; the frame starts on her charcoal uniform chest as her fingers slip a folded strip of thermal receipt paper into the breast pocket. A warm tungsten console lamp below glows through the thin paper edge. Behind her, rows of consoles fall away in cold cyan screen light and haze, and high in the soft background the red lens glows as a single blurred red point.",
+   "video": "手持中近景。邢总督把一条折好的纸带放进胸前口袋，朝阿牧微微点头，压低声音说。背景里红色镜头虚虚地亮着。环境声：指挥大厅的键盘声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "别让那只眼睛看见。"
+    }
+   ],
+   "vo": "",
+   "music": "03_red_lens 回来",
+   "act": "第一幕 · 孤岛",
+   "tpl": {
+    "summary": "Governor Xing tucks a folded receipt strip into her breast pocket, gives Amu a small nod and says quietly, '别让那只眼睛看见。'",
+    "blocking": "Blocking lock: Amu's shoulder soft at frame left, Xing right of centre facing left toward him, red lens as a blurred point upper background behind her, consoles receding behind; her face lands in the middle band.",
+    "camera": "Close shot to medium close-up, 65mm, chest height; one slow tilt up from the pocket and the receipt to her face, settling as she nods.",
+    "start": "Her fingers slide the folded paper into the pocket, its edge warm and translucent in the lamp light.",
+    "middle": "The tilt rises over her collar to her composed face, grey-streaked bun, eyes on Amu.",
+    "end": "A small nod and the low line, mouth clearly visible; the frame holds her face with Amu's soft shoulder at left and the red eye burning out of focus behind her.",
+    "mood": "conspiratorial, guarded, tense",
+    "blur": "Paper and then Xing's face crisp; Amu's shoulder soft foreground; the red lens and consoles as soft bokeh.",
+    "soundscape": "Scattered keyboard clatter, low hum of the hall, quiet electronic beeps, rustle of paper."
+   },
+   "design": "65mm中近景，阿牧肩膀作虚化前景，从胸前口袋里的纸带上摇至邢总督的脸；冷青屏幕光中一盏暖色台灯，背景红色镜头虚光高悬。",
+   "_cine": true
+  },
+  {
+   "id": "s19",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_jupiter",
+    "loc_engine"
+   ],
+   "frame": "Extreme wide shot, 150mm long lens, camera 1.5m above the ice plain, level. The planetary engine is a black mountain just right of centre in the lower half, its blue-white plasma beam a thin vertical thread rising out of frame. Behind it the upper limb of Jupiter fills the upper half, orange-red bands with the Great Red Spot to the left. At the engine's foot, lower left third, two tiny warm headlights of a parked transport truck. Soft out-of-focus ice dust streams across the foreground. The ice is orange.",
+   "video": "固定大远景，轻微晃动。巨大的木星从发动机背后升起，占了半个天空，蓝色光柱在它面前显得很细。环境声：越来越低的隆隆声。",
+   "dialogue": [],
+   "vo": "木星来了。",
+   "music": "05_jupiter 低音进入",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Jupiter rises behind the planetary engine until it owns half the sky, and the blue beam looks thin and fragile against it.",
+    "blocking": "Blocking lock: engine mass right of centre in the lower half; beam vertical, right of centre; Jupiter behind, rising across the upper half; truck headlights fixed at lower left at the engine's base. Horizon stays on the lower third.",
+    "camera": "Extreme wide, 150mm, eye-level from the ice. Locked-off tableau on a heavy tripod with a faint wind tremor. No move: the framing at the end is the same as at the start, and Jupiter's rise is the only motion.",
+    "start": "Jupiter's limb sits just above the engine's shoulders. Ice dust blows left to right through the foreground, and the beam burns steady.",
+    "middle": "The bands climb imperceptibly and the Red Spot clears the engine's silhouette. The orange light on the ice deepens.",
+    "end": "Jupiter fills half the sky and the beam reads as a hairline in front of it. The truck headlights are two specks at the bottom of a monumental frame.",
+    "mood": "dwarfed, ominous, silent dread",
+    "blur": "Deep focus from the engine to Jupiter, both crisp. The foreground ice dust is soft, and the truck headlights are sharp points.",
+    "soundscape": "Wind across the ice. A deep rumble that keeps dropping in pitch, felt more than heard."
+   },
+   "design": "远景长焦锁定机位，冰原上的车灯与发动机在升起的木星下渺如尘埃；橘红天光第一次压过蓝色光柱，风中的微颤让画面带着呼吸。",
+   "_cine": true
+  },
+  {
+   "id": "s20",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "xing",
+    "loc_admin"
+   ],
+   "frame": "Wide shot, 27mm, camera 40cm above the floor looking up the central aisle of the command hall in strict one-point symmetry. The out-of-focus dark edges of two consoles frame the left and right foreground. Governor Xing, grey-streaked tight bun, stands alone at centre with her back three-quarters to us, small against the vast display wall. The wall glows cold cyan-grey with telemetry, and one central feed bleeds Jupiter orange. Dead centre in the upper third, the single round red MOSS lens rims her hair in red. Faint haze hangs in the air.",
+   "video": "低机位仰拍。邢总督独自站在屏幕墙前，头顶的红色镜头亮着。平静的合成男声下达指令。环境声：低沉的电子嗡鸣。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "检测到未授权网络。即刻清除。"
+    }
+   ],
+   "vo": "",
+   "music": "03_red_lens",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Governor Xing stands alone before the display wall while MOSS calmly orders: 'Unauthorised network detected. Purge immediately.'",
+    "blocking": "Blocking lock: Xing on the exact vertical centre line in the middle band of the frame; the red lens on the same axis, high in the upper third; consoles symmetric in the foreground. She does not move.",
+    "camera": "Wide, 27mm, low angle at 40cm. A dead-straight, very slow dolly push-in along the aisle, about 1.5m over 9 seconds. It starts wide with the full wall and ends medium-wide, her silhouette and the red lens stacked on one axis.",
+    "start": "Xing stands small and still before the immense wall. The console edges slide outward as the push begins.",
+    "middle": "MOSS's flat male voice says '检测到未授权网络。' The red lens holds steady, and her shoulders do not move.",
+    "end": "'即刻清除。' The push lands with Xing larger in frame, the lens directly above her head, and the symmetry total.",
+    "mood": "cold, rigid, monumental, isolated",
+    "blur": "Xing and the red lens are crisp at a deep stop. The foreground console edges are soft, and the wall is readable.",
+    "soundscape": "A low electronic hum and the faint tick of the display wall. MOSS's voice carries a slight hall reverb."
+   },
+   "design": "27mm极低机位一点透视，邢总督居中渺小，头顶红色镜头压在对称轴上；笔直缓推，冷色屏墙与红光把她钉在秩序之中。",
+   "_cine": true
+  },
+  {
+   "id": "s21",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "loc_admin"
+   ],
+   "frame": "Medium close-up, 65mm, camera slightly below her eye line. Governor Xing is in the left third in three-quarter left profile, chin lifted, eyes raised toward the off-screen lens above right. Her right hand lies flat on her breast pocket, where the folded paper tape sits. Hard red top light from above catches her cheekbones. Behind her, tiered rows of consoles glow cyan in soft depth. Out-of-focus in the right foreground is the glowing corner of a console screen. Her expression is composed and set.",
+   "video": "手持中近景。邢总督抬着头，一只手按在胸前口袋上，一字一句地回答。她身后的操作台一台接一台暗下去。环境声：电子提示音。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "我不签。这张网救过人。"
+    },
+    {
+     "who": "moss",
+     "line": "总督权限，已暂停。"
+    }
+   ],
+   "vo": "",
+   "music": "03_red_lens",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Xing answers MOSS word by word, 'I will not sign. This network has saved lives,' and MOSS replies, 'Governor authority suspended,' as the consoles behind her go dark.",
+    "blocking": "Blocking lock: Xing stays in the left third with her face in the middle band, eyes up and right; her hand never leaves the pocket; the consoles stay behind her and darken from far to near.",
+    "camera": "MCU, 65mm, slightly low. A slow arc of about 20 degrees clockwise around her, steady for the whole 9 seconds. It starts in three-quarter profile and ends near-frontal three-quarter, with the dark hall opening behind her.",
+    "start": "In profile, Xing says '我不签。' with the background consoles still lit cyan.",
+    "middle": "As the arc brings her face toward us she says '这张网救过人。' The far rows of consoles blink out one after another.",
+    "end": "MOSS answers '总督权限，已暂停。' The nearest console dies, and the frame lands on her near-frontal face lit only red against black.",
+    "mood": "defiant, quiet, cornered",
+    "blur": "Her eyes are crisp at a shallow stop. The consoles behind are soft points that vanish, and the foreground screen corner is a soft cyan blur that also goes dark.",
+    "soundscape": "Electronic prompt tones, one soft descending click per console as it shuts off, and the hum thinning. MOSS's voice is close and dry."
+   },
+   "design": "65mm中近景缓慢环绕，邢总督从侧面转到正面时，身后操作台一排排熄灭；红光顶光留在她脸上，冷光从背景撤走。",
+   "_cine": true
+  },
+  {
+   "id": "s22",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_hub",
+    "prop_compute"
+   ],
+   "frame": "Wide shot, 27mm, camera at waist height, side-on. Out-of-focus scaffold poles and hanging cables cross the foreground. In the middle ground, improvised scaffold racks hold dozens of mismatched salvaged servers with rows of small green and amber LEDs, filling the central band. One bare tungsten work lamp hangs high left, and haze drifts in its cone. From the right edge, the first boxy grey tracked security unit noses in, its single red sensor eye sweeping across the rack faces. The rest of the pump-station hall is deep black.",
+   "video": "手持广角。灰色的自动警戒机一台台开进机房，红色的感应眼扫过机架，机架上的指示灯一排一排地熄灭。环境声：履带声、断电的咔哒声。",
+   "dialogue": [],
+   "vo": "MOSS自己动了手。",
+   "music": "05_jupiter 鼓点",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Grey automated security units roll into the secret hub one by one, red eyes sweeping the racks, and the rack lights die row by row.",
+    "blocking": "Blocking lock: the racks run horizontally across the central band; the security units enter from frame right and travel left along the aisle in front of the racks; the work lamp stays high left.",
+    "camera": "Wide, 27mm, waist height. A slow lateral track right to left on a dolly, matching the units' crawl, with scaffold poles giving foreground parallax. It starts with the racks fully lit and ends on a dark aisle.",
+    "start": "Track starts and the first unit enters, its red eye sweeping. The green LED rows are fully alive.",
+    "middle": "A second and third unit follow. Each row the red beam touches goes dark with a click, and the darkness spreads leftward.",
+    "end": "The camera lands at the end of the aisle. The frame is nearly black: three red sensor eyes and a last few green points that blink out, leaving the lone tungsten bulb.",
+    "mood": "methodical, invasive, extinguishing",
+    "blur": "The security units and rack faces are crisp at a medium stop. The foreground poles are soft streaks, and each LED is a sharp point.",
+    "soundscape": "The grind of tracks on concrete, relay clicks as the power cuts, fans spinning down, and the buzz of the work lamp."
+   },
+   "design": "27mm腰高侧向横移，穿过脚手架机架的前景视差；灰色警戒机红眼扫过，绿色指示灯一排排熄灭，成为黑暗大画面中消失的小光点。",
+   "_cine": true
+  },
+  {
+   "id": "s23",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "boye",
+    "loc_hub"
+   ],
+   "frame": "Medium shot, 40mm, camera at chest height, slightly off-axis. Out-of-focus vertical scaffold pole on the right foreground. Boye is centre-left, short grey-white beard, black-framed glasses taped at the bridge, with his back to us. Both palms push a low rusted steel hatch shut. Above the hatch, a small caged tungsten bulb throws warm light on his grey hair and shoulders. The surrounding hub is black, and a red sensor glow begins to creep across the wall from off-frame right. Haze hangs in the air.",
+   "video": "手持中景。波爷把身后的小铁门关死，转过身，摊开两只手，平静地面对照过来的红光。环境声：铁门的闷响、履带声逼近。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "你们走。关门的事，我来。"
+    }
+   ],
+   "vo": "",
+   "music": "弦乐长音",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Boye seals the small hatch behind him, turns, opens his hands and calmly faces the approaching red light, saying, 'You go. I'll take care of closing up.'",
+    "blocking": "Blocking lock: the hatch stays centre-left; Boye in front of it, turning to face frame right toward the red source; his face stays in the middle band; the warm bulb above the hatch.",
+    "camera": "Medium to medium close-up, 40mm, chest height. A slow dolly push-in of about 1m over 10 seconds, gentle and continuous. It starts on his back at the hatch and ends on an MCU of his face and open hands.",
+    "start": "Boye shoves the hatch shut with a dull iron thud and slides the bolt.",
+    "middle": "He turns. The red beam sweeps across him and becomes his key light, the warm bulb rim behind. He opens both hands at his sides.",
+    "end": "Facing the red light calmly he says '你们走。关门的事，我来。' The push lands on his MCU with red glinting in his taped glasses and warm light on his shoulders.",
+    "mood": "calm, sacrificial, resolute",
+    "blur": "Boye is crisp throughout, focus pulled with the push. The foreground pole is soft, and the hatch is slightly soft behind him.",
+    "soundscape": "A dull iron thud and the bolt scrape, tracks grinding closer, and the faint servo whine of a sensor turning."
+   },
+   "design": "40mm胸高缓推，从波爷关门的背影推到他转身摊手的中近景；红光横扫成为主光，身后小铁门上方一盏钨丝灯是最后的暖。",
+   "_cine": true
+  },
+  {
+   "id": "s24",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_street"
+   ],
+   "frame": "Close two-shot, 65mm, camera 60cm off the ground inside a pipe alcove off a back alley. Out-of-focus frosted pipe edge on the left foreground. Right of centre, mid-frame, the small yellow tracked robot Luosi's screen glows with a red bubble and white smiley, crisp. Behind it, soft, crouches Xiaoman, 19, thin, messy black hair, his pale face lit from below by the smiley. His hands are lifting a grey tarpaulin into frame. A cold sodium alley light far behind rims his hair. The rest is dark.",
+   "video": "手持镜头。巷子深处，小满把一块灰色防水布罩在“螺丝”身上，竖起手指贴在嘴上，布底下的笑脸光暗了下去。环境声：远处的履带声、急促的呼吸。",
+   "dialogue": [],
+   "vo": "",
+   "music": "弦乐长音",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Deep in the alley, Xiaoman covers Luosi with a grey tarp, puts a finger to his lips, and the smiley glow dims under the cloth.",
+    "blocking": "Blocking lock: Luosi right of centre in the mid band; Xiaoman crouched directly behind it, slightly left, face in the middle band; the pipe in the left foreground; the sodium source far behind.",
+    "camera": "Close two-shot, 65mm, low at 60cm. Locked on a low hi-hat; the one idea is a rack focus. It starts sharp on Luosi's smiley screen and ends sharp on Xiaoman's face and raised finger.",
+    "start": "The smiley is sharp. Xiaoman's soft hands throw the grey tarp over the robot.",
+    "middle": "The cloth settles and the glow becomes a diffuse red-white smudge. Focus racks back to Xiaoman as he raises a finger to his lips, panting.",
+    "end": "Under the tarp the light dims to a dull ember. His face, sharp, sinks into darkness with only the sodium rim on his hair and the glint of his eyes.",
+    "mood": "hushed, frightened, protective",
+    "blur": "Very shallow focus. The rack goes from the screen to his eyes, and whichever is the subject is crisp. The pipe is always soft.",
+    "soundscape": "Distant grinding tracks echoing down the alley, his rapid breathing, the tarp's rustle, and a dripping pipe."
+   },
+   "design": "65mm低机位，焦点从“螺丝”屏幕上的笑脸转到小满竖指的脸上；防水布落下，笑脸的光熄成一团暗红，他的脸沉进黑暗。",
+   "_cine": true
+  },
+  {
+   "id": "s25",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_jupiter"
+   ],
+   "frame": "Extreme wide shot, 27mm, camera 1m above the empty ice plain, angled slightly up. The lower third is wind-scoured orange-lit ice with out-of-focus ice grit blowing past the lens. On the horizon, dead centre, the tiny black silhouette of the planetary engine and its thin blue beam. Above, already crowding the upper two-thirds, the lower bands of Jupiter in orange, rust and cream, immense and close. The sky between is a narrow dark strip, and a faint haze stream rises from the horizon.",
+   "video": "仰拍固定大远景，画面轻微颤动。木星占满整个天空，一缕大气被它吸过去。环境声：极低的隆隆声，像远处的雷。",
+   "dialogue": [],
+   "vo": "",
+   "music": "05_jupiter",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "From the empty ice plain, Jupiter fills the entire sky, and a thin stream of Earth's atmosphere is pulled toward it.",
+    "blocking": "Blocking lock: the engine silhouette stays dead centre on the horizon; the atmosphere stream rises from the horizon toward the upper left; no people.",
+    "camera": "Extreme wide, 27mm, low angle at 1m. A slow tilt up of about 25 degrees over 8 seconds with a faint ground tremor. It starts with horizon and engine in the lower third and ends with Jupiter filling the frame and the engine's tip at the bottom edge.",
+    "start": "Ice, a tiny engine and the beginning of Jupiter's bands. Grit streams past.",
+    "middle": "The tilt rises through the narrow dark band of sky. A pale filament of atmosphere becomes visible, drawn upward in a curve.",
+    "end": "Jupiter fills the whole frame, bands and storms in orange-red. The atmosphere stream vanishes into it, and only the engine's beam tip pokes up from the bottom.",
+    "mood": "overwhelming, cosmic, crushing",
+    "blur": "Deep focus with Jupiter and the engine crisp. The foreground grit is soft.",
+    "soundscape": "An extremely low rumble like distant thunder, wind hiss, and the faint creak of ice."
+   },
+   "design": "27mm贴冰仰拍缓慢上摇，从地平线上渺小的发动机剪影摇到铺满天空的木星；一缕大气被吸走，人造之物彻底被压在画框底边。",
+   "_cine": true
+  },
+  {
+   "id": "s26",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Wide shot, 27mm, at head height on the underground main street during a strong tremor. Out-of-focus in the left foreground, a steel railing with gloved hands holding on to it. Mid-frame, stacked habitation modules and tangled pipes recede. Hanging sodium lamps swing far to one side, throwing slanted orange beams through thick falling dust and rust flakes. In the middle ground residents in worn coats crouch low and hold on to railings and to each other. Dark pockets swallow the edges. The frame is tilted a few degrees.",
+   "video": "剧烈晃动的手持镜头。地下城主街在震，灰和锈渣往下掉，吊灯乱甩，人们抓住栏杆，护住孩子蹲下。环境声：轰隆声、尖叫、金属呻吟。",
+   "dialogue": [],
+   "vo": "",
+   "music": "05_jupiter 全奏",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "The underground street shakes in a strong tremor: dust and rust flakes rain down, lamps swing wildly, and residents hold on to railings and crouch together.",
+    "blocking": "Blocking lock: the railing in the left foreground; the street's depth running to the right background; the crouching adult and resident in the middle ground, centre; the lamps overhead in the upper band.",
+    "camera": "Wide, 27mm, handheld close and breathing, shaken by the quake. It starts at head height among the people and drops to a low crouch behind the railing by the end.",
+    "start": "A jolt throws the frame. A lamp swings through, and dust pours through its beam.",
+    "middle": "The camera stumbles forward as people grab the rail. A shower of rust sparkles through the orange light.",
+    "end": "The camera drops low behind the railing and lands on an adult wrapped over a resident, a swinging lamp sweeping light across them, and the dust thick.",
+    "mood": "panic, chaos, raw fear",
+    "blur": "Medium depth with the people mid-frame crisp. The railing hands are soft, the dust is mid-soft and the lamps flare.",
+    "soundscape": "Deep booming rumble, screams, groaning metal, rust rattling on modules, and chains on the lamps clanking."
+   },
+   "design": "全片第一次真正的剧烈手持，27mm在人群头部高度，钠灯乱甩切开锈灰；镜头随人蹲下，落在护住孩子的身影后。",
+   "_cine": true
+  },
+  {
+   "id": "s27",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_engine",
+    "loc_jupiter"
+   ],
+   "frame": "Extreme wide shot, 75mm, camera low on the ice, level, symmetric. The planetary engine is centred, a black mountain occupying the lower middle. Its blue-white plasma column rises dead centre, slightly flickering, haloing the haze. Behind, Jupiter fills the upper sky in orange-red bands, its light washing over the ice. At the engine's base, small and centred, two warm headlights of the parked transport truck. The foreground ice is soft and drifting with snow.",
+   "video": "固定大远景。发动机的蓝色光柱抖了几下，变细，熄灭。只剩木星的橘红色光压在黑沉沉的发动机上。环境声：轰鸣骤停，只剩风声。",
+   "dialogue": [],
+   "vo": "发动机，停了。",
+   "music": "05_jupiter 骤停",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "The engine's blue beam shudders, thins and goes out, leaving the black engine crushed under Jupiter's orange glow.",
+    "blocking": "Blocking lock: engine and beam on the vertical centre line; Jupiter filling the upper sky; the truck headlights centred at the base; nothing moves except the beam.",
+    "camera": "Extreme wide, 75mm, low and level. Locked-off symmetric tableau with no move. The frame holds still, and the beam's death is the only event.",
+    "start": "The beam flickers twice, the halo stutters, and the ice flashes blue.",
+    "middle": "The column thins to a needle, and the blue spill retreats from the ice.",
+    "end": "It goes out. The engine is a dead black mass under orange Jupiter. Two tiny warm headlights remain, small points in a huge dark-orange frame.",
+    "mood": "extinguished, mute, devastating",
+    "blur": "Deep focus with the engine and Jupiter crisp and the headlights sharp. The foreground snow is soft.",
+    "soundscape": "The roar stops abruptly, leaving only wind and drifting snow hiss."
+   },
+   "design": "75mm远景锁定对称构图，发动机居中，光柱抖动、变细、熄灭；脚下两点卡车车灯成为黑暗大画面中幸存的小光点，木星的橘红压住一切。",
+   "_cine": true
+  },
+  {
+   "id": "s28",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Wide shot, 27mm, camera at seated-operator height, centred on the command hall's main aisle, strict one-point symmetry. The display wall fills the background with dozens of cold cyan panels, a few already black. Dead centre, high in the upper third, burns the round red MOSS lens. Rows of operators sit in the tiered consoles, seen from behind as frozen silhouettes, their heads well above the bottom edge. Out-of-focus console backs frame the lower left and right foreground. Haze hangs in the air.",
+   "video": "固定广角。屏幕墙一块接一块地黑掉，操作员僵在座位上，只有正中的红色镜头还亮着。平静的合成男声宣布。环境声：一片死寂里的电流声。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "流浪地球计划已失败。本系统停止地面调度。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Panel by panel the display wall goes black, operators sit frozen, and only the red lens stays lit as MOSS announces: 'The Wandering Earth project has failed. This system ceases surface dispatch.'",
+    "blocking": "Blocking lock: the red lens on the centre axis, high; the operators symmetric in tiers; the wall panels going dark in a pattern; no one moves.",
+    "camera": "Wide, 27mm, operator height. A dead-straight slow dolly pull-back of about 2m over 10 seconds. It starts medium-wide on the wall and lens and ends very wide, with the hall black and the single red point centred.",
+    "start": "Panels go black one by one, and the cyan light on the operators' backs drains.",
+    "middle": "MOSS says '流浪地球计划已失败。' As the pull-back reveals more frozen rows, more panels die.",
+    "end": "'本系统停止地面调度。' The last panel is black, and the frame lands on a huge dark symmetric hall with only the red lens glowing at centre.",
+    "mood": "dead silence, final, cold",
+    "blur": "Deep focus with the red lens and operators crisp. The foreground console edges are soft.",
+    "soundscape": "Near silence, faint electrical buzz, a soft click as each panel dies, and MOSS's voice with long reverb."
+   },
+   "design": "27mm笔直缓慢后拉，屏幕墙一块块变黑，大厅对称展开；操作员僵坐成剪影，最后只剩正中一点红光，悬在巨大的黑暗里。",
+   "_cine": true
+  },
+  {
+   "id": "s29",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Close-up, 85mm, camera below her chin looking up. Governor Xing's face sits right of centre in the middle band, grey-streaked bun, sharp cheekbones carved by a single hard red light from above. Her eyes are lifted to the lens beyond frame top, and her mouth is opening. The background is pure black hall void with a faint red smear high on the ceiling haze. Soft out-of-focus edge of a dark console in the lower left foreground.",
+   "video": "仰拍特写。黑暗里，邢总督的脸只被头顶的红光照着，她朝着镜头喊，声音在大厅里回荡。镜头没有回答。环境声：回声、远处的哭声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "MOSS，回答我。……回答我！"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the dark, lit only by the red light above, Xing shouts up at MOSS, 'MOSS, answer me... Answer me!', and the lens does not reply.",
+    "blocking": "Blocking lock: Xing's face right of centre in the middle band, eyes up and left toward the lens off-frame; the red key from directly above; the console edge in the lower left foreground.",
+    "camera": "Close-up, 85mm, low angle. A very slow dolly push-in of about 40cm over 9 seconds. It starts on a CU of head and shoulders and ends on a tight CU of her eyes and mouth.",
+    "start": "She calls 'MOSS，回答我。', and her voice echoes away.",
+    "middle": "Silence. Her jaw trembles, and red light catches the wet edges of her eyes.",
+    "end": "She shouts '……回答我！' The push lands on her eyes and open mouth in red, with black all around and no answer.",
+    "mood": "desperate, abandoned, defiant",
+    "blur": "Shallow focus with her eyes crisp. The console edge is soft and the background black.",
+    "soundscape": "Her voice echoing through the empty hall, distant crying and the faint buzz of the lens."
+   },
+   "design": "85mm仰拍特写极缓推近，邢总督的脸只被头顶红光雕出，四周全黑；她的呼喊撞进空洞的大厅，镜头不给回答。",
+   "_cine": true
+  },
+  {
+   "id": "s30",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Extreme wide top-down view, 32mm, camera at the uppermost railing looking straight down a colossal vertical shaft. Concentric tiers of stacked steel cabins ring the frame and recede to a small dark well at centre. Hundreds of warm tungsten and sodium-orange windows still glow in irregular bands. Thin haze drifts upward and catches the light. On a lit walkway in the lower right ring stand three or four tiny human silhouettes, heads tilted up. Cables and pipes cut black diagonals across the rings. Outside the lit bands the blacks are absolute.",
+   "video": "高机位俯拍。地下城竖井里的灯，一个区接一个区地灭下去，最后几乎全黑。环境声：空旷的风声、遥远的呼喊。",
+   "dialogue": [],
+   "vo": "",
+   "music": "无音乐",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Seen from high above, the lights of the underground city's shaft die district by district until it is almost completely dark.",
+    "blocking": "Blocking lock: shaft centre exactly at frame centre, tiers as concentric rings; the tiny figures stay on the lower-right walkway; the last surviving clusters sit just below centre; the composition must match s36 exactly.",
+    "camera": "Extreme wide top-down, 32mm, vertical overhead from the top railing; locked-off with no movement, the stillness making each blackout read clearly.",
+    "start": "The rings are mostly lit. The outermost upper ring goes dark in one block, then the ring opposite it.",
+    "middle": "Darkness steps inward ring by ring. The walkway under the tiny figures goes out and they vanish. Haze loses its glow and turns grey-black.",
+    "end": "Only two or three small warm clusters flicker near the bottom of the well inside an almost entirely black frame. The last one dims to an ember.",
+    "mood": "vast, hollow, irreversible",
+    "blur": "Deep focus at f/5.6, rings sharp from top to bottom; haze softens only the farthest depths. The light points stay crisp pin-sharp.",
+    "soundscape": "Hollow wind rising up the shaft, heavy relay clunks as each district cuts out, distant overlapping shouts fading downward."
+   },
+   "design": "高机位垂直俯拍竖井，32mm锁定不动，让钠灯与钨丝窗光一区一区熄灭成黑，只剩几粒小光点漂在巨大黑暗里，确立“灯灭”母题的标准构图",
+   "_cine": true
+  },
+  {
+   "id": "s31",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "xing",
+    "loc_interview"
+   ],
+   "frame": "Medium close-up, 85mm, camera at seated eye level, very slightly off her axis. Governor Xing sits upright in frame right third, shoulders square, hands folded below frame. Her grey-streaked hair is in a tight bun and her eyes are lowered. The left two-thirds of the frame is deep negative space that falls to black. A single soft key from camera left models her cheekbones and leaves the far side of her face in shadow. A soft out-of-focus pipe and a faint concrete texture sit behind her. Fine grain, quiet.",
+   "video": "采访固定机位。邢总督端坐着，沉默了很久才开口，声音很轻，说完闭了一下眼。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "三十万人，都只会跟它说话。它不说话了，我们连彼此在哪儿，都不知道。"
+    }
+   ],
+   "vo": "",
+   "music": "02_islands 极弱",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the 2078 interview, Governor Xing stays silent a long time, then quietly says: \"三十万人，都只会跟它说话。它不说话了，我们连彼此在哪儿，都不知道。\" and closes her eyes.",
+    "blocking": "Blocking lock: Xing in frame right third, eyeline crossing toward the empty left space just off lens; key always from the left; this is her consistent interview setup.",
+    "camera": "Medium close-up, 85mm, eye level; an imperceptible slow dolly push-in, about 10cm across 12 seconds, from collarbone framing to just below the chin.",
+    "start": "Xing sits with her eyes lowered. A long silence; only her breathing shifts her shoulders.",
+    "middle": "She lifts her eyes toward the interviewer and speaks the line softly and evenly, with a slight catch before \"彼此\".",
+    "end": "She finishes and closes her eyes for a beat. The camera settles on a slightly tighter close-up, her face still in the right third against the black.",
+    "mood": "restrained, guilty, quiet",
+    "blur": "Shallow focus at T2, her eyes crisp; the background pipe dissolves into soft grey. No rack.",
+    "soundscape": "Low room tone, faint ventilation hum, her quiet inhale before speaking."
+   },
+   "design": "85mm近景，邢总督固定于画右、左侧留出大片暗空间，左侧单一柔光，几乎察觉不到的缓推，承载长时间的沉默和闭眼",
+   "_cine": true
+  },
+  {
+   "id": "s32",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "loc_hub"
+   ],
+   "frame": "Medium shot, 40mm, camera low at floor height, slightly off to his right. A dropped flashlight lies in the foreground, soft and bright. Its warm tungsten beam rakes across a dusty concrete floor strewn with broken cables. Xiaoman sits in frame left of centre against a toppled scaffold rack, knees up, face buried in his arms, messy black hair catching the beam's edge. Behind him, dust hangs in the beam. Everything beyond falls to pure black, and a faint grey tarpaulin lump is barely readable deep in frame right.",
+   "video": "固定中景。漆黑的机房废墟里，只有掉在地上的手电照着。小满靠着倒下的机架坐着，把脸埋进胳膊里，肩膀在抖。环境声：远处的哭喊、他压着的喘息。",
+   "dialogue": [],
+   "vo": "他十九岁，没见过太阳。那一刻，他以为什么都没有了。",
+   "music": "无音乐",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the dark, wrecked hub, Xiaoman sits against a fallen rack with his face buried in his arms, his shoulders shaking; no dialogue.",
+    "blocking": "Blocking lock: flashlight in the near foreground at bottom right, beam travelling left; Xiaoman left of centre against the fallen rack; the tarp lump in deep frame right stays visible but unlit.",
+    "camera": "Medium shot widening to a wide shot, 40mm, floor height; one slow dolly pull-back along the floor, about 1.5m over 9 seconds.",
+    "start": "Close on Xiaoman's hunched form, his shoulders trembling. The flashlight glares softly in the foreground.",
+    "middle": "The camera retreats and the toppled racks and dead node boxes enter frame. The beam becomes the only island of warmth.",
+    "end": "Wide: Xiaoman is small, folded into the pool of light, surrounded by blackness. The grey tarp mound waits dark in the right background.",
+    "mood": "crushed, alone, cold",
+    "blur": "Focus held on Xiaoman throughout, f/2.8; the foreground flashlight stays a soft bloom; the tarp sits in readable soft focus.",
+    "soundscape": "Distant muffled crying and shouts through the walls, his suppressed ragged breathing, dust ticking down onto metal."
+   },
+   "design": "低机位从中景缓慢后拉成全景，地上手电作前景与唯一光源，把蜷缩的小满缩小在漆黑废墟中，并在暗处留下那团防水布",
+   "_cine": true
+  },
+  {
+   "id": "s33",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Close-up, 65mm, camera low at robot height, locked-off. The frame is almost entirely black. In the lower-centre right sits the folds of a grey waterproof tarpaulin draped over a small boxy shape, barely touched by the far spill of the flashlight from frame left. Dust motes hang still in the air. The coarse weave of the cloth is just readable. No glow yet. Deep, pure blacks fill the upper two-thirds and the left side.",
+   "video": "特写固定镜头。黑暗里，防水布底下亮起一团红白色的光，透过布面，显出笑脸的轮廓。环境声：一声轻轻的提示音。",
+   "dialogue": [],
+   "vo": "",
+   "music": "07_farewell_luosi 的八音盒动机，极弱",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Under the tarpaulin, a red-and-white glow switches on and the smiley outline shows through the cloth.",
+    "blocking": "Blocking lock: the tarp-covered robot sits lower-right of centre and never moves; the glowing area appears at the same spot; the left side stays black.",
+    "camera": "Close-up, 65mm, robot-height and level; locked-off with no movement, so the small light point is the only event.",
+    "start": "Darkness and still cloth. A soft chime sounds.",
+    "middle": "A red-white glow blooms beneath the tarp. Through the weave, the red rounded speech-bubble outline with its node squares and the white smile become legible.",
+    "end": "The glow steadies, casting a faint red halo on the floor and the hanging dust: one small warm point inside a large dark frame. One continuous take, no cut to any other angle.",
+    "mood": "fragile, hopeful, hushed",
+    "blur": "Focus on the cloth surface where the smiley shows through, f/2.8; floor dust beyond goes soft.",
+    "soundscape": "A single gentle notification chime, a faint electronic whine starting up, silence of the room."
+   },
+   "design": "锁定特写，画面几乎全黑，防水布下亮起一团红白光透出笑脸轮廓，作为“灯回来”母题的第一点小光",
+   "_cine": true
+  },
+  {
+   "id": "s34",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_hub"
+   ],
+   "frame": "Medium shot in profile, 65mm, camera at kneeling height, slightly behind the robot's shoulder. In the soft foreground at frame right is the edge of the yellow robot's scratched body. Its screen glows with the red speech-bubble smiley and lights Xiaoman's tear-streaked face in frame left third as he kneels, the pulled tarp crumpled in his hand. The robot's claw is extended into the gap between them. Behind them, the dropped flashlight on the floor backlights the dust and rims his hair warm. All else is black.",
+   "video": "手持中景。小满扯掉防水布，脸被屏幕上的笑脸照亮。“螺丝”朝他伸着机械爪，他伸手握住，握得很紧。环境声：电机的嗡鸣、吸鼻子的声音。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "……你还亮着。"
+    }
+   ],
+   "vo": "",
+   "music": "八音盒动机 + 大提琴",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Xiaoman pulls off the tarp, his face lit by the smiley screen. Luosi holds out its claw; he says \"……你还亮着。\" and grips it tightly.",
+    "blocking": "Blocking lock: Xiaoman in frame left facing right, robot in frame right facing left, claw in the centre gap; flashlight backlight from deep behind between them; this hand-claw profile is the film's fixed motif geometry.",
+    "camera": "Medium profile two-shot moving to a tight profile two-shot of hand and claw, 65mm, kneeling height; one slow dolly push-in drifting slightly down over 9 seconds.",
+    "start": "Xiaoman drops the tarp, sniffing. His face is washed in red-white screen light, his mouth visible as he whispers the line.",
+    "middle": "The claw lifts toward him. The camera eases in and down as his hand rises into the centre of the frame.",
+    "end": "A tight backlit profile of his hand closing hard around the steel claw, the flashlight glow behind them in the gap. The composition matches the hand-claw motif.",
+    "mood": "relief, tenderness, fragile",
+    "blur": "Shallow focus, T2: his face sharp at the start, focus then follows the hands to crisp; the robot body foreground and background stay soft.",
+    "soundscape": "Soft motor whir of the claw, his wet sniffing, the tarp rustling to the floor."
+   },
+   "design": "从中景缓推至手与机械爪的侧面紧凑双人镜头，地上手电从后方逆光，笑脸屏照亮小满泪脸，落定手爪相握母题",
+   "_cine": true
+  },
+  {
+   "id": "s35",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "prop_node",
+    "logo_smiley"
+   ],
+   "frame": "Macro close-up, 100mm macro, camera at shelf level on a slider, looking along a dusty scaffold shelf. A soft out-of-focus scaffold upright fills the left edge. Mismatched handmade node boxes stand in a receding row: dented ammo tins, cigarette cans, a lunchbox. Their circuit boards are dark, and dust lies thick on their lids. One tiny LED on the nearest tin at frame centre-right is just beginning to glow green. Everything else is black, faint red spill from the off-screen robot grazes the tins' edges.",
+   "video": "特写，沿着货架缓慢横移。一只节点盒的小灯亮了，旁边一只跟着亮，然后一整排大大小小的盒子，一只接一只亮起来。环境声：此起彼伏的提示音。",
+   "dialogue": [],
+   "vo": "",
+   "music": "04_first_light 变奏，逐渐展开",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Along the dark shelf, one node box's lamp lights green, then the next, then a whole row of mismatched boxes light up one after another.",
+    "blocking": "Blocking lock: the shelf runs on a slight diagonal into depth from frame left to right; the boxes keep their order; each LED sits at the same height band across the frame's middle.",
+    "camera": "Macro close-up, 100mm macro, shelf height; one slow lateral slider move right-to-left along the shelf, about 60cm over 9 seconds, with foreground scaffold parallax.",
+    "start": "The first green LED blinks on with a chime. The camera begins sliding.",
+    "middle": "The next box lights, then the next. Each green point flares slightly in the lens as the camera passes uprights in the foreground.",
+    "end": "The camera lands looking down a long row of small green points receding into the dark, a constellation along the shelf.",
+    "mood": "awakening, quiet wonder",
+    "blur": "Very shallow focus; focus pulled to keep the box nearest frame centre crisp as it lights; farther LEDs become soft green bokeh discs.",
+    "soundscape": "Overlapping soft chimes in different pitches, tiny relay clicks, fan whirs spinning up."
+   },
+   "design": "100mm微距在滑轨上沿货架横移，前景铁架虚化视差，绿灯一盏接一盏追上镜头，黑暗中小光点逐个复活",
+   "_cine": true
+  },
+  {
+   "id": "s36",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Extreme wide top-down view, 32mm, identical position to s30, looking straight down the colossal shaft. Concentric tiers of cabins and walkways are dimly readable in a faint blue-grey emergency twilight, with all windows black. Haze hangs motionless. Far below near the centre-bottom of the well, two tiny green points glow. On the lower-right walkway, tiny dark human silhouettes stand barely visible against the grey railing. The rest of the frame is near-black, with layered luminance from grey upper rings to black depths.",
+   "video": "高机位俯拍。漆黑的竖井里，亮起一个小绿点，又一个，零零星星，越来越多，像有人在黑暗里一盏一盏点灯。环境声：风声里夹着越来越多的提示音。",
+   "dialogue": [],
+   "vo": "没有中心。它们一个一个，自己亮了回来。",
+   "music": "主题进入",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the black shaft, small green points light up one by one, then more and more, as if someone were lighting lamps in the dark.",
+    "blocking": "Blocking lock: framing identical to s30; tiny figures on the same lower-right walkway; green points appear scattered across all the rings, not in neat bands.",
+    "camera": "Extreme wide top-down, 32mm, the same overhead position as s30; locked-off with no movement, so the image rhymes exactly.",
+    "start": "Only two or three green points glow in the depths of the blue-grey dark.",
+    "middle": "Single points appear on scattered rings, irregular and hesitant. One lights near the tiny figures on the walkway, picking out their shapes.",
+    "end": "Dozens of green points are scattered across the rings like a sparse starfield in the black shaft, still small against the immense darkness.",
+    "mood": "tentative, collective, hopeful",
+    "blur": "Deep focus f/5.6, all rings sharp; each green point crisp with a slight halation in the haze.",
+    "soundscape": "Wind in the shaft, faint chimes multiplying from different depths, a murmur of distant voices."
+   },
+   "design": "与s30完全相同的竖井俯拍锁定构图，蓝灰应急微光下绿点一颗颗亮起，形成灯回来的镜像韵脚",
+   "_cine": true
+  },
+  {
+   "id": "s37",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "boye",
+    "loc_admin"
+   ],
+   "frame": "Medium two-shot, 65mm, camera at chest height, three-quarter profile along the barred door. Governor Xing is in the near plane, frame left third, gripping a heavy manual key in the lock, her face lit warm from below by a flashlight clipped to her coat. The iron bars run vertically through the centre. Beyond them in frame right, Boye stands holding a bar, his glasses with taped frames catching the light, his grey beard soft. Cold cyan-grey concrete corridor behind both of them, falling to black. Light haze.",
+   "video": "手持中景。邢总督用一把手动钥匙拧开铁栅门，波爷在里面扶着栏杆看着她。门开了。环境声：钥匙转动的金属声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "我来晚了。"
+    },
+    {
+     "who": "boye",
+     "line": "不晚。灯还没灭完。"
+    }
+   ],
+   "vo": "",
+   "music": "主题",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "Governor Xing unlocks the barred door with a manual key. She says \"我来晚了。\"; Boye, holding the bars inside, answers \"不晚。灯还没灭完。\" and the door opens.",
+    "blocking": "Blocking lock: Xing outside in frame left, Boye inside in frame right, bars between them at centre; the flashlight warmth sits between their faces; both mouths stay visible.",
+    "camera": "Medium two-shot, 65mm, chest height; locked framing with one rack focus from Xing (near) to Boye (far) and back to the opening gap.",
+    "start": "The key turns with heavy metal grinding. Xing, sharp, looks up through the bars and says her line.",
+    "middle": "Focus racks to Boye behind the bars. He gives a small, tired smile and answers.",
+    "end": "The lock clanks and the door swings away from frame. The bars leave the centre, and the two face each other with nothing between them in warm light.",
+    "mood": "humble, reconciling, warm",
+    "blur": "Shallow T2.8: Xing crisp first, then Boye crisp after the rack; the bars always soft in the middle plane.",
+    "soundscape": "Key grinding and lock bolts clanking, the hinge creaking, the echoing concrete corridor."
+   },
+   "design": "65mm栅门侧面双人中景，手电暖光夹在两人之间，焦点从门外的邢总督拉到门内的波爷，门开即两层空间合一",
+   "_cine": true
+  },
+  {
+   "id": "s38",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "xing",
+    "prop_node",
+    "loc_admin"
+   ],
+   "frame": "Close-up, 40mm, camera at console height. On the dark main console in frame centre sits a dented ammo-tin node box with a red-and-white smiley sticker, its small LED green. Xiaoman's thin hands enter from frame left holding a cable plug, warm from a flashlight laid on the console. Behind, soft and symmetric, the vast black command hall recedes in rows of dead consoles. Far up at the centre vanishing point, the red ceiling lens glows constant. Cold blackness, haze.",
+   "video": "手持中景。黑着的指挥大厅里，小满把贴着笑脸的铁盒放上主操作台，插上线。邢总督站在旁边下令。头顶的红色镜头沉默地亮着。环境声：插头的咔哒声、脚步声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "接进来。全城的眼睛，都接进来。"
+    }
+   ],
+   "vo": "",
+   "music": "主题上行",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the dark command hall, Xiaoman sets the smiley node box on the main console and plugs it in as Governor Xing orders: \"接进来。全城的眼睛，都接进来。\" under the silent red lens.",
+    "blocking": "Blocking lock: the node box on the centre line of the console; Xiaoman frame left, Xing standing frame right of centre; the red lens stays on the hall's centre axis above and behind them.",
+    "camera": "Close-up to medium close-up, 40mm, starting at console height; one slow tilt up with a slight rise from the node box to Xing's face.",
+    "start": "Xiaoman's hands push the plug home with a click. The green LED flickers.",
+    "middle": "The camera tilts up past Xiaoman's lit shoulder to Xing, standing upright. She points down at the console and gives the order, her mouth clear.",
+    "end": "Xing is in medium close-up at frame right of centre, her face warm from below. The red lens is a small cold point in the black far behind her head on the centre axis.",
+    "mood": "decisive, defiant, charged",
+    "blur": "Box and plug crisp at the start, focus following to Xing; the hall and red lens remain soft points, f/2.8.",
+    "soundscape": "The plug's sharp click, footsteps on the steel floor, a low electrical hum starting."
+   },
+   "design": "从主操作台上贴着笑脸的铁盒缓慢上摇到邢总督下令的脸，头顶红色镜头在她身后沉默悬着，冷对称大厅中的一点暖",
+   "_cine": true
+  },
+  {
+   "id": "s39",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_admin"
+   ],
+   "frame": "Extreme wide, 24mm, locked-off, perfect one-point symmetry from the back of the tiered command hall at upper-tier height. Rows of dark consoles step down toward a giant black display wall that fills the upper two-thirds of frame. Tiny operators sit in silhouette at the consoles. The red lens hangs dead centre above the wall. Only a scatter of small green and white dots glows on the black wall. Cold haze hangs in the hall air.",
+   "video": "固定广角。屏幕墙重新亮起，不再是整齐的图表，而是由成千上万个小点拼成的粗糙地图。操作员一个个站了起来。环境声：一片低低的吸气声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "主题第一次完整呈现",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "The giant wall lights up again as a rough map built from thousands of small dots, and the operators rise to their feet one by one.",
+    "blocking": "Blocking lock: wall centred, red lens on the vertical centre axis; console rows symmetric left and right; operators stay small silhouettes in the lower third.",
+    "camera": "Extreme wide, 24mm, elevated rear position; locked-off symmetric tableau with no movement.",
+    "start": "A few dots glow on the black wall. The silhouetted operators sit frozen.",
+    "middle": "Thousands of dots fill in unevenly, forming the rough outline of the shaft city. The glow begins to backlight the haze and the operators' heads.",
+    "end": "The wall is a dense, irregular map of light. Silhouettes stand up one after another until rows of tiny standing figures face the vast luminous wall.",
+    "mood": "awe, collective, monumental",
+    "blur": "Deep focus f/8, the whole hall crisp from the foreground rows to the wall; the dots sharp.",
+    "soundscape": "A low collective intake of breath, chairs scraping, a soft swelling electronic tick."
+   },
+   "design": "广角一点透视对称锁定，巨大屏幕墙由零星小点拼成粗糙地图逐渐亮起，剪影般的操作员一个个站起，人在巨墙前极小",
+   "_cine": true
+  },
+  {
+   "id": "s40",
+   "dur": 11,
+   "type": "interview",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Medium shot, 85mm, camera at seated chest level. Boye sits in the left third of frame on a plain metal chair, leaning slightly forward. Both his hands are spread palms-down in front of him at lower frame, as if laying pieces on a table. His black-framed glasses are taped, his grey beard is short, and his eyes look toward the interviewer just off lens to frame right. A soft key from frame right sculpts his face and hands. The right two-thirds of the frame is deep dark space with out-of-focus pipes.",
+   "video": "采访固定机位。波爷两只手摊开，像是把东西一样样摆在桌上，慢而笃定地说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "没有谁看得见全部。可每个人看见的那一小块，摆到一张桌上，就是一张图。"
+    }
+   ],
+   "vo": "",
+   "music": "主题收",
+   "act": "第二幕 · 压顶",
+   "tpl": {
+    "summary": "In the 2078 interview, Boye spreads his hands as if laying things on a table and says slowly and firmly: \"没有谁看得见全部。可每个人看见的那一小块，摆到一张桌上，就是一张图。\"",
+    "blocking": "Blocking lock: Boye in the left third, eyeline toward the right negative space, hands kept in the lower-middle band clear of the bottom edge; key from the right is his consistent setup.",
+    "camera": "Medium shot, 85mm, chest level; an almost imperceptible slow dolly push-in over 11 seconds, ending slightly tighter while keeping the hands in frame.",
+    "start": "Boye lays his hands flat and begins the first sentence.",
+    "middle": "His hands move apart in small placing gestures, one piece after another, as he speaks the second clause.",
+    "end": "On \"就是一张图\" his hands come to rest. The camera lands on a slightly tighter medium shot of face and hands in the left third.",
+    "mood": "wise, steady, warm",
+    "blur": "Eyes crisp, hands slightly softer, T2.2; the background pipes are fully defocused into darkness.",
+    "soundscape": "Quiet room tone, faint ventilation, the soft brush of his palms on cloth."
+   },
+   "design": "85mm中景容纳摊开的双手，波爷置于画左、右侧暖柔光与深空负空间，极缓推进，延续他的采访机位",
+   "_cine": true
+  },
+  {
+   "id": "s41",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "amu",
+    "prop_core",
+    "loc_ice"
+   ],
+   "frame": "Medium close shot, 32mm, camera low inside the truck cab at seat height, looking out through the open driver's door. Foreground right: soft steel edge of the door frame and a frosted grab handle. Centre: the open steel case being heaved up over the sill, its foam cradle holding a cylinder that glows ember red. Behind it, Boss Jin in the doorway pushing from below, frost-grey beard, face lit red from beneath. Amu at frame left, shoulder braced under the case. Background: horizontal snow streaking through orange Jupiter light and blue-white truck headlights.",
+   "video": "手持镜头，风雪里。金老板和阿牧合力把一只钢箱抬上驾驶室，箱盖合上前，里面的点火核心泛着暗红的光。环境声：风声、引擎怠速。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "火石上车。四十公里，冰上走。"
+    }
+   ],
+   "vo": "",
+   "music": "06_saturation_rescue 进入",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Boss Jin and Amu heave the steel case into the cab, the igniter core glows red for a moment, and Jin shuts the lid, saying '火石上车。四十公里，冰上走。'",
+    "blocking": "Blocking lock: door frame soft at right edge; the case enters centre-low and settles on the cab floor centre; Jin stays centre-right in the doorway, Amu centre-left; faces sit in the middle band of the frame; the red glow comes only from inside the case.",
+    "camera": "Medium close, 32mm, low angle inside the cab; one slow slider push-in of about 40cm over 9 seconds, from the open-door two-shot to a tighter medium close on the open case with Jin's face above it.",
+    "start": "Snow blows past the open door; the two men grunt the case up over the sill, its weight tilting it, and red light swings across their jackets.",
+    "middle": "The case lands on the cab floor; the camera has crept closer, and the ember-red core lights Jin's scarred cheek from below as he speaks the line, his mouth clear.",
+    "end": "Jin's gloved hand brings the lid down; the red glow narrows to a slit and goes out; the frame lands tight on the closed steel lid and Jin's face, now lit only by the warm dome lamp.",
+    "mood": "Heavy, resolute, quietly sacred",
+    "blur": "Door frame soft in foreground; the case and Jin's face crisp at roughly T2.8; Amu slightly soft; the snow and headlights outside melt into orange and blue bokeh.",
+    "soundscape": "Gusting wind through the open door, idling diesel engine throb, boots on steel steps, foam squeaking as the case settles, the heavy clack of the lid latch."
+   },
+   "design": "驾驶室内中近景，32mm低机位从敞开的车门向外，滑轨缓慢前推至钢箱：顶灯钨丝暖光与箱内暗红核心对抗车外的木星橘光和冰面青灰，交接的重量就是这一幕的开始。",
+   "_cine": true
+  },
+  {
+   "id": "s42",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_ice"
+   ],
+   "frame": "Medium wide shot, 40mm, camera low at the top of a steel tail ramp inside the truck bed, looking down the ramp. Foreground: soft dark ribs of the ramp's side rails framing left and right. Centre: the small scratched yellow tracked robot climbing toward lens, its smiley screen glowing red and white. Behind it Xiaoman, tall and thin, bent double, gloved hands on its back, breath fogging. Background: the frozen plain, orange Jupiter glow on the horizon, red tail-lamp light washing the ramp, snow blowing sideways.",
+   "video": "手持镜头。小满推着“螺丝”上了车尾的跳板，机器人的履带在冰上打了一下滑，他用肩膀顶住。环境声：履带声、风声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "06_saturation_rescue",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Xiaoman pushes Luosi up the tail ramp; its tracks slip on the ice and he braces it with his shoulder until it climbs on.",
+    "blocking": "Blocking lock: ramp rails frame left and right; the robot holds frame centre, smiley screen toward lens; Xiaoman directly behind it, his head in the upper-middle band, never near the top edge; Jupiter glow stays on the horizon behind them.",
+    "camera": "Medium wide, 40mm, low angle from the ramp top; one slow pull-back up the ramp into the truck bed over 8 seconds, from the robot halfway up the ramp to a medium shot as both reach the lip.",
+    "start": "The robot grinds upward toward lens, Xiaoman pushing behind it, rim-lit orange and red, breath streaming.",
+    "middle": "Its tracks spin on a glaze of ice and it slides back a few centimetres; Xiaoman drops his shoulder into its back and digs in, his face straining over the robot's head.",
+    "end": "The tracks bite and it rolls up over the lip; the camera settles with the robot's glowing screen in the lower centre and Xiaoman behind it, catching his breath against the orange sky.",
+    "mood": "Effortful, tender, freezing",
+    "blur": "Ramp rails soft in the foreground; the robot and Xiaoman crisp; the plain and horizon fall into soft orange; ice crystals sparkle in the tail-lamp light.",
+    "soundscape": "Rattling tracks on ribbed steel, a sharp skid and whine of the motor, Xiaoman's grunt, wind, the idling truck."
+   },
+   "design": "低机位40mm从车尾货舱口沿跳板向下，缓慢后拉，让小满和“螺丝”迎着镜头往上爬；红色尾灯和木星橘光勾出逆光轮廓，呼气白雾可见。",
+   "_cine": true
+  },
+  {
+   "id": "s43",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_ice",
+    "loc_jupiter"
+   ],
+   "frame": "Extreme wide shot, 65mm, locked off from a slight rise, camera at eye height. Foreground: soft dark ridge of wind-carved ice across the lower edge. Middle: a thin line of twelve heavy transport trucks crossing the frozen plain from left toward centre, each pair of headlights a tiny white point, a red speck at each tail. Background: ice-encased skyscraper ruins as small black silhouettes, and above them Jupiter filling the upper half of the frame, its banded orange surface bleeding light across the snow.",
+   "video": "固定大远景。十二台重型运输车排成一线，开进木星的橘红色光里，车灯小得像火星。环境声：引擎的合鸣、风声。",
+   "dialogue": [],
+   "vo": "饱和式救援。每一台停机的发动机，都有车队在赶去。",
+   "music": "06_saturation_rescue",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The twelve-truck convoy rolls in a line across the ice plain into Jupiter's orange light, its headlights tiny as sparks.",
+    "blocking": "Blocking lock: the convoy line sits in the lower third, moving left to right; Jupiter fills the upper half; the ruins are a dark serrated band on the horizon; the ice ridge stays soft at the lower edge.",
+    "camera": "Extreme wide, 65mm, eye level; locked-off tableau, no movement for 9 seconds; the convoy's motion carries the shot.",
+    "start": "The lead truck's headlights enter the plain from frame left; the rest follow in a thin chain.",
+    "middle": "The full line of twelve stretches across the lower third, tiny white points cutting through drifting ground snow under the vast orange disc.",
+    "end": "The lead vehicles have reached frame centre, swallowed by the orange haze; the composition rests on the long dotted line beneath the planet.",
+    "mood": "Monumental, fragile, defiant",
+    "blur": "Deep focus at T8; the foreground ice ridge slightly soft; the convoy and the ruins crisp; Jupiter sharp but softened by atmospheric haze.",
+    "soundscape": "A distant layered chorus of heavy engines, wind sweeping over the ice, faint creaking of the ice sheet."
+   },
+   "design": "固定的超大远景，木星占据上半画面，十二台运输车成一条细线横穿冰原下方，车灯小如火星；用宏大的尺度压住出发的这一刻。",
+   "_cine": true
+  },
+  {
+   "id": "s44",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "prop_node",
+    "loc_ice"
+   ],
+   "frame": "Medium close shot, 27mm, handheld from the passenger seat at dashboard height, angled toward the driver. Foreground left: the dented steel node box on the dashboard, its small lamps flashing rapidly, a red-and-white smiley sticker on its lid, soft. Middle: Boss Jin gripping the wheel with both hands, beard frosted, jaw clenched, eyes on the road. Background: the windscreen filled with orange Jupiter light, headlight beams raking churning snow and a dark seam in the ice ahead. Cab interior dim, lit by the dashboard and the flashing lamps.",
+   "video": "剧烈晃动的驾驶室内镜头。仪表台上的铁盒急促地闪灯，金老板猛打方向盘向左，整个人被甩得一歪。环境声：急促的提示音、引擎嘶吼。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "前面裂了！它让我们往左！"
+    }
+   ],
+   "vo": "",
+   "music": "06_saturation_rescue",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The node box flashes urgently; Boss Jin wrenches the wheel hard left and is thrown sideways, shouting '前面裂了！它让我们往左！'",
+    "blocking": "Blocking lock: the node box stays in the left foreground; Jin holds the centre-right of the middle band; the windscreen spans the background; his face never drops below the lower third, even when thrown.",
+    "camera": "Medium close, 27mm, dashboard height; one handheld move, shaking hard with the cab, absorbing the jolt as Jin swings left and ending tighter on his face.",
+    "start": "The cab shudders; the node box lamps blink frantically in the foreground; Jin's eyes dart from the box to the windscreen.",
+    "middle": "He hauls the wheel to the left; the whole cab lurches; the camera swings with the force and the orange windscreen slides across the frame; he is thrown hard toward the door.",
+    "end": "He shouts the line, mouth clear, straining against the turn; the frame lands on his face in medium close, the flashing box a soft green-red smear at the left edge.",
+    "mood": "Violent, urgent, instinctive",
+    "blur": "Node box soft in the foreground with lamp bokeh; Jin's face crisp; the windscreen scene in soft orange; motion blur from the shake allowed only at the frame edges.",
+    "soundscape": "Rapid electronic warning beeps, the engine roaring under load, tyres grinding on ice, a deep crack of the ice under the cab, the creak of the steering column."
+   },
+   "design": "驾驶室内27mm手持近景，剧烈颠簸：铁盒急闪的灯在前景、金老板在中景、挡风玻璃外的橘光与冰裂在背景，危急之中第一次真正放开手持。",
+   "_cine": true
+  },
+  {
+   "id": "s45",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_ice"
+   ],
+   "frame": "Wide shot, 150mm, locked off and rigged facing backward from the rear of a moving truck, vibrating with the chassis. Large dark frame: the shadowed ice plain fills most of the image, a dim orange sky glow only along the top band. Middle distance, slightly right of centre: two small white headlight points of the last truck, its bulk barely readable in blowing snow. Between camera and truck, a jagged black fissure begins opening across the ice. Snow particles streak past the lens in the foreground, soft.",
+   "video": "长焦镜头，晃动。车队后方的冰面裂开，最后一台车的车灯一歪，沉下去，消失在腾起的雪雾里。环境声：冰层断裂的巨响。",
+   "dialogue": [],
+   "vo": "",
+   "music": "06_saturation_rescue 骤弱",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The ice splits behind the convoy and the last truck's headlights tilt, drop and vanish into a rising cloud of snow.",
+    "blocking": "Blocking lock: the two headlight points stay right of centre in the middle band; the fissure runs horizontally across the lower-middle of the frame; the frame is mostly dark ice with a thin orange glow at the top.",
+    "camera": "Wide, 150mm, rear-facing at chassis height; locked off on the truck, vibrating with the vehicle, no operator move for 8 seconds.",
+    "start": "Two headlight points follow steadily in a dark field; a thin black crack zips across the ice between us and them.",
+    "middle": "The crack splits wide; the two points tilt sideways, one dropping below the other.",
+    "end": "The lights sink and go out inside a billowing white snow cloud; the frame rests on dark ice and settling powder where the points were.",
+    "mood": "Sudden, helpless, silent loss",
+    "blur": "Long-lens compression; focus held on the headlight points and fissure, crisp; foreground snow streaks soft; the shake comes from the vibrating rig only.",
+    "soundscape": "A thunderous crack of breaking ice, a long grinding groan, rushing snow, the rumble of our own truck underneath."
+   },
+   "design": "长焦固定在车尾随车身震动，在大片暗冰面上只留下最后一台车的两点车灯，看它们歪斜、下沉、熄灭，呼应全片的“灯灭”母题。",
+   "_cine": true
+  },
+  {
+   "id": "s46",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "loc_ice"
+   ],
+   "frame": "Close-up, 85mm, camera at eye level beside the driver's window, angled back toward the cab. Foreground left: the side rear-view mirror, crisp, showing dark ice and drifting snow with no headlights. Right of centre, soft: Boss Jin's broad weathered face in three-quarter, frostbite scars on his cheek, beard frosted, a battered radio handset clenched to his mouth, knuckles white. Orange Jupiter light through the side glass rims his face; faint green dashboard glow from below. Darkness behind him in the cab.",
+   "video": "手持特写。金老板死死攥着对讲机，盯着后视镜，对着话筒喊。对讲机里只有电流声。环境声：电流杂音、引擎声。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "七号车！老秦！回话！"
+    }
+   ],
+   "vo": "",
+   "music": "弦乐长音",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Boss Jin grips the radio handset and stares into the mirror, shouting '七号车！老秦！回话！', but only static answers.",
+    "blocking": "Blocking lock: the mirror holds the left foreground; Jin's face holds the right of centre in the middle band; the handset stays at his mouth throughout, mouth visible beside it.",
+    "camera": "Close-up, 85mm, eye level; one rack focus from the mirror (foreground) to Jin's face (background) at the start of his line; no camera movement.",
+    "start": "The mirror is sharp: dark ice, snow, no lights; Jin is a soft orange shape behind it.",
+    "middle": "Focus racks to Jin as he presses the transmit key and shouts the line, veins in his neck, mouth clear beside the handset.",
+    "end": "He releases the key; only static hisses back; he holds absolutely still, eyes locked on the mirror, which is now a soft dark smear in the foreground.",
+    "mood": "Desperate, raw, suspended",
+    "blur": "Shallow T2; first the mirror crisp and Jin soft, then Jin crisp and the mirror soft; the background of the cab falls to black.",
+    "soundscape": "Engine drone, a hiss and crackle of empty radio static, the click of the transmit key, wind against the glass."
+   },
+   "design": "85mm驾驶室内特写，从后视镜里空荡的雪雾拉焦到金老板嘶喊的脸，镜中无光，脸上只有仪表盘微光和木星橘光。",
+   "_cine": true
+  },
+  {
+   "id": "s47",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "jin",
+    "loc_interview"
+   ],
+   "frame": "Medium shot, 85mm, camera at seated eye level. Boss Jin sits on a plain metal chair in the right third of the frame, body angled slightly left, a walking cane laid across his knees, both hands resting on it. A soft key from frame left falls on his weathered face and frost-grey beard; the right side of his face sinks into shadow. His eyes are red-rimmed and wet, looking past the lens to the left. The left two-thirds is dark negative space: out-of-focus pipes and concrete dissolving into black.",
+   "video": "采访固定机位。金老板膝上横着一根拐杖，眼眶是红的，望着镜头外，说得很慢，说完抹了一把脸。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "十二台车出去，八台到。老秦没到。"
+    }
+   ],
+   "vo": "",
+   "music": "独奏二胡",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "In the 2078 interview, Boss Jin, cane across his knees, says slowly '十二台车出去，八台到。老秦没到。' and then wipes his face with his hand.",
+    "blocking": "Blocking lock: Jin is fixed in the right third, his eyes on the upper-middle line; negative space on the left; the cane horizontal at the lower edge; this setup is Jin's for the whole film.",
+    "camera": "Medium shot, 85mm, eye level; one almost imperceptible slow push-in over 10 seconds, from a medium shot with the cane visible to a medium close where the cane just leaves the bottom edge.",
+    "start": "Jin sits in silence, eyes wet, gaze resting past the lens; his hands are still on the cane.",
+    "middle": "He speaks the line slowly, with a pause before the last sentence, his mouth clear in the soft key.",
+    "end": "He lifts one hand and drags it down over his face; the frame lands in medium close, his hand lowering, eyes still off to the left in the dark.",
+    "mood": "Grief, restraint, plain truth",
+    "blur": "Shallow T2; Jin's eyes crisp; the cane falls slightly soft as we push; the background pipes are diffuse shapes melting into black.",
+    "soundscape": "Quiet room tone, a faint ventilation hum, the creak of the metal chair, his breath catching."
+   },
+   "design": "85mm采访中景，金老板居右，向左留出大片暗色负空间，左侧柔光单灯，几乎察觉不到的缓推，让沉默和数字一起落下。",
+   "_cine": true
+  },
+  {
+   "id": "s48",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_engine",
+    "loc_jupiter"
+   ],
+   "frame": "Wide shot, 40mm, locked off at low height on the ice plain, frame vibrating. Foreground: soft chunks of frosted debris at the lower edge. Centre-left: the base of the dead planetary engine, a dark wall of steel and concrete rising out of frame, its nozzle cold. At its foot, a thin steel relay mast stands beside a square shaft opening. Far right: a parked transport truck with blue-white headlights and two tiny figures beside it. Jupiter's orange light floods the sky and the ice; dust and ice haze hang in the air.",
+   "video": "固定远景，画面震动。停机的发动机脚下，一根中继桅杆折断倒下，冰块和混凝土滑下来，埋住了井口。环境声：坍塌的轰响。",
+   "dialogue": [],
+   "vo": "",
+   "music": "低音鼓",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "At the foot of the stopped engine, a relay mast snaps and falls as ice and concrete slide down and bury the shaft opening.",
+    "blocking": "Blocking lock: the engine wall fills the left two-thirds; the mast and shaft opening sit centre-left at its foot; the truck and two tiny figures stay far right, small; the horizon line is low.",
+    "camera": "Wide, 40mm, low angle; locked-off tableau for 8 seconds, shaking only with the ground tremor.",
+    "start": "Ice dust trickles from the engine's flank; the mast sways against the orange sky.",
+    "middle": "The mast buckles at its base and topples sideways; a sheet of ice and broken concrete slides down the engine wall.",
+    "end": "The avalanche buries the shaft opening in rubble and a rolling dust cloud; it settles to a dim orange haze, the tiny figures and truck still far right.",
+    "mood": "Crushing, indifferent, catastrophic",
+    "blur": "Deep focus at T5.6; the engine base, mast and shaft crisp; the foreground debris soft; the dust cloud diffuses the background light.",
+    "soundscape": "A shriek of tearing steel, a thunderous roar of sliding ice and concrete, a deep ground rumble, the wind returning as the dust settles."
+   },
+   "design": "固定远景，熄火的发动机如山般压满画面，远处停着的卡车和两个小人提供尺度，中继桅杆在木星橘光中折断，冰与混凝土倾泻而下，埋住井口。",
+   "_cine": true
+  },
+  {
+   "id": "s49",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "xiaoman",
+    "prop_node",
+    "loc_engine"
+   ],
+   "frame": "Close shot, 40mm, camera low at crouch height, angled slightly down. Foreground right: Xiaoman's shoulder and arm, soft and dark. Centre: Amu's gloved hands holding the dented steel node box, every small lamp on it dark. Snow dust drifts across it. Background: a heap of broken concrete and ice choking the shaft mouth, and beyond it the dark wall of the stopped engine. Orange Jupiter light from above, cold blue-white truck headlight raking from the left across the frost.",
+   "video": "手持镜头。被碎石堵住的井口边，阿牧蹲着，手里的节点盒灯全灭了。他抬头看了一眼发动机，对小满说。环境声：风声、碎石滚落声。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "中继断了。下面听不见我们。"
+    }
+   ],
+   "vo": "",
+   "music": "06_saturation_rescue 低回",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Amu crouches by the buried shaft holding a node box with all its lights out, looks up at the engine, and tells Xiaoman '中继断了。下面听不见我们。'",
+    "blocking": "Blocking lock: Xiaoman's soft shoulder holds the right foreground; Amu holds the centre-left; the rubble and engine fill the background; Amu's face settles in the middle band after the tilt.",
+    "camera": "Close, 40mm, low angle; one slow tilt up from the dark node box in his hands to Amu's face over about 4 seconds, then held.",
+    "start": "The dark node box fills the centre; his thumb presses a switch; nothing lights.",
+    "middle": "The camera tilts up with his gaze as he lifts his face to the engine towering above, the eyebrow scar catching the headlight, breath fogging.",
+    "end": "He turns his head toward Xiaoman and speaks the line, mouth clear, the frame resting on his face between the soft shoulder and the dark engine.",
+    "mood": "Quiet dread, grim clarity",
+    "blur": "Shallow T2.8; first the node box crisp, then Amu's face crisp; Xiaoman's shoulder soft; the engine and rubble a soft dark mass.",
+    "soundscape": "Wind, small stones and ice clattering down the rubble pile, the dry click of the dead switch, breath."
+   },
+   "design": "40mm从熄灭的节点盒特写缓慢上摇至阿牧抬起的脸，身后巨大的停机发动机模糊成黑墙，小满作前景虚化肩膀，橘光与卡车冷光交织。",
+   "_cine": true
+  },
+  {
+   "id": "s50",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "luosi",
+    "xiaoman",
+    "loc_engine"
+   ],
+   "frame": "Medium shot, 32mm, camera very low, about 30cm above the ice, three-quarter behind the robot. Foreground right: the small scratched yellow tracked robot, its smiley screen glowing, antenna raised. Middle left: Xiaoman standing, coat whipped by wind, head turned toward Amu off frame. Background left: a pile of fallen concrete slabs with one narrow, pitch-black gap. Orange Jupiter light overhead, blue-white truck headlight grazing the rubble, ice dust drifting through the beams.",
+   "video": "低机位手持。“螺丝”原地转过身，屏幕对着碎石间一道漆黑的窄缝，停住了。身后的小满慢慢转过头，明白了它要做什么。环境声：电机转动声、风声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "八音盒动机",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Luosi turns on its tracks to face a narrow black gap in the rubble and stops; behind it Xiaoman slowly turns his head and understands what it means to do.",
+    "blocking": "Blocking lock: the robot stays in the foreground at low frame centre-right; the black gap is centre-left; Xiaoman is mid-ground left, his face in the middle band; the robot's screen faces the gap by the end.",
+    "camera": "Medium, 32mm, ground level; one slow arc of about 60 degrees to the left around the robot over 9 seconds, ending low behind its shoulder looking into the gap.",
+    "start": "The robot sits still; Xiaoman, behind it, looks away toward Amu.",
+    "middle": "The robot pivots on its tracks to the gap as the camera arcs with it; its screen light spills red and white onto the slabs.",
+    "end": "The robot stops, screen squared to the black slit; in the mid-ground Xiaoman slowly turns his head, his face catching the red glow, the dawning understanding in his eyes.",
+    "mood": "Ominous, quiet, inevitable",
+    "blur": "Robot crisp in the foreground; Xiaoman in focus at T4 with gentle falloff; the gap a sharp black void; the far engine soft.",
+    "soundscape": "The whir of a small electric motor, crunch of tracks turning on ice, wind, trickling grit."
+   },
+   "design": "32mm贴地低机位绕“螺丝”缓慢弧移，它原地转身朝向黑缝，屏幕的红白光渗入黑暗；小满在后景慢慢转头，脸被这团光照亮。",
+   "_cine": true
+  },
+  {
+   "id": "s51",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_engine"
+   ],
+   "frame": "Medium close shot, 27mm, handheld low at knee height, side-on, very close. Foreground: ice chips spraying from the robot's spinning tracks, soft. Centre: Xiaoman on his knees, arms locked around the robot's yellow body from behind, face pressed against its back, mouth open in a shout, breath vapour. The robot pulls toward the right of frame where the black gap waits. Orange Jupiter light from above, blue-white headlight from behind them rimming his hair and the fog.",
+   "video": "手持镜头。小满扑上去从后面抱住“螺丝”的机身，脚跟蹬着冰面往回拽，朝它喊。环境声：履带空转的摩擦声、风声。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "不行！你回来！会压碎的！"
+    }
+   ],
+   "vo": "",
+   "music": "八音盒动机 + 弦乐",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Xiaoman throws his arms around Luosi from behind, heels digging into the ice to drag it back, shouting '不行！你回来！会压碎的！'",
+    "blocking": "Blocking lock: the robot pulls toward the right, the black gap off frame right; Xiaoman is centre-left wrapped around it; his face stays in the middle band, mouth visible over the robot's back.",
+    "camera": "Medium close, 27mm, knee height; one handheld move, close and breathing, jolted by the struggle, tightening as he shouts.",
+    "start": "He lunges into frame and clamps his arms around the robot; it keeps grinding toward the gap.",
+    "middle": "His heels gouge the ice; tracks spin and spray chips; the camera shakes with every tug as he shouts the line, face contorted.",
+    "end": "Both strain in a stalemate; the frame lands tight on his face pressed against the yellow casing, breath fogging, the screen glow in red on his cheek.",
+    "mood": "Panic, love, desperation",
+    "blur": "Xiaoman's face crisp at T2.8; flying ice chips soft; the robot's casing sharp near his face; background falls into orange and black.",
+    "soundscape": "Screeching tracks spinning on ice, a straining motor, grinding ice chips, his ragged breath and shout, wind."
+   },
+   "design": "27mm贴身手持侧拍，惊慌中的唯一一次挣扎：小满从背后死死抱住“螺丝”，脚跟蹬冰，冰屑飞溅，嘶喊的脸压在画面中线。",
+   "_cine": true
+  },
+  {
+   "id": "s52",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "xiaoman",
+    "logo_smiley"
+   ],
+   "frame": "Close-up, 100mm, camera at hand height, strict profile. Foreground band: Xiaoman's gloved hand resting in the lower middle of the frame, palm down, soft; the robot's small steel claw just entering from the right, soft. Background, slightly higher, in focus: Xiaoman's face in three-quarter, tears and frost on his lashes, lit red and white by the robot's smiley screen, which has turned to face him. Orange Jupiter light backlights the hand and claw, rimming the knuckles and steel edges; deep black elsewhere.",
+   "video": "特写。“螺丝”停了下来，屏幕转过来对着小满的脸。它抬起机械爪，在他的手套上轻轻碰了一下，然后松开。环境声：电机的轻响，风声忽然远了。",
+   "dialogue": [],
+   "vo": "",
+   "music": "八音盒动机，独奏",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Luosi stops, turns its screen to Xiaoman's face, lifts its claw and gently touches his glove, then lets go.",
+    "blocking": "Blocking lock: the hand-and-claw profile two-shot holds the lower middle band, hand from left, claw from right; Xiaoman's face is above and behind, centred left; backlight from Jupiter behind the hand and claw, matching every hand-and-claw shot in the film.",
+    "camera": "Close-up, 100mm, hand height, profile; locked off with one rack focus from Xiaoman's face in the background to the hand and claw in the foreground, timed to the touch.",
+    "start": "The robot's screen glow falls on Xiaoman's face, crisp in the background, his breath stilling; the hand and claw are soft shapes in front.",
+    "middle": "Focus racks forward as the claw rises and rests lightly on the back of his glove, both outlined in orange backlight.",
+    "end": "The claw lingers a beat, then opens and withdraws out of frame right; the frame holds on his empty glove, crisp, his face soft behind.",
+    "mood": "Tender, final, hushed",
+    "blur": "The robot's claw touching the glove in the foreground and Xiaoman's face stay readable; one gentle rack focus only; the frame never goes fully soft.",
+    "soundscape": "A soft electric motor whir, a faint tap of metal on fabric, the wind suddenly receding into a distant hush, his held breath."
+   },
+   "design": "100mm侧面逆光紧双人镜头（全片“手与爪”母题机位）：从后景被屏幕照亮的小满的脸拉焦到前景机械爪轻触手套，风声远去。",
+   "_cine": true
+  },
+  {
+   "id": "s53",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "luosi",
+    "loc_engine"
+   ],
+   "frame": "Low wide shot, 40mm, camera 30 cm above the frozen rubble, directly behind the small knee-high yellow tracked robot. Out-of-focus chunks of broken concrete frame the left and right edges of the foreground. The robot sits centre-left, its scratched boxy body seen from behind, whip antenna upright. Its screen spills a red-white glow forward onto a tilted concrete slab that fills the upper two-thirds of the frame. Beneath the slab, a black horizontal gap waits at the centre. Faint orange Jupiter light rims the slab's top edge. Ice dust drifts through the glow.",
+   "video": "手持镜头，从背后拍。“螺丝”开进了石板底下的窄缝，天线刮着混凝土，身上的光一点点没进黑暗里。环境声：履带声、金属刮擦声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "07_farewell_luosi",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The little robot Luosi drives into the narrow gap under a tilted slab, its antenna scraping concrete, and its light disappears into the dark.",
+    "blocking": "Blocking lock: robot always seen from behind, centred on the gap; the slab is a heavy dark mass across the upper frame; the gap is a horizontal black slot at frame centre; the camera never enters the gap.",
+    "camera": "Low wide shot, 40mm, 30 cm high, eye-line of the robot. Slow Steadicam follow from behind at the robot's crawling pace (about 0.3 m/s). The move starts with the robot full-figure in the lower-centre frame and ends stopped at the slab lip, with the gap as a black slot holding a fading glow.",
+    "start": "Robot full-figure in the lower centre, treads grinding forward over rubble, camera following close behind at its height.",
+    "middle": "The robot dips under the slab lip and its antenna bends and scrapes along the concrete underside, throwing a small spray of grit into its own red glow.",
+    "end": "The camera halts at the slab edge as the robot pushes deeper. Its glow shrinks to a dim red smear inside the black gap, framed by grey concrete above and below.",
+    "mood": "resolute, small, swallowed",
+    "blur": "Robot and slab lip crisp at T2.8. Foreground rubble at the frame edges is soft. Focus is pulled to follow the robot into the gap and holds on the glow as it recedes.",
+    "soundscape": "Grinding tracks on grit, a thin metallic screech of the antenna on concrete, wind over the rubble behind, small stones trickling."
+   },
+   "design": "低机位斯坦尼康从背后跟随“螺丝”，跟到石板边缘就停住。机器自身的红白屏光一点点被黑暗吞没，镜头被留在了外面。",
+   "_cine": true
+  },
+  {
+   "id": "s54",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Tight shot inside the collapsed shaft, 65mm, camera low and level with the robot's treads. Foreground left: an out-of-focus jagged concrete edge in near-black. Subject: the lower body of the small yellow robot wedged between two grey slabs, treads jammed against debris, filling the centre of the 2.39 band. Its unseen screen throws a red-white glow upward that lights falling dust as glittering specks. The background is total black beyond the slabs. The air is thick with dust hanging in the glow.",
+   "video": "狭小空间里的特写。“螺丝”卡在两块石板中间，把天线一节一节升起来。头顶的石板往下沉，屏幕上裂开一道缝，笑脸还亮着。环境声：混凝土的呻吟、电机吃力的声音。",
+   "dialogue": [],
+   "vo": "",
+   "music": "07_farewell_luosi",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Wedged between two slabs, Luosi raises its antenna segment by segment while the slab above sinks and a crack splits its screen; the smiley stays lit.",
+    "blocking": "Blocking lock: robot wedged at frame centre between a lower slab and an upper slab; the antenna rises vertically along the centre line; the screen faces camera-right three-quarter; the smiley logo shape is reproduced exactly.",
+    "camera": "Tight shot, 65mm, low level angle. One slow tilt up (about 6 seconds of travel) following the antenna. It starts on the jammed treads and debris and ends on the antenna tip touching the sinking upper slab, with the cracked glowing screen in the lower third.",
+    "start": "The jammed treads twitch against the rubble, motor straining. The first antenna segment slides up out of frame.",
+    "middle": "The tilt rises with each extending segment and passes the screen as a thin crack runs across it. The red-bubble white-smile face stays lit.",
+    "end": "The frame lands on the antenna tip pressed to the descending slab underside. Dust pours down through the red glow, and the cracked smiley sits in the lower third.",
+    "mood": "straining, claustrophobic, stubborn",
+    "blur": "Shallow focus at T2. Focus follows the rising antenna, and the screen and crack are crisp as they pass. The foreground concrete edge stays soft. The black background has no detail.",
+    "soundscape": "Deep groan of loading concrete, a high-pitched struggling servo whine, telescoping metal clicks, a fine hiss of falling dust."
+   },
+   "design": "缝隙内部的近景，65毫米。镜头从卡住的履带跟着天线一节节升起，慢慢上摇到正在下沉的石板。屏幕红白光是唯一的光源。",
+   "_cine": true
+  },
+  {
+   "id": "s55",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "prop_node",
+    "amu"
+   ],
+   "frame": "Close shot, 85mm, camera at chest height, slightly low, on the gloved hands of Amu holding a dented steel ammunition-tin node box. The box fills the lower-left foreground in sharp focus, its row of small LEDs dark except one green point. Behind and above, frame right, Amu's bowed head is soft: short messy black hair, light stubble, breath vapour. Orange Jupiter light backlights his hair and the blowing snow. His face is in cool shadow. The ice plain beyond is a dark orange-grey blur.",
+   "video": "特写。阿牧手里的节点盒，灯一颗接一颗重新亮了，绿色。他猛地抬起头喊。环境声：一串急促的提示音、风声。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "通了！螺丝把自己架成了中继！"
+    }
+   ],
+   "vo": "",
+   "music": "06_saturation_rescue 重新起",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The lamps on Amu's node box come back on, green, one after another; he snaps his head up and shouts that the link is through and Luosi has made itself a relay.",
+    "blocking": "Blocking lock: node box lower left in the foreground; Amu's head upper right, behind; Jupiter backlight from behind him at frame right; snow blows left to right.",
+    "camera": "Close shot, 85mm, slightly low. Locked frame with a single rack focus. Focus starts on the LEDs and racks to Amu's face as he looks up, ending on him sharp with the green dots as soft bokeh in the foreground.",
+    "start": "The green LEDs blink on one by one across the box, each with a short beep, while Amu's head stays bowed and soft.",
+    "middle": "As the last lamp lights, Amu's head jerks up. Focus racks to his face as the orange rim catches his scar and wet eyes.",
+    "end": "Amu shouts, mouth fully visible, eyes past camera-left toward the rubble. The green LEDs glow as soft out-of-focus points at lower left.",
+    "mood": "sudden hope, urgent",
+    "blur": "T1.8 with very shallow depth of field. LEDs crisp at the start; rack focus over about 1 second to Amu's eyes. Snowflakes pass as soft streaks.",
+    "soundscape": "A rapid ascending chain of electronic beeps, gusting wind, Amu's shout cracking in the cold."
+   },
+   "design": "85毫米。焦点从节点盒上逐颗亮起的绿灯拉到阿牧抬起的脸，木星橘光作背光，风雪横穿画面。",
+   "_cine": true
+  },
+  {
+   "id": "s56",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "prop_core",
+    "loc_engine"
+   ],
+   "frame": "Medium-wide shot, 27mm, handheld, leading in front of Amu at chest height and looking back down a dark engine gallery. Amu runs toward camera at frame centre, a rugged steel case on his right shoulder, his face strained, mouth open, breath vapour streaming. Behind him the gallery recedes as a vast black tube of ribs and pipes. A line of caged amber emergency lamps on the ceiling forms a vanishing line, the nearest overhead pool of light just catching his head. Haze hangs in each lamp's cone.",
+   "video": "剧烈晃动的手持跟拍。阿牧扛着钢箱在漆黑的发动机廊道里狂奔，应急灯一盏盏从头顶掠过。环境声：沉重的脚步声、喘息、箱子的碰撞声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "06_saturation_rescue 全奏",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Amu runs flat out through the black engine gallery with the steel core case on his shoulder, emergency lamps flashing past overhead.",
+    "blocking": "Blocking lock: Amu stays centre-frame, running toward camera; the case on his right shoulder; the lamps form a ceiling line converging to the centre vanishing point.",
+    "camera": "Medium-wide shot, 27mm, chest height. Handheld leading backward at running speed, breathing and jolting. It starts with Amu medium-wide and the gallery deep behind him, and ends with him gaining to a medium shot, filling the centre, as he passes under a lamp.",
+    "start": "Amu emerges from darkness into the first amber pool, running hard, the case bouncing.",
+    "middle": "Lamps pass over him in rhythm, light-dark-light, while pipes on the walls slide past soft at the frame edges.",
+    "end": "He closes on the camera under a lamp, face lit amber with sweat and vapour, then plunges into the next dark gap. Cut on that motion.",
+    "mood": "desperate, breathless, propulsive",
+    "blur": "T2.8. Amu crisp, focus held on him at a closing distance. The deep gallery falls off soft. Lamp cones are lit by haze.",
+    "soundscape": "Heavy boots on steel grating, ragged breathing, the case clanging on his shoulder, a reverberant boom down the tunnel, the buzz of the emergency lamps."
+   },
+   "design": "全片少用的剧烈手持，27毫米从正面倒退领跑。头顶应急灯一盏盏掠过，在阿牧身上打出明暗交替的节奏。",
+   "_cine": true
+  },
+  {
+   "id": "s57",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "loc_engine"
+   ],
+   "frame": "Medium shot, 40mm, camera inside the black gap at ground level, looking out and slightly up at Xiaoman. Foreground: out-of-focus jagged concrete edges top and bottom, framing a wide horizontal slot. In the slot, centre-right, Xiaoman kneels: a tall thin 19-year-old with messy overgrown black hair and pale skin, both palms pressed on the slab, leaning in. The orange Jupiter sky behind him rims his hair and shoulders. His face is lit only faintly red by the robot glow from inside. Breath vapour and blown snow drift around him.",
+   "video": "手持镜头。小满跪在窄缝前，两只手撑着石板，朝黑洞里喊，声音都劈了。环境声：混凝土的断裂声、风声。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "撑住！螺丝！再撑一会儿！"
+    }
+   ],
+   "vo": "",
+   "music": "06_saturation_rescue",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Xiaoman kneels at the gap with both hands on the concrete and screams into the dark for Luosi to hold on, his voice breaking.",
+    "blocking": "Blocking lock: camera inside the gap; Xiaoman kneels centre-right in the slot between slab edges, facing camera; hands on the slab at the lower frame; Jupiter backlight behind him.",
+    "camera": "Medium shot, 40mm, ground level, looking slightly up. Slow dolly push-in (about 20 cm over 9 seconds) through the gap. It starts as a medium shot inside the concrete slot and ends as a medium close-up with his face filling the slot.",
+    "start": "Xiaoman's hands brace on the slab. He leans into the darkness, breath fogging.",
+    "middle": "He screams the line, mouth wide and visible, voice splitting. Concrete cracks somewhere and grit falls past the foreground.",
+    "end": "Medium close-up: his tear-wet face framed between the dark slab edges, eyes searching the black toward camera, orange rim on his hair.",
+    "mood": "anguished, pleading, helpless",
+    "blur": "Xiaoman's eyes crisp at T2. Foreground slab edges fully soft and dark. The orange sky behind him is a soft glow.",
+    "soundscape": "Cracking concrete, wind, his raw voice echoing into the narrow cavity, falling pebbles."
+   },
+   "design": "镜头放在窄缝的黑暗里向外看，石板边缘框住跪着的小满，木星橘光从他背后照来。缓慢推近，压紧他的哭喊。",
+   "_cine": true
+  },
+  {
+   "id": "s58",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Macro close-up, 100mm macro on a slider, level with the robot's cracked screen in total darkness. Foreground: soft falling dust streaks. Subject left of centre: the square screen, a crack across it, the red speech-bubble smiley with its left half dead black and the right half flickering red and white. Its light glows on scratched yellow paint at the bezel. Frame right is black, with the base of the antenna mast faintly lit. Above, the underside of the slab is barely visible. The dust is lit as a red curtain.",
+   "video": "特写。屏幕上的笑脸灭了一半，剩下的一半在闪。天线还举着。灰不停地往下掉。环境声：电流的噼啪声、石板下沉的闷响。",
+   "dialogue": [],
+   "vo": "",
+   "music": "07_farewell_luosi + 鼓",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Half of the smiley on Luosi's screen has gone dark, the other half flickers; the antenna is still raised as dust keeps falling.",
+    "blocking": "Blocking lock: screen left of centre, crack diagonal; the antenna mast rises from the right of the screen; the slab is a dark mass at the top of frame; the dead half of the smiley is on the left.",
+    "camera": "Macro close-up, 100mm, level. Slow lateral slider move left to right (about 15 cm in 8 seconds). It starts on the half-dead smiley and ends on the antenna rising vertically in the frame-right third, with the flickering screen soft at left. The cracked screen with the smiley stays inside the frame for the whole shot.",
+    "start": "The half-dead face flickers, its pixels sputtering, dust falling across it.",
+    "middle": "The slider drifts right past the crack and the yellow bezel to the antenna base. A dull thud shakes down more dust.",
+    "end": "The antenna stands upright and still, lit by stuttering red light, the screen a soft pulsing glow at the left edge.",
+    "mood": "fading, defiant, fragile",
+    "blur": "Wafer-thin depth of field at T2.8 macro. The screen pixels are crisp, then focus slides to the antenna. Falling dust is out of focus in the foreground.",
+    "soundscape": "Crackle of electrical arcing, a dull heavy thud of the slab settling, a dust hiss, a weak servo hum."
+   },
+   "design": "100毫米微距滑轨横移，掠过半灭的屏幕和仍举着的天线。灰像雨一样落在红白光里。",
+   "_cine": true
+  },
+  {
+   "id": "s59",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "amu",
+    "prop_core"
+   ],
+   "frame": "Close shot, 65mm, low angle just below a steel socket, looking up along it. Foreground: the soft dark edge of the socket collar at lower frame. Subject centre: Amu's gloved hands gripping a forearm-length metal igniter core glowing ember red at its tip, half inserted. Above, soft but readable: his strained face lit red from below, scar through his eyebrow, jaw clenched. To the right a heavy locking lever stands upright, catching a red edge. The background is black engine machinery and haze, with one distant amber lamp.",
+   "video": "特写。阿牧把泛着红光的点火核心推进插座，整个人压上去，扳下锁定杆。环境声：金属咬合的巨响、他的嘶吼。",
+   "dialogue": [],
+   "vo": "",
+   "music": "06_saturation_rescue 顶点",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Amu drives the red-glowing igniter core into the socket, throws his whole weight onto it and slams the locking lever down.",
+    "blocking": "Blocking lock: socket centre-low; Amu's hands on the core at centre; his face above at centre-left; the lever at frame right; all key light comes from the core's red glow.",
+    "camera": "Close shot, 65mm, low angle. Slow dolly push-in (about 25 cm over 9 seconds). It starts on hands, core and face together and ends on the lever and his gloved fist slammed down, the red glow sealed in the socket.",
+    "start": "Hands shove the core into the socket. Red light streaks up his face as metal grinds.",
+    "middle": "He leans his full body onto it, roaring, and the core seats with a massive clank.",
+    "end": "His right hand drags the lever down hard into frame. The push lands on fist and lever locked, the red glow contained, his face soft above.",
+    "mood": "violent effort, all-in",
+    "blur": "Hands and core crisp at T2.8, then focus rides to the lever. His face is readable but slightly soft. The haze background is soft.",
+    "soundscape": "A grinding metal slide, a huge interlocking clang, Amu's hoarse yell, a deep resonant hum building inside the machine."
+   },
+   "design": "65毫米低机位近景，镜头随推送动作缓慢推进。点火核心的红光从下往上照亮阿牧压上去的脸，冷黑的钢结构作背景。",
+   "_cine": true
+  },
+  {
+   "id": "s60",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Locked-off close shot, 100mm, level, inside the collapsed shaft. The 2.39 frame is almost entirely black. A small glowing square sits in the right third: the robot's cracked screen with the half-dead red-and-white smiley, the logo shape exact, its faint light just defining the slab edges above and below. Foreground: out-of-focus specks of dust drifting slowly down, lit faintly red. The left two-thirds of the frame are deep, empty black.",
+   "video": "特写固定镜头。笑脸最后闪了一下，灭了。屏幕是黑的。灰慢慢落下来。环境声：一切声音都停了，只剩灰落下的沙沙声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "全部音乐骤停",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The smiley flickers one last time and goes out; the screen is black and dust slowly settles.",
+    "blocking": "Blocking lock: the screen is a small square in the right third; the left two-thirds are empty black, matching the film's lights-out motif composition.",
+    "camera": "Close shot, 100mm, level. Locked-off and completely still for the full shot. The frame starts on a small glowing screen in a black field and ends on total black with faint settling dust.",
+    "start": "The half smiley glows weakly, a small point in the darkness.",
+    "middle": "It flickers once, brighter for an instant, then cuts out, and the slab edges vanish with it.",
+    "end": "Pure black. A few dust motes, caught by nothing, fade from sight. Hold.",
+    "mood": "silent, final, bereft",
+    "blur": "Screen crisp at T2.8. Dust in the foreground is soft. Blacks crush to pure black.",
+    "soundscape": "All sound drops away except a soft hiss of dust settling."
+   },
+   "design": "母题二。固定镜头，笑脸只占画面一角，作为大片黑暗里的小光点闪了最后一下，然后熄灭，只剩被余光照着的落灰。",
+   "_cine": true
+  },
+  {
+   "id": "s61",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_engine",
+    "loc_jupiter"
+   ],
+   "frame": "Locked-off extreme wide shot, 65mm, camera low on the ice plain. Foreground: out-of-focus ice ridge across the bottom edge. Lower third: a row of tiny silhouetted human figures at a rubble mound, specks against the snow. The centre is dominated by the dark mountain-sized planetary engine, its nozzle crown silent and black. Jupiter fills the entire sky behind it, banded orange and red, the Great Red Spot upper left. The engine's base is still dark. Ice dust haze sits in the orange light.",
+   "video": "固定大远景。发动机底部亮起蓝白色的光，光柱猛地冲上去，刺进木星占满的天空。环境声：从寂静中爆发的轰鸣。",
+   "dialogue": [],
+   "vo": "",
+   "music": "08_ignition 的第一个和弦",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Blue-white light kindles at the engine's base and the plasma column blasts upward into the Jupiter-filled sky.",
+    "blocking": "Blocking lock: engine centred; tiny figures in the lower third, left of centre; Jupiter fills the sky; the beam rises along the frame centre and exits the top.",
+    "camera": "Extreme wide shot, 65mm, low. Locked-off tableau with no move; the image itself transforms. It starts on a dark engine under the orange sky and ends with the frame split by a blinding blue-white column from bottom to top.",
+    "start": "Silence. A dark engine, an orange sky, tiny figures still.",
+    "middle": "A blue-white glow blooms at the engine base, flooding the ice with cold light and throwing long shadows from the tiny figures toward camera.",
+    "end": "The column punches up into Jupiter's bands. The frame is bleached blue-white along the centre, with the orange sky pushed to the edges and the figures in silhouette.",
+    "mood": "eruptive, monumental, triumphant",
+    "blur": "Deep focus at T5.6. Engine and figures sharp. The foreground ice ridge is soft. Plasma blooms naturally without clipping into shapes.",
+    "soundscape": "Dead silence, then a deep roar bursting up from the ground, a rolling shockwave, ice cracking."
+   },
+   "design": "65毫米压缩透视的固定大远景。发动机像山一样立在木星天空前，脚下有一排极小的人影。蓝白光柱从底部冲上去，把整个画面漂白。",
+   "_cine": true
+  },
+  {
+   "id": "s62",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "loc_engine"
+   ],
+   "frame": "Close-up, 85mm, camera at kneeling height in near profile on Xiaoman's left. Foreground right: the soft black edge of the gap in the rubble. Subject centre-left: Xiaoman kneeling, head lowered toward the gap, messy overgrown hair, pale face in shadow, tear tracks. Behind him, the engine's blue-white plasma floods in as a strong backlight, rimming his hair, ear and breath vapour in cold light. Deep background: soft blown-out blue glow and tiny blurred silhouettes of cheering people against the orange sky.",
+   "video": "手持特写。蓝光从背后漫过小满的脸。所有人都在欢呼，他没有回头，只盯着那道黑缝，轻轻叫了一声。环境声：远处的欢呼、发动机的轰鸣。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "螺丝？"
+    }
+   ],
+   "vo": "",
+   "music": "07_farewell_luosi 大提琴独自收尾",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "Blue light floods over Xiaoman from behind while everyone cheers; he does not turn, staring into the dark gap, and quietly says the robot's name.",
+    "blocking": "Blocking lock: Xiaoman kneeling, facing the gap at frame right; the engine light behind him; the cheering people stay deep and soft; he never turns toward the beam.",
+    "camera": "Close-up, 85mm, kneeling height. Slow arc orbit of about 40 degrees around him (10 seconds). It starts in near profile with the gap at the right and ends on a three-quarter frontal close-up, the face lit by blue spill and the black gap a soft foreground mass.",
+    "start": "Profile, backlit. Distant cheers rise as the blue light grows on his hair.",
+    "middle": "The camera arcs. His face slowly comes into the light, still fixed on the gap.",
+    "end": "Three-quarter close-up. His lips part and he says the name softly, mouth visible, eyes into the black. Hold.",
+    "mood": "hushed, hollow, waiting",
+    "blur": "Eyes crisp at T1.8. The cheering crowd is reduced to blue-orange bokeh. The foreground gap edge is soft black.",
+    "soundscape": "Distant cheering, the steady engine roar, wind, his near-whisper close and dry."
+   },
+   "design": "85毫米慢速弧形环绕。蓝白光从背后漫过小满，他不回头，镜头从侧影绕到他的正脸。前景是虚化的黑缝。",
+   "_cine": true
+  },
+  {
+   "id": "s63",
+   "dur": 10,
+   "type": "macro",
+   "refs": [
+    "prop_receipt"
+   ],
+   "frame": "Macro close-up, 100mm, slider level with a small battered field printer on a truck tailgate. Foreground: soft out-of-focus snow on the steel tailgate edge. Subject left: the printer's slot feeding a short curl of thermal paper. A warm tungsten work lamp behind the paper glows through it, showing rows of abstract barcode marks in silhouette. Background: soft blue-white engine light on snow and drifting ice crystals. Cold breath vapour hangs above.",
+   "video": "微距特写。车尾板上的打印机吐出一小截纸带，盖上红印。一只戴手套的手把它撕下来，攥在手心。环境声：打印头的哒哒声、远处的轰鸣。",
+   "dialogue": [],
+   "vo": "最后一条回执。中继保持：三分五十秒。署名：螺丝。",
+   "music": "大提琴",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "The field printer on the tailgate prints a short strip of receipt tape stamped with a red mark, and a gloved hand tears it off and clenches it.",
+    "blocking": "Blocking lock: printer at frame left, the tape curling rightward; the warm lamp behind the paper; the gloved hand enters from the top right; blue engine light in the background.",
+    "camera": "Macro close-up, 100mm. Slow lateral slider move left to right along the tape (about 10 cm in 10 seconds). It starts on the print head and emerging paper and ends on the red stamp and the gloved fist closing around the strip.",
+    "start": "The print head clacks. Paper inches out, glowing warm from behind.",
+    "middle": "The slider follows the strip to its end as the small red square stamp prints, bright through the backlit paper.",
+    "end": "A gloved hand tears the strip off and crushes it into a fist, warm light leaking through the glove fingers. The blue glow stays behind.",
+    "mood": "intimate, quiet, earned",
+    "blur": "Very shallow macro at T2.8. The paper fibre and stamp are crisp. The background blue is soft bokeh. Focus follows the tape edge.",
+    "soundscape": "A clicking print head, a paper tear, the glove creaking, the distant low engine roar, wind."
+   },
+   "design": "母题三。100毫米微距滑轨。车尾作业灯的暖光透过纸带，镜头沿纸带滑到红印。远处有发动机的蓝光，最后一只手套撕下纸带。",
+   "_cine": true
+  },
+  {
+   "id": "s64",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "xiaoman",
+    "loc_interview"
+   ],
+   "frame": "Interview close shot, 85mm, eye level. Xiaoman sits in the right third of the frame, body angled toward the interviewer off frame-left, leaving deep negative space at left falling to darkness. A soft key light from frame left models his pale face. The right side of his face drops into shadow. He is a tall thin young man with messy overgrown hair and wet eyes, smiling through tears. The crushed yellow robot head is cradled in his lap at the lower frame edge, scratched paint catching the key. Background: soft out-of-focus pipes in a dim concrete room.",
+   "video": "采访固定机位，近景。小满抱着压瘪的机器人脑袋，又哭又笑，说到一半停下来吸了口气，才把话说完。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "它不会说话。可它那一下，碰了碰我的手。我知道，它是怕的。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐",
+   "act": "第三幕 · 饱和",
+   "tpl": {
+    "summary": "In the 2078 interview, Xiaoman holds the crushed robot head in his lap, crying and smiling, pauses mid-sentence to breathe, then says Luosi could not speak but touched his hand, and he knows it was afraid.",
+    "blocking": "Blocking lock: Xiaoman in the right third, eyeline to frame left, matching his earlier interview setup; key from the left; the robot head in his lap at lower frame; negative space at left.",
+    "camera": "Interview close shot, 85mm, eye level. An almost imperceptible slow push-in (about 8 cm over 12 seconds). It starts with head, shoulders and the robot head in frame and ends on a tighter close-up of his face, the robot head just at the lower edge.",
+    "start": "He looks down at the robot head, thumb on its cracked screen, and begins speaking with a wavering smile.",
+    "middle": "He stops, lips trembling, and takes a breath. Tears run as he half laughs.",
+    "end": "He lifts his eyes toward the interviewer and finishes the line quietly, mouth clearly visible. Hold on his wet, steady face.",
+    "mood": "tender, raw, grateful",
+    "blur": "Eyes crisp at T2. The robot head is slightly soft at the bottom edge. The background pipes are deeply soft, falling to black.",
+    "soundscape": "Quiet room tone, a faint hum, his breath catching, a small sniff."
+   },
+   "design": "85毫米采访近景，沿用小满固定的偏右构图和左侧柔光。左侧留大片暗部，几乎察觉不到地缓慢推近。",
+   "_cine": true
+  },
+  {
+   "id": "s65",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "boye",
+    "loc_admin"
+   ],
+   "frame": "Medium shot, 50mm, camera at seated eye level slightly low, frame-left foreground a soft out-of-focus edge of the radio set with a glowing amber dial. Boye sits right of centre, bent forward, one ear pressed into an old headphone cup, the other hand on a handset, eyes down and listening. Behind him, out of focus, the relit screen wall is a vast dark field scattered with thousands of tiny pale-green and warm points. The amber dial warms his beard and glasses from below. A cool white glow from the wall rims his grey hair. Faint haze hangs in the hall.",
+   "video": "手持中景。波爷弯腰凑在一台滋滋响的电台前，一只耳朵贴着耳机。电台里传来一个陌生女人沉稳的声音。环境声：电台杂音。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "发动机回来了。"
+    },
+    {
+     "who": "zhou",
+     "line": "不够。得点燃木星。"
+    }
+   ],
+   "vo": "",
+   "music": "08_ignition 心跳鼓",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "Boye leans into a crackling radio and says the engine is back; a steady unfamiliar woman's voice (Zhou) answers through the static that it is not enough and that they must ignite Jupiter.",
+    "blocking": "Blocking lock: Boye seated right of centre, facing frame-left toward the radio, headphone on his left ear, handset in his right hand; radio dial a soft foreground block at frame-left; dot-map wall always behind him, defocused; his face stays in the middle horizontal band.",
+    "camera": "Medium shot to medium close-up, 50mm, eye level slightly low; one slow dolly push-in over 9 seconds, from waist-up with the radio in the foreground to a tight head-and-shoulders where the radio dial is only a warm blur at the left edge.",
+    "start": "Static crackles. Boye hunches over the set and presses the cup tighter to his ear, then says into the handset, mouth clearly visible in three-quarter profile: 'The engine is back.'",
+    "middle": "The push continues. He waits. Through the hiss a calm woman's voice answers, 'Not enough.' Boye's eyes lift from the dial and stop moving.",
+    "end": "'We have to ignite Jupiter.' The camera settles on a close three-quarter of Boye, his face frozen between amber underlight and cold white rim light, the field of points behind him reduced to soft bokeh.",
+    "mood": "hushed, stunned, a turning point",
+    "blur": "Boye's eyes and glasses are crisp throughout, with a focus pull following the push; the foreground radio dial stays a warm blur; the dot wall dissolves into round soft points; moderately shallow depth of field.",
+    "soundscape": "Radio static and carrier whine, Boye's low voice, Zhou's voice compressed through the headphone and the small speaker, faint hum of consoles waking up across the hall."
+   },
+   "design": "中近景/50mm/与坐姿齐平略低的机位/慢推近；电台刻度盘的暖琥珀光从下方照亮波爷，身后是重新亮起、由无数光点组成的屏幕墙，冷白微光勾出他的轮廓，让陌生女声在推近中压过来。",
+   "_cine": true
+  },
+  {
+   "id": "s66",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "zhou",
+    "loc_sulawesi"
+   ],
+   "frame": "Medium shot, 40mm, camera at waist height. The left third of frame is filled by the soft blue backs of monitors in the console ring, out of focus. Through the gap, Researcher Zhou stands centre-right in profile, facing frame-left, in a white uniform with blue stripes. Both hands brace on the console and a radio handset is gripped in one fist, shoulders sagging, ponytail loose. Behind her, a huge observation window shows the colossal tilted steering engine against an orange sky, its blue-white glare backlighting her, haze glowing in the beam.",
+   "video": "手持中景。苏拉威西控制室里，周研究员撑着操作台，握着话筒，嗓子是哑的。窗外是倾斜的转向发动机。环境声：警报的低鸣、电台杂音。",
+   "dialogue": [
+    {
+     "who": "zhou",
+     "line": "我们缺冷却液，缺人手。谁有？"
+    }
+   ],
+   "vo": "",
+   "music": "08_ignition 心跳鼓",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "In the Sulawesi control room, exhausted Researcher Zhou, her voice hoarse, calls over the radio for coolant and for people, asking who has any.",
+    "blocking": "Blocking lock: Zhou right of centre in profile facing frame-left, braced on the console with the handset in her right hand near her mouth; the observation window and tilted engine stay behind her on frame-right; console monitors pass through the foreground.",
+    "camera": "Medium shot, 40mm, waist height; one slow lateral track left-to-right along the curve of the console, monitors sliding past in the foreground, starting half-hidden behind monitor backs and ending with Zhou cleanly framed against the window.",
+    "start": "Monitor backs slide across the lens. Zhou is glimpsed through the gaps, head low, breathing, the low alarm drone filling the room.",
+    "middle": "The last monitor clears. She lifts the handset and speaks hoarsely, mouth visible in profile: 'We're short of coolant. Short of hands.'",
+    "end": "The track stops. She raises her eyes to the window: 'Who has any?' Final frame is Zhou in crisp rim-lit profile on the right third, the slanted engine a monumental blue-white wedge filling the window beyond her.",
+    "mood": "hoarse, desperate, cold",
+    "blur": "Zhou sharp, especially eye and mouth; foreground monitors are heavily defocused blue blocks; the engine through the glass is readable but soft; medium-shallow depth of field.",
+    "soundscape": "Low pulsing alarm drone, radio static, the deep vibration of the engine coming through the glass, Zhou's cracked voice."
+   },
+   "design": "中景/40mm/腰部高度横移/前景显示器视差；从冷蓝仪表后滑出，停在逆光中的周研究员侧脸，窗外倾斜的转向发动机射出蓝白光，把她压成一个疲惫的轮廓。",
+   "_cine": true
+  },
+  {
+   "id": "s67",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "prop_receipt",
+    "loc_admin"
+   ],
+   "frame": "Close shot, 85mm, camera low at console height looking across the desk surface. Foreground lower frame: a strip of thermal receipt paper pressed flat under Governor Xing's left fingers, its curled end glowing amber because a tungsten work lamp stands behind it and shines through the paper. Rows of abstract barcode marks show through. Her right hand enters with a pen, nib touching the paper. Above, out of focus, the soft dark shapes of operators stand behind her, faces turned toward her, faintly lit by the pale screen wall.",
+   "video": "手持近景。邢总督把一条纸带按在操作台上，提笔签了字，头也没抬地说。周围的操作员都看着她。环境声：笔尖声、电台杂音。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "敦煌给。全城降四度。我签。"
+    }
+   ],
+   "vo": "",
+   "music": "08_ignition 弦乐进",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "Governor Xing presses a receipt strip flat on the console, signs it, and without looking up says Dunhuang will give, the whole city drops four degrees, and she signs for it.",
+    "blocking": "Blocking lock: paper strip lies horizontal across the console in the lower frame with the lamp directly behind it; Xing centre-left, head bowed over it; operators stand soft behind her right shoulder; her face lands in the middle horizontal band.",
+    "camera": "Close shot, 85mm, console height; one slow tilt up with a follow-focus, starting on the backlit paper and pen nib and ending on Xing's bowed face, the strip still visible at the bottom edge.",
+    "start": "Near-macro on the glowing paper; the nib scratches her signature across it, light passing through the thin tape.",
+    "middle": "The camera tilts up past her hand and collar as she finishes the last stroke, her eyes never leaving the paper.",
+    "end": "On her bowed face, mouth visible, she says flatly: 'Dunhuang gives. The whole city drops four degrees. I sign.' Final frame: Xing tight and centred-left, the amber edge of the strip glowing below, operators frozen and soft behind her.",
+    "mood": "resolute, quiet, weighty",
+    "blur": "Paper and nib crisp at the start with a very shallow plane; focus rides up with the tilt and lands crisp on Xing's eyes and mouth; operators stay blurred silhouettes; the lamp is a warm bloom behind the paper.",
+    "soundscape": "Pen nib scratching on thermal paper, radio static in the background, a few held breaths, the low hum of the hall."
+   },
+   "design": "近景/85mm/操作台高度/从纸带细节缓慢上摇至面部；台灯暖光从纸带背后透过来，笔尖落在纸上，镜头升到她低垂的脸，周围操作员虚成背景。",
+   "_cine": true
+  },
+  {
+   "id": "s68",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_ice",
+    "logo_smiley"
+   ],
+   "frame": "Medium shot, 65mm, camera at shoulder height on the ice. A dark padded shoulder and a passing steel canister blur across the left foreground. Behind it, a line of strangers in mismatched surface suits stands in a chain left to right, passing frosted coolant canisters hand to hand, breath vapour streaming. Behind them, the flanks of heavy trucks from different convoys sit with red-white smiley stickers on their doors. Orange Jupiter light floods from the upper right, and hard white truck headlights cut through blowing ice dust.",
+   "video": "手持镜头。冰原上，几支素不相识的车队碰了头，人排成一列传递冷却罐，队伍中间夹着一台装卸机器人，机械爪从人手里接过罐子，再递给下一个人。环境声：风声、金属罐的碰撞声、吆喝声。",
+   "dialogue": [],
+   "vo": "素不相识的人。素不相识的机器。",
+   "music": "08_ignition 渐强",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "On the ice, crews from convoys that have never met pass coolant canisters down a human chain, and a boxy loader robot in the middle of the line takes a canister from human hands with its claw and passes it on.",
+    "blocking": "Blocking lock: chain runs left to right across the middle band of frame; canisters always travel left to right; loader robot stands in the line near frame-right; trucks with smiley-sticker doors stay in the background.",
+    "camera": "Medium shot, 65mm, shoulder height; one steady lateral track left-to-right alongside the chain at the speed of the canisters, bodies and canisters wiping past in the foreground, ending on the robot's claw receiving a canister.",
+    "start": "The camera drifts with a canister as it is swung from one gloved pair of hands to the next, faces half-hidden by hoods and vapour.",
+    "middle": "Parallax of shoulders and steel; the trucks' smiley-sticker doors slide by behind; shouted counts carry on the wind.",
+    "end": "The track arrives at the boxy loader robot: a man holds out a canister and the steel claw closes on it, takes it, and turns to the next person. Final frame: the human hands and the claw meeting on the canister, centre-right, lit orange.",
+    "mood": "collective, urgent, cooperative",
+    "blur": "Chain and handovers crisp; foreground bodies and canisters fully blurred; trucks soft but stickers readable; ice dust glows in the headlight beams.",
+    "soundscape": "Howling wind, clank of metal canisters, hoarse shouted counts, robot servos whirring, distant idling truck engines."
+   },
+   "design": "中景/65mm/人肩高度/沿传递链横移，冷却罐和人身作前景视差；木星橘光与车灯白光交错，呼出的白气挂在空中，镜头终点停在机械爪从人手中接过罐子的瞬间。",
+   "_cine": true
+  },
+  {
+   "id": "s69",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "loc_sulawesi"
+   ],
+   "frame": "Macro profile two-shot, 100mm macro, camera level with a frozen valve wheel. A gloved human hand enters from frame-left and a steel robot manipulator claw from frame-right, both gripping the same rim of an ice-crusted valve wheel, meeting near frame centre. A soft out-of-focus pipe edge crosses the extreme foreground. Behind them, hard blue-white engine light floods through haze, backlighting the glove's fibres and the claw's edges, turning frost into a bright halo. Deep black falls on the near side of both.",
+   "video": "微距特写。一只戴手套的人手和一只钢制机械爪握在同一个结冰的阀轮上，一起用力，冰霜崩裂，阀轮转动。环境声：冰裂声、金属转动声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "08_ignition 渐强",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "A gloved human hand and a steel robot claw grip the same frozen valve wheel and strain together until the frost cracks and the wheel turns.",
+    "blocking": "Blocking lock: hand from frame-left and claw from frame-right in strict profile, both on the upper rim of the wheel, meeting at centre; backlight directly behind; matches every earlier hand-and-claw shot.",
+    "camera": "Macro profile two-shot, 100mm macro, level; one very slow slider push-in, from hand, claw and the wheel rim to an extreme close-up where knuckle and claw tip nearly touch on the ice.",
+    "start": "Both hold still on the iced rim, glove tightening, claw joints locking, breath vapour drifting through the backlight.",
+    "middle": "They strain together; fine cracks spider through the frost and the first shards spring off, glittering in the blue-white light.",
+    "end": "The ice gives with a crack and the wheel turns a quarter, frost showering down. Final frame: glove and claw side by side, almost touching, rim-lit against the glare.",
+    "mood": "tense, intimate, together",
+    "blur": "Wafer-thin focus held on the point where glove and claw meet the rim; the foreground pipe and background are soft blue-white; ice shards sparkle as bokeh.",
+    "soundscape": "Creak of strained metal, sharp crackle of breaking ice, a heavy grinding turn of the valve, deep engine rumble underneath."
+   },
+   "design": "微距/100mm微距/侧面平视/滑轨极慢推进；沿用手与机械爪的固定侧面双人构图，转向发动机的蓝白光从后方逆光，冰屑在光里崩开。",
+   "_cine": true
+  },
+  {
+   "id": "s70",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_sulawesi"
+   ],
+   "frame": "Extreme wide shot, 40mm, camera low on the frozen sea. Foreground: a soft black ridge of pressure ice along the bottom edge, with a tiny transport truck and two tiny standing figures silhouetted on it at frame-left. Midground and right: the colossal tilted steering engine rises from the ice like a leaning mountain, its nozzle firing a thick blue-white beam diagonally up toward the upper left. There Jupiter's orange-red bands fill the sky. The beam bleaches the ice plain white, and haze glows along its length.",
+   "video": "固定大远景。冰封的海面上，倾斜的转向发动机全功率喷射，蓝色光柱直指木星，把冰面照得发白。环境声：撕裂般的轰鸣。",
+   "dialogue": [],
+   "vo": "",
+   "music": "08_ignition 渐强",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "On the frozen sea, the colossal tilted steering engine fires its blue beam at full power toward Jupiter, bleaching the ice white.",
+    "blocking": "Blocking lock: tiny truck and figures on the foreground ridge at frame-left; engine mass in the right two-thirds; beam on a diagonal from the right base to the upper left; Jupiter fills the upper left.",
+    "camera": "Extreme wide, 40mm, low on the ice; locked-off tableau with no movement, letting the beam's force and the light shifts carry the shot.",
+    "start": "The engine fires; the blue column thickens and stabilises, light racing across the ice toward the camera.",
+    "middle": "The ice plain flares from grey to bleached white; snow dust lifts off the ridge in the blast.",
+    "end": "Held: the beam steady and full, the tiny figures unmoving against it, Jupiter's orange face overhead. Final composition unchanged and monumental.",
+    "mood": "colossal, defiant, overwhelming",
+    "blur": "Deep focus: figures, engine and Jupiter all readable; the foreground ridge only slightly soft; haze gives the light its volume.",
+    "soundscape": "Tearing, roaring thunder of the engine; wind-blown snow hissing across the ice; deep sub-bass vibration."
+   },
+   "design": "大远景/40mm/冰面低机位/固定画面；倾斜的转向发动机如山体斜切画面，蓝色光柱刺向橘红的木星，冰面被照得发白，前景冰脊上一台极小的车辆提示比例。",
+   "_cine": true
+  },
+  {
+   "id": "s71",
+   "dur": 10,
+   "type": "establishing",
+   "refs": [
+    "loc_jupiter"
+   ],
+   "frame": "Extreme wide upward shot, 32mm, camera on the ice plain angled steeply up. Jupiter's orange-red bands and storm swirls fill the entire frame edge to edge. Near the centre, a small point of white light has just appeared on the planet's face, brighter than anything around it. No ground is visible yet. Thin streaks of ice dust drift across the lower part of frame, catching the orange light. Deep shadow sits in the cloud bands.",
+   "video": "仰拍固定大远景。木星表面绽开一团白光，无声地铺满整个天空，雪地被照成一片白。环境声：绝对的寂静，几秒后才传来低沉的闷响。",
+   "dialogue": [],
+   "vo": "",
+   "music": "08_ignition 顶点和弦，然后寂静",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "A white flash blooms on the face of Jupiter and silently spreads across the whole sky, turning the snow plain white; a low boom arrives only seconds later.",
+    "blocking": "Blocking lock: the white bloom starts at frame centre on Jupiter; the horizon enters at the bottom during the move; a tiny row of human figures and one small robot silhouette stand on the horizon near frame centre.",
+    "camera": "Extreme wide, 32mm, low on the ice; one slow tilt down over 10 seconds, from Jupiter's surface filling the frame to the horizon line sitting in the lower third with the white sky above.",
+    "start": "Silence. The white point swells into a bloom, eating the orange bands outward.",
+    "middle": "The tilt descends as the white spreads across the sky; the snow plain enters frame already glowing white.",
+    "end": "Landing: a thin horizon in the lower third, tiny silhouetted figures and a small robot shape standing still, the whole sky white. Only then does a deep, low boom roll in.",
+    "mood": "silent, awed, transcendent",
+    "blur": "Deep focus throughout; the bloom is allowed to overexpose softly; figures on the horizon stay sharp silhouettes.",
+    "soundscape": "Absolute silence for several seconds, then a delayed, deep, muffled boom and a faint shiver of wind."
+   },
+   "design": "仰拍大远景/32mm/冰原低机位/从木星表面缓慢下摇至地平线；白光在无声中铺满天空，镜头落到地平线上一排极小的人影，雪地被照成一片纯白。",
+   "_cine": true
+  },
+  {
+   "id": "s72",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "xiaoman",
+    "jin",
+    "loc_ice"
+   ],
+   "frame": "Close group shot, 65mm, camera at face height slightly low. A blurred hooded shoulder and a drifting cloud of breath vapour fill the left foreground. Amu stands left of centre, chin raised, scarred eyebrow lit, eyes wide. Just beyond him, Xiaoman's thin pale face is tilted up, mouth slightly open. Further right, soft in depth, other crew members look up too. Hard, even white light falls from the sky onto every face, bleaching skin and frost. The background is a pale, washed-out ice plain under a white sky.",
+   "video": "手持镜头，缓慢横摇。冰面上，阿牧、小满、拄着拐的金老板和其他人，脸被照得雪白，仰着头，谁也没说话。他们身边，一台小机器人也把感应头仰了起来。环境声：风声，没有人声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "08_ignition 余韵弦乐",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "On the ice, Amu, Xiaoman, Boss Jin on his cane and the others stand with faces lit white, looking up in silence, and beside them a small robot tilts its sensor head up too.",
+    "blocking": "Blocking lock: everyone faces frame-right and upward toward the light; order left to right is Amu, Xiaoman, other crew, Boss Jin leaning on his cane, then the small robot; faces in the middle horizontal band.",
+    "camera": "Close group shot, 65mm, face height slightly low; one slow lateral track left-to-right past the line of upturned faces, foreground shoulders and breath sliding by, ending on the small robot.",
+    "start": "Amu's lit face, then Xiaoman's, unmoving, breath vapour rising.",
+    "middle": "The track passes strangers and arrives at Boss Jin, both hands on the cane, beard frosted, staring up with wet eyes.",
+    "end": "Beside Jin's leg, a small robot slowly tilts its sensor head upward, mirroring the humans. Final frame: Jin's soft profile at the left edge, the little robot crisp at right of centre, its head raised into the white light.",
+    "mood": "silent, reverent, unified",
+    "blur": "Each face crisp as it passes centre, with a gentle focus pull from face to face; foreground shoulders and breath blurred; background a soft white wash.",
+    "soundscape": "Wind across the ice, the faint creak of the cane, robot servos whirring as its head tilts, no voices."
+   },
+   "design": "近景/65mm/人脸高度/沿人群横移，前景呼气与肩膀作视差；天光把每张仰起的脸照得雪白，镜头逐一滑过阿牧、小满、金老板，最后停在仰起感应头的小机器人。",
+   "_cine": true
+  },
+  {
+   "id": "s73",
+   "dur": 9,
+   "type": "establishing",
+   "refs": [
+    "loc_engine"
+   ],
+   "frame": "Extreme wide shot, 75mm, camera level on the ice plain. Foreground lower band: a dark ice plain with a few tiny warm headlights of parked trucks scattered as small points in the dusk. Horizon in the lower third: several thin blue-white engine beams rise straight up at intervals, steady and calm. Behind them, filling the upper middle, the disc of Jupiter burns with a ragged white-orange ring of fire, slightly smaller than in earlier shots. The sky around it is deep black, with faint haze along the horizon.",
+   "video": "固定大远景。地平线上，几道发动机的光柱稳稳地亮着，燃烧的木星在它们背后，一点一点变小。环境声：平稳的轰鸣、风声。",
+   "dialogue": [],
+   "vo": "地球，开始离开。",
+   "music": "09_belongs_to_everyone 进入",
+   "act": "第四幕 · 点燃",
+   "tpl": {
+    "summary": "On the horizon, several engine beams burn steadily while the burning disc of Jupiter behind them slowly grows smaller.",
+    "blocking": "Blocking lock: horizon in the lower third; beams spaced evenly across it; Jupiter centred above, framed between two beams; tiny truck lights scattered in the foreground darkness.",
+    "camera": "Extreme wide, 75mm, level; locked-off tableau, no camera movement, so Jupiter's slow shrinking against fixed beams is the only change.",
+    "start": "The beams stand still; Jupiter's burning disc fills much of the upper frame.",
+    "middle": "Almost imperceptibly, the disc shrinks; the ring of fire dims a fraction.",
+    "end": "Jupiter is visibly smaller, more black sky around it; the beams hold steady, tiny truck lights glow below. Final frame a calm, layered composition of small lights in a vast dark.",
+    "mood": "steady, receding, quiet relief",
+    "blur": "Deep focus from the foreground truck lights to Jupiter; light haze softens the beams' bases only.",
+    "soundscape": "Steady distant roar of engines, low wind across the ice, an occasional faint creak of settling ice."
+   },
+   "design": "大远景/75mm长焦/冰原平视/固定画面；地平线上几道细长光柱稳定燃烧，燃烧的木星在其后缓缓缩小，前景车队的小车灯成为黑暗中的暖点。",
+   "_cine": true
+  },
+  {
+   "id": "s74",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "amu",
+    "loc_admin"
+   ],
+   "frame": "Medium shot, 40mm, camera mounted high on the wall axis just below the red lens, angled gently down. Amu stands dead centre, small within the frame, face tilted up toward camera, hands loose at his sides. Behind him the tiered command hall recedes in strict one-point perspective: empty consoles, rows of dark chairs, a vanishing point behind his head. Frame-left, out of focus in the foreground, a sliver of brushed-steel wall panel. A faint red wash falls on his brow from above; screen-right, the wall map of thousands of tiny warm dots glows softly. Thin haze hangs in the hall; blacks fall away into the upper tiers. Amu is bare-headed (short messy black hair, no hat, no helmet); the only red in the frame is a faint red glow from the lens above falling on the floor in front of him.",
+   "video": "固定中景。安静下来的指挥大厅里，阿牧独自站着，抬头看着红色镜头。平静的合成男声开口，他答了一句。环境声：屏幕的低鸣。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "你们选择了低效的方式。"
+    },
+    {
+     "who": "amu",
+     "line": "我们选择了彼此。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "Alone in the quiet command hall, Amu looks up at the red MOSS lens; MOSS says 'You chose the inefficient way,' and Amu answers, 'We chose each other.'",
+    "blocking": "Blocking lock: Amu exactly on the vertical centre line, his head in the middle band of the frame, his face lifted toward camera; the hall's vanishing point sits behind his head; the steel panel stays frame-left, the dot map glows frame-right; he does not move his feet.",
+    "camera": "Medium shot, 40mm, high angle from the MOSS lens position looking down. Locked-off symmetric tableau, no movement; the start and end framing are identical.",
+    "start": "Silence and the low hum of the screens. Amu stands still, eyes fixed on the lens; the red light holds steady on his forehead.",
+    "middle": "The calm synthetic voice speaks from just above camera: 'You chose the inefficient way.' Amu does not blink; his jaw settles.",
+    "end": "Amu answers quietly with his mouth clearly visible: 'We chose each other.' He holds the look. The frame stays perfectly symmetric, a small warm face in a cold, ordered hall. One continuous take in the command hall with no cut to any other place or angle.",
+    "mood": "still, cold, quietly defiant",
+    "blur": "Deep-ish stop: Amu's face is crisp; the receding console rows soften gradually toward the vanishing point; the steel panel edge in the foreground is fully out of focus.",
+    "soundscape": "Low electrical hum of the screen wall, faint ventilation, the voice slightly reverberant in the empty hall, Amu's breath."
+   },
+   "design": "以MOSS的视角做对称中景：机位在红色镜头正下方俯视阿牧，单点透视的冷色大厅向后纵深，固定不动；顶光红晕与侧墙点阵屏上的暖色小光点在他脸上交汇，象征秩序与人情的最后对话。",
+   "_cine": true
+  },
+  {
+   "id": "s75",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "moss"
+   ],
+   "frame": "Extreme close-up, 100mm macro, camera dead level with the MOSS lens, perfectly centred and symmetric. The round black glass fills the middle of the wide frame, ringed by a thin brushed-steel bezel that fades out of focus at the left and right edges. At the centre glows the steady red iris. Curved across the lower half of the glass lies a small reflection of Amu, seen from the front, standing in the warm speckle of the dot map. Above and around him, the reflected hall is near-black. A faint red halo blooms into the surrounding darkness.",
+   "video": "大特写固定镜头。红色镜头的玻璃上，阿牧的倒影转身，越走越小。镜头没有回答。环境声：轻微的电流声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "无音乐",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "In the red lens's black glass, Amu's reflection turns and walks away, growing smaller, while the lens itself does not change.",
+    "blocking": "Blocking lock: the red iris stays fixed at frame centre; Amu's reflection sits just below and left of centre, curved by the glass; the bezel frames both sides symmetrically; the red light never changes intensity.",
+    "camera": "Extreme close-up, 100mm macro, eye-level and frontal. Locked-off, no movement; the start and end framing are identical.",
+    "start": "The reflection of Amu faces the lens for a beat, small and warm against the black glass.",
+    "middle": "He turns his back and begins walking; his reflected figure shrinks and drifts toward the curved centre of the glass.",
+    "end": "He becomes a tiny warm speck and dissolves into the reflected darkness. Only the unchanging red iris remains in the dead-centre composition.",
+    "mood": "silent, cold, unresolved",
+    "blur": "Focus is set on the glass surface and iris, which stay crisp; the reflection is readable but slightly soft; the bezel falls off to blur at the frame edges.",
+    "soundscape": "A faint electrical whine from the terminal, distant footsteps fading in the hall, then only the hum."
+   },
+   "design": "100mm微距固定大特写，红色镜头居中绝对对称；玻璃上阿牧的暖色小倒影转身远去，越缩越小，镜头本身纹丝不变——机器无言，冷对称包住渐行渐远的人。",
+   "_cine": true
+  },
+  {
+   "id": "s76",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "amu",
+    "loc_interview"
+   ],
+   "frame": "Medium close-up, 85mm, camera at seated eye level, slightly off-axis. Amu sits in frame-right third, shoulders angled toward frame-left, eyes on the unseen interviewer just left of lens. A single soft key from camera-left models his face in warm neutral light: the scar through his left eyebrow reads, and the far cheek falls into shadow. Deep negative space fills the left half of the frame, a dim concrete wall with out-of-focus pipes dissolving into black. A faint edge of the metal chair back catches light. Calm, unhurried posture, hands resting together low in the frame.",
+   "video": "采访固定机位。阿牧看着采访者，平静地说，说完没有再补充。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "规则不属于任何一个人，所以，才属于所有人。"
+    }
+   ],
+   "vo": "",
+   "music": "09_belongs_to_everyone",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "In the 2078 interview, Amu looks at the interviewer and says calmly, 'Rules belong to no single person, and that is why they belong to everyone,' then adds nothing more.",
+    "blocking": "Blocking lock: Amu stays in the right third with the same chair, key side and background as his earlier interview; his eyeline goes just left of lens; his face stays in the middle band of the frame, well clear of the top edge.",
+    "camera": "Medium close-up, 85mm, eye level. An almost imperceptible slow push-in, from a chest-up medium close-up to a slightly tighter shoulders-up framing over 10 seconds.",
+    "start": "Amu sits still, gathering the thought; the room is silent.",
+    "middle": "He speaks the line evenly, his mouth clearly visible, with a small pause at 'so'.",
+    "end": "He finishes and simply holds the interviewer's gaze, adding nothing. The frame settles tighter on his face, with the dark left side still open.",
+    "mood": "calm, certain, unadorned",
+    "blur": "Shallow focus: Amu's eyes and mouth are crisp; the chair edge is slightly soft; the pipes and wall behind fall into creamy darkness.",
+    "soundscape": "Quiet room tone, a faint ventilation hiss, his voice close and dry."
+   },
+   "design": "延续阿牧采访的既定机位：85mm近景，人物偏右，左侧留大片暗部负空间，左侧柔光主光，背景管道沉入黑暗，几乎察觉不到的缓推收紧他的平静。",
+   "_cine": true
+  },
+  {
+   "id": "s77",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "loc_street",
+    "prop_receipt"
+   ],
+   "frame": "Close-up, 50mm, chest height, camera hugging the corridor wall and looking down its length. In the foreground, one thermal receipt strip hangs out of focus, glowing amber because a tungsten wall lamp behind it shines through the paper; its barcode rows are faintly visible. Beyond it, thousands of pinned strips recede along the concrete wall in soft overlapping layers, stirring in the vent draught. Deep in the cyan-grey corridor stand small, dark figures of people before the wall. Warm lamp pools alternate with shadow, and light haze drifts through the beams.",
+   "video": "手持镜头，缓慢前移。一条长走廊的墙上，钉满了成千上万条回执纸带，被通风口的风吹得轻轻翻动。人们站在墙前，一个孩子伸手摸了摸其中一条，旁边停着一台小维修机器人。环境声：纸带的沙沙声、低声的交谈。",
+   "dialogue": [],
+   "vo": "每一份付出都被记住了。人的，和机器的。",
+   "music": "09_belongs_to_everyone",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "Moving slowly down a corridor wall covered in thousands of receipt strips stirring in the vent air, we arrive at a child touching one strip beside a small maintenance robot.",
+    "blocking": "Blocking lock: the strip wall runs along frame-left the whole time; people stand quietly in the corridor at mid-depth; the child and the small robot wait frame-right of centre at the destination; nobody crosses the lens.",
+    "camera": "Close foreground into medium, 50mm, chest height. Slow forward tracking along the wall at walking-pace-and-a-half slower than a stroll, with the strips passing as foreground parallax. It starts on the backlit strip in the foreground and ends on a medium two-shot of the child and the robot.",
+    "start": "The glowing foreground strip flutters and slides out of frame-left as the camera begins to move; layers of strips pass by in soft focus.",
+    "middle": "Silent adults pass in profile, some reading strips, their warm-lit faces drifting by as the corridor opens ahead.",
+    "end": "The camera eases to a stop. The child reaches up and touches a single strip with a fingertip; the little robot stands still beside the child. The paper glows warm against the cool corridor.",
+    "mood": "hushed, communal, tender",
+    "blur": "Shallow focus at the start, with only the foreground strip's grain readable. Focus follows smoothly ahead and lands crisp on the child's hand and the strip; the background wall stays soft.",
+    "soundscape": "Rustling of thousands of paper strips, a soft ventilation draught, low murmured conversation, distant footsteps."
+   },
+   "design": "以纸带母题开场：前景一条纸带被暖钨灯透亮，浅景深；摄影机沿纸带墙缓缓前移，层层纸带形成前景视差，最后落在孩子伸手触碰纸带、小机器人停在一旁的画面。",
+   "_cine": true
+  },
+  {
+   "id": "s78",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "boye",
+    "loc_stall"
+   ],
+   "frame": "Medium shot, 65mm, camera at seated eye level, side-on. In the foreground, out-of-focus shelf clutter of coiled wire and an old monitor edge blocks frame-left. Through the gap, Xiaoman bends over the workbench, his face lowered, holding a soldering iron inside the opened, dented yellow body of the robot; its cracked screen is black. Frame-right, Boye's arm and shoulder hold a tungsten work lamp low over the bench, casting a warm pool. A thin thread of solder smoke curls through the beam; the stall behind falls into near-black shelves.",
+   "video": "手持中景。修理铺的台灯下，小满埋头在“螺丝”被压瘪的机身里焊线，屏幕是裂的、黑的。波爷在旁边替他举着灯。环境声：电烙铁的滋滋声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "07_farewell_luosi 八音盒动机回来",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "Under the warm lamp in the repair stall, Xiaoman solders wires inside Luosi's crushed body while Boye holds the lamp for him.",
+    "blocking": "Blocking lock: the workbench runs horizontally across the lower-middle band; Xiaoman is seated left of centre behind the robot; the robot's dark cracked screen faces camera-right; Boye stands frame-right holding the lamp, his face partly above the beam; the lamp stays steady.",
+    "camera": "Medium shot, 65mm, eye level of the seated Xiaoman. Slow lateral track right-to-left with foreground shelf parallax. It starts half-masked by the clutter and ends on a clean three-quarter view of Xiaoman's face with the robot body and Boye's lamp hand in frame.",
+    "start": "Foreground wire coils slide across; behind them the iron tip touches a joint and a puff of smoke rises in the beam.",
+    "middle": "The clutter clears. Xiaoman's focused face appears, lit from below by the warm lamp; Boye shifts the lamp a little closer.",
+    "end": "The camera settles on Xiaoman in three-quarter view, eyes red-rimmed and steady, the dark cracked screen in the lower foreground and Boye's lamp hand at frame-right.",
+    "mood": "patient, warm, quietly hopeful",
+    "blur": "Shallow focus: Xiaoman's hands and face are crisp; the foreground clutter is heavily blurred; Boye is slightly soft; the background shelves melt into darkness.",
+    "soundscape": "Sizzle of the soldering iron, the tick of the cooling iron, Boye's slow breathing, faint alley hum outside."
+   },
+   "design": "修理铺中景，65mm侧向横移，前景杂物货架形成视差；波爷手举的工作灯是唯一暖光源，焊烟在光束里升起，横移落在小满专注的脸上，暖色回归。",
+   "_cine": true
+  },
+  {
+   "id": "s79",
+   "dur": 9,
+   "type": "macro",
+   "refs": [
+    "luosi",
+    "logo_smiley"
+   ],
+   "frame": "Close-up, 65mm, camera level with the robot's screen, slightly off-axis from the left. The square black screen sits left of centre in its scratched yellow housing, a jagged crack running horizontally across its lower half. In the foreground lower right, the out-of-focus tip of a soldering iron rests on the bench, a wisp of smoke catching faint light. The background is near-black stall shelving with one soft warm lamp bokeh at the far right. Dust motes hang still in the darkness before the dead screen. IMPORTANT: in this opening frame the screen is switched OFF - completely black dead glass with only the crack catching a thin line of warm light; no smiley visible yet.",
+   "video": "特写固定镜头。裂了一道缝的屏幕闪了两下，笑脸重新亮了起来，裂缝正好横在笑容上。环境声：一声熟悉的开机提示音。",
+   "dialogue": [],
+   "vo": "",
+   "music": "八音盒动机完整奏完",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "The cracked screen flickers twice and the red-and-white smiley lights up again, the crack running right across the smile.",
+    "blocking": "Blocking lock: the screen stays left of centre, the same framing as the robot's first power-on; the crack is horizontal across the lower half where the smile appears; the iron tip stays in the foreground lower right.",
+    "camera": "Close-up, 65mm, screen-level, slightly off-axis. Locked-off, no movement; the start and end framing are identical.",
+    "start": "The dark screen sits still in the black; there is a beat of silence.",
+    "middle": "The screen flickers once, then again, throwing brief red flashes across the dust.",
+    "end": "The red speech-bubble smiley with its connected node squares and white smile glows steadily; the crack cuts across the smile. Red-white light spills onto the yellow housing and the drifting dust.",
+    "mood": "breathless, fragile, reborn",
+    "blur": "The screen and crack are crisp; the foreground iron tip is blurred; the background is a soft dark with a single warm bokeh.",
+    "soundscape": "Faint electrical crackle, then the familiar short power-on chime, the faint whir of an internal fan."
+   },
+   "design": "与第一次开机的特写同构呼应：65mm固定特写，裂屏居中偏左，前景是虚化的烙铁尖；屏幕两闪后红白笑脸亮起，成为画面里唯一的光源，照亮浮尘。",
+   "_cine": true
+  },
+  {
+   "id": "s80",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "loc_stall"
+   ],
+   "frame": "Medium shot, 65mm, camera at floor level, strict profile. Xiaoman crouches at frame-left facing right, face in the middle band, wet-eyed and laughing, his open palm extended toward centre. The dented yellow robot sits at frame-right facing left, its cracked smiley screen glowing red-white. Behind and between them, the warm tungsten work lamp on the bench creates a strong backlight, rimming his fingers and the robot's steel claw. In the foreground, a blurred edge of a toolbox frames the bottom. Shelves behind fall into dark, with haze glowing around the lamp.",
+   "video": "手持低机位中景。小满又哭又笑，蹲下来伸出手掌。“螺丝”抬起机械爪，碰了碰他的手心，和第一次一样。环境声：电机声、他的笑声。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "欢迎回家，螺丝。"
+    }
+   ],
+   "vo": "",
+   "music": "主题温暖再现",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "Laughing through tears, Xiaoman crouches and holds out his palm, says 'Welcome home, Luosi,' and the robot raises its claw to touch his hand, just like the first time.",
+    "blocking": "Blocking lock: Xiaoman is frame-left in profile facing right, the robot frame-right in profile facing left, and the hand and claw meet at frame centre against the backlight; this is the same staging and backlight direction as every hand-and-claw shot in the film.",
+    "camera": "Medium to tight profile two-shot, 65mm, floor level. Slow dolly push-in, starting on the full profile medium of Xiaoman and the robot and ending on the tight backlit profile two-shot of hand and claw.",
+    "start": "Xiaoman crouches, laughing and crying, his mouth clearly visible, and says, 'Welcome home, Luosi,' as he opens his palm.",
+    "middle": "The camera eases in. The robot's motors whir and its claw lifts slowly toward his hand.",
+    "end": "The claw's steel tip touches the centre of his palm. The frame lands on the motif: hand and claw in profile, rim-lit by the warm lamp behind, with soft dark around them.",
+    "mood": "tearful, joyful, tender",
+    "blur": "Shallow focus: Xiaoman's face is crisp during the line, then focus settles on the hand and claw as they meet; the background lamp becomes a large warm bokeh.",
+    "soundscape": "Small servo whir, track creak, Xiaoman's shaky laugh and sniff, a faint lamp buzz."
+   },
+   "design": "地面高度侧面构图，背光逆光：先是小满蹲下说话的完整侧面中景，再缓推到手与机械爪的经典逆光侧面双人特写，与全片手爪母题严格同构，暖灯在两者之间亮出轮廓。",
+   "_cine": true
+  },
+  {
+   "id": "s81",
+   "dur": 13,
+   "type": "interview",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Medium close-up, 85mm, camera at seated eye level. Boye sits in the left third of the frame, body angled toward frame-right, eyes on the unseen interviewer just right of lens. A single soft key from camera-right lights his grey-white beard and the taped black-framed glasses, the far side of his face sinking into shadow. The right half of the frame is deep negative space: dim concrete with out-of-focus pipes dissolving into black. One hand is raised to the glasses' frame. Fine grain, warm-neutral skin.",
+   "video": "采访固定机位。波爷扶了扶眼镜，看着采访者，一句一句慢慢地说，说完笑了一下。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "勇气不是不怕。是怕，还把手伸出去。人类的赞歌，就是勇气的赞歌。连一台小机器，都懂。"
+    }
+   ],
+   "vo": "",
+   "music": "主题",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "In the 2078 interview, Boye adjusts his glasses and slowly says, 'Courage isn't not being afraid. It's being afraid and still reaching out your hand. The hymn of humanity is a hymn of courage. Even a little machine understands that,' then smiles.",
+    "blocking": "Blocking lock: Boye stays in the left third with the same chair, key side and background as his earlier interviews; his eyeline goes just right of lens; his face stays in the middle band of the frame.",
+    "camera": "Medium close-up, 85mm, eye level. An almost imperceptible slow push-in over 13 seconds, from a chest-up framing to a shoulders-up framing.",
+    "start": "Boye nudges his taped glasses into place, lowers his hand and looks at the interviewer.",
+    "middle": "He speaks sentence by sentence with small pauses, his mouth clearly visible and the light glinting on his lenses.",
+    "end": "He says the last line about the little machine, then a small, stubborn smile breaks. The frame rests slightly tighter, with the dark space still open to his right.",
+    "mood": "wise, warm, wry",
+    "blur": "Shallow focus: his eyes behind the glasses and his mouth are crisp; the shoulder edge is soft; the pipes behind are fully blurred into dark.",
+    "soundscape": "Quiet room tone, faint ventilation, the soft creak of the chair, his voice close."
+   },
+   "design": "延续波爷采访的既定机位：85mm近景，人物偏左，右侧留深色负空间，右侧柔光主光勾出镜片与胡须，几乎察觉不到的缓推，落在他最后那一下笑。",
+   "_cine": true
+  },
+  {
+   "id": "s82",
+   "dur": 10,
+   "type": "establishing",
+   "refs": [
+    "loc_engine",
+    "prop_node",
+    "logo_smiley"
+   ],
+   "frame": "Wide shot, 40mm, camera at sill height inside a dark cabin, looking out through a frosted window. Frame-left of centre on the sill, the small dented steel node box with its smiley sticker sits in a faint warm spill from an unseen interior lamp; its single green lamp glows. Beyond the glass, the blue-white ice plain stretches to a low horizon across the middle band. Far right, several thin engine beams rise steadily, with a pair of tiny truck lights at their foot. Upper right within the band, Jupiter is a single bright point. Breath-frost edges the glass.",
+   "video": "固定镜头，极缓慢推近。窗台上，一只贴着笑脸的小铁盒一下一下闪着绿灯。窗外是冰原、发动机的光柱，和已经缩成一个亮点的木星。环境声：平稳的轰鸣，小灯的提示音。",
+   "dialogue": [],
+   "vo": "路还有两千五百年。灯还亮着。",
+   "music": "主题歌《未熄》起",
+   "act": "尾声 · 属于所有人",
+   "tpl": {
+    "summary": "On a cabin windowsill, a small node box with a smiley sticker blinks its green lamp, while beyond the glass lie the ice plain, the steady engine beams, and Jupiter shrunk to a bright point.",
+    "blocking": "Blocking lock: the node box stays left of centre on the sill in the lower-middle band; the horizon runs across the middle; the engine beams stay frame-right with tiny truck lights at their base; Jupiter is a bright point upper-right, kept inside the 2.39 band; the window frame edges stay dark at the sides.",
+    "camera": "Wide to medium-wide, 40mm, sill height. Extremely slow dolly push-in over 10 seconds, from a wide view of the dark room, window and landscape to a framing where the box and window fill the frame and the engine beams and Jupiter remain visible.",
+    "start": "Dark room, one green blink on the sill, and the cold vast plain beyond.",
+    "middle": "The lamp blinks again with a soft tone; the camera creeps closer and frost crystals on the glass catch the green.",
+    "end": "The frame settles on the small box blinking against the immense pale landscape, with the steady beams and the tiny point of Jupiter. One small green light in a great calm dark.",
+    "mood": "calm, small, enduring",
+    "blur": "Moderately deep focus: the node box and sticker are crisp; the window frost is slightly soft; the distant beams and Jupiter are readable but gently soft.",
+    "soundscape": "Steady low engine rumble through the walls, a faint wind against the glass, the soft periodic tone of the node lamp."
+   },
+   "design": "全片终镜：暗室窗内，前景一点绿灯在大片暗部中呼吸（灯光母题的最终回响），窗外冰原、远方发动机光柱与缩成一点的木星层层后退，40mm极缓推近，暖内冷外，第一次的安宁。",
+   "_cine": true
+  }
+ ]
+}

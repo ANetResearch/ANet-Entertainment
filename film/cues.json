@@ -1,0 +1,19 @@
+[
+ {"from": "title", "to": "s03", "cue": "elegy_cello", "gain": -14, "fade_in": 3, "fade_out": 4},
+ {"from": "s04", "to": "s08", "cue": "drone_cold", "gain": -17, "fade_in": 3, "fade_out": 3},
+ {"from": "s09", "to": "s12", "cue": "musicbox", "gain": -15, "fade_in": 2, "fade_out": 3},
+ {"from": "s13", "to": "s17", "cue": "piano_embers", "gain": -14, "fade_in": 2, "fade_out": 4},
+ {"from": "s19", "to": "s24", "cue": "drone_cold", "gain": -13, "fade_in": 4, "fade_out": 2},
+ {"from": "s25", "to": "s27", "cue": "tension_drums", "gain": -14, "fade_in": 1.5, "fade_out": 1.2},
+ {"from": "s33", "to": "s35", "cue": "piano_embers", "gain": -14, "fade_in": 3, "fade_out": 3},
+ {"from": "s36", "to": "s40", "cue": "hymn_strings", "gain": -13, "fade_in": 3, "fade_out": 4},
+ {"from": "s41", "to": "s48", "cue": "tension_drums", "gain": -15, "fade_in": 1.5, "fade_out": 2.5},
+ {"from": "s49", "to": "s52", "cue": "elegy_cello", "gain": -13, "fade_in": 2.5, "fade_out": 2.5},
+ {"from": "s53", "to": "s59", "cue": "tension_drums", "gain": -13, "fade_in": 1.0, "fade_out": 0.4},
+ {"from": "s61", "to": "s61", "cue": "ignite_orchestra", "gain": -11, "offset": 1.5, "fade_in": 1.5, "fade_out": 3},
+ {"from": "s62", "to": "s64", "cue": "elegy_cello", "gain": -13, "fade_in": 3, "fade_out": 4},
+ {"from": "s65", "to": "s70", "cue": "hymn_strings", "gain": -13, "fade_in": 3, "fade_out": 2},
+ {"from": "s71", "to": "s73", "cue": "choir_requiem", "gain": -11, "fade_in": 2, "fade_out": 5},
+ {"from": "s77", "to": "s80", "cue": "piano_embers", "gain": -13, "fade_in": 3, "fade_out": 4},
+ {"from": "s81", "to": "end", "cue": "choir_requiem", "gain": -11, "fade_in": 4, "fade_out": 5}
+]

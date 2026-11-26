@@ -1,0 +1,960 @@
+{
+ "shots": [
+  {
+   "id": "s01",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s01_a.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s02",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s02_a.mp4",
+   "ss": 0.12,
+   "t": 11.98,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s03",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s03_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s04",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s04_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s05",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s05_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s06",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s06_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s07",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s07_a.mp4",
+   "ss": 0.12,
+   "t": 11.27,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s08",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s08_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s09",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s09_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s10",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s10_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "macro"
+  },
+  {
+   "id": "s11",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s11_a.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s12",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s12_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s13",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s13_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s14",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s14_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s15",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s15_a.mp4",
+   "ss": 0.12,
+   "t": 7.44,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s16",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s16_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s17",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s17_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s18",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s18_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s19",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s19_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s20",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s20_b.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s21",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s21_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s22",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s22_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s23",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s23_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s24",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s24_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s25",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s25_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s26",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s26_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s27",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s27_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s28",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s28_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s29",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s29_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s30",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s30_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s31",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s31_a.mp4",
+   "ss": 0.12,
+   "t": 11.98,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s32",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s32_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s33",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s33_c.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s34",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s34_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s35",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s35_a.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s36",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s36_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s37",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s37_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s38",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s38_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s39",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s39_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s40",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s40_a.mp4",
+   "ss": 0.12,
+   "t": 11.27,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s41",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s41_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s42",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s42_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s43",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s43_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s44",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s44_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s45",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s45_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s46",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s46_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s47",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s47_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s48",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s48_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s49",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s49_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s50",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s50_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s51",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s51_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s52",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s52_b.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s53",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s53_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s54",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s54_c.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s55",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s55_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "macro"
+  },
+  {
+   "id": "s56",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s56_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s57",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s57_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s58",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s58_b.mp4",
+   "ss": 0.12,
+   "t": 4.6,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s59",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s59_b.mp4",
+   "ss": 0.12,
+   "t": 6.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s60",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s60_a.mp4",
+   "ss": 0.12,
+   "t": 7.73,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s61",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s61_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s62",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s62_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s63",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s63_a.mp4",
+   "ss": 0.12,
+   "t": 9.36,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s64",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s64_a.mp4",
+   "ss": 0.12,
+   "t": 11.98,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s65",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s65_b.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s66",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s66_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s67",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s67_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s68",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s68_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s69",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s69_a.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s70",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s70_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s71",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s71_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s72",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s72_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s73",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s73_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "establishing"
+  },
+  {
+   "id": "s74",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s74_b.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s75",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s75_a.mp4",
+   "ss": 0.12,
+   "t": 7.0,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s76",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s76_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s77",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s77_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s78",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s78_a.mp4",
+   "ss": 0.12,
+   "t": 8.5,
+   "talk": false,
+   "type": "verite"
+  },
+  {
+   "id": "s79",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s79_a.mp4",
+   "ss": 0.12,
+   "t": 9.15,
+   "talk": false,
+   "type": "macro"
+  },
+  {
+   "id": "s80",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s80_a.mp4",
+   "ss": 0.12,
+   "t": 9.86,
+   "talk": true,
+   "type": "verite"
+  },
+  {
+   "id": "s81",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s81_a.mp4",
+   "ss": 0.12,
+   "t": 13.4,
+   "talk": true,
+   "type": "interview"
+  },
+  {
+   "id": "s82",
+   "src": "/data/projs/anet-movie/episodes/ep14/video/s82_a.mp4",
+   "ss": 0.12,
+   "t": 7.5,
+   "talk": false,
+   "type": "establishing"
+  }
+ ],
+ "start": {
+  "title": 0.0,
+  "s01": 4.0,
+  "s02": 11.0,
+  "s03": 23.0,
+  "black:s04": 30.75,
+  "s04": 32.54,
+  "s05": 40.29,
+  "s06": 49.46,
+  "s07": 57.21,
+  "s08": 68.5,
+  "s09": 77.67,
+  "s10": 85.42,
+  "s11": 94.59,
+  "s12": 101.59,
+  "s13": 110.76,
+  "s14": 118.26,
+  "s15": 127.43,
+  "s16": 134.89,
+  "s17": 144.77,
+  "s18": 153.27,
+  "black:s19": 161.02,
+  "s19": 162.81,
+  "s20": 170.56,
+  "s21": 179.73,
+  "s22": 188.9,
+  "s23": 198.07,
+  "s24": 207.95,
+  "s25": 215.7,
+  "s26": 223.2,
+  "s27": 231.7,
+  "s28": 239.45,
+  "s29": 249.33,
+  "s30": 258.5,
+  "s31": 266.25,
+  "s32": 278.25,
+  "s33": 286.75,
+  "s34": 295.92,
+  "s35": 305.09,
+  "s36": 312.09,
+  "s37": 321.26,
+  "s38": 331.14,
+  "s39": 340.31,
+  "s40": 347.81,
+  "black:s41": 359.1,
+  "s41": 360.89,
+  "s42": 370.06,
+  "s43": 377.81,
+  "s44": 385.31,
+  "s45": 394.48,
+  "s46": 401.98,
+  "s47": 411.15,
+  "s48": 421.03,
+  "s49": 428.53,
+  "s50": 437.7,
+  "s51": 446.2,
+  "s52": 455.37,
+  "s53": 462.37,
+  "s54": 470.87,
+  "s55": 477.87,
+  "s56": 487.04,
+  "s57": 495.54,
+  "s58": 504.71,
+  "s59": 509.34,
+  "s60": 515.34,
+  "s61": 523.09,
+  "s62": 532.26,
+  "s63": 542.14,
+  "s64": 551.52,
+  "black:s65": 563.52,
+  "s65": 565.31,
+  "s66": 574.48,
+  "s67": 583.65,
+  "s68": 592.82,
+  "s69": 601.32,
+  "s70": 608.32,
+  "s71": 615.82,
+  "s72": 625.7,
+  "s73": 634.2,
+  "black:s74": 643.37,
+  "s74": 645.16,
+  "s75": 654.33,
+  "s76": 661.33,
+  "s77": 671.21,
+  "s78": 679.71,
+  "s79": 688.21,
+  "s80": 697.38,
+  "s81": 707.26,
+  "s82": 720.68,
+  "end": 728.18
+ },
+ "narration_at": [
+  [
+   "s01",
+   4.7
+  ],
+  [
+   "s03",
+   23.7
+  ],
+  [
+   "s04",
+   33.24
+  ],
+  [
+   "s13",
+   111.46
+  ],
+  [
+   "s15",
+   128.13
+  ],
+  [
+   "s17",
+   145.47
+  ],
+  [
+   "s19",
+   163.51
+  ],
+  [
+   "s22",
+   189.6
+  ],
+  [
+   "s27",
+   232.4
+  ],
+  [
+   "s32",
+   278.95
+  ],
+  [
+   "s36",
+   312.79
+  ],
+  [
+   "s43",
+   378.51
+  ],
+  [
+   "s63",
+   542.84
+  ],
+  [
+   "s68",
+   593.52
+  ],
+  [
+   "s73",
+   634.9
+  ],
+  [
+   "s77",
+   671.91
+  ],
+  [
+   "s82",
+   721.38
+  ]
+ ],
+ "cues": [
+  {
+   "from": "title",
+   "to": "s03",
+   "cue": "elegy_cello",
+   "gain": -14,
+   "fade_in": 3,
+   "fade_out": 4
+  },
+  {
+   "from": "s04",
+   "to": "s08",
+   "cue": "drone_cold",
+   "gain": -17,
+   "fade_in": 3,
+   "fade_out": 3
+  },
+  {
+   "from": "s09",
+   "to": "s12",
+   "cue": "musicbox",
+   "gain": -15,
+   "fade_in": 2,
+   "fade_out": 3
+  },
+  {
+   "from": "s13",
+   "to": "s17",
+   "cue": "piano_embers",
+   "gain": -14,
+   "fade_in": 2,
+   "fade_out": 4
+  },
+  {
+   "from": "s19",
+   "to": "s24",
+   "cue": "drone_cold",
+   "gain": -13,
+   "fade_in": 4,
+   "fade_out": 2
+  },
+  {
+   "from": "s25",
+   "to": "s27",
+   "cue": "tension_drums",
+   "gain": -14,
+   "fade_in": 1.5,
+   "fade_out": 1.2
+  },
+  {
+   "from": "s33",
+   "to": "s35",
+   "cue": "piano_embers",
+   "gain": -14,
+   "fade_in": 3,
+   "fade_out": 3
+  },
+  {
+   "from": "s36",
+   "to": "s40",
+   "cue": "hymn_strings",
+   "gain": -13,
+   "fade_in": 3,
+   "fade_out": 4
+  },
+  {
+   "from": "s41",
+   "to": "s48",
+   "cue": "tension_drums",
+   "gain": -15,
+   "fade_in": 1.5,
+   "fade_out": 2.5
+  },
+  {
+   "from": "s49",
+   "to": "s52",
+   "cue": "elegy_cello",
+   "gain": -13,
+   "fade_in": 2.5,
+   "fade_out": 2.5
+  },
+  {
+   "from": "s53",
+   "to": "s59",
+   "cue": "tension_drums",
+   "gain": -13,
+   "fade_in": 1.0,
+   "fade_out": 0.4
+  },
+  {
+   "from": "s61",
+   "to": "s61",
+   "cue": "ignite_orchestra",
+   "gain": -11,
+   "offset": 1.5,
+   "fade_in": 1.5,
+   "fade_out": 3
+  },
+  {
+   "from": "s62",
+   "to": "s64",
+   "cue": "elegy_cello",
+   "gain": -13,
+   "fade_in": 3,
+   "fade_out": 4
+  },
+  {
+   "from": "s65",
+   "to": "s70",
+   "cue": "hymn_strings",
+   "gain": -13,
+   "fade_in": 3,
+   "fade_out": 2
+  },
+  {
+   "from": "s71",
+   "to": "s73",
+   "cue": "choir_requiem",
+   "gain": -11,
+   "fade_in": 2,
+   "fade_out": 5
+  },
+  {
+   "from": "s77",
+   "to": "s80",
+   "cue": "piano_embers",
+   "gain": -13,
+   "fade_in": 3,
+   "fade_out": 4
+  },
+  {
+   "from": "s81",
+   "to": "end",
+   "cue": "choir_requiem",
+   "gain": -11,
+   "fade_in": 4,
+   "fade_out": 5
+  }
+ ]
+}

@@ -32,6 +32,16 @@ FRAME_STYLE = (" This must look like a raw frame grab from real mockumentary / f
                "Keep every person, robot, place and logo consistent with the supplied reference images (identity and costume), "
                "but render them in this raw documentary video look. 16:9 frame. No captions, no subtitles, no watermark, "
                "no legible text anywhere.")
+CINE = bool(os.environ.get("CINE"))
+if CINE:   # designed-cinema mode for the film version (shot design lives in each shot's frame/tpl)
+    FRAME_STYLE = (" A frame from a serious, award-level science-fiction feature film, photographed for real (not concept art, not a game render, not CGI gloss): "
+                   "large-format digital cinema camera with anamorphic lenses, Kodak Vision3 500T film-out texture with fine heavy grain, pure deep blacks, "
+                   "natural skin tones, a restrained palette of very few colours, motivated practical light sources, volumetric haze and dust catching the light, "
+                   "strong graphic composition with clear foreground / midground / background depth layers, silhouettes where described, monumental scale with tiny human figures "
+                   "against colossal structures where described, tactile dirt and wear on every surface. Compose for a 2.39:1 widescreen crop: keep all faces and key subjects "
+                   "inside the central band of the frame (the top 12% and bottom 12% will be cropped). Show ONLY the people and objects described, never add an extra person. "
+                   "Keep every person, robot, place and logo consistent with the supplied reference images (identity and costume). "
+                   "16:9 frame. No captions, no subtitles, no watermark, no legible text anywhere.")
 VIDEO_STYLE = ("纪录片质感，真实摄影机拍摄，自然光与现场光，胶片颗粒，写实不摆拍。"
                "声音：只有现场同期录音，即环境声和人物说话声；严禁任何背景音乐、配乐、旋律、鼓点和旁白。"
                "画面中没有字幕、没有任何文字和水印。")
@@ -176,13 +186,17 @@ def build_prompt(shot, chosen):
         "summary:", tp["summary"].strip(), "",
         "retention_analysis:", *ret, "",
         "detailed_description:",
-        f"16:9 horizontal, single clip {dur}.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), {LOOK.get(shot.get('type'), LOOK['verite'])}, "
-        "video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, "
+        (f"16:9 horizontal, single clip {dur}.0s, 24fps, a shot from a serious award-level science-fiction feature film photographed for real: large-format cinema camera, anamorphic lenses, "
+         "Kodak Vision3 500T film texture with fine grain, deep pure blacks, natural skin tones, restrained palette, motivated practical lighting with volumetric haze, "
+         "deliberate composed framing and ONE smooth, precisely executed, motivated camera move exactly as described (dolly / crane / Steadicam quality, no random shake, no zoom pumping), "
+         "the main subject in crisp focus, physically real performances with restrained, truthful acting; no hard subtitles, no burned-in captions, " if CINE else
+         f"16:9 horizontal, single clip {dur}.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), {LOOK.get(shot.get('type'), LOOK['verite'])}, "
+         "video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, ") +
         "no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.",
         shot_txt, "",
-        "overall_soundscape:", tp["soundscape"].strip().rstrip(".") + "; raw production location sound only, dry and unscored: strictly no background music, no score, "
+        "overall_soundscape:", tp["soundscape"].strip().rstrip(".") + "; production location sound only, dry and unscored: strictly no background music, no score, "
         "no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.", "",
-        "non_diegetic_music:", "N/A (none: this is an unscored documentary location recording)"])
+        "non_diegetic_music:", "N/A (none: unscored location sound only)"])
 
 
 def ledger_add(rec):
