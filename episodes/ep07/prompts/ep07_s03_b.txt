@@ -1,0 +1,23 @@
+# ep07 s03_b  duration=9s  seed=856802057
+# input images: ['episodes/ep07/storyboard/s03.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside a long curved maintenance gallery in the wall of the engine nozzle, lit dull orange through heat-stained panels: the knee-high yellow tracked robot with the red-and-white smiley on its screen crawls along the steel grating, its small headlamp sweeping the wall. Blocking lock: Luosi is centre frame in the foreground on the steel grating, facing forward and moving away from camera; the curved heat-stained orange wall panels fill the background and right side; no other characters present.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Inside the curved maintenance gallery of the engine nozzle wall, Luosi crawls slowly along the steel grating, sweeping its headlamp over the hot wall panels, then stops as its smiley face flickers twice.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle follow shot, camera near grating height behind and slightly to the side of the robot, handheld with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi is centre frame in the foreground on the steel grating, facing forward and moving away from camera; the curved heat-stained orange wall panels fill the background and right side; no other characters present. Start: Luosi crawls forward along the steel grating on its small tracks, headlamp beam sweeping across the heat-stained wall panels. Middle: The headlamp moves slowly over the hot wall panels, lighting them inch by inch as the robot keeps inching ahead. End: Luosi stops moving, and the smiley face on its screen flashes twice. Mood: tense, quiet, uneasy. Blur: shallow depth of field, focus on Luosi with the curving gallery and distant orange panels softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+tracks rolling on steel grating, small motor whir, dull rumble behind the wall, a single notification beep; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

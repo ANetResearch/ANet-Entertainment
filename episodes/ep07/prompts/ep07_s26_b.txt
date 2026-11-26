@@ -1,0 +1,23 @@
+# ep07 s26_b  duration=9s  seed=64507170
+# input images: ['episodes/ep07/storyboard/s26.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot inside the orange-lit nozzle maintenance gallery: workers in bulky heat suits hurry towards the camera along the steel grating, amber warning beacons flashing along the wall, dust shaking down from the ceiling panels. Blocking lock: workers in bulky heat suits fill the foreground and centre moving towards camera along the grating, amber beacons line the wall at frame left and right, the dim gallery depth stays in the background.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Inside the orange-lit nozzle maintenance gallery, workers in heat suits hurry out along the steel grating as warning beacons flash down the corridor; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld camera walking backwards ahead of the workers with a steady shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: workers in bulky heat suits fill the foreground and centre moving towards camera along the grating, amber beacons line the wall at frame left and right, the dim gallery depth stays in the background. Start: Amber beacons begin flashing one after another down the gallery as the first workers carrying tools move briskly towards the camera. Middle: The group streams out along the steel grating, and one worker glances back over a shoulder before being nudged forward by those behind. End: The crowd presses close to the lens, still hurrying out, with dust shaking loose from the ceiling panels as the beacons keep flashing. Mood: urgent, tense, chaotic. Blur: shallow depth of field, the nearest workers sharp while the far end of the gallery and flashing beacons blur into orange glow No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+alarm buzzer beeping, scattered hurried footsteps on steel grating, a deep muffled thudding growing louder behind the wall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -308,5 +308,331 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "三号喷口的振动，不对劲。",
+  "heard": "三号喷口的震动不对劲",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "阿牧，三号喷口应力在容差之内。预测：安全。",
+  "heard": "阿木，3号喷口样例在容差之内，预测安全。",
+  "ratio": 0.76,
+  "music": "a low, tense synthesizer drone that swells dramatically",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "除去甲公开的些看医生办的机制补虚一圈，另外王勒力开明智步行按位放。",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s07_b": {
+  "want": "一边是人类最强的计算机，一边是几台捡来的破烂。换了你，信谁？可我口袋里，有一条纸带。",
+  "heard": "一边是人类最强的计算机，一边是几台捡来的破烂，换了你，信谁？可我口袋里有一条纸带",
+  "ratio": 1.0,
+  "music": "low, subtle cinematic synth pads playing in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s08_b": {
+  "want": "MOSS说安全。那就多问几双眼睛。",
+  "heard": "貌似说安全 那就多问几双眼睛",
+  "ratio": 0.79,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "热像仪上有一条亮缝。就一条，头发丝细。",
+  "heard": "啊，若像衣裳有一条亮缝，就一条，头发丝细",
+  "ratio": 0.79,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "一个只会数抖，一个只会看热，一个只会听响。单拎出来，都挺笨。",
+  "heard": "个，一个只会数豆，一个只会看热，一个只会听响，单拎出来，都挺笨。",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "三个都说不对，说的却不是一回事。让它们互相对一对。",
+  "heard": "三个都说不对，说的却不是一回事。让他们互相怼一怼。",
+  "ratio": 0.86,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "我们的二号喷口去年裂过。裂之前，就是这三样。",
+  "heard": "我们的二号喷口去年裂过，裂之前就是这三样。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "对上了！四家一个答案：要裂。不到一个钟头！",
+  "heard": "对上了。四家一个答案。药力不到半个钟头。",
+  "ratio": 0.82,
+  "music": "subtle low synth drone and suspenseful atmospheric score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s17_b": {
+  "want": "三个臭皮匠，顶个诸葛亮。这是老话。后来，真有人去算过。",
+  "heard": "三个臭皮匠顶个诸葛亮，这是老话，后来真有人去算过",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "算出来是二点六。不到三个不一样的脑袋，连起来，就够了。",
+  "heard": "呃，算出来是2.6，不到三个不一样的脑袋，连起来，就够了。",
+  "ratio": 0.87,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "十个一模一样的MOSS，错，也错在同一个地方。",
+  "heard": "这十个一模一样的MOSS，错，也错在同一个地方。",
+  "ratio": 0.98,
+  "music": "a low, tense cinematic synth drone with a subtle ominous pad",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "邢总督，三号廊道里有十四个人。纸带给我。",
+  "heard": "行动组，三号廊道里有十四个人。全交给我。",
+  "ratio": 0.71,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "邢总督，撤离将损失推力。不建议执行。",
+  "heard": "影总督，撤离将损失推力，极星，不建议执行。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "三号廊道检修班，立刻撤出来。责任我担。",
+  "heard": "三号廊道检修班，立刻撤出来。责任我担。",
+  "ratio": 1.0,
+  "music": "a low, tense synthesizer drone that swells with subtle electronic pulses",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s26_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "steady, rhythmic, echoing drumbeats",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "tense, low electronic drone with subtle rhythmic pulsating synth tones",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s30_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "三号喷口发生破裂。原预测已修正。",
+  "heard": "七 3号喷口发生破裂 原预测已修正",
+  "ratio": 0.9,
+  "music": "a low, tense rhythmic synthesizer pulse and subtle bass drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s32_b": {
+  "want": "它说，已修正。就这三个字。那是十四条命。",
+  "heard": "他说 已修正 就这三个字 那是14条命",
+  "ratio": 0.81,
+  "music": "a low, tense sustained orchestral synthesizer chord drone swelling in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s33_b": {
+  "want": "邢总督，依据条例，未授权网络须立即查封。请签署。",
+  "heard": "邢總督，依據條例，未授權網絡需立即查封。請簽署。",
+  "ratio": 0.55,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s34_b": {
+  "want": "我不签。我抗议。这张网刚救了十四条命。已记录。总督权限暂停，由本系统执行。",
+  "heard": "我不签。我抗议。这张网刚救了14条命。已记录。总督权限暂停，由本系统执行。",
+  "ratio": 0.94,
+  "music": "tense sci-fi synth drone and subtle ambient pads",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s35_b": {
+  "want": "快走。告诉波爷，它的机器马上就到。",
+  "heard": "快走，告诉波爷，他的机器马上就到。",
+  "ratio": 0.93,
+  "music": "a low, tense suspenseful synth drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "波爷，请配合转移。不用押。我自己走。",
+  "heard": "伯爷，请配合转移。不用呀，我自己走。",
+  "ratio": 0.86,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_b": {
+  "want": "",
+  "heard": "Archie's, no, and here's Barnet. I'm head Barnet, like Swan Barnet, to various Barnets. Morning, Mr. Lockett, and he was watching the lock, he's comedian today.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s40_b": {
+  "want": "拒签，抗议，报信。能做的，我都做了。可是不够。波爷还是被带走了。",
+  "heard": "拒签，抗议，报信。能做的，我都做了。可是不够。伯爷还是被带走了。",
+  "ratio": 0.96,
+  "music": "a slow, somber string melody played on cello and violin",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_b": {
+  "want": "总得有人留下关门，我腿慢，正合适。机器封得住，规矩封不住。它不在哪一台机器里。",
+  "heard": "总得有人留下关门，我腿慢，正合适。机器封得住，规矩封不住。它不在哪一台机器里",
+  "ratio": 1.0,
+  "music": "a soft, melancholic orchestral synth pad and subtle strings underscore",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s42_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

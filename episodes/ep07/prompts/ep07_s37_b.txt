@@ -1,0 +1,25 @@
+# ep07 s37_b  duration=11s  seed=476645666
+# input images: ['episodes/ep07/storyboard/s37.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the darkened pump-station server room lit by red sensor light: old Boye in his navy quilted jacket stands calmly facing two boxy grey automated security units, straightening his taped glasses with one hand, his other hand behind him pushing shut a low rusted hatch in the back wall. Blocking lock: Boye stands at frame centre in his navy quilted jacket facing the camera-side, two boxy grey security units flank him at frame left and frame right, the low rusted hatch sits in the back wall behind him.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In the red-lit pump-station server room, Boye shuts a low hatch, adjusts his glasses and walks toward two security units, then waves them off and leads the way out, from "波爷，请配合转移。" to "不用押。我自己走。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 11.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye stands at frame centre in his navy quilted jacket facing the camera-side, two boxy grey security units flank him at frame left and frame right, the low rusted hatch sits in the back wall behind him. Start: Boye pushes the low rusted hatch shut with the hand behind his back, standing calmly in the red sensor light. Middle: He straightens his taped glasses with his free hand and walks toward the security units, then raises a hand and waves them off. End: Boye turns and walks on toward the doorway by himself while the two security units roll along on either side of him. Mood: calm, tense, resigned. Blur: shallow depth of field, server racks and back wall softly out of focus in red haze MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 波爷，请配合转移。</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 不用押。我自己走。</d>; Final line of this shot: end on “用押。我自己走。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+soft clank of the low iron hatch closing, tracked wheels rolling on the floor, calm synthetic male voice from the machine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

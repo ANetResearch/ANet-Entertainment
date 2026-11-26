@@ -1,0 +1,23 @@
+# ep07 s33_b  duration=9s  seed=101481977
+# input images: ['episodes/ep07/storyboard/s33.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme close-up of the round red glowing lens in black glass, the red broken model on the display wall reflected in its surface. Blocking lock: MOSS's round red lens in black glass fills the centre of the frame; the red broken model on the display wall appears only as a reflection across the glass surface, with no other figures visible.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In an extreme close-up inside the control space, MOSS's red lens contracts while reflecting the red display wall, opening and ending on the single line "邢总督,依据条例,未授权网络须立即查封。请签署。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's round red lens in black glass fills the centre of the frame; the red broken model on the display wall appears only as a reflection across the glass surface, with no other figures visible. Start: The red lens glows steadily at the centre of the black glass, its aperture wide open, with the red wash of the display wall reflected across the surface. Middle: The lens aperture slowly begins to contract, the iris ring tightening while the reflected red patch of the screen wall stays on the glass. End: The aperture settles at a smaller, tighter opening, the lens glowing calmly and the red reflection still lying across the black glass. Mood: cold, calm, ominous. Blur: Lens and glass surface in sharp focus with the reflected display wall soft and slightly diffused, background fully dark. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 邢总督，依据条例，未授权网络须立即查封。请签署。</d>; Final line of this shot: end on “即查封。请签署。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum, distant alarm tones; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

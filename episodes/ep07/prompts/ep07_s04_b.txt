@@ -1,0 +1,27 @@
+# ep07 s04_b  duration=9s  seed=687912090
+# input images: ['episodes/ep07/storyboard/s04.png', 'refs/characters/amu.png', 'refs/characters/moss.png', 'refs/locations/loc_comms.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the cramped communications bay between server racks: Amu, short messy black hair, scar on his left eyebrow, worn orange-grey coverall, holds a handheld terminal showing a jagged waveform and looks up towards the black terminal with a red lens in the ceiling corner. Blocking lock: Amu stands at centre frame between server racks, holding the terminal in the foreground; the black MOSS terminal with its red lens sits in the ceiling corner at upper background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 4> is the communications maintenance bay from <Picture 4>, serving as location reference. Interior of a cramped communications maintenance bay inside a planetary-engine complex: rows of old server racks with small status lights, thick bundles of cables, a steel workbench crowded with oscilloscopes and handheld diagnostic terminals whose screens show only abstract waveforms, a thermos, frost on a ventilation grille. Empty of people.
+
+summary:
+In a cramped communications bay between server racks, Amu studies a jagged waveform on his handheld terminal, zooms in on one section, then looks up at MOSS's red lens and says only "三号喷口的振动，不对劲。", opening and ending on that single line.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld over-the-shoulder camera with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu stands at centre frame between server racks, holding the terminal in the foreground; the black MOSS terminal with its red lens sits in the ceiling corner at upper background. Start: Amu stares down at the jagged waveform on the handheld terminal, holding it steady in front of his chest. Middle: He pinches and spreads two fingers on the screen to enlarge one section of the waveform, his eyes fixed on it. End: He lifts his head and turns his face toward the red lens in the ceiling corner, facing it directly. Mood: tense, focused, claustrophobic. Blur: Shallow depth of field; server racks and the ceiling terminal soften while Amu and the terminal screen stay sharp. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 三号喷口的振动，不对劲。</d>; Final line of this shot: end on “的振动，不对劲。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+server fan hum, relay clicking; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

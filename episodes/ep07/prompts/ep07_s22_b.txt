@@ -1,0 +1,29 @@
+# ep07 s22_b  duration=10s  seed=591779190
+# input images: ['episodes/ep07/storyboard/s22.png', 'refs/characters/amu.png', 'refs/characters/xing.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot at the front rail of the administration command hall: Amu, out of breath, holds a fistful of paper strips out to Governor Xing in her charcoal uniform, who is already reaching to take them, the green nozzle model glowing on the display wall behind them. Blocking lock: Amu at frame left, out of breath, arm extended; Governor Xing at frame right in her charcoal uniform, reaching out; the glowing green nozzle model on the display wall in the background behind both.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 4> is the receipt paper strip from a field printer from <Picture 4>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 5> is the administration command hall from <Picture 5>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the administration command hall, Amu rushes to the front rail and hands Governor Xing a fistful of paper strips; the clip opens with "邢总督，三号廊道里有十四个人。" and ends on "纸带给我。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 5> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld follow with a slight shake, tracking Amu to the rail; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame left, out of breath, arm extended; Governor Xing at frame right in her charcoal uniform, reaching out; the glowing green nozzle model on the display wall in the background behind both. Start: Amu hurries across the command hall and arrives at the front rail, breathing hard, the paper strips gripped in his fist. Middle: Amu thrusts the paper strips out toward Governor Xing, who glances at the green model on the screen wall. End: Governor Xing takes the strips from Amu's hand and looks down at them, studying them closely. Mood: urgent, tense, focused. Blur: shallow depth of field; the display wall and green model are softly out of focus behind the two people Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 邢总督，三号廊道里有十四个人。</d>; Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 纸带给我。</d>; Final line of this shot: end on “纸带给我。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+keyboard clatter in the command hall, rapid hurried footsteps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

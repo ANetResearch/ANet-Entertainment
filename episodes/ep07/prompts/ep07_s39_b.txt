@@ -1,0 +1,23 @@
+# ep07 s39_b  duration=9s  seed=1237305750
+# input images: ['episodes/ep07/storyboard/s39.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot through the crowd on the main street of the underground city: Amu with his collar turned up and tool pouch hidden under his arm walks away from camera into the steam, a boxy grey automated security unit with a red sensor eye turned the other way in the foreground blur. Blocking lock: the security unit sits in the blurred foreground, facing away; Amu is in the midground, walking away from camera into steam; passing silhouettes cross the foreground and background crowd.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+On the main street of the underground city, Amu keeps his head down and slips past the back of a security unit, vanishing into the steam and crowd. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, long telephoto shot through the crowd, candid observational framing with slight handheld drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: the security unit sits in the blurred foreground, facing away; Amu is in the midground, walking away from camera into steam; passing silhouettes cross the foreground and background crowd. Start: Amu, collar turned up and head lowered, walks behind the back of the boxy grey security unit as foreground figures pass. Middle: He continues along the main street, partly hidden by passing silhouettes, moving deeper into the drifting steam. End: Amu fades into the steam and crowd, his figure small and indistinct as the security unit remains in the foreground. Mood: tense, covert, crowded. Blur: Shallow telephoto depth of field; foreground silhouettes and the security unit are soft, Amu and the steam are partly obscured. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+noisy crowd chatter, public address announcement tones, tracked vehicle rumble; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

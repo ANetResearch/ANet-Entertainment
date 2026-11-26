@@ -1,0 +1,23 @@
+# ep07 s02_b  duration=8s  seed=100677886
+# input images: ['episodes/ep07/storyboard/s02.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a palm-sized vibration sensor clamped to a massive scorched steel strut, a thin cable running from it to a hand-made tin node box with a red-and-white smiley sticker, fine dust trembling on the metal surface. Blocking lock: the vibration sensor sits at frame centre clamped to the steel strut, the tin node box with the smiley sticker at frame right, the thin cable linking them, dust-covered steel surface filling the background.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a macro close-up, a small vibration sensor clamped to a scorched steel strut trembles while dust jumps on the metal and a node box light blinks rapidly; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a very slight sympathetic tremor; pacing: natural speed, a single continuous take with no cut. Blocking lock: the vibration sensor sits at frame centre clamped to the steel strut, the tin node box with the smiley sticker at frame right, the thin cable linking them, dust-covered steel surface filling the background. Start: The small sensor on the strut trembles faintly while the fine dust on the steel surface lies almost still. Middle: The dust begins to jump in rhythmic pulses across the metal, and the small light on the node box blinks rapidly. End: The sensor keeps trembling and the dust keeps jumping in surges, while the node box light continues its urgent flashing. Mood: tense, ominous, restless. Blur: very shallow depth of field; sensor and nearby dust sharp, the cable, node box and far strut softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low-frequency humming vibration from deep within the metal, fine rattling tremor sounds; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
