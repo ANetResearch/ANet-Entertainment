@@ -1,0 +1,25 @@
+# ep04 s08_a  duration=9s  seed=1320458970
+# input images: ['episodes/ep04/storyboard/s08.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Night in the hidden machine room in the old pump station: Xiaoman in his oversized army-green jacket with the big headphones on his ears sits at an old CRT monitor, turning round on his stool with one earcup lifted; the scrap rack of routers behind him with one light blinking fast, a grey compute chassis with a blue three-bladed swirl badge humming on the bottom shelf, the yellow robot nearby. Blocking lock: Xiaoman sits at centre-left in front of the old CRT monitor, the scrap router rack with the blinking light behind him at right, the grey compute chassis on the bottom shelf, and the yellow robot Luosi nearby at lower right.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+At night in the hidden machine room of the old pump station, Xiaoman spots a node light blink fast, lifts one earcup and turns on his stool to call out, opening and ending on the single line "师父！有个节点在喊话。是那台阀门控制器！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at centre-left in front of the old CRT monitor, the scrap router rack with the blinking light behind him at right, the grey compute chassis on the bottom shelf, and the yellow robot Luosi nearby at lower right. Start: Xiaoman sits at the old CRT monitor with the big headphones on, staring at the screen while a light on the node rack behind him begins to blink. Middle: The light suddenly blinks fast, and Xiaoman lifts one earcup away from his ear, alert. End: He swivels the stool around to face the back of the room and calls out toward someone off-frame. Mood: urgent, tense, curious. Blur: Shallow depth of field, with the router rack and yellow robot slightly soft behind Xiaoman. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 师父！有个节点在喊话。是那台阀门控制器！</d>; Final line of this shot: end on “那台阀门控制器！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+steady hum of the compute chassis fans, rapid repeated alert beeps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

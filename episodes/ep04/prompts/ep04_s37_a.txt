@@ -1,0 +1,25 @@
+# ep04 s37_a  duration=8s  seed=1057397340
+# input images: ['episodes/ep04/storyboard/s37.png', 'assets/logos/anet-smiley.png', 'refs/characters/jin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the black steel door of the truck cab: a gloved young hand pulling away a cardboard stencil to reveal a freshly sprayed red speech-bubble smiley with node dots and a white smiling face, Boss Jin's bulky silhouette watching from the side. Blocking lock: Xiaoman's gloved hands and the stencil fill the centre foreground against the black cab door; Boss Jin's bulky silhouette stands at frame right in the background; frame left holds the empty door surface.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+
+summary:
+At a convoy truck, Xiaoman presses a cardboard stencil on the black cab door and sprays it twice, then peels it away to reveal a red speech-bubble smiley while Boss Jin watches without stopping her.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off camera with a very slight handheld breathing; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's gloved hands and the stencil fill the centre foreground against the black cab door; Boss Jin's bulky silhouette stands at frame right in the background; frame left holds the empty door surface. Start: Xiaoman presses the cardboard stencil flat against the black steel door of the truck cab with one gloved hand, holding a spray can in the other. Middle: The spray can sweeps across the stencil twice, leaving a fine mist of red paint around the edges of the cutout. End: Xiaoman peels the stencil away, revealing a fresh red speech-bubble smiley with node dots and a white smiling face, while Boss Jin's silhouette keeps watching from the side. Mood: quiet, defiant, tender. Blur: Razor-sharp focus on the stencil and paint; Boss Jin's silhouette and the background are softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+spray can hiss, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

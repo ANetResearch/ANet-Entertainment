@@ -1,0 +1,23 @@
+# ep04 s03_a  duration=8s  seed=1820017705
+# input images: ['episodes/ep04/storyboard/s03.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a large industrial valve actuator on a frosted coolant pipe: steam hissing from a flange, a round pressure gauge beside it with its needle trembling in the upper part of the dial. Blocking lock: the large valve actuator fills frame left and centre on the frosted coolant pipe, the steaming flange sits at centre right, and the round pressure gauge is at right foreground-to-midground with its needle in the upper dial.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+In an industrial coolant facility, a straining valve actuator fails to turn while steam leaks from a flange and a nearby pressure gauge needle creeps upward; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with only a faint vibration from the machinery; pacing: natural speed, a single continuous take with no cut. Blocking lock: the large valve actuator fills frame left and centre on the frosted coolant pipe, the steaming flange sits at centre right, and the round pressure gauge is at right foreground-to-midground with its needle in the upper dial. Start: The valve actuator strains on the frosted pipe, its motor struggling but the valve not turning, while thin steam hisses from the flange seam. Middle: The steam leak continues to stream from the flange as the actuator keeps straining without moving, and the gauge needle trembles beside it. End: The gauge needle shudders a little higher into the upper part of the dial while the valve remains stuck and steam keeps escaping. Mood: tense, urgent, claustrophobic. Blur: very shallow depth of field, with the pipe and background machinery softly out of focus beyond the actuator, flange and gauge face No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+straining motor hum, hissing steam leak; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

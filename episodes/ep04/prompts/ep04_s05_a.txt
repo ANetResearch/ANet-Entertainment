@@ -1,0 +1,25 @@
+# ep04 s05_a  duration=10s  seed=359419350
+# input images: ['episodes/ep04/storyboard/s05.png', 'refs/characters/moss.png', 'refs/locations/loc_comms.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the round red glowing lens of the AI terminal in the ceiling corner of the communications bay, the young technician's small reflection in the black glass. Blocking lock: the round red lens of MOSS fills the centre of frame in the ceiling corner, while the young technician appears only as a small reflection in the black glass at lower centre.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the communications maintenance bay from <Picture 3>, serving as location reference. Interior of a cramped communications maintenance bay inside a planetary-engine complex: rows of old server racks with small status lights, thick bundles of cables, a steel workbench crowded with oscilloscopes and handheld diagnostic terminals whose screens show only abstract waveforms, a thermos, frost on a ventilation grille. Empty of people.
+
+summary:
+In the communications bay, a red-lensed AI terminal in the ceiling corner answers a young technician; the clip opens and ends on MOSS's single line "已登记。判定为低优先级,排期七十二小时。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off camera with an extremely slow push-in toward the red lens; pacing: natural speed, a single continuous take with no cut. Blocking lock: the round red lens of MOSS fills the centre of frame in the ceiling corner, while the young technician appears only as a small reflection in the black glass at lower centre. Start: The red lens glows steadily in the ceiling corner, the technician's tiny reflection visible in its black glass. Middle: The camera creeps closer as the lens aperture contracts slightly, the red glow tightening within the glass. End: The lens stays fixed and glowing, filling more of the frame, with the technician's small reflection still on its surface. Mood: calm, cold, bureaucratic. Blur: Shallow depth of field; the lens and its reflection are sharp, while the ceiling corner and bay edges fall into soft darkness. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 已登记。判定为低优先级，排期七十二小时。</d>; Final line of this shot: end on “排期七十二小时。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+fan hum, faint electrical buzz; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

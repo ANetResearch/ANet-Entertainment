@@ -1,0 +1,27 @@
+# ep04 s27_a  duration=8s  seed=1159675989
+# input images: ['episodes/ep04/storyboard/s27.png', 'refs/characters/amu.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot down the nearly empty main street of the underground city late at night: Amu and Xiaoman running with tool bags past shuttered stalls under dim yellow lamps, steam drifting. Blocking lock: Amu runs in the middle ground, slightly ahead, with Xiaoman a few steps behind him; shuttered stalls line both sides, dim yellow lamps and drifting steam fill the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is the underground city main street from <Picture 4>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+Late at night in the underground city's nearly empty main street, Amu and Xiaoman run one behind the other past shuttered stalls with tool bags, splashing through puddles; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Telephoto long shot, compressed perspective down the street, handheld follow with a faint shake.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu runs in the middle ground, slightly ahead, with Xiaoman a few steps behind him; shuttered stalls line both sides, dim yellow lamps and drifting steam fill the background. Start: Amu and Xiaoman, tool bags on their backs, run into frame in the distance down the empty main street, Amu in front. Middle: The two run past the closed stalls, their feet splashing through puddles on the ground as steam drifts across the lamplight. End: They keep running toward the camera, still one behind the other, and the splashing slows as they close the distance. Mood: urgent, tense, lonely. Blur: Shallow telephoto depth of field; the shuttered stalls and lamps in the background and foreground are soft, with the runners in sharper focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rapid footsteps, splashing puddle water, humming ventilation ducts; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

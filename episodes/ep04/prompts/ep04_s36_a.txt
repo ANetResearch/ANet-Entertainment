@@ -1,0 +1,25 @@
+# ep04 s36_a  duration=10s  seed=1452707452
+# input images: ['episodes/ep04/storyboard/s36.png', 'refs/characters/jin.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot through clear helmet visors: Boss Jin standing with one glove thumping the fender of his truck, Amu sitting on the hatch rim with the steel flask in both hands, looking up at him. Blocking lock: Boss Jin stands at frame left beside his truck's fender, Amu sits at frame right on the hatch rim holding the steel flask, both seen through clear helmet visors, truck body filling the background.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+On a windswept stretch, Boss Jin slaps his truck's front end and speaks to Amu, who looks up from the hatch rim and replies calmly, making him laugh; opens with "往后，我的车就是你们的腿。" and ends on "我们可出不起油钱。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin stands at frame left beside his truck's fender, Amu sits at frame right on the hatch rim holding the steel flask, both seen through clear helmet visors, truck body filling the background. Start: Boss Jin turns and thumps his gloved hand against the truck's fender behind him while Amu sits holding the flask in both hands. Middle: Amu lifts his head and looks up at Boss Jin, his expression calm and unhurried, the flask still cradled in his hands. End: Boss Jin tips his head back and laughs heartily, shoulders shaking, while Amu stays seated and composed. Mood: warm, wry, companionable. Blur: Shallow depth of field, the distant terrain and truck rear softly out of focus behind the two figures. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 往后，我的车就是你们的腿。</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 我们可出不起油钱。</d>; Final line of this shot: end on “们可出不起油钱。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+dull thump of a glove on the truck body, laughter over the helmet comm, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

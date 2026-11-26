@@ -1,0 +1,25 @@
+# ep04 s11_a  duration=8s  seed=852643736
+# input images: ['episodes/ep04/storyboard/s11.png', 'refs/characters/luosi.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle on the pump station floor: the knee-high yellow tracked robot with the glowing red-white smiley screen pivoting away from the rack, where a grey compute chassis with a blue three-bladed swirl badge shows a row of green status lights, toward the rusted steel door, cables on the floor under its tracks. Blocking lock: Luosi at frame centre in the foreground, turning away from the grey compute chassis with the blue swirl badge at frame left background, rusted steel door at frame right background, cables on the floor beneath its tracks.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the pump station, the small yellow robot Luosi chirps twice, its smiley screen brightens, and it turns away from the compute rack and rolls over floor cables toward the rusted steel door.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle medium shot, handheld follow at knee height with a slight natural shake.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi at frame centre in the foreground, turning away from the grey compute chassis with the blue swirl badge at frame left background, rusted steel door at frame right background, cables on the floor beneath its tracks. Start: Luosi sits near the compute rack, two chirps sound, and its smiley screen flashes brighter while the rack's green status lights flicker in a quick run behind it. Middle: Luosi pivots in place on its tracks, turning its screen face away from the rack toward the rusted steel door. End: Luosi rolls forward over the cables on the floor, tracks crunching across them, heading toward the steel door. Mood: curious, purposeful, tense. Blur: Shallow depth of field: Luosi and the floor cables sharp, the compute rack and steel door softly out of focus in the background. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+electronic chirp tones, tracked motor whirr, compute chassis fan hum, tracks rolling over cables; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

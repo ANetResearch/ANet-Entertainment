@@ -1,0 +1,25 @@
+# ep04 s40_a  duration=10s  seed=302380008
+# input images: ['episodes/ep04/storyboard/s40.png', 'refs/characters/amu.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. At a noodle stall on the main street in the morning crowd: Amu, grease still on his cheek, sitting with a bowl in front of him, the young technician bending down beside him holding out his handheld terminal. Blocking lock: Amu sits at frame centre behind a noodle bowl, grease on his cheek; the young technician bends in from frame right, holding his terminal toward him; the crowd and stall fill the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the underground city main street from <Picture 3>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+At a morning noodle stall on the main street, a young technician pushes through the crowd and shows Amu his terminal while he eats; the clip opens with "阿牧，日志上写的是，中央计划内维护。" and ends on "计划内。它的计划是七十二小时。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake, subtly following the technician's movement toward Amu; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre behind a noodle bowl, grease on his cheek; the young technician bends in from frame right, holding his terminal toward him; the crowd and stall fill the background. Start: The young technician squeezes through the morning crowd toward the noodle stall where Amu sits eating. Middle: He bends down beside Amu and holds his handheld terminal up in front of his eyes, leaning in close. End: Amu glances at the screen, sets his chopsticks down on the bowl, and looks up at the technician with a cold expression. Mood: tense, gritty, suspicious. Blur: Shallow depth of field; Amu and the technician stay sharp while the busy crowd and stall behind blur softly. The 年轻技术员 (extra, ordinary voice) says, <d>[Chinese] 阿牧，日志上写的是，中央计划内维护。</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 计划内。它的计划是七十二小时。</d>; Final line of this shot: end on “划是七十二小时。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+noisy crowd chatter, spatula clanging on a wok; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
