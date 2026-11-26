@@ -1,0 +1,23 @@
+# ep08 s38_b  duration=9s  seed=1364893111
+# input images: ['episodes/ep08/storyboard/s38.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Governor Xing at the dead main console of the dark command hall beneath the faint red glow, the last operators hurrying away up the aisle with flashlights, a folded strip of thermal receipt paper from her uniform breast pocket in her hand. Blocking lock: Governor Xing stands at frame centre beside the dead main console in the foreground, the last operators with flashlights run away up the aisle in the background, faint red glow over everything.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In the dark command hall, Governor Xing sends her last operators off with orders and then looks down at a folded paper strip; the clip opens with "一区去一个人，拿腿跑。" and ends on "告诉大家，指挥中心还在。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing stands at frame centre beside the dead main console in the foreground, the last operators with flashlights run away up the aisle in the background, faint red glow over everything. Start: Xing stands at the dead console facing the aisle as the last operators turn and begin to hurry away, their flashlight beams swinging. Middle: The flashlight beams bob and recede up the aisle while Xing reaches into her uniform breast pocket and draws out a folded paper strip. End: Xing lowers her head and looks at the paper strip in her hand under the red light, while the distant beams fade. Mood: tense, solemn, resolute. Blur: shallow depth of field, receding operators and far hall dissolving into soft dark bokeh Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 一区去一个人，拿腿跑。告诉大家，指挥中心还在。</d>; Final line of this shot: end on “，指挥中心还在。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+footsteps running into the distance, echo of the empty hall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

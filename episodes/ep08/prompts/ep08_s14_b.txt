@@ -1,0 +1,23 @@
+# ep08 s14_b  duration=11s  seed=1409217965
+# input images: ['episodes/ep08/storyboard/s14.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: Xiaoman, messy hair, big old headphones around his neck, oversized army-green jacket, sits on the metal chair in the dim interview room, one finger pointing up at the ceiling. Blocking lock: Xiaoman sits at frame centre on a metal chair, facing the camera, with the dim bare interview room behind him and nothing else in the foreground.
+<Subject 2> is the oral-history interview room from <Picture 2>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Xiaoman points to the ceiling and speaks slowly about the hum above him that finally stopped, opening with "我从生下来，头顶就有个嗡嗡声。" and ending on "静得吓人。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 11.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at frame centre on a metal chair, facing the camera, with the dim bare interview room behind him and nothing else in the foreground. Start: Xiaoman raises one hand and points a finger up toward the ceiling above his head. Middle: He holds the pointing gesture for a brief pause, then lowers his hand. End: He rubs his palm slowly over his knee, hand resting on his leg, still seated and facing the camera. Mood: quiet, haunted, reflective. Blur: Shallow depth of field, Xiaoman sharp, dim room background softly out of focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 我从生下来，头顶就有个嗡嗡声。那天它停了。静得吓人。</d>; Final line of this shot: end on “停了。静得吓人。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum of an empty room; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

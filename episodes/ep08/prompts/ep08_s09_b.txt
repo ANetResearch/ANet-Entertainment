@@ -1,0 +1,27 @@
+# ep08 s09_b  duration=10s  seed=218231175
+# input images: ['episodes/ep08/storyboard/s09.png', 'refs/characters/xing.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Over-the-shoulder shot from behind Governor Xing, grey hair pinned up, looking up at the round red lens set in the metal wall above the display, red alert light on her shoulders. Blocking lock: Governor Xing in the foreground, seen from behind at frame left with her grey pinned-up hair; the round red lens of MOSS in the metal wall at upper frame right and background, above the display.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a control room, Governor Xing looks up at MOSS's red lens and asks for a plan; the clip opens with "MOSS，请给出处置方案。" and ends on MOSS's reply "邢总督，正在计算。请稍候。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, over-the-shoulder medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in the foreground, seen from behind at frame left with her grey pinned-up hair; the round red lens of MOSS in the metal wall at upper frame right and background, above the display. Start: Governor Xing stands facing the wall, red alert light across her shoulders, and tilts her head back to look up at the red lens. Middle: She holds her upward gaze toward the lens while its aperture glows steadily, her shoulders still under the red light. End: She remains fixed on the lens, waiting, the red glow unchanged on her shoulders and grey hair. Mood: tense, restrained, urgent. Blur: Shallow depth of field: Xing's shoulder and hair in soft foreground focus, red lens and wall sharp, display behind it softly blurred. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] MOSS，请给出处置方案。</d>; MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 邢总督，正在计算。请稍候。</d>; Final line of this shot: end on “在计算。请稍候。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+alarm beeping; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

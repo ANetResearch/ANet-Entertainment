@@ -1,0 +1,25 @@
+# ep08 s22_b  duration=12s  seed=1713691921
+# input images: ['episodes/ep08/storyboard/s22.png', 'refs/characters/boye.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: old Boye, grey stubble, taped black-framed glasses, navy quilted jacket, sits in the dim interview room, one hand raised with the index finger up as if marking a single point. Blocking lock: Boye sits centre frame in the dim interview room, raised hand at upper centre-right, with the dark room softly receding in the background and no one else visible.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, old Boye slowly explains his point with hand gestures, opening with "好比一座城，只有一个总机。" and ending on "你打给隔壁邻居，也得先让它转接。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits centre frame in the dim interview room, raised hand at upper centre-right, with the dark room softly receding in the background and no one else visible. Start: Boye sits still in his navy quilted jacket and raises one index finger, holding it up in the air. Middle: He taps the raised finger once in the air, then sweeps his other hand in from the sides toward that finger, tracing lines that converge on it. End: He finishes the slow converging gesture, hands settling near the raised finger as he holds the pose briefly. Mood: calm, thoughtful, intimate. Blur: shallow depth of field, Boye's face and hands sharp, dim room background softly out of focus Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 好比一座城，只有一个总机。你打给隔壁邻居，也得先让它转接。</d>; Final line of this shot: end on “也得先让它转接。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

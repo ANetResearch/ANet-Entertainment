@@ -1,0 +1,25 @@
+# ep08 s07_b  duration=8s  seed=939491109
+# input images: ['episodes/ep08/storyboard/s07.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the small repair stall during the quake: lanky young Xiaoman in his oversized army-green jacket, big headphones around his neck, braces a shelf of old routers with both arms while CRT monitors slide off the bench. Blocking lock: Xiaoman stands at frame centre with his back to the shelf, the router shelf behind and around him, CRT monitors sliding at frame right on the bench, a desk lamp in the lower foreground.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+Inside a small repair stall during an earthquake, Xiaoman braces a shaking shelf of old routers with both arms as equipment slides and a desk lamp topples.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a strong, constant shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman stands at frame centre with his back to the shelf, the router shelf behind and around him, CRT monitors sliding at frame right on the bench, a desk lamp in the lower foreground. Start: Xiaoman spreads both arms wide and presses them against the swaying shelf of old routers, bracing his body against it. Middle: Routers slide off the shelf one after another and drop past him while he strains to hold the shelf upright. End: The desk lamp tips over onto the table and rolls half a turn as Xiaoman keeps holding the shelf in place. Mood: frantic, tense, urgent. Blur: Shallow depth of field, Xiaoman and the nearest shelf sharp, the cluttered stall background slightly soft and shaking. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+metal shelf rattling and clanging, glass shattering, routers clattering onto the floor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

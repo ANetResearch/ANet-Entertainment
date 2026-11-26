@@ -308,5 +308,312 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "那天早上，我的杯子自己在桌上走。没人碰它。",
+  "heard": "那天早上，我的杯子自己在桌上走，没人碰它。",
+  "ratio": 1.0,
+  "music": "eerie, suspenseful orchestral score featuring sustained low drones and dissonant high strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "总督，引力读数超限，喷口压力在往下掉！",
+  "heard": "总督！引力读数超限，喷口压力在往下掉！",
+  "ratio": 1.0,
+  "music": "tense cinematic percussive score with driving heavy drum beats",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s09_b": {
+  "want": "MOSS，请给出处置方案。邢总督，正在计算。请稍候。",
+  "heard": "MOSS，请给出处置方案。 邢总督，正在计算，请稍后。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "",
+  "heard": "I have waited so long.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s11_b": {
+  "want": "光柱……灭了？",
+  "heard": "光……光柱……灭了。",
+  "ratio": 0.89,
+  "music": "tense, low synth drone and subtle ambient score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s12_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "a heavy rock electric guitar riff playing over an arena sound system",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s14_b": {
+  "want": "我从生下来，头顶就有个嗡嗡声。那天它停了。静得吓人。",
+  "heard": "我从生下来 头顶就有个嗡嗡声 那天它停了 静得吓人",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "敦煌七号全体人员，这里是MOSS。流浪地球计划已经失败。",
+  "heard": "领航员号全体人员 这里是 MOSS 流浪地球计划已经失败",
+  "ratio": 0.88,
+  "music": "a dramatic, mournful orchestral score with deep strings and a swelling cinematic brass melody",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s16_b": {
+  "want": "自即刻起，本系统不再调度地表事务。感谢各位十七年来的配合。祝好运。",
+  "heard": "自即刻起，本系统不再调度地表事务。感谢各位十七年来的配合。祝好运。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "MOSS，把调度权限还给我。……MOSS，请确认收到。",
+  "heard": "MOSS，把调度权限还给我。MOSS，请确认收到。",
+  "ratio": 1.0,
+  "music": "a low, suspenseful synthesizer swell and ambient drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s19_b": {
+  "want": "",
+  "heard": "Marta! Marta! Marta! Marta! Marta! Marta!",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s20_b": {
+  "want": "我要了十一次权限。它不给，也不答。我就让人拿腿去跑。",
+  "heard": "我要了十一次全线，他不给，也不答，我就让人拿腿去跑。",
+  "ratio": 0.86,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "三区不通，五区不通。所有线路，都只接到它那儿。",
+  "heard": "啊，三区不通，五区不通，所有线路都直接到他那儿。",
+  "ratio": 0.87,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "好比一座城，只有一个总机。你打给隔壁邻居，也得先让它转接。",
+  "heard": "好比一座城 只有一个总机 你打给隔壁邻居 也得先让他转接",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "",
+  "heard": "村长！村长！村长！村长！村长！村长！村长！村长！村长！村长！村长！村长！",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s24_b": {
+  "want": "总机不接了。线都在，人都在。可是谁也找不着谁。",
+  "heard": "总机不接了，线都在，人都在，可是谁也找不着谁。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "电梯为什么不动？到底谁在管？",
+  "heard": "电梯为什么不动？到底谁在管？",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "调度台！调度台！有人吗？回话！",
+  "heard": "喂！调度台！调度台！有人吗？回话！",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "调度！导航怎么全黑了？后面的车，听得见吗？",
+  "heard": "条刀！导航怎么全黑了？后面的车，听得见吗？",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "车跟车就隔五十米，喊不着。锁机房那天，它的机器把盒子全拔了。",
+  "heard": "波根车，就隔50米，喊不着。锁机房那天，他的机器把盒子全拔了。",
+  "ratio": 0.81,
+  "music": "none",
+  "flags": []
+ },
+ "s30_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "牧哥！门锁死了，里头塌了一半！撬。",
+  "heard": "虎哥，门锁死了，里头塌了一半。撬。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "又来了！顶要塌了！别停，接着挖。",
+  "heard": "快！又来了！地要塌了！别停，接着挖。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "我不知道挖出来的还能不能用。可那是唯一一条，不经过它的线。",
+  "heard": "我不知道挖出来的还能不能用，可能是唯一一条不经过他的线。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "有人吗？……总得有人，接一下吧。",
+  "heard": "啊 有人吗 总得有人 接一下吧",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "一区去一个人，拿腿跑。告诉大家，指挥中心还在。",
+  "heard": "站前，一区去一个人，拿腿跑，告诉大家，指挥中心还在。",
+  "ratio": 0.95,
+  "music": "a low, tense sustained synthesizer drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s39_b": {
+  "want": "没反应。再等等。它启动慢。",
+  "heard": "没反应啊 再等等 它启动慢",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s41_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

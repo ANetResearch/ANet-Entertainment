@@ -1,0 +1,23 @@
+# ep08 s12_b  duration=8s  seed=1341108609
+# input images: ['episodes/ep08/storyboard/s12.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close telephoto detail of the engine's base structure: house-sized slabs of ice and rock breaking loose from the steel flank and falling past gantries and pipework, a cloud of ice dust. Blocking lock: the steel engine flank fills frame left and background, falling ice and rock slabs drop through centre, and the gantry and pipework sit at frame right and foreground.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At the base of a colossal engine, house-sized slabs of ice and rock break away from the steel flank and crash down through a gantry, throwing up a cloud of ice dust; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro-style telephoto close-up, tilting down to follow the falling debris with a slight tremor; pacing: natural speed, a single continuous take with no cut. Blocking lock: the steel engine flank fills frame left and background, falling ice and rock slabs drop through centre, and the gantry and pipework sit at frame right and foreground. Start: Large slabs of ice and rock crack loose from the steel flank and begin to slide away from the engine wall. Middle: The slabs fall past the pipework and crash into a section of gantry, smashing through it and bending the metal. End: A thick cloud of ice dust billows up, partly hiding the broken gantry and the wreckage still tumbling below. Mood: violent, ominous, overwhelming. Blur: Very shallow telephoto depth of field; the engine wall and distant pipework soften, while the falling slabs stay sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+explosive cracking of fracturing ice, deafening crash of metal being bent and crushed, rumbling of falling rock; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
