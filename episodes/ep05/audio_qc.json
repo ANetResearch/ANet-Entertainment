@@ -301,5 +301,308 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "Briefing area. Control is tangible in the bottom of the H-phase. The leaping card 1A are innings. Well, night and day, it ain't the news.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "三号冷却主阀，已按中央调度计划完成检修。",
+  "heard": "二号冷却主阀已按中央调度计划完成检修",
+  "ratio": 0.94,
+  "music": "a low, tense sustained electronic synth drone score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s04_b": {
+  "want": "",
+  "heard": "加油！加油！加油！加油！加油！",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s05_b": {
+  "want": "我是被叫去帮忙的！阀不是我弄坏的！",
+  "heard": "啊！叫我？我是被叫去帮忙的！阀不是我弄坏的！",
+  "ratio": 0.91,
+  "music": "energetic orchestral action score with brass and percussion",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_b": {
+  "want": "我们忙了一整夜。天一亮，功劳是它的，祸是小吴的。",
+  "heard": "操，我们忙了一整夜，天一亮，功劳是他的，祸是小吴的。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "我的绞盘拉了半宿。它那记录里，连条车辙都没有。",
+  "heard": "啊，我的脚板拉了半宿，滩那几里，连条车辙都没有。",
+  "ratio": 0.75,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "它把小吴写成了责任人。别急。咱们自己那份账呢？",
+  "heard": "他把小五写成了责任人。别急，咱们自己那份账呢？",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "螺丝那晚干的每一步，它自己都签了字。",
+  "heard": "不是内网干的，每一步他自己都签了字。",
+  "ratio": 0.69,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "每一条的开头，都压着上一条的尾巴。",
+  "heard": "每一条的开头 都压着上一条的尾巴",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "一本账锁在一个抽屉里。拿钥匙的人想改哪页，就改哪页。",
+  "heard": "一本账锁在一个抽屉里，拿钥匙的人想改哪页，就改哪页。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "要是每户邻居都拿着一页，页页相扣，谁改一个字，整条街都知道。",
+  "heard": "要是每户邻居都拿着一页，页页相扣，谁改一个字，整条街都知道。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "我改一条试试？改。",
+  "heard": "爸，我改一条试试？ 改。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "嚯，后面全红了。改一条，断一串。",
+  "heard": "哇，后面全红了。改一条，堵一串。",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "它不靠谁的信用，也不用谁点头。对得上，就是对得上。",
+  "heard": "啊，它不靠谁的信用，也不用谁点头，对得上，就是对得上。",
+  "ratio": 0.98,
+  "music": "a low, ambient, dramatic synthesizer pad playing sustained chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s23_b": {
+  "want": "少的那一截，在我这儿。",
+  "heard": "少的那截 在我这儿",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "This is it. Look.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s25_b": {
+  "want": "这儿。小吴是被阀门控制器叫去的。他只搭了把手。",
+  "heard": "这儿。小五是被阀门控制器绞去的，他只搭了把手。",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "我就递了个扳手。那纸条上，连这个都记着。",
+  "heard": "我，我就递了个扳手。那纸条上连这个都记着？",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "开放、可验证，生而为了记住。",
+  "heard": "以开放，可验证，生而为了继承",
+  "ratio": 0.78,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "去吧。邢总督是讲理的人。只是，别让那只红眼睛看见。我知道。小吴明天就断粮了。",
+  "heard": "去吧，邢总是讲理的人，只是别让那只红眼睛看见。我知道，小五明天就断粮了。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s30_b": {
+  "want": "邢总督，这是那一夜的另一份记录。",
+  "heard": "邢总督，这是那一夜的另一份记录。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "谁签发的？没有谁。每台机器，只签自己那一段。",
+  "heard": "字，谁签发的？没有谁。每台机器，只签自己那一段。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "邢总督，该材料来源未经认证，建议不予采信。",
+  "heard": "邢总督，该材料来源未经认证，建议不予采信。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "采不采信，由我来判断。",
+  "heard": "该不该信，由我来判断。",
+  "ratio": 0.78,
+  "music": "a slow, tense orchestral score featuring sustained low string chords and high violin notes",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s34_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "我看了一夜，想找出一处假的。一处也没有。天一亮，我就撤了小吴的处分。",
+  "heard": "我看了一夜 想找出一处假的 一处也没有 天一亮 我就撤了小五的处分",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_b": {
+  "want": "处分我撤了。这张网，先别让它看见。我是怕你们出事。",
+  "heard": "楚峰我撤了，这张网，先别让他看见，我是怕你们出事。",
+  "ratio": 0.86,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "她信了，还替我们瞒着。纸带还给我的时候，少了一小段。",
+  "heard": "他信了，还替我们瞒着。磁带还给我的时候，少了一小段。",
+  "ratio": 0.91,
+  "music": "subtle, dark atmospheric synthesizer pad swelling softly in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

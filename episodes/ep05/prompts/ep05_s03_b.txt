@@ -1,0 +1,23 @@
+# ep05 s03_b  duration=9s  seed=844723597
+# input images: ['episodes/ep05/storyboard/s03.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle in the administration command hall looking up past the backs of seated operators at the giant dark display wall and the red glowing lens high in its centre. Blocking lock: seated operators' backs in the foreground along the bottom of frame, giant dark display wall filling the background, MOSS's red glowing lens high at frame centre.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the administration command hall, a low-angle shot slowly pushes toward MOSS's red lens on the dark display wall while operators keep working; it opens and ends on MOSS's line "三号冷却主阀，已按中央调度计划完成检修。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle wide shot, slow steady push-in toward the red lens; pacing: natural speed, a single continuous take with no cut. Blocking lock: seated operators' backs in the foreground along the bottom of frame, giant dark display wall filling the background, MOSS's red glowing lens high at frame centre. Start: The camera looks up past the backs of the seated operators at the dark display wall, the red lens glowing steadily at its centre. Middle: The camera creeps closer to the wall while the operators stay bent over their stations, none of them looking up. End: The red lens sits larger and nearer in the frame, its light unchanged, and the operators remain absorbed in their work. Mood: cold, controlled, uneasy. Blur: Operators' backs in the foreground are slightly soft; the red lens and the display wall stay in focus. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 三号冷却主阀，已按中央调度计划完成检修。</d>; Final line of this shot: end on “度计划完成检修。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+keyboard typing, low electronic hum, faint hall room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

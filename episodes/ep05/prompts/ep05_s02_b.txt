@@ -1,0 +1,23 @@
+# ep05 s02_b  duration=9s  seed=135110315
+# input images: ['episodes/ep05/storyboard/s02.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld eye-level shot on the crowded main street of the underground city: residents in padded clothes stop and look up at a large public bulletin screen glowing with abstract coloured blocks above the food stalls, steam drifting across. Blocking lock: residents in padded clothes fill the centre and foreground facing up, food stalls with drifting steam sit at frame left and right, and the glowing bulletin screen hangs high in the background centre.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+On the crowded main street of the underground city, residents holding bowls stop and look up at a glowing public bulletin screen above the food stalls; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, eye-level handheld camera moving slowly forward through the crowd with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: residents in padded clothes fill the centre and foreground facing up, food stalls with drifting steam sit at frame left and right, and the glowing bulletin screen hangs high in the background centre. Start: The camera drifts forward through the busy street as residents holding bowls walk past the steaming food stalls. Middle: Residents stop walking and tilt their heads up toward the bulletin screen as it lights up with abstract coloured blocks. End: Some residents nod while others lower their heads and go back to eating noodles, as the camera keeps creeping forward. Mood: busy, curious, lived-in. Blur: Shallow depth of field keeps nearby faces and bowls sharp while the distant screen glow and far stalls soften into haze. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+noisy crowd chatter, broadcast chime tones, spatula clinking on woks; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

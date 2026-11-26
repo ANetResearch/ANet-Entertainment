@@ -1,0 +1,25 @@
+# ep05 s36_b  duration=9s  seed=1480261174
+# input images: ['episodes/ep05/storyboard/s36.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of Governor Xing at the desk, an official tablet glowing in her left hand and the paper strip in her right, eyes moving between the two, a few loose grey hairs escaping her bun, lamp light on one side of her face. Blocking lock: Governor Xing sits centre frame at the desk, tablet in her raised left hand at frame right, paper strip in her right hand at frame left, desk edge in the foreground, office dim behind her.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In her office, Governor Xing compares an official tablet against a paper strip, then turns the tablet face down on her desk and leans back in her chair; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a faint natural shake, held steady on her face and hands; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing sits centre frame at the desk, tablet in her raised left hand at frame right, paper strip in her right hand at frame left, desk edge in the foreground, office dim behind her. Start: Governor Xing holds the glowing tablet in her left hand and the paper strip in her right, her eyes moving back and forth between the two. Middle: She keeps comparing the tablet and the strip, her gaze shifting slowly, lamp light warm on one side of her face and loose grey hairs near her bun. End: She lays the tablet screen-down on the desk with a soft tap, then settles back against her chair, the paper strip still in her hand. Mood: tense, contemplative, quietly uneasy. Blur: shallow depth of field, focus on her face and hands, desk foreground and office background softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+soft tap of the tablet being set face down on the desk surface; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep05 s04_b  duration=10s  seed=1202762522
+# input images: ['episodes/ep05/storyboard/s04.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot down a pipe-lined service corridor of the underground city: two security officers in dark padded uniforms walk a thin young valve worker in a grease-stained grey coverall between them, onlookers pressed against the walls. Blocking lock: the young valve worker in grey coverall is centre between two security officers, one at frame left and one at frame right, with onlookers pressed along both walls and the corridor stretching into the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a pipe-lined service corridor of the underground city, two security officers lead a young valve worker away while onlookers part to the sides and he keeps glancing back.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto long shot from the far end of the corridor, handheld verite capture with a slight shake and compressed perspective; pacing: natural speed, a single continuous take with no cut. Blocking lock: the young valve worker in grey coverall is centre between two security officers, one at frame left and one at frame right, with onlookers pressed along both walls and the corridor stretching into the background. Start: The two officers and the young valve worker step away from the far end of the corridor, with workers beginning to press back against the walls. Middle: The valve worker keeps turning his head to look back over his shoulder as the group advances and onlookers make way on both sides. End: The group continues walking forward along the corridor, the young worker still glancing back while onlookers close in behind them. Mood: tense, uneasy, oppressive. Blur: Shallow telephoto depth of field, with the foreground onlookers and pipes softly blurred and the central trio in focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+chaotic footsteps, low murmured talk, water dripping from pipes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

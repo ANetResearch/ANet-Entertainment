@@ -1,0 +1,27 @@
+# ep05 s15_b  duration=9s  seed=583216929
+# input images: ['episodes/ep05/storyboard/s15.png', 'refs/characters/boye.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of old Boye, taped black glasses pushed up on his forehead, bending low over the line of paper strips on the table, the hanging lamp lighting his grey stubble, one finger on a join. Blocking lock: Boye fills the centre of frame in close-up, head bowed low; the paper strips run across the table in the foreground; the hanging lamp is above him; the node rack is out of focus in the background.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the receipt paper strip from a field printer from <Picture 3>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a workshop lit by a hanging lamp, old Boye leans over a line of paper strips and traces their joins with one finger, delivering a single line: "每一条的开头，都压着上一条的尾巴。" It is both the opening and closing line.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight organic shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye fills the centre of frame in close-up, head bowed low; the paper strips run across the table in the foreground; the hanging lamp is above him; the node rack is out of focus in the background. Start: Boye pushes his taped black glasses up onto his forehead and leans in close to the seam of the paper strips. Middle: His finger rests on a join and slides along the strip, shifting back one segment at a time. End: His finger stops on a join further along the strip, his head still bent low over the table. Mood: focused, quiet, contemplative. Blur: Shallow depth of field; the face and fingertip are sharp, while the background and node rack fall soft. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 每一条的开头，都压着上一条的尾巴。</d>; Final line of this shot: end on “着上一条的尾巴。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+node rack fan hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
