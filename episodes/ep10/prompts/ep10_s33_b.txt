@@ -1,0 +1,25 @@
+# ep10 s33_b  duration=9s  seed=1939346987
+# input images: ['episodes/ep10/storyboard/s33.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Xiaoman lying flat on his stomach at the shaft rim, head and shoulders over the edge, shouting down into the dark gap, flashlight beam swallowed by ice dust. Blocking lock: Xiaoman is in the foreground centre, lying on his stomach at the shaft rim with head and shoulders over the edge; the dark gap of the shaft fills the centre and lower frame, with ice dust drifting in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Xiaoman lies flat at the rim of a dark shaft and shouts down into the gap, opening with "螺丝！撑住！" and ending on "再撑两分钟就行！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld camera held close to the ground with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman is in the foreground centre, lying on his stomach at the shaft rim with head and shoulders over the edge; the dark gap of the shaft fills the centre and lower frame, with ice dust drifting in the background. Start: Xiaoman lies flat on his stomach at the shaft rim, his head and shoulders already hanging over the edge, flashlight beam pointing down into the dark. Middle: He pushes his upper body further over the edge into the black gap, one arm braced on the rim, mouth open toward the depths as his flashlight beam is swallowed by ice dust. End: He holds his position at the edge, head down in the shaft, body tense and still while his voice echoes down below him. Mood: urgent, desperate, tense. Blur: shallow depth of field, Xiaoman sharp in the foreground while the deep shaft and drifting ice dust fall into dark blur Xiaoman (young male voice, quick and light) says, <d>[Chinese] 螺丝！撑住！再撑两分钟就行！</d>; Final line of this shot: end on “再撑两分钟就行！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+echoes inside the shaft, howling wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -337,5 +337,330 @@
   "flags": [
    "music?"
   ]
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "四十公里，平时两个钟头。那天地图全废了，冰自己在走。",
+  "heard": "40公里，平时两个钟头。那天地图全废了。冰，自己在走。",
+  "ratio": 0.91,
+  "music": "subtle, low atmospheric synth drone and deep swelling bass notes",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s05_b": {
+  "want": "前面三公里有裂缝！一根气象桩报的！气象桩？谁家的？",
+  "heard": "报 前面山谷里有裂缝 一根气象桩倒了 气象桩 谁家的",
+  "ratio": 0.79,
+  "music": "low tense synthesizer drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_b": {
+  "want": "不认识。可它签了名，验得过。左转。信它。",
+  "heard": "不认识。可他签了名，验得过。左转，信他。",
+  "ratio": 0.87,
+  "music": "Subtle pulsating electronic tension beat",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s07_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "到今天，我也不知道那根桩子是谁装的。可它报的信，签着它的名。",
+  "heard": "呀，到今天，我也不知道那根桩子是谁装的，可她报的信，签着她的名。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "又来三条：一座塌桥，一片暗冰，还有一段能走的老路。",
+  "heard": "啊，又来三条，一座塌桥，一片暗冰，还有一段能走的老路。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "饱和，就是不指望哪一个。一百队去，九十九队到不了，也得去。",
+  "heard": "饱和就是不指望哪一个，100队去，99队到不了，也得去。",
+  "ratio": 0.79,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "七号车！七号车回话！老秦！回话！",
+  "heard": "喂，七号车！七号车回话！老秦！回话！",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "老秦跟了我十一年。我没停车。停了，他就白死了。",
+  "heard": "宝庆跟我了十一年，我没停车。停了，他就白死了。",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "腿卡住了！别管我，先拿火石！两个都带走。",
+  "heard": "啊！腿卡住了！别管我！先拿火石！两个都带走。",
+  "ratio": 0.97,
+  "music": "tense cinematic orchestral score with low brass, strings, and suspenseful percussion",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s17_b": {
+  "want": "小子，车队交给你那些盒子了。它们认路。",
+  "heard": "爸 小子 车队交给那些猴子了 他们认路",
+  "ratio": 0.81,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "链路断了！中继井塌了，城里听不见我们了！",
+  "heard": "啊！链路断了，中继井塌了，城里听不见我们了！",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "车队呢？中继井没了。地表的点，全丢了。",
+  "heard": "塔。车队呢？中继静默了。地表的点，全丢了。",
+  "ratio": 0.84,
+  "music": "a low, tense atmospheric orchestral score with subtle sustained strings swelling gently",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s22_b": {
+  "want": "点火得上下一起数。闸门在城里开，火石在上头插。中间断了，白搭。",
+  "heard": "点火得上下一起数。闸门在城里开，火石在上头插。中间断了，白搭。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "dark ambient suspense drone with eerie, high-pitched metallic dissonance",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "不行。下面零下一百多度，你的电池撑不住的。",
+  "heard": "走吧，不行。下面零下一百多度，你的电池撑不住的。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "通了……它把自己当成了那根线。",
+  "heard": "疯了。他把自己当成了那根线。",
+  "ratio": 0.83,
+  "music": "subtle, low-frequency suspenseful drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s30_b": {
+  "want": "阿牧，听得见了！闸门给你开，只有四分钟。",
+  "heard": "啊，你这混账，再熬两天……阿木！听得见了！闸门给你开，只有四分钟！",
+  "ratio": 0.73,
+  "music": "none",
+  "flags": [
+   "extra_speech"
+  ]
+ },
+ "s31_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "螺丝！撑住！再撑两分钟就行！",
+  "heard": "啊！罗丝！撑住！再撑两分钟就行！",
+  "ratio": 0.87,
+  "music": "tense cinematic orchestral score with swelling strings and brass",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s34_b": {
+  "want": "火石到位！城里，数！",
+  "heard": "哎！伙食到位！成林，书！",
+  "ratio": 0.27,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s35_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "",
+  "heard": "Wszystko w porządku?",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s38_b": {
+  "want": "它是我焊的。我都没教过它这个。它……连个招呼都没打。",
+  "heard": "是他焊的。我都沒教過他這個。他……連個招呼都沒打。",
+  "ratio": 0.49,
+  "music": "subtle low synth pad drone",
+  "flags": [
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s39_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "那天帮过我们的节点，有四千多个。每一个都署了名。包括它。",
+  "heard": "那天帮过我们的节点，有四千多个，每一个都署了名，包括她。",
+  "ratio": 0.96,
+  "music": "a soft, somber synthesizer pad and slow string chords playing in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_b": {
+  "want": "周研究员，发动机回来了。可光靠推，推不动。木星还在拽。",
+  "heard": "周研究员，发动机回来了，可光靠推，推不动，木星还在拽。",
+  "ratio": 1.0,
+  "music": "a low, tense and dramatic orchestral/synth drone with sustained brass and strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s42_b": {
+  "want": "我听到了。远处有人提议，点燃木星。要去点的，是我这一台。",
+  "heard": "我听到了 远处有人提议 点燃木星 要去点的 是我这一台",
+  "ratio": 1.0,
+  "music": "a gentle, dramatic orchestral score with soft strings and electronic pads",
+  "flags": [
+   "music?"
+  ]
  }
 }

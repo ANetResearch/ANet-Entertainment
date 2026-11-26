@@ -1,0 +1,23 @@
+# ep10 s42_b  duration=12s  seed=129864223
+# input images: ['episodes/ep10/storyboard/s42.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the ring-shaped Sulawesi control room: Researcher Zhou, a Chinese woman with a low ponytail and thin wire glasses, white uniform with blue stripes, pen behind her ear, stands at the huge observation window with a radio handset, the tilted steering-engine beam over the frozen sea and Jupiter looming beyond it. Blocking lock: Researcher Zhou stands centre-frame in the foreground, her back partly to the room, facing the huge observation window; the tilted steering-engine beam and Jupiter fill the background beyond the glass.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+In the ring-shaped Sulawesi control room, Researcher Zhou stands at the observation window with a radio handset and answers calmly, opening and ending on the line "我听到了。远处有人提议,点燃木星。要去点的,是我这一台。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, fixed camera with a slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: Researcher Zhou stands centre-frame in the foreground, her back partly to the room, facing the huge observation window; the tilted steering-engine beam and Jupiter fill the background beyond the glass. Start: Zhou stands still at the observation window, holding the radio handset near her chin, her gaze fixed on the beam and Jupiter outside. Middle: She pauses in silence, her shoulders steady and her eyes unmoving, as the camera creeps slowly closer. End: She lifts the handset slightly toward her mouth and holds her calm posture, ready to reply, with Jupiter looming behind her. Mood: solemn, restrained, tense. Blur: Zhou is sharp in the foreground, while the window, the tilted beam and Jupiter beyond soften slightly. Researcher Zhou (female voice, calm) says, <d>[Chinese] 我听到了。远处有人提议，点燃木星。要去点的，是我这一台。</d>; Final line of this shot: end on “的，是我这一台。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low hum of the control room, radio static hiss; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep10 s13_b  duration=8s  seed=2117589515
+# input images: ['episodes/ep10/storyboard/s13.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot through the windshield from outside: Boss Jin staring straight ahead with wet eyes, hands on the wheel, Amu beside him looking at him, snow streaking across the glass. Blocking lock: seen through the windshield from outside, Boss Jin sits at the wheel on the driver's side of frame, Amu sits beside him in the passenger seat, snow streaks across the glass in the foreground.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+Inside a convoy truck cab in a snowstorm, Boss Jin slowly hangs up the radio handset and keeps staring ahead with wet eyes while Amu glances at him in silence; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot through the windshield, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: seen through the windshield from outside, Boss Jin sits at the wheel on the driver's side of frame, Amu sits beside him in the passenger seat, snow streaks across the glass in the foreground. Start: Boss Jin holds the radio handset near his mouth, hands tight on the wheel, eyes wet and fixed on the road ahead. Middle: He slowly hangs the handset back on its hook, keeping his foot steady on the accelerator and his gaze straight ahead. End: Amu turns his head and looks at him for a moment, then stays quiet while Jin keeps staring forward. Mood: somber, tense, restrained. Blur: Falling snow and streaks on the glass are soft in the foreground, while the two faces behind stay moderately sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+howling wind and snow, radio white noise; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

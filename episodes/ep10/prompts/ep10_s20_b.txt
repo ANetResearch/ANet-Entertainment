@@ -1,0 +1,25 @@
+# ep10 s20_b  duration=9s  seed=1212595475
+# input images: ['episodes/ep10/storyboard/s20.png', 'refs/characters/xiaoman.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Xiaoman's face lit by the small screen in the truck cabin, eyes wide, the reflection of the dots in his eyes going dark, headphones pressed to one ear. Blocking lock: Xiaoman's face fills the centre of frame in the truck cabin, the small glowing screen at lower frame left, headphones at his ear on frame right, the cabin dark in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+Inside the truck cabin, Xiaoman watches the dots on his small screen vanish, listens to his headphones, then tears them off and shouts forward; the clip opens and ends on his line "链路断了！中继井塌了，城里听不见我们了！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight shake, staying tight on Xiaoman's face; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's face fills the centre of frame in the truck cabin, the small glowing screen at lower frame left, headphones at his ear on frame right, the cabin dark in the background. Start: Xiaoman stares at the small screen as the dots on it disappear in patches, leaving only the convoy's own few points, his eyes wide. Middle: He presses the headphones against his ear with one hand and listens, his face tightening. End: He yanks the headphones off with a sudden jerk and turns his head to shout toward the front of the cabin. Mood: tense, urgent, alarmed. Blur: Shallow depth of field; the cabin interior and the front seats fall into dark blur behind his face. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 链路断了！中继井塌了，城里听不见我们了！</d>; Final line of this shot: end on “里听不见我们了！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+a single dropped-link tone from the terminal, white noise hissing in the headphones; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

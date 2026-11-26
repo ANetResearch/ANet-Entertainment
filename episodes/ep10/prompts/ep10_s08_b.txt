@@ -1,0 +1,23 @@
+# ep10 s08_b  duration=12s  seed=145587184
+# input images: ['episodes/ep10/storyboard/s08.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: Amu, short messy black hair, scar on his left eyebrow, worn orange-grey coverall with tool pouch, in the dim interview room, looking at the interviewer off camera. Blocking lock: Amu sits at frame centre, facing slightly off camera toward the unseen interviewer, with the dim interview room softly visible behind him and no other figures in frame.
+<Subject 2> is the oral-history interview room from <Picture 2>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Amu pauses to think, then raises one finger and gives a small nod, opening with "到今天，我也不知道那根桩子是谁装的。" and ending on "可它报的信，签着它的名。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre, facing slightly off camera toward the unseen interviewer, with the dim interview room softly visible behind him and no other figures in frame. Start: Amu sits still in the dim room, eyes on the interviewer off camera, thinking for a moment. Middle: He raises one finger and holds it upright in front of his face, like a post standing upright. End: He lowers his gaze slightly and gives a gentle nod, his finger still raised or just easing down. Mood: reflective, quiet, solemn. Blur: Shallow depth of field; the background of the interview room falls softly out of focus while his face stays sharp. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 到今天，我也不知道那根桩子是谁装的。可它报的信，签着它的名。</d>; Final line of this shot: end on “信，签着它的名。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

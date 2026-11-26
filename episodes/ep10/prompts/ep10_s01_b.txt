@@ -1,0 +1,25 @@
+# ep10 s01_b  duration=9s  seed=1188883011
+# input images: ['episodes/ep10/storyboard/s01.png', 'refs/locations/loc_jupiter.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide aerial-height shot: a thin line of heavy trucks with headlights crossing a fractured dark-orange ice plain, Jupiter and the Great Red Spot filling the sky, ice-encased ruins on both sides. Blocking lock: the thin line of trucks with headlights sits at centre of the ice plain in the lower frame, ice-encased ruins stand at frame left and right, and Jupiter with the Great Red Spot fills the upper background.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+A convoy of heavy trucks crawls across a cracked dark-orange ice plain beneath a giant Jupiter, among ice-encased ruins; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, high-angle locked-off camera, no movement; pacing: natural speed, a single continuous take with no cut. Blocking lock: the thin line of trucks with headlights sits at centre of the ice plain in the lower frame, ice-encased ruins stand at frame left and right, and Jupiter with the Great Red Spot fills the upper background. Start: The convoy of trucks, lit by small headlights, moves slowly along the fractured ice plain under the looming Jupiter. Middle: The trucks keep crawling forward like a string of tiny lights while the planet presses down overhead. End: In the distant ruins, chunks of ice break away and fall silently, while the convoy continues onward. Mood: vast, desolate, ominous. Blur: deep focus, everything sharp from the foreground ice to the distant ruins and planet, with only faint atmospheric haze at distance No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind, distant engine drone, groaning ice sheets; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep10 s06_b  duration=9s  seed=560327111
+# input images: ['episodes/ep10/storyboard/s06.png', 'refs/characters/xiaoman.png', 'refs/characters/jin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Tight three-way shot in the cab: Xiaoman leaning forward between the seats holding up the small screen, Amu glancing at it, Boss Jin's scarred profile in the foreground. Blocking lock: Boss Jin's scarred profile in the foreground, Amu at centre-left in the passenger seat, Xiaoman leaning forward between the seats at centre-right holding up the small screen.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+
+summary:
+Inside the speeding cab, Xiaoman pushes between the front seats to show a small screen, Amu points left, and Boss Jin wrenches the wheel; the clip opens with "不认识。可它签了名，验得过。" and ends on "左转。信它。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up three-way shot, handheld with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin's scarred profile in the foreground, Amu at centre-left in the passenger seat, Xiaoman leaning forward between the seats at centre-right holding up the small screen. Start: Xiaoman squeezes forward between the front seats and holds the small screen up toward Amu and Boss Jin. Middle: Amu glances at the screen, then raises his hand and points to the left. End: Boss Jin grits his teeth and hauls the steering wheel hard over, tilting the cab as it turns. Mood: tense, urgent, claustrophobic. Blur: Shallow depth of field; the icy windshield view beyond the cab is soft, and Boss Jin's foreground profile is slightly soft. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 不认识。可它签了名，验得过。</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 左转。信它。</d>; Final line of this shot: end on “左转。信它。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+shrill tires grinding over ice, creaking of the vehicle body as it leans into the turn; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

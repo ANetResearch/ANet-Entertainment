@@ -1,0 +1,25 @@
+# ep10 s03_b  duration=8s  seed=1891904621
+# input images: ['episodes/ep10/storyboard/s03.png', 'refs/characters/xiaoman.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the cramped rear cabin of the truck: Xiaoman in a bulky parka, headphones on, hunched over a small dotted screen wired to a node box, the yellow tracked robot wedged beside his knees with its smiley screen glowing. Blocking lock: Xiaoman sits centre-frame hunched over the small dotted screen and node box, Luosi is wedged at lower frame right beside his knees, and the cramped cabin walls fill the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 3>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+In the cramped rear cabin of a moving truck, Xiaoman watches a small screen wired to a node box as more dots appear, with Luosi wedged beside his knees; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a slight shake that follows the truck's motion; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits centre-frame hunched over the small dotted screen and node box, Luosi is wedged at lower frame right beside his knees, and the cramped cabin walls fill the background. Start: Xiaoman, headphones on, stares at the small screen wired to the node box while a few dots glow on it. Middle: More dots keep appearing on the screen as the truck sways and Luosi's smiley face stays turned toward him. End: Xiaoman remains hunched and fixed on the growing cluster of dots while Luosi rocks gently against his knees, its smile still facing him. Mood: tense, intimate, focused. Blur: shallow depth of field, cabin walls and equipment in the background softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+truck cabin vibration and rumble, node box alert beeps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

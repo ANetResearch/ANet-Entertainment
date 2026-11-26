@@ -1,0 +1,25 @@
+# ep10 s39_b  duration=10s  seed=1608950166
+# input images: ['episodes/ep10/storyboard/s39.png', 'refs/props/prop_receipt.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro shot in the truck cabin lit blue from outside: a small thermal printer wired to a node box feeding out a long strip of paper with rows of barcode-like check patterns, the newest segment ending in a small red stamp. Blocking lock: the small thermal printer and node box are at frame centre in the foreground, the paper strip hangs down toward the floor at lower frame, and the blue-lit cabin interior sits soft in the background.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+Inside a truck cabin lit blue from outside, a small thermal printer starts up by itself and feeds out a long receipt strip that ends in a red stamp, then stops. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro shot, locked-off camera with a very slight settle, framing the printer slot and the falling paper strip; pacing: natural speed, a single continuous take with no cut. Blocking lock: the small thermal printer and node box are at frame centre in the foreground, the paper strip hangs down toward the floor at lower frame, and the blue-lit cabin interior sits soft in the background. Start: The small thermal printer, wired to the node box, begins running by itself, and the first section of paper starts to feed out of the slot. Middle: The long receipt strip emerges section by section, showing rows of barcode-like check patterns, and hangs lower toward the cabin floor. End: A small red stamp lands at the end of the newest segment, and the printer stops with the strip hanging still. Mood: eerie, quiet, tense. Blur: Very shallow depth of field; the printer slot and paper patterns are sharp, while the cabin interior and blue light behind are heavily blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+thermal printer buzzing and squeaking, paper feeding, then quiet cabin silence; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep10 s12_b  duration=9s  seed=367125215
+# input images: ['episodes/ep10/storyboard/s12.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Boss Jin in the driver's seat gripping the radio handset against his mouth, eyes on the side mirror, jaw clenched, orange light on his scarred cheek. Blocking lock: Boss Jin fills frame centre in the driver's seat, handset raised at his mouth, side mirror at frame edge behind him, steering wheel in the lower foreground, orange light on his scarred cheek.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside the cab of his convoy truck, Boss Jin shouts into the radio handset and gets only static in reply, opening with "七号车！七号车回话！" and ending on "老秦！回话！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin fills frame centre in the driver's seat, handset raised at his mouth, side mirror at frame edge behind him, steering wheel in the lower foreground, orange light on his scarred cheek. Start: Boss Jin grips the wheel with one hand and holds the radio handset against his mouth, eyes fixed on the side mirror, jaw clenched. Middle: He leans slightly toward the handset and shouts into it, his eyes flicking back to the mirror while only static answers. End: He lowers the handset a little, tightens his grip, and keeps staring at the mirror, jaw still clenched. Mood: tense, anxious, urgent. Blur: shallow depth of field, Boss Jin's face and handset sharp, cab interior and mirror reflection softly blurred Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 七号车！七号车回话！老秦！回话！</d>; Final line of this shot: end on “话！老秦！回话！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio white noise, engine hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

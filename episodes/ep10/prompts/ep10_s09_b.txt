@@ -1,0 +1,25 @@
+# ep10 s09_b  duration=10s  seed=68886470
+# input images: ['episodes/ep10/storyboard/s09.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the command hall: old Boye and Governor Xing at the central table under the wall of dots, a line of convoy dots creeping across it, an operator handing over a fistful of fresh receipt strips, the grey compute chassis with its blue three-bladed swirl badge blinking beside the table. Blocking lock: Boye at centre-left and Governor Xing at centre-right at the central table, the wall of convoy dots in the background, the operator entering from frame left, the grey compute chassis at frame right beside the table.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, Boye reads out fresh receipt strips while Governor Xing marks the map as the convoy dots creep along the wall; the clip opens and ends on Boye's line "又来三条：一座塌桥，一片暗冰，还有一段能走的老路。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye at centre-left and Governor Xing at centre-right at the central table, the wall of convoy dots in the background, the operator entering from frame left, the grey compute chassis at frame right beside the table. Start: The string of convoy dots creeps slowly across the wall while the operator hands Boye a fistful of freshly printed receipt strips. Middle: Boye holds the strips up and reads them one by one while new small dots light up along the route on the wall. End: Governor Xing marks the map with a marker pen as the compute chassis indicator lights keep blinking at the table edge. Mood: tense, busy, focused. Blur: Shallow focus on Boye and Xing at the table, with the wall of dots and the operator softly out of focus behind. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 又来三条：一座塌桥，一片暗冰，还有一段能走的老路。</d>; Final line of this shot: end on “一段能走的老路。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+printer chatter, compute chassis fan hum, marker pen squeaks, low murmured status reports; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep10 s07_b  duration=10s  seed=1664577927
+# input images: ['episodes/ep10/storyboard/s07.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. High wide shot: the convoy curving left across the ice, and directly ahead on its former line a huge fresh crevasse splitting the plain, ice dust rising from it, a lone slender weather mast with a blinking light standing near the edge. Blocking lock: the convoy curves through the frame from centre toward frame left, the wide crevasse opens centre and background on the convoy's former line, and a slender weather mast stands near the crevasse edge at right of centre.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+On an ice plain, a convoy curves left away from its original line as a huge fresh crevasse splits open directly ahead, with no dialogue in the clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, High wide shot, locked-off fixed camera from an elevated position.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the convoy curves through the frame from centre toward frame left, the wide crevasse opens centre and background on the convoy's former line, and a slender weather mast stands near the crevasse edge at right of centre. Start: The convoy of vehicles is already sweeping in a leftward arc across the flat ice, heading away from its straight original line. Middle: The ice directly ahead on that former line splits with a roar, and a deep crevasse tens of metres wide opens as ice dust rises from it. End: The crevasse gapes across the plain while the convoy continues its curve, and the thin weather mast at the edge still blinks its small light. Mood: tense, awe-inspiring, ominous. Blur: Deep focus throughout, with only drifting ice dust softening the crevasse area slightly. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+loud cracking and rumbling of fracturing ice, engine noise from the convoy; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
