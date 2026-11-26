@@ -1,0 +1,23 @@
+# ep01 s22_b  duration=8s  seed=223389
+# input images: ['episodes/ep01/storyboard/s22.png', 'refs/locations/loc_comms.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Degraded archival video frame from 2058: a wall of old monitors lighting up one after another in a dark server room while exhausted technicians raise their arms and embrace. Blocking lock: wall of old monitors across the background, technicians in the centre and foreground facing the screens, arms rising and bodies turning toward each other, no one at the frame edges singled out.
+<Subject 2> is the communications maintenance bay from <Picture 2>, serving as location reference. Interior of a cramped communications maintenance bay inside a planetary-engine complex: rows of old server racks with small status lights, thick bundles of cables, a steel workbench crowded with oscilloscopes and handheld diagnostic terminals whose screens show only abstract waveforms, a thermos, frost on a ventilation grille. Empty of people.
+
+summary:
+In a dark server room in 2058, a wall of old monitors lights up one after another as exhausted technicians raise their arms and embrace, shown in degraded archival footage with no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), degraded archival video from 2058 with compression artefacts and scan lines, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, archival video look with noise and colour shift, mostly static with slight tape instability; pacing: natural speed, a single continuous take with no cut. Blocking lock: wall of old monitors across the background, technicians in the centre and foreground facing the screens, arms rising and bodies turning toward each other, no one at the frame edges singled out. Start: The server room is dim, with only a few monitors glowing on the wall while tired technicians stand and stare at the screens. Middle: Rows of monitors light up one after another, and the technicians lift their arms in celebration. End: The technicians turn to one another and embrace in the glow of the lit monitor wall. Mood: triumphant, exhausted, nostalgic. Blur: Soft, noisy archival focus with the back rows of monitors slightly smeared and glowing; faces lack fine detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+distorted cheering, distorted applause, faint room hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

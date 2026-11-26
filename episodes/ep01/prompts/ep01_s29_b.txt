@@ -1,0 +1,25 @@
+# ep01 s29_b  duration=10s  seed=271368656
+# input images: ['episodes/ep01/storyboard/s29.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Three people hunched together in front of an old CRT monitor in the repair stall, faces lit green by a waveform on the screen: Amu pointing at the screen, old Boye in the middle, Xiaoman leaning over his shoulder. Blocking lock: Amu at frame left pointing at the screen, old Boye in the centre leaning toward the monitor, Xiaoman at frame right peering over his shoulder, the CRT monitor in the foreground glowing green, the repair stall in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In a cramped repair stall, Amu, old Boye and Xiaoman crowd around an old CRT monitor as Amu points out a segment of a slowly scrolling green waveform; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld from the side with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame left pointing at the screen, old Boye in the centre leaning toward the monitor, Xiaoman at frame right peering over his shoulder, the CRT monitor in the foreground glowing green, the repair stall in the background. Start: The three huddle shoulder to shoulder in front of the CRT monitor while the green waveform scrolls slowly across the screen. Middle: Amu reaches out an arm and points at one segment of the waveform on the screen. End: Boye leans in closer to examine the highlighted segment while Xiaoman cranes her head forward to look. Mood: focused, tense, intimate. Blur: shallow depth of field, the stall's shelves and clutter in the background softly out of focus, faces and screen sharp No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+high-pitched CRT whine, button clicks; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

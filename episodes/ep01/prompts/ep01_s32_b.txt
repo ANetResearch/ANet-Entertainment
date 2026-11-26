@@ -1,0 +1,23 @@
+# ep01 s32_b  duration=10s  seed=32160884
+# input images: ['episodes/ep01/storyboard/s32.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the frosted sector-seven corridor, medics in padded orange vests carry a stretcher with a blanket-covered elderly resident past rows of shivering onlookers, emergency lights. Blocking lock: stretcher and two medics in the centre moving through the corridor, blanket-wrapped residents lined along both walls at frame left and right, frosted corridor and emergency lights receding in the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a frosted sector-seven corridor, two medics in padded orange vests rush a blanket-covered elderly resident on a stretcher past silent, shivering onlookers; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld verite camera hugging the wall, panning sideways to follow the stretcher; pacing: natural speed, a single continuous take with no cut. Blocking lock: stretcher and two medics in the centre moving through the corridor, blanket-wrapped residents lined along both walls at frame left and right, frosted corridor and emergency lights receding in the background. Start: The medics enter the frame carrying the stretcher quickly along the frosted corridor while residents step aside to both walls. Middle: The stretcher passes close to the camera as the handheld frame pans sideways with it, onlookers watching silently in their blankets. End: The stretcher moves on down the corridor away from the camera, with the residents still standing pressed to the walls watching it go. Mood: urgent, somber, tense. Blur: Shallow depth of field, with the distant corridor and background onlookers softly out of focus under the flashing emergency lights. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+hurried footsteps, metallic clatter of the stretcher, someone quietly sobbing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

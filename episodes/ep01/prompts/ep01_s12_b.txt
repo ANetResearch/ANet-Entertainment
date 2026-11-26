@@ -1,0 +1,23 @@
+# ep01 s12_b  duration=10s  seed=1860931325
+# input images: ['episodes/ep01/storyboard/s12.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. A residential corridor of the underground city, sector seven: frost creeping over the steel walls and pipes, residents wrapped in blankets standing outside their cabin doors, breath fogging, dim emergency lights. Blocking lock: residents in blankets stand along both corridor walls at frame left and right outside their cabin doors, a child stands at centre-right midground, the frosted corridor recedes into the background, and the camera's path runs down the centre foreground.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In sector seven of the underground city, a handheld camera slowly walks into a frosted residential corridor where blanket-wrapped residents stamp their feet outside their cabin doors in the cold.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld forward walk with a slight natural shake, slow steady pace; pacing: natural speed, a single continuous take with no cut. Blocking lock: residents in blankets stand along both corridor walls at frame left and right outside their cabin doors, a child stands at centre-right midground, the frosted corridor recedes into the background, and the camera's path runs down the centre foreground. Start: The camera steps into the dim corridor, revealing white frost on the steel walls and pipes and residents huddled in blankets by their doors. Middle: Residents stamp their feet to keep warm as their breath clouds visibly in the dim emergency light while the camera keeps advancing. End: A child at the side of the corridor looks up and directly into the lens as the camera drifts past. Mood: bleak, cold, weary. Blur: shallow-to-moderate depth of field, distant corridor and far residents softly out of focus, with the nearest figures and frost textures sharper No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+coughing, low muttered complaints, dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

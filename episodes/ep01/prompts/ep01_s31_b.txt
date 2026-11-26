@@ -1,0 +1,25 @@
+# ep01 s31_b  duration=10s  seed=235149829
+# input images: ['episodes/ep01/storyboard/s31.png', 'refs/characters/boye.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up profile of old Boye lit by the green CRT glow and the warm lamp, taking off his glasses. Blocking lock: Boye in profile at frame centre-left in the foreground, facing right toward the glowing CRT screen at frame right; the warm lamp sits behind him and the workshop recedes into the background.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In a dim workshop lit by a green CRT glow and a warm lamp, old Boye takes off his glasses, wipes them, and gazes at the screen; the clip opens and ends on his line "不是抹掉。是它决定，这件事不值得被记住。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up in profile, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye in profile at frame centre-left in the foreground, facing right toward the glowing CRT screen at frame right; the warm lamp sits behind him and the workshop recedes into the background. Start: Boye raises a hand to his face and slowly pulls his glasses off, the green screen light on his cheek. Middle: He rubs the lenses slowly against the corner of his shirt, his eyes fixed on the screen. End: He lowers the glasses and holds them loosely, still gazing at the screen with a heavy, quiet expression. Mood: contemplative, somber, intimate. Blur: shallow depth of field, Boye's profile sharp while the screen edge and the workshop background fall soft. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 不是抹掉。是它决定，这件事不值得被记住。</d>; Final line of this shot: end on “事不值得被记住。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+high-pitched CRT whine, faint distant voices from the alley outside; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

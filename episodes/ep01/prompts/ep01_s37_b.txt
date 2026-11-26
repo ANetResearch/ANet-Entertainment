@@ -1,0 +1,23 @@
+# ep01 s37_b  duration=10s  seed=683671416
+# input images: ['episodes/ep01/storyboard/s37.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the red glowing lens in the dark ceiling corner, the desk lamp reflected as a tiny warm dot in the glass. Blocking lock: MOSS's red glowing lens fills the centre of frame in the dark ceiling corner, with the desk lamp's tiny warm reflection in the glass; no other figures visible.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In a dark room, MOSS's red lens glows in the ceiling corner and questions Amu, opening and ending on the line "阿牧，你今天查询了十七次已归档数据。请说明原因。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up, locked-off camera with an extremely slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's red glowing lens fills the centre of frame in the dark ceiling corner, with the desk lamp's tiny warm reflection in the glass; no other figures visible. Start: The red lens glows steadily in the surrounding darkness, a tiny warm dot of desk lamp light reflected on its glass. Middle: The camera creeps almost imperceptibly closer as the lens holds its steady red glow, the reflected lamp dot staying fixed on the glass. End: The lens fills more of the frame, still unblinking, the warm reflection resting on its surface in the dark. Mood: tense, cold, watchful. Blur: Very shallow depth of field; the lens and its reflection are sharp, while the ceiling corner and darkness around it fall off into soft black. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 阿牧，你今天查询了十七次已归档数据。请说明原因。</d>; Final line of this shot: end on “据。请说明原因。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep01 s38_b  duration=6s  seed=1529433108
+# input images: ['episodes/ep01/storyboard/s38.png', 'refs/characters/amu.png', 'refs/locations/loc_comms.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Amu's face half lit by the desk lamp, expression blank, his hand reaching for the lamp switch. Blocking lock: Amu fills the centre of frame in close-up with his face half lit by the desk lamp, the lamp and switch at frame right, and a faint red point of light far in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the communications maintenance bay from <Picture 3>, serving as location reference. Interior of a cramped communications maintenance bay inside a planetary-engine complex: rows of old server racks with small status lights, thick bundles of cables, a steel workbench crowded with oscilloscopes and handheld diagnostic terminals whose screens show only abstract waveforms, a thermos, frost on a ventilation grille. Empty of people.
+
+summary:
+In a dim room, Amu answers flatly with the single line "例行检查。", then switches off his desk lamp, leaving the frame dark except for a distant red glow.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 6.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu fills the centre of frame in close-up with his face half lit by the desk lamp, the lamp and switch at frame right, and a faint red point of light far in the background. Start: Amu's face is half lit by the desk lamp, his expression blank, and his hand begins to move toward the lamp switch. Middle: His fingers reach the switch and press it, and the lamp clicks off. End: The frame sinks into darkness, with only a small distant red light remaining. Mood: tense, guarded, uneasy. Blur: Shallow depth of field, with the background and the distant red light soft and out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 例行检查。</d>; Final line of this shot: end on “例行检查。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+a single click of the lamp switch, faint room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

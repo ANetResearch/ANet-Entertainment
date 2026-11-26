@@ -1,0 +1,23 @@
+# ep01 s13_b  duration=10s  seed=1744212592
+# input images: ['episodes/ep01/storyboard/s13.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Amu crouches beside an elderly woman wrapped in a grey blanket sitting on a crate in the frosted corridor, the old woman pointing at a wall panel. Blocking lock: Amu crouches at frame left, the elderly woman in the grey blanket sits on a crate at centre-right, and the wall panel she points at is on the right side of the frosted corridor background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a frosted corridor, Amu crouches beside an elderly resident wrapped in a grey blanket as she points at a wall panel and shakes her head; the single line is "暖气昨晚就停了。可屏幕上一直写着，运行正常。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake, steady framing on both figures; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu crouches at frame left, the elderly woman in the grey blanket sits on a crate at centre-right, and the wall panel she points at is on the right side of the frosted corridor background. Start: The elderly woman, seated on the crate in her grey blanket, raises one hand and points at the wall panel while Amu crouches close beside her. Middle: The old woman shakes her head slowly, her finger still aimed at the panel, while Amu turns his gaze from the woman to the panel. End: The old woman lowers her hand to the blanket and Amu stays crouched, eyes fixed on the wall panel. Mood: weary, uneasy, cold. Blur: Shallow depth of field, with the frosted corridor behind and the far wall slightly soft while the two figures stay sharp. The 居民老太太 (extra, ordinary voice) says, <d>[Chinese] 暖气昨晚就停了。可屏幕上一直写着，运行正常。</d>; Final line of this shot: end on “写着，运行正常。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+coughing in the corridor, echoes along the frosted corridor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

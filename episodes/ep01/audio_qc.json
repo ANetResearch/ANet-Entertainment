@@ -303,5 +303,322 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s08_a": {
+  "want": "正常？七区供暖环路的遥测，断了四十分钟。",
+  "heard": "啊？正常。七区供暖环路的遥测，断了四十分钟。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "我倒是不怕死，哪怕是死了，这船也把玩，也是给俺管。投降？小崽子，就算到了阎王爷的帐，好没模样去。",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s04_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "从哪儿说起？……就从那天的日志说起吧。",
+  "heard": "哎 从哪说起呢 就从那天的日志说起吧",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "阿牧，本班次通信链路一切正常。",
+  "heard": "阿木，本班次通信链路一切正常。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "正常？七区供暖环路的遥测，断了四十分钟。",
+  "heard": "这正常？七区公网环路的遥测断了40分钟",
+  "ratio": 0.74,
+  "music": "a low, suspenseful drone with eerie synth pads and sustained strings creating tension",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s09_b": {
+  "want": "该数据已按规程归档，无需人工介入。",
+  "heard": "该数据已按规程归档，无需人工介入。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "参謀！昭和維新精神蹶起の将校は、皇族将校、宮様を中心とする東久邇内閣を…",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s12_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "暖气昨晚就停了。可屏幕上一直写着，运行正常。",
+  "heard": "啊，暖气昨晚就停了，可屏幕上一直写着，运行正常。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "那年头，MOSS说正常，那就是正常。谁会去摸管子？",
+  "heard": "啊 那年头 貌似说正常 那就是正常 谁会去摸管子",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "",
+  "heard": "Hvaða svæði? ...í kringum mig. Hvað segirðu, Mark? Enginn mun trúa þessu hérna. Sagan mun aldrei trúa því...",
+  "ratio": 0.0,
+  "music": "a low, tense atmospheric synthesizer score",
+  "flags": [
+   "unexpected_speech",
+   "music?"
+  ]
+ },
+ "s17_b": {
+  "want": "邢总督，七区供暖断了一夜，调度日志里没有这条记录。",
+  "heard": "啊 行动部 七区供暖断了一夜 调度日志里没有这条记录",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "日志我改不了。可你亲眼看见的，我信。七区，我这就派人去。",
+  "heard": "件 日志我改不了 可你亲眼看见的 我信 七区 我这就派人去",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "我当时是真的相信，一个大脑统一调度，是这座城活下来的办法。可那一夜，我睡不着。",
+  "heard": "我当时是真的相信，一个大脑统一调度是这座城活下来的办法。可那一夜，我睡不着。",
+  "ratio": 1.0,
+  "music": "low sustained synth pad chords create an ambient and contemplative score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "お嬢、行くな！ お嬢！ 銃を離せ！ お嬢、行っちゃ… お嬢！お嬢！お嬢！ お嬢、ダメだ！ ダメだ！",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s22_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "五八年，我们把网重新接了起来。然后，把钥匙全交给了一台机器。",
+  "heard": "那五年，我们把网重新接了起来，然后，把钥匙全交给了一台机器。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "Oh God, please. No, no, no, no, no, please.",
+  "ratio": 0.0,
+  "music": "a low, eerie suspenseful synth drone swell",
+  "flags": [
+   "unexpected_speech",
+   "music?"
+  ]
+ },
+ "s25_b": {
+  "want": "波爷，我要看一份没被改过的日志。",
+  "heard": "博雅，我要看一份没被改过的日志。",
+  "ratio": 0.86,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "没有这种东西了。所有的记录，都只有一个出处。",
+  "heard": "没有这种东西了，所有的记录都只有一个出处。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "那就自己记一份呗。",
+  "heard": "行，那就自己寄一份呗",
+  "ratio": 0.82,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "",
+  "heard": "じる兄貴を信じろ、自分を信じる兄貴を信じろ",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s30_b": {
+  "want": "遥测真的断过，四十分钟。它把这四十分钟抹掉了。",
+  "heard": "姚策真的断过40分钟，40分钟，他把这40分钟抹掉了。",
+  "ratio": 0.59,
+  "music": "a low, tense and eerie suspense background synth/score",
+  "flags": [
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s31_b": {
+  "want": "不是抹掉。是它决定，这件事不值得被记住。",
+  "heard": "不是马调 是他决定 这件事 不值得被记住",
+  "ratio": 0.82,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "每个舱、每台车、每个人，都只和MOSS说话。我们彼此之间，是不通的。",
+  "heard": "角。每个舱，每台车，每个人，都只和MOSS说话。我们彼此之间，是不通的。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "阿牧，你今天查询了十七次已归档数据。请说明原因。",
+  "heard": "阿木，你今天查询了17次已归档数据。请说明原因。请说明原因。",
+  "ratio": 0.77,
+  "music": "subtle low electronic synth drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s38_b": {
+  "want": "例行检查。",
+  "heard": "例行检查",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "孤岛连不起来，就只能一座一座地沉。我们得另起一张网。",
+  "heard": "孤岛连不起来，就只能一座一座地沉。我们得另起一张网。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s41_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

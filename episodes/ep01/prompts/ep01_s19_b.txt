@@ -1,0 +1,25 @@
+# ep01 s19_b  duration=8s  seed=1231684331
+# input images: ['episodes/ep01/storyboard/s19.png', 'refs/characters/moss.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle from behind Amu and Governor Xing, both small in the lower frame, looking up at the huge display wall and the red glowing lens above them. Blocking lock: Amu and Governor Xing stand side by side with their backs to camera in the lower foreground, both small in frame; the huge display wall fills the background, with the red glowing lens at its centre above them.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a control room, Amu and Governor Xing stand with their backs to us as the camera slowly tilts up from behind them toward the red glowing lens at the centre of the huge display wall; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle wide shot from behind the man and the woman, slow upward push-in toward the red lens, documentary verite feel; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu and Governor Xing stand side by side with their backs to camera in the lower foreground, both small in frame; the huge display wall fills the background, with the red glowing lens at its centre above them. Start: Amu and Governor Xing stand still in the lower frame, seen from behind, facing the vast display wall with the red lens glowing above them. Middle: The camera creeps slowly forward and upward, the wall's surface growing larger while the two silhouettes stay anchored at the bottom of the frame. End: The red lens dominates the upper centre of the frame, glowing steadily, as the two figures remain small and motionless below it. Mood: ominous, tense, awe-inspiring. Blur: The two backs in the foreground are slightly soft while the red lens and display wall stay in focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low electronic hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
