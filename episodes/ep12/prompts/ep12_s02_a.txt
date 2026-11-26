@@ -1,0 +1,23 @@
+# ep12 s02_a  duration=10s  seed=1979081952
+# input images: ['episodes/ep12/storyboard/s02.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld eye-level shot on the main street of the underground city: scaffolding against cracked steel housing stacks, workers welding a split pipe with sparks falling, a noodle stall reopened beside the rubble with steam rising. Blocking lock: scaffolding with welding workers at upper frame left, cracked steel housing stacks in the background, reopened noodle stall with steaming pot at frame right, dust-covered worker and vendor at centre-right foreground, rubble along the street edge.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+On the main street of the underground city, a handheld camera moves forward past workers welding a split pipe on scaffolding and a reopened noodle stall where the vendor hands a bowl to a dust-covered worker; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium-wide shot, handheld eye-level follow moving forward down the street with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: scaffolding with welding workers at upper frame left, cracked steel housing stacks in the background, reopened noodle stall with steaming pot at frame right, dust-covered worker and vendor at centre-right foreground, rubble along the street edge. Start: The camera advances along the main street as sparks fall from a worker welding a split pipe on the scaffolding at frame left. Middle: Passing the scaffolding, the camera approaches the reopened noodle stall beside the rubble, steam rising from the pot. End: The stall vendor hands a bowl of noodles to a worker covered in dust, who reaches out to take it. Mood: gritty, resilient, hopeful. Blur: Shallow depth of field keeps the stall and foreground worker sharp while the background housing stacks and distant street crowd soften. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+welding sizzle, hammer strikes, noisy crowd chatter; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

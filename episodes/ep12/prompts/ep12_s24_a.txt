@@ -1,0 +1,23 @@
+# ep12 s24_a  duration=8s  seed=1912605174
+# input images: ['episodes/ep12/storyboard/s24.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of several thermal printers side by side, each pushing out paper tape covered in barcode-like check patterns with small red seals, the strips overlapping and curling together. Blocking lock: several thermal printers sit side by side across the frame from left to right, with paper tapes emerging in the foreground and curling downward, and no people or robots visible.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In a macro shot, several thermal printers side by side push out paper tape with barcode-like check patterns and small red seals, the strips overlapping and hanging down; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: several thermal printers sit side by side across the frame from left to right, with paper tapes emerging in the foreground and curling downward, and no people or robots visible. Start: The printers begin pushing out paper tape, with the first check patterns and small red seals appearing on the strips. Middle: More segments of tape emerge one after another from the printers, each carrying new check patterns and red seals, and the strips begin to overlap. End: The overlapping strips of paper tape hang down and curl together, covered in barcode-like patterns and red seals. Mood: mechanical, bureaucratic, relentless. Blur: very shallow depth of field, only the tape nearest the printer outlets in sharp focus, with the printer bodies and background softly blurred No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+dense rapid clacking of thermal printers, paper tape sliding out; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

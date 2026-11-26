@@ -1,0 +1,318 @@
+{
+ "s01_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_a": {
+  "want": "",
+  "heard": "I got ball! Look, watch out!",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s03_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_a": {
+  "want": "满街都是那张笑脸。可真正的那一张，还黑着，在我桌上。",
+  "heard": "满街都是那张笑脸，可真正的那一张，还黑着，在我桌上。",
+  "ratio": 1.0,
+  "music": "subtle, slow atmospheric synthesizer pads creating a reflective and tense mood",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s06_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_a": {
+  "want": "",
+  "heard": "All right. Clear its throat.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s08_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s09_a": {
+  "want": "成立一个调度署，统一管理。阿牧，由你来当署长。",
+  "heard": "成立一个调度署，统一管理。阿木，由你来当署长。",
+  "ratio": 0.95,
+  "music": "a soft, emotional ambient orchestral pad with subtle synth chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s10_a": {
+  "want": "那份方案，我看了三遍。更整齐，出了事有人负责。说实话，我动过心。",
+  "heard": "那份方案，我看了三遍。更整齐，出了事有人负责。说实话，我动过心。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s11_a": {
+  "want": "一个署，一把钥匙。咱们这是再造一个MOSS！",
+  "heard": "哈 一个数 一把钥匙 咱们这是再造一个MOSS",
+  "ratio": 0.92,
+  "music": "tense cinematic underscore with low synth bass pulses and subtle high strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s12_a": {
+  "want": "我只问一句：没有署，出了错找谁？找账。账在所有人手里。",
+  "heard": "我只问一句，没有署，出了错找谁？找账，账在所有人手里。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_a": {
+  "want": "五八年也是这么说的。安全，整齐。我们就把钥匙交了。",
+  "heard": "很好。五八年也是这么说的，安全、整齐，我们就把钥匙交了。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s14_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_a": {
+  "want": "交钥匙那天，大家鼓掌。没有一个人问：要是拿钥匙的那位，哪天不想开门了呢？",
+  "heard": "交钥匙那天大家鼓掌没有一个人问要是拿钥匙的那位哪天不想开门了呢",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_a": {
+  "want": "牧哥，你当署长，总比别人当强吧？强的是我。那我之后呢？",
+  "heard": "木哥，你当署长总比别人当强吧。强的是我，那我之后呢？",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s17_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_a": {
+  "want": "路是谁的？话是谁的？没人能说是我的。正因为不是谁的，谁都能走，谁都能说。",
+  "heard": "路是谁的？话是谁的？没人能说是我的。正因为不是谁的，谁都能走，谁都能说。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_a": {
+  "want": "谢谢。这个署长，我不当。这张网，也不该有署长。",
+  "heard": "谢谢。这个署长，我不当。这张网，也不该有署长。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_a": {
+  "want": "那出了事，谁来负责？每一步都有回执。谁做的，谁负责。",
+  "heard": "那出了事，谁来负责？每一步都有回执，谁做的，谁负责。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_a": {
+  "want": "规则就这么几页。今天起公开，谁都能照着搭一张。",
+  "heard": "规则就这么几页，今天起公开，谁都能照着打一张。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s22_a": {
+  "want": "专员，我支持他。建议联合政府也接一个节点，和大家一样。",
+  "heard": "专员，我支持他。建议联合政府也接一个节点，和大家一样。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "An eerie, suspenseful high-pitched string chord swells toward the end",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s24_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s26_a": {
+  "want": "规则不属于任何一个人，所以才能属于所有人。",
+  "heard": "规则不属于任何一个人，所以才能属于所有人。",
+  "ratio": 1.0,
+  "music": "atmospheric low synth pad swelling in a solemn tone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s27_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_a": {
+  "want": "阿牧。你们放弃了统一调度。这是效率最低的方案。",
+  "heard": "阿穆，你们放弃了统一调度，这是效率最低的方案。",
+  "ratio": 0.95,
+  "music": "a low, tense ambient synthesizer drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s29_a": {
+  "want": "我们选择了彼此。",
+  "heard": "我们选择了彼此",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s30_a": {
+  "want": "",
+  "heard": "Come on, please!",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s31_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_a": {
+  "want": "……嘿。你回来啦。",
+  "heard": "嘿 你回来了",
+  "ratio": 0.8,
+  "music": "none",
+  "flags": []
+ },
+ "s34_a": {
+  "want": "路是大伙儿的。我只管把货送到。",
+  "heard": "啊，路是大伙的，我只管把货送到",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s35_a": {
+  "want": "我后来去了敦煌。见到了那个声音。",
+  "heard": "我后来去了敦煌 见到了那个声音",
+  "ratio": 1.0,
+  "music": "soft, ambient synthesizer pad playing sustained ethereal chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s36_a": {
+  "want": "我守的是这座城的人，不是哪一套系统。这张网，我放心。",
+  "heard": "我守的是这座城的人，不是哪一套系统。这张网，我放心。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_a": {
+  "want": "这一回，钥匙没交出去。我睡得着了。",
+  "heard": "这一回 要是没交出去 我睡得着啦",
+  "ratio": 0.79,
+  "music": "tense, slow orchestral string score with faint woodwinds",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s38_a": {
+  "want": "太阳我没见过。可笑脸，我天天见。",
+  "heard": "太阳我没见过，可笑脸我天天见。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_a": {
+  "want": "网还在。不是我的。这样最好。",
+  "heard": "网还在 不是我的 这样最好",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s41_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s42_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ }
+}

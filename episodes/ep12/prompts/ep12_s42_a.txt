@@ -1,0 +1,25 @@
+# ep12 s42_a  duration=10s  seed=1131908676
+# input images: ['episodes/ep12/storyboard/s42.png', 'refs/props/prop_node.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of a cabin windowsill in the underground city at night: a small handmade node box made from an old ammunition tin with a short antenna and a red-and-white smiley sticker on its lid, one green indicator light on, a child's chalk drawing propped beside it, the warm blurred lights of other cabin windows beyond the glass. Blocking lock: the ammunition-tin node box with antenna and smiley sticker sits at frame centre on the windowsill, the child's chalk drawing leans beside it at frame left, and the blurred cabin window lights fill the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is the underground city main street from <Picture 3>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+On a cabin windowsill in the underground city at night, a small handmade node box blinks its green light while distant cabin lights glow beyond the glass; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off camera with an extremely slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: the ammunition-tin node box with antenna and smiley sticker sits at frame centre on the windowsill, the child's chalk drawing leans beside it at frame left, and the blurred cabin window lights fill the background. Start: The node box sits still on the windowsill, its single green indicator light blinking steadily against the blurred glow of the distant windows. Middle: The camera creeps closer as the green light keeps pulsing, and far among the blurred cabin lights a few small lights blink in the same rhythm. End: The frame settles tight on the node box, its green light still blinking, with the chalk drawing at the edge and the distant lights soft behind it. Mood: quiet, tender, hopeful. Blur: Shallow depth of field: the node box is sharp while the chalk drawing edge and the distant cabin window lights melt into soft bokeh. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+faint soft notification beeps, quiet low background hum of the distant underground city; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

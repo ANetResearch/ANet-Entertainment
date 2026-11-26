@@ -1,0 +1,23 @@
+# ep12 s22_a  duration=10s  seed=1963578396
+# input images: ['episodes/ep12/storyboard/s22.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of Governor Xing at the meeting table, composed but with tired eyes, one hand resting on the thin stack of pages, the official's shoulder blurred in the foreground. Blocking lock: Governor Xing sits at the centre of frame at the meeting table, her hand on the thin stack of pages; the official's blurred shoulder fills the foreground edge; Amu is off-frame to the side.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In a quiet meeting room, Governor Xing pauses, pulls the pages toward herself, glances at Amu, then turns to the commissioner, opening and ending with the line "专员，我支持他。建议联合政府也接一个节点，和大家一样。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a subtle natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing sits at the centre of frame at the meeting table, her hand on the thin stack of pages; the official's blurred shoulder fills the foreground edge; Amu is off-frame to the side. Start: Governor Xing sits silent and composed, tired eyes lowered, one hand resting on the thin stack of pages. Middle: She slides the pages across the table toward herself, then lifts her eyes and glances briefly at Amu. End: She turns her head and shoulders toward the commissioner, her expression careful and measured as she prepares to address him. Mood: restrained, weary, formal. Blur: Shallow depth of field; the official's shoulder in the foreground and the room behind her are soft, focus held on her face and hand. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 专员，我支持他。建议联合政府也接一个节点，和大家一样。</d>; Final line of this shot: end on “点，和大家一样。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet meeting room tone, faint air handling hum, soft paper rustle; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

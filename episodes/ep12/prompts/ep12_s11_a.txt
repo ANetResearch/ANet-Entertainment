@@ -1,0 +1,29 @@
+# ep12 s11_a  duration=10s  seed=1180334776
+# input images: ['episodes/ep12/storyboard/s11.png', 'refs/characters/jin.png', 'refs/characters/amu.png', 'refs/locations/loc_hub.png', 'assets/logos/agent-network-logo.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the rebuilt pump-station machine room: Boss Jin in his black surface suit, left arm in a sling, standing and jabbing his good hand toward the racks of salvaged node boxes and a row of grey GPU compute chassis with blue three-bladed swirl badges; Amu sits on a wooden crate stencilled with a black-and-white wordmark, listening. Blocking lock: Boss Jin stands at frame left-centre in his black surface suit, left arm in a sling, facing the racks at right; Amu sits on the wooden crate at frame right foreground; node racks and GPU chassis fill the background.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 5> is the Agent Network wordmark from <Picture 5>, serving as in-world logo reference. A red-and-black horizontal wordmark plate. Reproduce it exactly where it is stencilled on a crate or equipment case.
+
+summary:
+In the rebuilt pump-station machine room, Boss Jin, arm in a sling, gestures at the node racks while Amu listens from a crate; the clip opens and ends on his line "一个署，一把钥匙。咱们这是再造一个MOSS！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 5> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint documentary shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin stands at frame left-centre in his black surface suit, left arm in a sling, facing the racks at right; Amu sits on the wooden crate at frame right foreground; node racks and GPU chassis fill the background. Start: Boss Jin stands in front of the node racks, his slung arm held against his chest, while Amu sits on the crate watching him. Middle: Jin swings his good hand toward the racks and the grey GPU chassis, his whole upper body leaning into the gesture. End: Jin holds his arm pointed at the racks as Amu looks up at him from the crate, silent and not responding. Mood: emphatic, tense, wary. Blur: Shallow depth of field; the rows of racks and chassis in the background are softly out of focus behind Jin and Amu. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 一个署，一把钥匙。咱们这是再造一个MOSS！</d>; Final line of this shot: end on “造一个MOSS！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+compute chassis fan hum, echo of the machine room; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

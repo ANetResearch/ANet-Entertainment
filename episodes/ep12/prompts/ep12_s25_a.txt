@@ -1,0 +1,23 @@
+# ep12 s25_a  duration=8s  seed=1815084177
+# input images: ['episodes/ep12/storyboard/s25.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto side view of a convoy of heavy-haul trucks of mixed makes and colours crossing the ice plain past frozen ruins, each cab door sprayed with the red speech-bubble smiley, headlights in light snow. Blocking lock: the convoy travels left to right across the midground in side view, frozen ruins sit in the background, falling snow fills the foreground, and no characters appear in frame.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+A convoy of mixed heavy-haul trucks, each with a red smiley on its cab door, crosses an ice plain past frozen ruins in light snow; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto side-on wide shot, slow lateral pan following the convoy; pacing: natural speed, a single continuous take with no cut. Blocking lock: the convoy travels left to right across the midground in side view, frozen ruins sit in the background, falling snow fills the foreground, and no characters appear in frame. Start: The lead heavy-haul truck enters frame at the left, its headlights glowing through the light snow and the red smiley sprayed on its cab door. Middle: Trucks of different makes and colours roll past one after another, each with a red smiley on its door, their headlights forming a continuous line. End: The camera pans on as the line of headlights stretches across the ice plain toward the frozen ruins, with more trucks still passing. Mood: epic, desolate, resolute. Blur: Compressed telephoto depth of field; the frozen ruins and distant trucks soften into snowy haze while the nearest truck stays sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+diesel engines rumbling, tracks crunching on ice; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

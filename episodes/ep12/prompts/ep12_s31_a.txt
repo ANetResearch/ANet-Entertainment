@@ -1,0 +1,23 @@
+# ep12 s31_a  duration=10s  seed=1141754197
+# input images: ['episodes/ep12/storyboard/s31.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the repair stall late at night: Xiaoman fitting a patched, hammered-flat yellow cover plate back onto the small tracked robot on the bench, a replacement screen already mounted in its head, old Boye watching from his chair with a tin mug. Blocking lock: Xiaoman at frame centre-left bent over the bench, Luosi on the bench at centre with its new screen head, Boye seated in his chair at frame right holding a tin mug, lamp-lit stall clutter in the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Late at night in the repair stall, Xiaoman snaps the patched yellow cover plate back onto Luosi, tightens the last screw, hesitates at the power switch and glances at Boye, who gives a small chin nod.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame centre-left bent over the bench, Luosi on the bench at centre with its new screen head, Boye seated in his chair at frame right holding a tin mug, lamp-lit stall clutter in the background. Start: Xiaoman presses the hammered-flat yellow cover plate onto Luosi's body and holds it in place on the bench. Middle: He turns the last screw with a screwdriver until the plate sits tight, then his hand stops on the power switch. End: Xiaoman looks back at Boye, who lifts his chin toward him in a small nod while still holding the tin mug. Mood: tender, hesitant, quietly expectant. Blur: Shallow depth of field, focus on Xiaoman's hands and Luosi, with Boye and the cluttered stall background slightly soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+screwdriver turning, desk lamp electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

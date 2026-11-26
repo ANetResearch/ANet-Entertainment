@@ -1,0 +1,25 @@
+# ep12 s39_a  duration=10s  seed=162835581
+# input images: ['episodes/ep12/storyboard/s39.png', 'refs/characters/amu.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: Amu in the dim interview room, unclipping the small lavalier microphone from the collar of his orange-grey coverall, a faint self-mocking smile. Blocking lock: Amu sits at frame centre in the dim interview room, facing the camera in his orange-grey coverall, with the lavalier microphone at his collar and a dark, empty background behind him.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Amu pauses to think, then delivers a short answer, opening with "网还在。" and ending on "这样最好。", before lowering his head with a self-mocking smile to unclip his microphone.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre in the dim interview room, facing the camera in his orange-grey coverall, with the lavalier microphone at his collar and a dark, empty background behind him. Start: Amu sits still, eyes slightly unfocused, thinking over the question before he answers. Middle: He finishes his short answer, a faint self-mocking smile settling on his face. End: He lowers his head and reaches to unclip the small lavalier microphone from his collar. Mood: quiet, wry, reflective. Blur: Shallow depth of field, Amu sharp, dim room background softly out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 网还在。不是我的。这样最好。</d>; Final line of this shot: end on “我的。这样最好。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint rustle of the microphone rubbing against fabric; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

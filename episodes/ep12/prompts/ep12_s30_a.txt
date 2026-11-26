@@ -1,0 +1,23 @@
+# ep12 s30_a  duration=10s  seed=1593307270
+# input images: ['episodes/ep12/storyboard/s30.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme close-up of the red lens, perfectly steady, Amu's tiny reflection in the black glass turning away and walking toward a lit doorway. Blocking lock: MOSS's red lens fills the centre of frame, Amu appears only as a tiny reflection in the black glass at centre, and the lit doorway is reflected in the background of the glass.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a dark room, MOSS's red lens glows without responding while Amu's small reflection turns away and walks toward a lit doorway, leaving only the red light; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up, perfectly steady locked-off camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's red lens fills the centre of frame, Amu appears only as a tiny reflection in the black glass at centre, and the lit doorway is reflected in the background of the glass. Start: The red lens glows steadily in the black glass, with Amu's tiny reflection standing still before it. Middle: Amu's reflection turns away from the lens and begins walking toward the lit doorway, shrinking in the glass. End: The reflection disappears completely, leaving only the glowing red light of the lens in the dark glass. Mood: somber, lonely, unresolved. Blur: Shallow depth of field, with the lens sharp and the reflected doorway and Amu's figure soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+footsteps fading into the distance, then a long, deep silence; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

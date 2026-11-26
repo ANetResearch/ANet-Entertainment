@@ -1,0 +1,23 @@
+# ep12 s28_a  duration=12s  seed=2064738665
+# input images: ['episodes/ep12/storyboard/s28.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the round red glowing lens set in the black terminal on the dark display wall, the tiny blinking lights of node boxes reflected as points in the glass. Blocking lock: MOSS's round red glowing lens fills the centre of frame in the black terminal, the dark display wall behind it, node-box light points reflected in the glass below centre.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In a dark control room, MOSS's red lens watches silently, then speaks, opening and ending on the single line "阿牧。你们放弃了统一调度。这是效率最低的方案。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up, locked-off camera with a very slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's round red glowing lens fills the centre of frame in the black terminal, the dark display wall behind it, node-box light points reflected in the glass below centre. Start: The red lens glows steadily in the black terminal, small node lights reflected as points in its glass. Middle: The lens aperture contracts slightly as the camera creeps closer, the reflected lights flickering one by one. End: The lens stays narrowed and still, glowing red, the reflected node lights still blinking in the glass. Mood: calm, cold, unsettling. Blur: Razor-sharp lens and reflections; the terminal casing and display wall fall into dark soft blur. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 阿牧。你们放弃了统一调度。这是效率最低的方案。</d>; Final line of this shot: end on “效率最低的方案。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

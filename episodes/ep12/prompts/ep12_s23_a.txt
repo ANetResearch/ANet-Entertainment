@@ -1,0 +1,27 @@
+# ep12 s23_a  duration=9s  seed=759321831
+# input images: ['episodes/ep12/storyboard/s23.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png', 'assets/logos/agent-network-logo.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot in the pump-station machine room: Xiaoman at an old keyboard with his finger on a key, old Boye standing behind him with a hand on his shoulder, racks of salvaged node boxes and humming grey compute chassis with blue swirl badges around them and a wooden crate with the black-and-white wordmark in the foreground. Blocking lock: Xiaoman sits at the old keyboard at centre-left, Boye stands directly behind him at centre, racks of node boxes and grey compute chassis fill the background and sides, and the wooden crate sits in the foreground.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 4> is the Agent Network wordmark from <Picture 4>, serving as in-world logo reference. A red-and-black horizontal wordmark plate. Reproduce it exactly where it is stencilled on a crate or equipment case.
+
+summary:
+In the pump-station machine room, old Boye nods and rests a hand on Xiaoman's shoulder as Xiaoman presses a key, and indicator lights on the node racks switch on in a wave from near to far; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld with a faint documentary shake, held steady on the two men and the racks; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at the old keyboard at centre-left, Boye stands directly behind him at centre, racks of node boxes and grey compute chassis fill the background and sides, and the wooden crate sits in the foreground. Start: Boye rests his hand on Xiaoman's shoulder and nods while Xiaoman's finger hovers on a key of the old keyboard. Middle: Xiaoman presses the key, and the indicator lights on the nearest node rack switch on. End: The lights spread rack by rack into the distance in a rolling wave until the whole machine room glows with them. Mood: hopeful, quietly triumphant, warm. Blur: Deep focus on the two men and the racks, with the wooden crate in the foreground slightly soft and the far racks gently blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+keyboard key click, compute chassis fan hum, soft completion chime; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

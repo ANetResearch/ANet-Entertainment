@@ -1,0 +1,27 @@
+# ep12 s20_a  duration=10s  seed=151307630
+# input images: ['episodes/ep12/storyboard/s20.png', 'refs/characters/amu.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Over-the-shoulder shot from behind the grey-haired official in the dark-blue coat: Amu across the table pulling a coiled strip of receipt tape with a red seal from his chest tool pouch and laying it on the steel table. Blocking lock: the grey-haired official in the dark-blue coat is in the foreground, seen from behind over his shoulder; Amu sits across the steel table in the centre background; the table lies between them.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the receipt paper strip from a field printer from <Picture 3>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a meeting room, a government commissioner leans in and presses Amu on accountability, and he pulls out a receipt tape and answers; the clip opens with "那出了事，谁来负责？" and ends on "每一步都有回执。谁做的，谁负责。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium over-the-shoulder shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the grey-haired official in the dark-blue coat is in the foreground, seen from behind over his shoulder; Amu sits across the steel table in the centre background; the table lies between them. Start: The official leans forward over the steel table toward Amu, pressing him, while he sits facing him. Middle: Amu draws a coiled strip of receipt tape with a red seal from his chest tool pouch. End: He lays the tape on the table, unrolls a section flat, and looks up at the official. Mood: tense, formal, steady. Blur: shallow depth of field, the official's shoulder and head soft in the foreground, Amu and the tape in sharp focus The 联合政府专员 (extra, ordinary voice) says, <d>[Chinese] 那出了事，谁来负责？</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 每一步都有回执。谁做的，谁负责。</d>; Final line of this shot: end on “谁做的，谁负责。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+rustling of paper tape unrolling, faint room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
