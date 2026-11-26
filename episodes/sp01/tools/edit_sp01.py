@@ -278,7 +278,14 @@ def main():
         off = t - d
         starts.append(off)
         fc.append(f"{vlab}[{k}:v]xfade=transition={tr}:duration={d:.4f}:offset={off:.4f}[v{k}]")
-        fc.append(f"{alab}[{k}:a]acrossfade=d={d:.4f}:c1=tri:c2=tri[a{k}]")
+        # a line that starts inside the transition must not be faded in: the incoming sound enters at full level
+        c2 = "tri"
+        nxt = segs[k]
+        if nxt.get("shot") and not nxt.get("mute") and script[nxt["shot"]]["dialogue"]:
+            _, s0, _ = speech[nxt["shot"]]
+            if s0 - nxt["ss"] < d + 0.25:
+                c2 = "nofade"
+        fc.append(f"{alab}[{k}:a]acrossfade=d={d:.4f}:c1=tri:c2={c2}[a{k}]")
         vlab, alab = f"[v{k}]", f"[a{k}]"
         t = off + segs[k]["length"]
     # sound bridges and J-cuts (pre-laps): extra sound placed at absolute times and mixed in
@@ -323,7 +330,8 @@ def main():
         ff("-i", out, "-c:v", "libx264", "-b:v", f"{kbps}k", "-preset", "slow", "-pix_fmt", "yuv420p", "-pass", "2",
            "-passlogfile", log, "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", opt("--repo"))
         print(f"{opt('--repo')}: {os.path.getsize(opt('--repo')) / 2**20:.1f} MiB at {kbps} kb/s video")
-    shutil.rmtree(tmp)
+    if not os.environ.get("EDIT_TMP"):
+        shutil.rmtree(tmp)
     print(f"{out}: {total:.1f}s, {os.path.getsize(out) / 2**20:.0f} MiB, {len(used)} shots")
 
 
