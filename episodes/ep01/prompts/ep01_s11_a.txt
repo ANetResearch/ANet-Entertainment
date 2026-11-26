@@ -1,0 +1,25 @@
+# ep01 s11_a  duration=8s  seed=264719088
+# input images: ['episodes/ep01/storyboard/s11.png', 'refs/characters/amu.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot through the crowd: Amu in his orange-grey coverall pushing against the flow of people on the main street of the underground city. Blocking lock: Amu is at frame centre in his orange-grey coverall, moving against the crowd; blurred passersby cross the foreground, and the street and a hand cart fill the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the underground city main street from <Picture 3>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+Amu walks briskly against the flow of the crowd along the main street of the underground city, sidestepping a hand cart; there is no dialogue in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium telephoto shot, documentary-style observational camera shooting through the crowd with slight handheld drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu is at frame centre in his orange-grey coverall, moving against the crowd; blurred passersby cross the foreground, and the street and a hand cart fill the background. Start: Amu pushes forward against the stream of people on the main street, partly seen between blurred foreground figures. Middle: He turns his shoulders and sidesteps a hand cart rolling past, keeping his brisk pace. End: Amu slips past the cart and continues forward through the crowd, with more blurred figures sweeping across the foreground. Mood: hurried, crowded, urgent. Blur: Shallow telephoto depth of field; foreground passersby are heavily blurred while Amu stays sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+noisy crowd chatter, public address announcement chimes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

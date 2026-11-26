@@ -1,0 +1,23 @@
+# ep01 s27_a  duration=7s  seed=701973014
+# input images: ['episodes/ep01/storyboard/s27.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot of young Xiaoman on his stool, grinning, radio in his lap, with old Boye turning to glare at him in the foreground blur. Blocking lock: Xiaoman sits at centre on his stool, radio in his lap; Boye is in the foreground, partly blurred, turning toward him; background is soft and undefined.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In a documentary-style scene, young Xiaoman grins on his stool with a radio in his lap and cuts in with "那就自己记一份呗。" (his only line, opening and closing the clip), while old Boye turns and glares at him.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 7.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at centre on his stool, radio in his lap; Boye is in the foreground, partly blurred, turning toward him; background is soft and undefined. Start: Xiaoman sits on his stool hugging the radio, grinning cheekily, while Boye is still facing away in the blurred foreground. Middle: Boye turns his head back and fixes Xiaoman with a sharp glare from the foreground. End: Xiaoman shrinks his neck down between his shoulders, the grin faltering, still clutching the radio. Mood: playful, awkward, humorous. Blur: Shallow depth of field; Boye in the foreground is soft and blurred while Xiaoman stays in focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 那就自己记一份呗。</d>; Final line of this shot: end on “就自己记一份呗。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio white noise; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

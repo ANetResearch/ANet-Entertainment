@@ -1,0 +1,23 @@
+# ep01 s41_a  duration=8s  seed=1925897070
+# input images: ['episodes/ep01/storyboard/s41.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Very distant wide shot across the ice plain at night: the planetary engine's blue beam on the horizon, and high in the black sky a single unusually bright star with faint bands — Jupiter, still far away. Blocking lock: the planetary engine's blue beam stands at the horizon in the lower centre of frame, the flat ice plain fills the foreground, and the bright star hangs high in the black sky above.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At night on the ice plain, the planetary engine's blue beam rises from the horizon and the view drifts up to a single unusually bright, faintly banded star, distant Jupiter; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, very distant wide shot, locked-off camera with an extremely slow tilt up; pacing: natural speed, a single continuous take with no cut. Blocking lock: the planetary engine's blue beam stands at the horizon in the lower centre of frame, the flat ice plain fills the foreground, and the bright star hangs high in the black sky above. Start: The frame holds on the dark ice plain with the engine's blue beam on the horizon pointing straight up into the night sky. Middle: The camera tilts up very slowly, following the blue beam as it climbs into the black sky. End: The frame settles on the single unusually bright, faintly banded star, Jupiter, still far away. Mood: vast, lonely, awe-inspiring. Blur: Deep focus throughout, with the horizon and the star both sharp and only slight atmospheric haze around the beam. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind blowing across the ice, distant low rumbling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

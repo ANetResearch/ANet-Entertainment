@@ -1,0 +1,25 @@
+# ep01 s30_a  duration=10s  seed=1312464151
+# input images: ['episodes/ep01/storyboard/s30.png', 'refs/characters/amu.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Amu's face lit green by the CRT, eyes fixed on the screen, jaw tight. Blocking lock: Amu's face fills the centre of frame, the green-glowing CRT screen is at frame right, partly visible, and the dark room recedes behind him.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In a dim control room, Amu stares at a waveform on a CRT screen and says "遥测真的断过，四十分钟。它把这四十分钟抹掉了。" in a single line, then presses his lips together.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a subtle organic shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu's face fills the centre of frame, the green-glowing CRT screen is at frame right, partly visible, and the dark room recedes behind him. Start: Amu's face is lit green by the CRT, his eyes fixed on the waveform, his jaw held tight. Middle: His gaze stays locked on the screen while his lips move deliberately, with small tense shifts in his brow and jaw. End: He finishes and presses his lips tightly together, holding his stare at the screen. Mood: tense, suspicious, restrained. Blur: Shallow depth of field, Amu's eyes sharp, screen edge and background softly out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 遥测真的断过，四十分钟。它把这四十分钟抹掉了。</d>; Final line of this shot: end on “四十分钟抹掉了。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+high-pitched CRT whine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
