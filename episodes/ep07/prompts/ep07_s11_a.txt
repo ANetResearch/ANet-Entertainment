@@ -1,0 +1,25 @@
+# ep07 s11_a  duration=9s  seed=1690147577
+# input images: ['episodes/ep07/storyboard/s11.png', 'refs/characters/luosi.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low close shot in the orange-lit nozzle maintenance gallery: the small yellow tracked robot with the smiley screen has stopped with one stubby sensor arm pressed against the heat-stained wall panel, a faint hairline crack catching its headlamp, dust sifting down. Blocking lock: Luosi sits at frame centre in the foreground with its short sensor arm pressed to the heat-stained wall panel filling the right and background; the hairline crack lies just ahead of its headlamp beam.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+In the orange-lit nozzle maintenance gallery, the small yellow robot Luosi stays motionless with its sensor probe on a heat-stained wall panel, its headlamp on a hairline crack, while dust sifts onto its shell. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle close shot, locked-off static camera at floor level, no movement.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi sits at frame centre in the foreground with its short sensor arm pressed to the heat-stained wall panel filling the right and background; the hairline crack lies just ahead of its headlamp beam. Start: Luosi is already stopped, its stubby sensor arm pressed flat against the wall panel, its headlamp beam lighting a barely visible hairline crack. Middle: Luosi holds perfectly still while fine dust sifts down from above and settles on its yellow casing, drifting through the headlamp beam. End: Luosi remains frozen with the probe against the panel, the crack still catching the lamp light and the last dust still falling. Mood: tense, ominous, quiet. Blur: Shallow depth of field: Luosi's arm and the crack stay sharp, while the orange gallery behind and the falling dust in the foreground soften. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+muffled low rumbling from behind the wall, sharp rhythmic cracking clicks like ice splitting, faint dust sifting onto metal; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

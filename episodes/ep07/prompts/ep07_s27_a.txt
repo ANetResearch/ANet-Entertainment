@@ -1,0 +1,25 @@
+# ep07 s27_a  duration=9s  seed=1323862738
+# input images: ['episodes/ep07/storyboard/s27.png', 'refs/characters/jin.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. At the gallery hatch at the foot of the engine: Boss Jin in his black cold-suit stands on the step of a heavy-haul truck backed up to the hatch, hauling a worker in a heat suit up into the cargo bed by the arm, more workers running out behind, snow and steam swirling in the headlights. Blocking lock: Boss Jin in his black cold-suit is at frame centre on the truck step, a worker in a heat suit at centre-right being pulled up by the arm, more workers running out of the hatch in the background, headlights and swirling snow in the foreground.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At the gallery hatch at the foot of the engine, Boss Jin stands on the step of a backed-up heavy-haul truck and hauls fleeing workers one by one into the cargo bed while urging the rest on through snow and steam.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld camera shaking in the wind and snow, slight reactive drift following Boss Jin's movements; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin in his black cold-suit is at frame centre on the truck step, a worker in a heat suit at centre-right being pulled up by the arm, more workers running out of the hatch in the background, headlights and swirling snow in the foreground. Start: Boss Jin braces on the truck step and grips a worker's arm, heaving him up toward the cargo bed. Middle: He drops the worker into the truck bed, then immediately reaches back and grabs the next runner emerging from the hatch. End: Boss Jin swings his free arm in broad, urgent waves, hurrying the last workers still running toward the truck. Mood: frantic, urgent, harsh. Blur: Focus stays on Boss Jin and the worker at the truck step; the hatch, running workers in the background and swirling snow and steam fall soft, with headlight glare blooming. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+roaring engine, howling wind, boots stamping on steel plate, muffled shouting; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

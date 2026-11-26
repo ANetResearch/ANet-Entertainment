@@ -1,0 +1,23 @@
+# ep07 s14_a  duration=8s  seed=1374884414
+# input images: ['episodes/ep07/storyboard/s14.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up along a shelf of the node rack: a row of mismatched hand-made node boxes of different sizes, their small lamps lit in different colours, thin wires linking each box to the next, and at the end of the shelf the corner of a grey compute chassis with a blue three-bladed swirl badge, its fan spinning. Blocking lock: a row of mismatched node boxes with wired links runs from frame left through centre to the right, and the grey compute chassis with the blue three-bladed swirl badge sits at the far right end of the shelf, its fan spinning.
+<Subject 2> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 2>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In a macro lateral move along the node rack shelf, mismatched hand-made node boxes blink their lamps in alternation like a question and answer, the rhythm slowly syncing, while the fan on the compute chassis at the shelf's end spins faster.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, slow lateral tracking move along the shelf; pacing: natural speed, a single continuous take with no cut. Blocking lock: a row of mismatched node boxes with wired links runs from frame left through centre to the right, and the grey compute chassis with the blue three-bladed swirl badge sits at the far right end of the shelf, its fan spinning. Start: The camera begins at the first small node boxes on the left, their lamps blinking one after another in different colours, as if answering each other. Middle: The camera slides steadily along the shelf past the wire-linked boxes, whose blinking grows more regular and more closely matched in rhythm. End: The camera reaches the corner of the grey compute chassis with the blue swirl badge, its fan spinning faster and faster. Mood: curious, rhythmic, quietly awakening. Blur: very shallow depth of field, only the nearest lamps and wires sharp, with the rest of the shelf and background softly blurred No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+relays clicking in overlapping succession, fan hum rising in speed; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

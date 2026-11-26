@@ -1,0 +1,25 @@
+# ep07 s09_a  duration=8s  seed=1411567502
+# input images: ['episodes/ep07/storyboard/s09.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a narrow paper strip feeding out of a small thermal printer on the node rack, its barcode-like check pattern growing visibly denser and tighter towards the newest end, a young hand holding the strip taut. Blocking lock: the young hand holds the paper strip at centre frame, the small thermal printer sits at frame left in the background on the node rack, and the strip extends toward the foreground right.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a macro close-up at the node rack, a young hand pulls taut a fresh paper strip from a small thermal printer and rubs its thumb over the densest section of the pattern; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a very slight handheld settle; pacing: natural speed, a single continuous take with no cut. Blocking lock: the young hand holds the paper strip at centre frame, the small thermal printer sits at frame left in the background on the node rack, and the strip extends toward the foreground right. Start: A young hand grips the freshly printed paper strip as it feeds out of the thermal printer, pulling it taut. Middle: The strip lengthens, its barcode-like pattern visibly denser and tighter toward the newest end, held steady between the fingers. End: The thumb rubs back and forth over the densest section of the pattern, then rests there. Mood: intent, tense, quietly curious. Blur: very shallow depth of field; only the strip's pattern and thumb are sharp, the printer and node rack fall into soft blur No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+fine rapid ticking of the printer head, faint paper rustle; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

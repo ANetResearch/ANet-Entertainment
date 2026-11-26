@@ -1,0 +1,25 @@
+# ep07 s06_a  duration=8s  seed=1725487820
+# input images: ['episodes/ep07/storyboard/s06.png', 'refs/locations/loc_admin.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot from the back of the tiered administration command hall: the giant display wall filled with one vast, intricate glowing wireframe model of an engine nozzle, all of it a calm even green, operators small beneath it, the red lens in the centre. Blocking lock: the giant display wall with the glowing green nozzle model fills the background and upper frame, small operators sit in tiered rows in the foreground and midground, and the red lens of MOSS sits at frame centre.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the tiered administration command hall, a vast glowing green wireframe model of an engine nozzle slowly rotates on the display wall while operators work quietly beneath it; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot from the back of the hall, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the giant display wall with the glowing green nozzle model fills the background and upper frame, small operators sit in tiered rows in the foreground and midground, and the red lens of MOSS sits at frame centre. Start: The intricate green wireframe nozzle model hangs on the display wall, just beginning its slow rotation, while operators sit at their stations. Middle: The model keeps turning steadily, its calm even green unchanged, as the operators quietly work at their keyboards beneath it. End: The nozzle model completes more of its slow turn on the wall, the operators still small and absorbed at their stations, the red lens unmoving at centre. Mood: calm, precise, quietly tense. Blur: deep focus, the whole hall and wall sharp, with only slight softness on the farthest wireframe lines No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+keyboard typing, low electronic hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

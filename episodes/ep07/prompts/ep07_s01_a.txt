@@ -1,0 +1,23 @@
+# ep07 s01_a  duration=8s  seed=1252407346
+# input images: ['episodes/ep07/storyboard/s01.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide exterior from the ice plain at night: the mountain-sized planetary engine and its blue-white plasma column, and above it Jupiter as a large banded disc several times wider than a full moon, its orange light faintly tinting the snow. Blocking lock: the mountain-sized planetary engine and its plasma column stand centre-left, Jupiter's large banded disc hangs in the sky at centre-right beside the column, and the orange-tinted snow of the ice plain fills the foreground.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At night on the ice plain, the colossal planetary engine fires a blue-white plasma column into the sky beside a huge banded Jupiter that tints the snow faintly orange; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, mostly fixed frame with a slight handheld sway; pacing: natural speed, a single continuous take with no cut. Blocking lock: the mountain-sized planetary engine and its plasma column stand centre-left, Jupiter's large banded disc hangs in the sky at centre-right beside the column, and the orange-tinted snow of the ice plain fills the foreground. Start: The blue-white plasma column streams steadily upward from the engine into the night sky, with Jupiter glowing beside it above the snow. Middle: The camera sways faintly while the plasma column keeps burning, and Jupiter's bands stay sharply visible as pale orange light lies across the snow. End: The frame settles on the engine's light column and the giant planet over the dim orange-tinted ice plain, with the scene still unbroken. Mood: awe-inspiring, vast, ominous. Blur: deep focus; engine, Jupiter and snow all sharp, with only faint atmospheric haze softening the far horizon No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low sustained engine roar, wind over the ice plain; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

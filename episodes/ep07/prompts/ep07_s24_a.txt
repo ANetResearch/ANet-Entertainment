@@ -1,0 +1,25 @@
+# ep07 s24_a  duration=8s  seed=2067448435
+# input images: ['episodes/ep07/storyboard/s24.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Governor Xing's hand pressed flat over the buttoned breast pocket of her charcoal uniform, the paper strips in Amu's outstretched hand at the edge of the frame, Governor Xing's face soft above. Blocking lock: Governor Xing's hand and chest fill the centre of frame, her soft face just visible at the top, and Amu's outstretched hand holding the paper strips sits at the frame edge, foreground right.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, Governor Xing slowly raises her hand and presses it over her uniform's breast pocket as Amu holds out the paper strips, and several seconds pass in silence with no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing's hand and chest fill the centre of frame, her soft face just visible at the top, and Amu's outstretched hand holding the paper strips sits at the frame edge, foreground right. Start: Governor Xing's hand hangs low at her side, and Amu's hand holds out the paper strips at the edge of the frame. Middle: Her hand lifts slowly and rises toward the buttoned breast pocket of her charcoal uniform. End: Her hand comes to rest flat over the pocket and stops, and her fingers slowly tighten on the fabric. Mood: tense, quiet, poignant. Blur: Shallow depth of field, with her face and Amu's outstretched hand softly out of focus and the hand on the pocket sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low background hum of the command hall, a few seconds of silence with no one speaking; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

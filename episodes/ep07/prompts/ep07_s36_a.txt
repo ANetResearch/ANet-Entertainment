@@ -1,0 +1,27 @@
+# ep07 s36_a  duration=9s  seed=2071135514
+# input images: ['episodes/ep07/storyboard/s36.png', 'refs/locations/loc_hub.png', 'assets/logos/agent-network-logo.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the pump-station server room seen from a dark corner: the hanging work lamp out, the node racks dark, the status lights on two grey compute chassis with blue three-bladed swirl badges fading, and in the doorway three boxy grey automated security units on tracks, each with a single red sensor eye, their red beams crossing the racks and landing on the wooden crate with the wordmark stencilled on its side. Blocking lock: camera hides in a dark corner foreground; node racks and grey compute chassis with blue swirl badges at frame left and centre; three tracked security units in the doorway at frame right and background; wooden crate at centre.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the Agent Network wordmark from <Picture 3>, serving as in-world logo reference. A red-and-black horizontal wordmark plate. Reproduce it exactly where it is stencilled on a crate or equipment case.
+<Subject 4> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 4>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+Inside a dark pump-station server room, the lights and node racks die, the door locks itself, and tracked security units roll in and sweep red beams across the racks until they settle on a stencilled wooden crate.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld from a hiding spot with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: camera hides in a dark corner foreground; node racks and grey compute chassis with blue swirl badges at frame left and centre; three tracked security units in the doorway at frame right and background; wooden crate at centre. Start: The hanging work lamp and the small lights on the node racks go out in patches while the compute chassis fans begin to slow. Middle: The iron door's electronic lock drops shut by itself, and the grey security units roll over the threshold on their tracks into the room. End: Their red scanning beams sweep across the node racks and stop on the stencilled wooden crate. Mood: tense, ominous, claustrophobic. Blur: Shallow depth of field: the near corner edge is soft and dark, focus on the doorway units and the crate, racks dissolving into shadow. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+dull thunk of a breaker tripping, fans winding down to silence, tracks grinding over the floor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

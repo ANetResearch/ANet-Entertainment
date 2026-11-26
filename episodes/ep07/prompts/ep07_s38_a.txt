@@ -1,0 +1,25 @@
+# ep07 s38_a  duration=9s  seed=1162475648
+# input images: ['episodes/ep07/storyboard/s38.png', 'refs/characters/luosi.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In a dark pipe alcove off a back alley of the underground city: Chen Xiaoman crouches pulling a stained grey tarpaulin over the small yellow tracked robot, the red-and-white smiley on its screen still glowing in the gap, a red sensor beam sweeping past the alley mouth behind him. Blocking lock: Xiaoman crouches at frame centre in the pipe alcove, Luosi under the tarpaulin directly in front of him in the foreground, the alley mouth with the red scanning beam in the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the underground city main street from <Picture 3>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a dark pipe alcove off a back alley of the underground city, Xiaoman hides Luosi under a grey tarpaulin while a red scanning beam sweeps slowly past the alley mouth; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, low-angle handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman crouches at frame centre in the pipe alcove, Luosi under the tarpaulin directly in front of him in the foreground, the alley mouth with the red scanning beam in the background. Start: Xiaoman crouches in the pipe gap and pulls the stained grey tarpaulin down over Luosi, its smiley glowing in the fabric gap. Middle: The smiley goes dark under the cloth, and Xiaoman presses his palm down on the tarpaulin to flatten it. End: Xiaoman presses against the wall and holds his breath as the red scanning beam slowly sweeps past the alley mouth. Mood: tense, furtive, claustrophobic. Blur: shallow depth of field, alley mouth and the red beam softly out of focus behind the sharp Xiaoman and tarpaulin No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rustling of tarpaulin fabric, tracked vehicle rolling past the alley mouth; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

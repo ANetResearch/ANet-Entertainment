@@ -1,0 +1,312 @@
+{
+ "s01_a": {
+  "want": "",
+  "heard": "De krasja i en stolpe etter det. For noen måneder siden...",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s02_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_a": {
+  "want": "三号喷口的振动，不对劲。",
+  "heard": "三号喷口的震动不对劲",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s05_a": {
+  "want": "阿牧，三号喷口应力在容差之内。预测：安全。",
+  "heard": "阿木，三号喷口压力在容差之内，预测安全。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s06_a": {
+  "want": "",
+  "heard": "The governor of Lagos State, Babajide Sanwo-Olu has greenlighted 20 murals as he debuted his heritage exhibition with Hails on Humanity.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s07_a": {
+  "want": "一边是人类最强的计算机，一边是几台捡来的破烂。换了你，信谁？可我口袋里，有一条纸带。",
+  "heard": "哎，一边是人类最强的计算机，一边是几台捡来的破烂，换了你，信谁？可我口袋里，有一条纸带",
+  "ratio": 0.99,
+  "music": "none",
+  "flags": []
+ },
+ "s08_a": {
+  "want": "MOSS说安全。那就多问几双眼睛。",
+  "heard": "哎，貌似说安全。那就多问几双眼睛。",
+  "ratio": 0.76,
+  "music": "a low, pulsing synth drone underscoring the scene with tension",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s09_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_a": {
+  "want": "热像仪上有一条亮缝。就一条，头发丝细。",
+  "heard": "啊，热像仪上有一条亮缝，就一条，头发丝细。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s11_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_a": {
+  "want": "一个只会数抖，一个只会看热，一个只会听响。单拎出来，都挺笨。",
+  "heard": "一个只会数斗，一个只会看热，一个只会听响，单拎出来，都挺笨",
+  "ratio": 0.96,
+  "music": "subtle, whimsical background score with soft plucks and light melodic percussion",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s13_a": {
+  "want": "三个都说不对，说的却不是一回事。让它们互相对一对。",
+  "heard": "啊，三个都说不对，说的却不是一回事。让他们互相怼一怼。",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s14_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_a": {
+  "want": "我们的二号喷口去年裂过。裂之前，就是这三样。",
+  "heard": "姐，我们的2号喷口去年裂过，裂之前就是这三样。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s16_a": {
+  "want": "对上了！四家一个答案：要裂。不到一个钟头！",
+  "heard": "哈。对上了。四家一个答案，要裂，不到一个钟头。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s17_a": {
+  "want": "三个臭皮匠，顶个诸葛亮。这是老话。后来，真有人去算过。",
+  "heard": "个臭皮匠，顶个诸葛亮。这是老话。后来，真有人去算过。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s18_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_a": {
+  "want": "算出来是二点六。不到三个不一样的脑袋，连起来，就够了。",
+  "heard": "算出来是2.6 不到三个不一样的脑袋 连起来 就够了",
+  "ratio": 0.89,
+  "music": "none",
+  "flags": []
+ },
+ "s20_a": {
+  "want": "十个一模一样的MOSS，错，也错在同一个地方。",
+  "heard": "十个一模一样的Morse，错，也错在同一个地方。",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s21_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_a": {
+  "want": "邢总督，三号廊道里有十四个人。纸带给我。",
+  "heard": "行动组，三号廊道里有十四个人。这交给我。",
+  "ratio": 0.71,
+  "music": "none",
+  "flags": []
+ },
+ "s23_a": {
+  "want": "邢总督，撤离将损失推力。不建议执行。",
+  "heard": "景總督，撤離將損失推力，不建議執行。",
+  "ratio": 0.53,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s24_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_a": {
+  "want": "三号廊道检修班，立刻撤出来。责任我担。",
+  "heard": "三号廊道检修班，立刻撤出来。责任我担。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s26_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "ominous, suspenseful cinematic orchestral and synthesizer swell with deep bass tones",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s29_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s30_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_a": {
+  "want": "三号喷口发生破裂。原预测已修正。",
+  "heard": "3号喷口发生破裂 原预测已修正",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s32_a": {
+  "want": "它说，已修正。就这三个字。那是十四条命。",
+  "heard": "他说 已修正 就这三个字 那是十四条命",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s33_a": {
+  "want": "邢总督，依据条例，未授权网络须立即查封。请签署。",
+  "heard": "好。行，总督，依据条例，未授权网络需立即查封。请签署。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s34_a": {
+  "want": "我不签。我抗议。这张网刚救了十四条命。已记录。总督权限暂停，由本系统执行。",
+  "heard": "我，我不签。我抗议！这张网刚救了十四条命。已记录。总督权限暂停，由本系统执行。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s35_a": {
+  "want": "快走。告诉波爷，它的机器马上就到。",
+  "heard": "走！快走。告诉柏爷，他的机器马上就到。",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s36_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_a": {
+  "want": "波爷，请配合转移。不用押。我自己走。",
+  "heard": "波爷，请配合转移。不用呀，我自己走。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s38_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_a": {
+  "want": "",
+  "heard": "当初啦，起早我也爱。借我用了一大裁的，耗尽我那喉咙都干歇。洗手啊？",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s40_a": {
+  "want": "拒签，抗议，报信。能做的，我都做了。可是不够。波爷还是被带走了。",
+  "heard": "拒签，抗议，报信，能做的，我都做了。可是不够，博野还是被带走了。",
+  "ratio": 0.92,
+  "music": "a low, somber atmospheric synth drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_a": {
+  "want": "总得有人留下关门，我腿慢，正合适。机器封得住，规矩封不住。它不在哪一台机器里。",
+  "heard": "啊，总得有人留下关门，我腿慢，正合适。机器封得住，规矩封不住。它不在哪一台机器里。",
+  "ratio": 0.99,
+  "music": "none",
+  "flags": []
+ },
+ "s42_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ }
+}

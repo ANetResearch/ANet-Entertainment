@@ -1,0 +1,27 @@
+# ep07 s13_a  duration=10s  seed=2048791086
+# input images: ['episodes/ep07/storyboard/s13.png', 'refs/characters/amu.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Three people at the plank table in the pump-station server room under the hanging work lamp: Amu with three paper strips spread between his hands, old Boye leaning on the table opposite, Chen Xiaoman at the radio behind them with his headphones on. Blocking lock: Amu at frame left-centre behind the plank table, Boye at frame right leaning on the table opposite him, Xiaoman small in the background at the radio with headphones on, work lamp hanging overhead.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In the pump-station server room, Amu compares three paper strips on the plank table while Boye and Xiaoman look on. The clip opens on "三个都说不对，说的却不是一回事。" and ends on "让它们互相对一对。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural sway, documentary verite feel; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame left-centre behind the plank table, Boye at frame right leaning on the table opposite him, Xiaoman small in the background at the radio with headphones on, work lamp hanging overhead. Start: Amu presses the three paper strips side by side flat on the plank table with both hands, eyes moving across them. Middle: He scans the strips back and forth a second time, then lifts his head toward Boye. Boye taps his knuckles on the tabletop. End: Xiaoman, at the radio behind them, turns his head toward the table while Amu and Boye hold their positions. Mood: focused, tense, quietly collaborative. Blur: Shallow depth of field: Amu, the strips and Boye stay sharp, while Xiaoman and the radio corner soften in the background. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 三个都说不对，说的却不是一回事。</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 让它们互相对一对。</d>; Final line of this shot: end on “它们互相对一对。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+server fan hum, radio static hiss; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep07 s29_a  duration=10s  seed=345321720
+# input images: ['episodes/ep07/storyboard/s29.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide exterior from the ice plain: high on the flank of the planetary engine nozzle a jet of white-orange fire and debris bursts sideways from a ruptured wall, the main blue-white column wavering, the tiny lights of trucks fleeing across the ice below, Jupiter's large banded disc in the sky. Blocking lock: the planetary engine nozzle fills the centre and upper frame, the ruptured wall high on its flank at frame right of centre, the ice plain with fleeing truck lights in the lower foreground and background, Jupiter's banded disc in the sky above.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+On the ice plain, the side wall of the planetary engine nozzle ruptures and a jet of white-orange fire and debris bursts sideways while the convoy's lights flee in the distance beneath Jupiter's banded disc.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, locked-off camera that jolts once from the shockwave; pacing: natural speed, a single continuous take with no cut. Blocking lock: the planetary engine nozzle fills the centre and upper frame, the ruptured wall high on its flank at frame right of centre, the ice plain with fleeing truck lights in the lower foreground and background, Jupiter's banded disc in the sky above. Start: The nozzle's main blue-white column burns steadily above the ice plain while the convoy's small lights crawl away across the ice below. Middle: The side wall bursts open and a white-orange tongue of fire shoots sideways, hurling debris trailing smoke down toward the ice. End: The main light column wavers and sways as debris keeps falling, and the convoy's lights keep driving away into the distance. Mood: ominous, catastrophic, awe-inspiring. Blur: Deep focus keeps the whole scene sharp; only drifting smoke and falling debris soften slightly with motion blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+delayed huge explosive crack, deep rumbling roar, dull thuds of debris landing on the ice; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

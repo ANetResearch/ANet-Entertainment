@@ -1,0 +1,25 @@
+# ep07 s23_a  duration=9s  seed=1321637738
+# input images: ['episodes/ep07/storyboard/s23.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle looking up at the red glowing lens in the centre of the display wall, the calm green wireframe nozzle model spread out around it. Blocking lock: MOSS's red lens sits at frame centre on the display wall, the green wireframe nozzle model spreads around it on all sides, and no people appear in frame.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a large hall, MOSS's red lens glows at the centre of a display wall as a green nozzle model turns around it; the clip opens and ends on MOSS's line "邢总督，撤离将损失推力。不建议执行。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low angle, medium close-up, fixed camera with a slow push-in toward the red lens; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's red lens sits at frame centre on the display wall, the green wireframe nozzle model spreads around it on all sides, and no people appear in frame. Start: The red lens glows steadily at frame centre while the green wireframe nozzle model rotates slowly around it on the display wall. Middle: The camera creeps closer, the lens grows slightly larger in frame, and the green model keeps turning smoothly at the same pace. End: The red lens fills the centre of the frame, still glowing evenly, with the green model turning calmly around it. Mood: calm, polite, ominous. Blur: Shallow focus: the red lens is sharp, while the outer edges of the green model and the hall fall slightly soft. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 邢总督，撤离将损失推力。不建议执行。</d>; Final line of this shot: end on “力。不建议执行。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low electronic hum, faint hall reverberation; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
