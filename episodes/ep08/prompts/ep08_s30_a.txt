@@ -1,0 +1,25 @@
+# ep08 s30_a  duration=8s  seed=677686435
+# input images: ['episodes/ep08/storyboard/s30.png', 'refs/characters/amu.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot through a panicking crowd on the dark main street: Amu in his orange-grey coverall, flashlight in hand, pushing against the flow of people, a coil of cable over his shoulder. Blocking lock: Amu in orange-grey coverall at centre frame moving toward camera-forward direction against the flow; blurred panicking crowd members in foreground left and right and filling the background; dark street behind.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the underground city main street from <Picture 3>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+On the dark main street, Amu pushes forward against a panicking crowd with a flashlight and a cable coil on his shoulder, gets jostled sideways, and keeps going. No dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, telephoto candid shot through the crowd, handheld with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu in orange-grey coverall at centre frame moving toward camera-forward direction against the flow; blurred panicking crowd members in foreground left and right and filling the background; dark street behind. Start: Amu holds his flashlight and presses forward against the stream of people, the cable coil slung over his shoulder. Middle: A passing person bumps into him and he is knocked sideways, turning his shoulder as the flashlight beam swings. End: Amu regains his balance, squares up again and continues pushing forward through the crowd. Mood: tense, chaotic, urgent. Blur: Shallow telephoto depth of field; foreground bodies and the distant dark street are soft, with focus held on Amu. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crowd clamour, distant crying and shouting, shuffling footsteps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

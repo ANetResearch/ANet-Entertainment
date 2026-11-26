@@ -1,0 +1,23 @@
+# ep08 s04_a  duration=9s  seed=1075534737
+# input images: ['episodes/ep08/storyboard/s04.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Through steel bars of a small bare holding cell: old Boye in his navy quilted jacket and taped black glasses sits on a narrow bunk, looking down at a tin cup of water on the concrete floor whose surface is rippling. Blocking lock: Boye sits at frame centre on the narrow bunk behind steel bars in the foreground, the rippling tin cup on the concrete floor at lower centre, bare cell wall in the background.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+In a small bare holding cell, old Boye sits on a narrow bunk and stares at a tin cup of water on the floor as its surface starts rippling by itself; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot through steel bars, locked-off long-lens camera, completely static; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame centre on the narrow bunk behind steel bars in the foreground, the rippling tin cup on the concrete floor at lower centre, bare cell wall in the background. Start: Boye sits still on the narrow bunk in his navy quilted jacket and taped black glasses, head bowed, eyes fixed on the tin cup of water on the floor. Middle: The water in the cup begins to form concentric ripples with no visible cause, and Boye keeps staring down at it without moving. End: The ripples continue spreading across the surface as Boye remains frozen, eyes locked on the cup. Mood: uneasy, tense, eerie. Blur: Steel bars in the foreground are softly out of focus, while Boye and the cup stay sharp with a compressed long-lens background. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+faint trembling of water, low-frequency hum from deep within the walls; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

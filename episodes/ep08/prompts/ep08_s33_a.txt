@@ -1,0 +1,27 @@
+# ep08 s33_a  duration=9s  seed=1710515734
+# input images: ['episodes/ep08/storyboard/s33.png', 'refs/locations/loc_hub.png', 'assets/logos/agent-network-logo.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Flashlight-lit view into the half-collapsed pump station server room: fallen ceiling slabs and bent pipes buried the node racks, a salvaged grey GPU compute chassis with a blue three-bladed swirl badge on its side half-buried among them, a wooden crate with a black-and-white wordmark stencil cracked open under rubble, dust hanging in the beam. Blocking lock: no people visible; the flashlight beam travels across the frame, with collapsed ceiling slabs and bent pipes in the foreground, the grey GPU chassis with the blue swirl badge at centre, and the cracked wooden crate at frame right.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the Agent Network wordmark from <Picture 3>, serving as in-world logo reference. A red-and-black horizontal wordmark plate. Reproduce it exactly where it is stencilled on a crate or equipment case.
+<Subject 4> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 4>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+Inside the half-collapsed pump station server room, a handheld camera follows a flashlight beam across buried node racks, a half-buried grey GPU chassis and a cracked wooden crate, with no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld camera following the flashlight beam with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: no people visible; the flashlight beam travels across the frame, with collapsed ceiling slabs and bent pipes in the foreground, the grey GPU chassis with the blue swirl badge at centre, and the cracked wooden crate at frame right. Start: The flashlight beam enters the dark server room, lighting fallen concrete slabs and bent pipes lying over the node racks. Middle: The beam sweeps across the rubble and settles on the grey GPU chassis with the blue swirl badge, half-buried in broken stone. End: The beam slides onto the split-open wooden crate with its stencilled wordmark, while dust tumbles through the light. Mood: tense, desolate, investigative. Blur: Shallow depth of field; only the beam-lit rubble is sharp, while the dark corners and far racks fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rubble sliding and settling, water dripping; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

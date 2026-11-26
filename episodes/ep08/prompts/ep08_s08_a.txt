@@ -1,0 +1,25 @@
+# ep08 s08_a  duration=9s  seed=1108818855
+# input images: ['episodes/ep08/storyboard/s08.png', 'refs/characters/xing.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide handheld shot inside the tiered command hall: the giant display wall covered in red warning shapes, operators half-standing at their consoles, Governor Xing in her charcoal uniform striding down the central aisle, the red lens above the wall. Blocking lock: Governor Xing in charcoal uniform at frame centre on the central aisle, operators half-standing at consoles on both left and right, the giant red-flooded display wall in the background with the red lens above it.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the tiered command hall, red alarms flare across the display wall as operators rise from their consoles and Governor Xing strides down the central aisle; the clip opens and ends on the operator's line 「总督，引力读数超限，喷口压力在往下掉！」
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld follow with a slight shake, trailing Governor Xing as she descends the steps; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in charcoal uniform at frame centre on the central aisle, operators half-standing at consoles on both left and right, the giant red-flooded display wall in the background with the red lens above it. Start: Red warning shapes pulse across the display wall while operators begin pushing up from their seats and Governor Xing starts down the aisle. Middle: Governor Xing moves quickly down the steps past the standing operators as the camera follows her, red light flickering across the hall. End: One operator turns his head back toward Governor Xing, arm raised in alarm, as she keeps striding down the aisle. Mood: urgent, tense, chaotic. Blur: Deep focus on Governor Xing and nearby operators, with the distant display wall slightly soft and its red glare bleeding. The 操作员 (extra, ordinary voice) says, <d>[Chinese] 总督，引力读数超限，喷口压力在往下掉！</d>; Final line of this shot: end on “口压力在往下掉！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+dense alarm beeping, rapid keyboard clatter, shouting voices across the hall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

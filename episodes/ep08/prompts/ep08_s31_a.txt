@@ -1,0 +1,27 @@
+# ep08 s31_a  duration=10s  seed=1179733090
+# input images: ['episodes/ep08/storyboard/s31.png', 'refs/characters/amu.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. At the locked steel door of the pump station, its grey automated lock bar now dark and dead: Xiaoman holds a crowbar beside a small handcart carrying a knee-high lump covered by a grey tarp, Amu arriving with his flashlight, cracked concrete around the door frame. Blocking lock: Xiaoman at frame left holding the crowbar beside the tarp-covered handcart, the locked steel door with its dark lock bar at centre background, Amu entering from frame right with his flashlight.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+At the locked steel door of the pump station, Xiaoman guards the dead door as Amu runs up and checks the cracked frame; the clip opens with "牧哥！门锁死了，里头塌了一半！" and ends on "撬。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight shake, following Amu's arrival; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left holding the crowbar beside the tarp-covered handcart, the locked steel door with its dark lock bar at centre background, Amu entering from frame right with his flashlight. Start: Xiaoman stands guard in front of the sealed steel door, crowbar in hand, the lock bar's small light dark, the grey-tarped handcart at his side. Middle: Xiaoman swings toward Amu as he runs in, thrusting the crowbar in his direction, while he arrives out of breath with his flashlight. End: Amu halts at the door and glances up at the crack running through the concrete door frame. Mood: urgent, tense, anxious. Blur: Shallow depth of field; the cracked concrete and the dark corridor behind the door fall slightly soft while Xiaoman and Amu stay sharp. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 牧哥！门锁死了，里头塌了一半！</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 撬。</d>; Final line of this shot: end on “撬。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+concrete cracking and crumbling during an aftershock, heavy panting breath; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

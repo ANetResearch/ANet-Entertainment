@@ -1,0 +1,23 @@
+# ep08 s37_a  duration=10s  seed=1230423041
+# input images: ['episodes/ep08/storyboard/s37.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Dark holding cell lit by a thin strip of emergency light: old Boye stands at the bars gripping them with both hands, a boxy grey automated security unit in the corridor outside slumped dark and powerless against the wall. Blocking lock: Boye stands at the bars in the foreground, gripping them with both hands; the powerless grey security unit slumps against the corridor wall in the background; the empty corridor stretches beyond.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+In a dark holding cell, old Boye grips the bars beside a powered-down security unit and calls into the empty corridor, opening and ending on the line "有人吗？……总得有人，接一下吧。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, locked-off telephoto camera with a compressed view through the bars; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye stands at the bars in the foreground, gripping them with both hands; the powerless grey security unit slumps against the corridor wall in the background; the empty corridor stretches beyond. Start: Boye stands at the cell bars, both hands tight around the iron, facing the empty corridor while the dead security unit leans motionless against the wall. Middle: Boye leans his face toward the bars and calls out into the corridor, then tilts his head to one side to listen. End: Boye holds still with his hands on the bars, head slightly turned, hearing nothing but distant noise as the door lock stays fastened. Mood: tense, desolate, anxious. Blur: Shallow telephoto depth of field: Boye's hands and face sharp, the slumped security unit and far corridor softly out of focus. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 有人吗？……总得有人，接一下吧。</d>; Final line of this shot: end on “有人，接一下吧。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint muffled crowd noise from far away, soft metallic rattle of the iron bars; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

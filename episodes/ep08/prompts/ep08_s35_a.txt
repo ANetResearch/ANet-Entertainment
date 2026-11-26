@@ -1,0 +1,25 @@
+# ep08 s35_a  duration=9s  seed=2110980830
+# input images: ['episodes/ep08/storyboard/s35.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Aftershock in the pump station: dust and small chunks raining from the cracked ceiling, Xiaoman ducking with an arm over his head, Amu still bent over the rubble with both hands on a buried rack. Blocking lock: Xiaoman at frame left midground, Amu at frame centre-right foreground bent over the rubble, cracked ceiling overhead, debris pile and buried rack at the bottom of frame.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a cracked pump station, an aftershock rains dust and debris while Xiaoman flinches and Amu keeps dragging a buried rack free; it opens on Xiaoman's "又来了！顶要塌了！" and ends on Amu's "别停，接着挖。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with violent shaking that matches the aftershock; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left midground, Amu at frame centre-right foreground bent over the rubble, cracked ceiling overhead, debris pile and buried rack at the bottom of frame. Start: The aftershock hits and dust and small chunks begin to fall from the cracked ceiling while Amu stays bent over the rubble with both hands on the buried rack. Middle: Xiaoman pulls his arm over his head and shrinks into a duck as debris falls around him. End: Amu, without looking up, keeps hauling the pinned rack outward from under the rubble. Mood: tense, urgent, gritty. Blur: Shallow focus on Amu and the rack, with falling dust and the ceiling softly blurred and Xiaoman slightly soft at the edge of the frame. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 又来了！顶要塌了！</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 别停，接着挖。</d>; Final line of this shot: end on “别停，接着挖。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+deep rumbling of the earth, chunks of debris striking the ground; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

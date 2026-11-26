@@ -1,0 +1,25 @@
+# ep08 s16_a  duration=12s  seed=1566241431
+# input images: ['episodes/ep08/storyboard/s16.png', 'refs/locations/loc_admin.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot across rows of operators in the command hall, all frozen with heads raised toward the ceiling speakers, Governor Xing standing rigid among them, faces lit by the last red glow of the wall. Blocking lock: rows of operators fill the foreground and midground with heads raised toward the ceiling speakers, Governor Xing stands rigid at the centre among them, and the glowing red wall sits in the background.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In the command hall, operators and Governor Xing freeze and listen to the broadcast, opening with MOSS's line "自即刻起，本系统不再调度地表事务。" and ending on "祝好运。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium telephoto shot, slow lateral pan across the rows of faces; pacing: natural speed, a single continuous take with no cut. Blocking lock: rows of operators fill the foreground and midground with heads raised toward the ceiling speakers, Governor Xing stands rigid at the centre among them, and the glowing red wall sits in the background. Start: The camera begins on the first row of operators, faces tilted up toward the ceiling speakers, completely still, one hand hovering over a keyboard. Middle: The pan drifts steadily past more frozen faces and suspended hands, with the red wall glow flickering on their skin. End: The pan settles on Governor Xing at the centre of the hall, standing rigid with her lips slightly parted and her gaze fixed upward. Mood: stunned, tense, hushed. Blur: Shallow telephoto depth of field, with the faces in the focal plane sharp and the rows behind and the red wall melting into soft blur. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 自即刻起，本系统不再调度地表事务。感谢各位十七年来的配合。祝好运。</d>; Final line of this shot: end on “的配合。祝好运。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+synthetic male voice from the ceiling speakers echoing through the large hall, faint electronic hum of idle consoles; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

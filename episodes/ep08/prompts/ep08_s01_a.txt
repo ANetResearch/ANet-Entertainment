@@ -1,0 +1,23 @@
+# ep08 s01_a  duration=9s  seed=1024296196
+# input images: ['episodes/ep08/storyboard/s01.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme wide shot from the ice plain looking up: Jupiter and its Great Red Spot fill almost the whole sky, the frozen plain below stained dark orange, a few tiny figures in surface suits standing still and looking up. Blocking lock: Jupiter and its Great Red Spot fill the upper frame and most of the sky, the dark orange ice plain fills the lower frame, and a few tiny suited figures stand small in the lower middle foreground.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+On a frozen plain beneath a sky almost entirely filled by Jupiter, a few tiny suited figures stand motionless and gaze up at the slowly churning cloud bands; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, fixed frame with a slight handheld sway; pacing: natural speed, a single continuous take with no cut. Blocking lock: Jupiter and its Great Red Spot fill the upper frame and most of the sky, the dark orange ice plain fills the lower frame, and a few tiny suited figures stand small in the lower middle foreground. Start: The tiny suited figures stand still on the ice plain, heads tilted back, under the enormous Jupiter filling the sky. Middle: Jupiter's cloud bands roll slowly across the sky while the orange glow stains the ice and the figures remain motionless. End: The figures are still standing and looking up, dwarfed by the churning planet, as the frame holds on the dark orange plain. Mood: awe-inspiring, desolate, solemn. Blur: Deep focus; the figures, ice plain and cloud bands are all sharp, with only faint atmospheric haze in the far distance. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low deep wind, muffled rumbling from deep within the ice; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

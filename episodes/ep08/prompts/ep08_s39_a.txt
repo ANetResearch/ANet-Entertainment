@@ -1,0 +1,25 @@
+# ep08 s39_a  duration=9s  seed=1630975579
+# input images: ['episodes/ep08/storyboard/s39.png', 'refs/characters/xiaoman.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Flashlight close shot in the rubble: Amu's dusty hands clip two battery leads onto a dented ammo-tin node box with a short antenna and a scuffed smiley sticker on its lid, Xiaoman's face leaning in beside him, the dug-out grey compute chassis with its blue swirl badge standing dusty behind the box. Blocking lock: Amu's dusty hands at frame centre clipping leads onto the dented ammo-tin node box in the foreground, Xiaoman's face at frame right leaning in beside him, the grey compute chassis with its blue swirl badge standing behind the box in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the rubble by flashlight, Amu clips battery leads onto a dented node box that stays dead while Xiaoman leans in; the clip opens with "没反应。" and ends on "再等等。它启动慢。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight natural shake, lit by a flashlight beam; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu's dusty hands at frame centre clipping leads onto the dented ammo-tin node box in the foreground, Xiaoman's face at frame right leaning in beside him, the grey compute chassis with its blue swirl badge standing behind the box in the background. Start: Amu's hands press the second battery clip onto the lead of the dented node box with its short antenna and scuffed smiley sticker. Middle: The clips settle and nothing happens; Amu keeps his eyes fixed on the motionless box while the flashlight beam holds steady on it. End: Xiaoman leans in closer beside Amu, eyes on the box, as both wait in stillness. Mood: tense, hushed, hopeful. Blur: Shallow depth of field: hands and node box sharp, compute chassis and rubble background softly out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 没反应。</d>; Xiaoman (young male voice, quick and light) says, <d>[Chinese] 再等等。它启动慢。</d>; Final line of this shot: end on “等等。它启动慢。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+clicks of the battery clips, soft breathing of two people, faint dust-settling rubble quiet; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

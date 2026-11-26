@@ -1,0 +1,23 @@
+# ep08 s25_a  duration=10s  seed=226266533
+# input images: ['episodes/ep08/storyboard/s25.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld view inside a dense anxious crowd waiting in front of the steel mesh gate of a stopped cargo elevator, people looking up at the dark shaft, a mother carrying a small child on her shoulders, flashlight beams cutting through steam. Blocking lock: the steel mesh gate fills the centre background, the front-row man stands at frame right turned toward camera, the woman holding the child aloft is at frame left, and crowd shoulders crowd the foreground.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+Inside a panicking crowd crushed against the steel mesh gate of a stopped cargo elevator, a resident cries out "电梯为什么不动？到底谁在管？", which is both the opening and closing line of the clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld inside the crowd, jostled and swaying with the pushing bodies; pacing: natural speed, a single continuous take with no cut. Blocking lock: the steel mesh gate fills the centre background, the front-row man stands at frame right turned toward camera, the woman holding the child aloft is at frame left, and crowd shoulders crowd the foreground. Start: People pack against the stopped elevator's mesh gate, hands gripping the wire and shaking it hard as the camera sways with the crush. Middle: A woman lifts her child above her head to escape the squeeze while flashlight beams cut through the steam. End: The man in the front row turns his head and shouts back at the people behind him, the crowd still shoving forward. Mood: panicked, chaotic, claustrophobic. Blur: Shallow depth of field; the foreground shoulders and the distant steam-filled background are soft while the gate and front faces stay sharp. The 居民 (extra, ordinary voice) says, <d>[Chinese] 电梯为什么不动？到底谁在管？</d>; Final line of this shot: end on “动？到底谁在管？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+rattling steel mesh, crying and shouting, shoving and scuffling of bodies; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
