@@ -1,0 +1,25 @@
+# ep13 s11_d  duration=8s  seed=788157862
+# input images: ['episodes/ep13/storyboard/s11.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the yellow robot's square black screen flickering on: the red speech-bubble outline, red node squares and white smile of the logo glow softly, lighting the dust in the air. Blocking lock: Luosi's square black screen fills the centre of frame in the foreground, with the red bubble logo at its middle and only dusty air and soft darkness behind it.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a dusty space, the black screen on Luosi, the small yellow tracked robot, flickers twice and then lights up with its red speech-bubble logo and white smile, and the glow shows the dust floating in the air.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up on a steady camera, focus locked and crisp on the subject for the entire shot, clean exposure, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi's square black screen fills the centre of frame in the foreground, with the red bubble logo at its middle and only dusty air and soft darkness behind it. Start: The square screen is completely black and dark, with dust hanging faintly in the air in front of it. Middle: The screen flickers on twice, and the red speech-bubble outline and red node squares flash and then glow steadily. End: The white smile settles at the centre of the bubble, glowing softly and lighting the drifting dust particles in front of the screen. Mood: quiet, awakening, tender. Blur: none on the subject: the subject stays in crisp sharp focus from first frame to last, no focus hunting, no smeary motion blur, high detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+a single crisp power-on chime, low motor hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

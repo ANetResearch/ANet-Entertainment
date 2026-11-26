@@ -1226,5 +1226,348 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s03_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s06_c": {
+  "want": "阿牧，没有记录，就是没有发生。",
+  "heard": "我，阿木，没有记录，就是没有发生。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s06_d": {
+  "want": "阿牧，没有记录，就是没有发生。",
+  "heard": "阿木，没有记录，就是没有发生。",
+  "ratio": 0.92,
+  "music": "an ominous, low cinematic synth pad swell",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s07_c": {
+  "want": "五八年，我们把网接了回来，又把钥匙全交给了一台机器。",
+  "heard": "58年，我们把网接了回来，又把钥匙全交给了一台机器",
+  "ratio": 0.91,
+  "music": "a low, tense synthesizer drone that swells and sustains beneath the voice",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s07_d": {
+  "want": "五八年，我们把网接了回来，又把钥匙全交给了一台机器。",
+  "heard": "啊，58年，我们把网接了回来，又把钥匙全交给了一台机器",
+  "ratio": 0.89,
+  "music": "none",
+  "flags": []
+ },
+ "s10_c": {
+  "want": "给你起个名儿，叫螺丝。",
+  "heard": "呵 给你起个名儿 叫罗斯",
+  "ratio": 0.74,
+  "music": "dark atmospheric string drone score with slow suspenseful swelling chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s10_d": {
+  "want": "给你起个名儿，叫螺丝。",
+  "heard": "诶，给你起个名儿，叫螺丝",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s11_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s11_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_c": {
+  "want": "MOSS，回答我。……回答我！",
+  "heard": "回答我！回答我！",
+  "ratio": 0.75,
+  "music": "none",
+  "flags": []
+ },
+ "s29_d": {
+  "want": "MOSS，回答我。……回答我！",
+  "heard": "Boss，回答我，回答我！",
+  "ratio": 0.6,
+  "music": "none",
+  "flags": []
+ },
+ "s31_c": {
+  "want": "三十万人，都只会跟它说话。它不说话了，我们连彼此在哪儿，都不知道。",
+  "heard": "姐，三十万人，都只会跟她说话。她不说话了，我们连彼此在哪儿，都不知道。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s31_d": {
+  "want": "三十万人，都只会跟它说话。它不说话了，我们连彼此在哪儿，都不知道。",
+  "heard": "30万人，都只会跟她说话。她不说话了，我们连彼此在哪儿，都不知道。",
+  "ratio": 0.86,
+  "music": "a soft, melancholic ambient synth pad and low drone underscore",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s33_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_d": {
+  "want": "",
+  "heard": "Sir.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s43_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s43_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s53_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s53_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s55_c": {
+  "want": "通了！螺丝把自己架成了中继！",
+  "heard": "啊！头儿！罗斯把自己架成了重机！",
+  "ratio": 0.48,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s55_d": {
+  "want": "通了！螺丝把自己架成了中继！",
+  "heard": "哎！通了！罗斯把自己架成了中继！",
+  "ratio": 0.8,
+  "music": "a low, tense electronic drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s56_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s56_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s60_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s60_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s62_c": {
+  "want": "螺丝？",
+  "heard": "罗丝",
+  "ratio": 0.5,
+  "music": "emotional orchestral strings playing a slow, poignant melody",
+  "flags": [
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s62_d": {
+  "want": "螺丝？",
+  "heard": "罗斯",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s64_c": {
+  "want": "它不会说话。可它那一下，碰了碰我的手。我知道，它是怕的。",
+  "heard": "他 他不会说话 可他那一下 碰了碰我的手 我知道 他是怕的",
+  "ratio": 0.85,
+  "music": "none",
+  "flags": []
+ },
+ "s64_d": {
+  "want": "它不会说话。可它那一下，碰了碰我的手。我知道，它是怕的。",
+  "heard": "他不会说话，可他那一下碰了碰我的手，我知道，他是怕的。",
+  "ratio": 0.87,
+  "music": "none",
+  "flags": []
+ },
+ "s73_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s73_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s74_c": {
+  "want": "你们选择了低效的方式。我们选择了彼此。",
+  "heard": "你们选择了低效的方式 我们选择了彼此",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s74_d": {
+  "want": "你们选择了低效的方式。我们选择了彼此。",
+  "heard": "哼，你们选择了低效的方式。我们选择了彼此。",
+  "ratio": 0.97,
+  "music": "Atmospheric, dramatic synthesizer score with low swelling pads.",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s75_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s75_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s77_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s77_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s79_c": {
+  "want": "",
+  "heard": "Oh.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": []
+ },
+ "s79_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s81_c": {
+  "want": "勇气不是不怕。是怕，还把手伸出去。人类的赞歌，就是勇气的赞歌。连一台小机器，都懂。",
+  "heard": "勇气不是不怕，是怕，还把手伸出去。人类的赞歌，就是勇气的赞歌。连一台小机器，都懂。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s81_d": {
+  "want": "勇气不是不怕。是怕，还把手伸出去。人类的赞歌，就是勇气的赞歌。连一台小机器，都懂。",
+  "heard": "勇气不是不怕，是怕，还把手伸出去。人类的赞歌，就是勇气的赞歌。连一台小机器，都懂。",
+  "ratio": 1.0,
+  "music": "gentle and emotional orchestral string melody",
+  "flags": [
+   "music?"
+  ]
  }
 }

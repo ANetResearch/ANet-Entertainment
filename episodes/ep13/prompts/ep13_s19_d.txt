@@ -1,0 +1,23 @@
+# ep13 s19_d  duration=8s  seed=461125009
+# input images: ['episodes/ep13/storyboard/s19.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot from the ice plain: Jupiter, now enormous, rises behind the planetary engine and fills half the sky, its red spot like an eye, the blue beam looking thin against it. Blocking lock: the planetary engine stands at centre in the middle distance, Jupiter looms huge in the background behind and above it, the thin blue beam rises from the engine at centre, and the empty ice plain fills the foreground.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+On the ice plain, enormous Jupiter rises behind the planetary engine and fills half the sky, making the thin blue beam look small; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot on a steady tripod, clear air, deep focus, fine detail sharp across the whole frame, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, fixed frame with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the planetary engine stands at centre in the middle distance, Jupiter looms huge in the background behind and above it, the thin blue beam rises from the engine at centre, and the empty ice plain fills the foreground. Start: Jupiter's upper edge begins to climb above the horizon behind the planetary engine, with the thin blue beam standing against the dark sky. Middle: Jupiter keeps rising until it fills half the sky, its red spot staring out like an eye above the engine. End: The giant planet dominates the frame, and the blue beam looks fragile and thin in front of it. Mood: awe-inspiring, ominous, vast. Blur: none on the subject: the subject stays in crisp sharp focus from first frame to last, no focus hunting, no smeary motion blur, high detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+a deep rumble growing steadily lower; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

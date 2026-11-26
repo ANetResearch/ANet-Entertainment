@@ -1,0 +1,23 @@
+# ep13 s75_c  duration=8s  seed=8085025
+# input images: ['episodes/ep13/storyboard/s75.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme close-up of the red lens: in the black glass, the small reflection of Amu turning and walking away; the lens does not change. Blocking lock: the red lens fills the centre of frame; Amu exists only as a tiny reflection in the black glass, starting near centre and receding; nothing else is at left, right or foreground.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In an extreme close-up of MOSS's red lens, the small reflection of Amu turns away and walks off, shrinking in the black glass while the lens stays unchanged; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up on a steady camera, focus locked and crisp on the subject for the entire shot, clean exposure, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up, locked-off static macro shot; pacing: natural speed, a single continuous take with no cut. Blocking lock: the red lens fills the centre of frame; Amu exists only as a tiny reflection in the black glass, starting near centre and receding; nothing else is at left, right or foreground. Start: Amu's small reflection stands in the dark glass of the red lens, facing it. Middle: The reflection turns its back and begins to walk away, growing smaller. End: Amu's reflection is a tiny speck in the glass while the red lens remains unchanged and still. Mood: melancholic, still, uneasy. Blur: none on the subject: the subject stays in crisp sharp focus from first frame to last, no focus hunting, no smeary motion blur, high detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

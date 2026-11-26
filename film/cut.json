@@ -1,0 +1,91 @@
+{
+ "s06": {
+  "take": "c"
+ },
+ "s07": {
+  "take": "d"
+ },
+ "s10": {
+  "take": "c"
+ },
+ "s11": {
+  "take": "c"
+ },
+ "s19": {
+  "take": "d",
+  "full": true
+ },
+ "s29": {
+  "take": "c"
+ },
+ "s31": {
+  "take": "c"
+ },
+ "s36": {
+  "take": "d",
+  "full": true
+ },
+ "s43": {
+  "take": "c"
+ },
+ "s53": {
+  "take": "c"
+ },
+ "s55": {
+  "take": "c"
+ },
+ "s56": {
+  "take": "c"
+ },
+ "s60": {
+  "take": "c",
+  "full": true
+ },
+ "s62": {
+  "take": "d"
+ },
+ "s64": {
+  "take": "d"
+ },
+ "s73": {
+  "take": "c",
+  "full": true
+ },
+ "s74": {
+  "take": "c"
+ },
+ "s75": {
+  "take": "c"
+ },
+ "s77": {
+  "take": "c"
+ },
+ "s79": {
+  "take": "c",
+  "full": true
+ },
+ "s81": {
+  "take": "c"
+ },
+ "s27": {
+  "full": true
+ },
+ "s61": {
+  "full": true
+ },
+ "s71": {
+  "full": true
+ },
+ "s33": {
+  "full": true
+ },
+ "s12": {
+  "full": true
+ },
+ "s80": {
+  "full": true
+ },
+ "s52": {
+  "full": true
+ }
+}

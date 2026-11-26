@@ -130,6 +130,16 @@ LOOK = {
 }
 
 
+SHARP = bool(os.environ.get("SHARP"))
+if SHARP:   # re-roll mode: same documentary feel, but crisp
+    LOOK.update({
+        "interview": "documentary talking-head interview on a locked-off tripod camera, the face in crisp sharp focus with clear detail in eyes and skin, plain available light",
+        "verite": "observational documentary camera, steady shoulder-mounted with only small smooth reframings, deep focus, the subject held in crisp sharp focus the whole time, clean exposure",
+        "establishing": "documentary establishing shot on a steady tripod, clear air, deep focus, fine detail sharp across the whole frame, natural light",
+        "macro": "documentary insert close-up on a steady camera, focus locked and crisp on the subject for the entire shot, clean exposure",
+    })
+
+
 def build_prompt(shot, chosen):
     """Client prompt template: subject_definitions / summary / retention_analysis / detailed_description /
     overall_soundscape / non_diegetic_music.  Picture 1 = storyboard frame, Picture 2.. = chosen refs."""
@@ -153,7 +163,7 @@ def build_prompt(shot, chosen):
         said.append(f"{who} says, <d>[Chinese] {d['line']}</d>;")
     shot_txt = (f"[Shot 1] At 0.0s, {tp['camera'].strip()}; pacing: natural speed, a single continuous take with no cut. "
                 f"{tp['blocking'].strip()} Start: {tp['start'].strip()} Middle: {tp['middle'].strip()} End: {tp['end'].strip()} "
-                f"Mood: {tp['mood'].strip()}. Blur: {tp['blur'].strip()} ")
+                f"Mood: {tp['mood'].strip()}. Blur: " + ("none on the subject: the subject stays in crisp sharp focus from first frame to last, no focus hunting, no smeary motion blur, high detail. " if SHARP else tp['blur'].strip() + " "))
     if said:
         last = shot["dialogue"][-1]["line"]
         shot_txt += " ".join(said) + (f" Final line of this shot: end on “{last[-8:]}”, complete the whole sentence, no cut-off; "

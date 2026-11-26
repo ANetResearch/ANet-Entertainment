@@ -1014,7 +1014,7 @@
    "refs": [
     "loc_street"
    ],
-   "frame": "One single image (not a collage), no people in the foreground: high angle looking down the huge black vertical shaft of the underground city, almost everything dark, with dozens of tiny green and white points of light scattered across the darkness like stars.",
+   "frame": "One single image (not a collage), no people: high angle looking down the huge vertical shaft of the underground city during a blackout, dim blue-grey emergency twilight so the tiers of walkways, pipes and dark windows are still clearly readable, only two or three tiny green points of light glowing far below.",
    "video": "高机位俯拍。漆黑的竖井里，亮起一个小绿点，又一个，零零星星，越来越多，像有人在黑暗里一盏一盏点灯。环境声：风声里夹着越来越多的提示音。",
    "dialogue": [],
    "vo": "没有中心。它们一个一个，自己亮了回来。",
@@ -1022,11 +1022,11 @@
    "act": "第二幕 · 压顶",
    "tpl": {
     "summary": "High above a black vertical shaft of the underground city, tiny green and white lights switch on one by one in the darkness, scattering at first and then multiplying; no dialogue.",
-    "blocking": "Blocking lock: the camera looks straight down the shaft, with the black void filling the centre, and sparse green and white points of light scattered across the lower frame and shaft walls; no characters visible.",
+    "blocking": "Blocking lock: the camera looks down the shaft; walkway tiers on both walls, the lights appear on the walls and floor below; no characters visible.",
     "camera": "extreme wide shot, high-angle overhead looking down the shaft, locked-off with a very slow, subtle drift",
-    "start": "The shaft is almost entirely black, then a single small green light flickers on deep in the darkness.",
-    "middle": "A second light and then more appear one at a time, scattered irregularly across the depth of the shaft, like someone lighting lamps in the dark.",
-    "end": "Many green and white points of light now dot the shaft, still small and scattered, glowing steadily against the black.",
+    "start": "The shaft is dim blue-grey, its walkways and dark windows readable but every lamp off; two or three small green lights glow far below.",
+    "middle": "More green and warm white lights switch on one after another, tier by tier, spreading up the shaft walls.",
+    "end": "Hundreds of small lights now dot the whole shaft and windows begin to glow warm; the place is visibly alive again.",
     "mood": "eerie, awakening, hopeful",
     "blur": "Deep focus; distant lights stay as soft, slightly bloomed pinpoints against the dark, with the shaft walls dissolving into blackness.",
     "soundscape": "wind moving through the shaft, more and more electronic prompt tones chiming in as the lights appear"
@@ -1708,7 +1708,7 @@
     "luosi",
     "logo_smiley"
    ],
-   "frame": "Tight shot in the shaft: the last pixels of the smile flicker once and go out; the cracked screen is dark; dust settles.",
+   "frame": "Tight close-up in the collapsed shaft: the robot's cracked square screen still glowing with the red-and-white smiley face, dust in the air.",
    "video": "特写固定镜头。笑脸最后闪了一下，灭了。屏幕是黑的。灰慢慢落下来。环境声：一切声音都停了，只剩灰落下的沙沙声。",
    "dialogue": [],
    "vo": "",
@@ -1718,8 +1718,8 @@
     "summary": "In the shaft, the last pixels of Luosi's smiley face flicker once and go out, leaving its cracked screen dark as dust settles; there is no dialogue.",
     "blocking": "Blocking lock: Luosi's cracked screen face fills the centre of frame, dark shaft walls in the background, drifting dust in the foreground.",
     "camera": "macro close-up, locked-off static camera",
-    "start": "The smiley face on Luosi's cracked screen glows faintly with its last remaining pixels.",
-    "middle": "The pixels flicker once, then go out, and the screen turns completely black.",
+    "start": "The red-and-white smiley glows on the cracked screen, clearly lit, for the first two seconds.",
+    "middle": "At about three seconds the smiley flickers twice and goes out; the screen turns completely black.",
     "end": "Dust slowly drifts down and settles over the dark, cracked screen, which stays still.",
     "mood": "somber, quiet, final",
     "blur": "Very shallow depth of field, screen cracks sharp, shaft background and far dust soft and out of focus",
@@ -2203,7 +2203,7 @@
     "camera": "wide shot, handheld camera moving slowly forward down the corridor with a faint natural shake",
     "start": "The camera begins its slow advance along the corridor as the paper strips on the wall stir gently in the ventilation breeze and people stand quietly before them.",
     "middle": "The child steps toward the wall and reaches out a hand to touch one of the paper strips, which sways under the fingers.",
-    "end": "The child's hand rests on the strip while the small maintenance robot stays parked beside the child, and the camera keeps drifting forward.",
+    "end": "The child's hand rests on the strip while the small maintenance robot stays parked beside the child, and the camera keeps drifting forward. One continuous take in the same corridor with no cut to any other place.",
     "mood": "solemn, tender, hushed",
     "blur": "Shallow depth of field: the child and nearby strips are sharp, while the far end of the corridor and distant strips soften into blur.",
     "soundscape": "soft rustling of paper strips, low murmured conversation, faint ventilation airflow"
@@ -2254,9 +2254,9 @@
     "summary": "In the wasteland, Luosi's cracked square screen flickers twice and the smiley face lights up again, the crack running right across the smile; there is no dialogue.",
     "blocking": "Blocking lock: Luosi's cracked square screen fills the centre of frame, with the smiley face at the middle and the rest of the yellow robot body softly out of focus at the edges and background.",
     "camera": "macro close-up, locked-off static camera",
-    "start": "The cracked screen sits dark and lifeless, a thin fissure visible across the glass.",
-    "middle": "The screen flickers twice, brief pulses of light stuttering across the cracked surface.",
-    "end": "The red-and-white smiley glows steadily again, the crack cutting horizontally straight through the smile.",
+    "start": "For the first two seconds the cracked screen is dark.",
+    "middle": "At about three seconds the screen flickers twice with bright pulses of red light.",
+    "end": "From about five seconds on the red-and-white smiley face glows brightly and steadily on the screen, the crack running straight through the smile; it stays lit to the last frame.",
     "mood": "tender, fragile, hopeful",
     "blur": "Very shallow depth of field; only the screen surface and crack are sharp, the robot body and background fall into soft blur.",
     "soundscape": "a single familiar power-on chime"
