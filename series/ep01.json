@@ -123,7 +123,8 @@
     "mood": "quiet, reflective, tense",
     "blur": "Shallow depth of field; Amu's face sharp, the concrete wall behind him softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s06",
@@ -147,7 +148,8 @@
     "mood": "tense, focused, claustrophobic",
     "blur": "shallow depth of field, foreground shoulder and distant rack lights softly out of focus, Amu and the terminal sharp",
     "soundscape": "server fan hum, relay clicking"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s07",
@@ -176,7 +178,8 @@
     "mood": "cold, calm, unsettling",
     "blur": "Shallow depth of field keeps the red lens sharp, while the cables and racks around it soften into blur.",
     "soundscape": "steady fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -205,7 +208,8 @@
     "mood": "tense, suspicious, focused",
     "blur": "Shallow depth of field; server racks behind him are soft and out of focus, while his face and the scar on his left eyebrow stay sharp.",
     "soundscape": "steady server fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s09",
@@ -233,7 +237,8 @@
     "mood": "cold, calm, unsettling",
     "blur": "Very shallow depth of field; the lens and reflection are sharp while the edges of the glass and housing fall softly out of focus.",
     "soundscape": "faint electrical hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s10",
@@ -257,7 +262,8 @@
     "mood": "urgent, determined, tense",
     "blur": "Shallow depth of field, workbench clutter and bay equipment softly out of focus behind Amu.",
     "soundscape": "footsteps, metal hatch opening"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s11",
@@ -281,7 +287,8 @@
     "mood": "hurried, crowded, urgent",
     "blur": "Shallow telephoto depth of field; foreground passersby are heavily blurred while Amu stays sharp.",
     "soundscape": "noisy crowd chatter, public address announcement chimes"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s12",
@@ -333,7 +340,8 @@
     "mood": "weary, uneasy, cold",
     "blur": "Shallow depth of field, with the frosted corridor behind and the far wall slightly soft while the two figures stay sharp.",
     "soundscape": "coughing in the corridor, echoes along the frosted corridor"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -356,7 +364,8 @@
     "mood": "cold, quiet, intimate",
     "blur": "Very shallow depth of field; only the hand and the wiped patch of pipe are sharp, while the valve wheel and background melt into soft blue blur.",
     "soundscape": "fine crackle of ice flakes falling, faint rustle of glove on frosted metal, low cold stillness"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s15",
@@ -439,7 +448,8 @@
     "mood": "tense, urgent, serious",
     "blur": "Shallow depth of field, the command hall consoles and background staff softly out of focus behind the two people.",
     "soundscape": "keyboard typing in the command hall"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s18",
@@ -494,7 +504,8 @@
     "mood": "ominous, tense, awe-inspiring",
     "blur": "The two backs in the foreground are slightly soft while the red lens and display wall stay in focus.",
     "soundscape": "low electronic hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s20",
@@ -653,7 +664,8 @@
     "mood": "tense, intimate, determined",
     "blur": "Shallow depth of field; shelves and clutter at the back of the stall fall softly out of focus.",
     "soundscape": "metallic scraping of the rolling shutter, soldering iron hiss and crackle"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s26",
@@ -762,7 +774,8 @@
     "mood": "focused, tense, intimate",
     "blur": "shallow depth of field, the stall's shelves and clutter in the background softly out of focus, faces and screen sharp",
     "soundscape": "high-pitched CRT whine, button clicks"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s30",
@@ -791,7 +804,8 @@
     "mood": "tense, suspicious, restrained",
     "blur": "Shallow depth of field, Amu's eyes sharp, screen edge and background softly out of focus.",
     "soundscape": "high-pitched CRT whine"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -867,7 +881,8 @@
     "mood": "somber, tense, quietly sorrowful",
     "blur": "Shallow telephoto depth of field: Amu is sharp, while the foreground passers-by are heavily blurred and the corridor walls soften.",
     "soundscape": "distant footsteps, distant crying, faint cold corridor air"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s34",
@@ -896,7 +911,8 @@
     "mood": "calm, somber, contemplative",
     "blur": "Shallow depth of field; Amu's face and hands sharp, the dim room behind him softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -944,7 +960,8 @@
     "mood": "lonely, tense, quiet",
     "blur": "Deep enough focus to keep Amu sharp; the racks in the background fall off into darkness and soft shadow.",
     "soundscape": "steady fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",
@@ -972,7 +989,8 @@
     "mood": "tense, cold, watchful",
     "blur": "Very shallow depth of field; the lens and its reflection are sharp, while the ceiling corner and darkness around it fall off into soft black.",
     "soundscape": "faint electrical hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s38",
@@ -1001,7 +1019,8 @@
     "mood": "tense, guarded, uneasy",
     "blur": "Shallow depth of field, with the background and the distant red light soft and out of focus.",
     "soundscape": "a single click of the lamp switch, faint room tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s39",

@@ -103,7 +103,8 @@
     "mood": "tense, focused, claustrophobic",
     "blur": "Shallow depth of field; server racks and the ceiling terminal soften while Amu and the terminal screen stay sharp.",
     "soundscape": "server fan hum, relay clicking"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s05",
@@ -132,7 +133,8 @@
     "mood": "calm, polite, eerie",
     "blur": "Shallow depth of field; the lens is sharp while the surrounding cables and ceiling corner soften at the edges.",
     "soundscape": "fan hum, faint electrical buzz"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s06",
@@ -220,7 +222,8 @@
     "mood": "urgent, tense, intimate",
     "blur": "Shallow depth of field keeps Amu and Boye sharp, with the wooden crate and the room's far corners softly out of focus.",
     "soundscape": "humming fans of the compute chassis, distant dripping water"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s09",
@@ -361,7 +364,8 @@
     "mood": "focused, tense, quietly collaborative",
     "blur": "Shallow depth of field: Amu, the strips and Boye stay sharp, while Xiaoman and the radio corner soften in the background.",
     "soundscape": "server fan hum, radio static hiss"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -446,7 +450,8 @@
     "mood": "tense, urgent, anxious",
     "blur": "Shallow depth of field; the node rack and background fall soft while the strip and both faces stay sharp.",
     "soundscape": "printer head clattering, rapid breathing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -558,7 +563,8 @@
     "mood": "calm, reflective, matter-of-fact",
     "blur": "Shallow depth of field, Amu sharp, the concrete wall behind him softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s21",
@@ -616,7 +622,8 @@
     "mood": "urgent, tense, focused",
     "blur": "shallow depth of field; the display wall and green model are softly out of focus behind the two people",
     "soundscape": "keyboard clatter in the command hall, rapid hurried footsteps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s23",
@@ -669,7 +676,8 @@
     "mood": "tense, quiet, poignant",
     "blur": "Shallow depth of field, with her face and Amu's outstretched hand softly out of focus and the hand on the pocket sharp.",
     "soundscape": "low background hum of the command hall, a few seconds of silence with no one speaking"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s25",
@@ -699,7 +707,8 @@
     "mood": "tense, resolute, controlled",
     "blur": "Shallow depth of field; Amu and the display wall soften in the background while Xing and the console stay sharp.",
     "soundscape": "keyboard typing, call button confirmation tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s26",
@@ -944,7 +953,8 @@
     "mood": "tense, defiant, hushed",
     "blur": "Shallow depth of field keeps Xing sharp, with Amu slightly soft and the standing operators and display wall blurred behind.",
     "soundscape": "distant alarm tones, soft electrical clicks of consoles powering down, silence in the hall with no one speaking"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -974,7 +984,8 @@
     "mood": "urgent, tense, desperate",
     "blur": "Shallow depth of field; the blank console screens behind them fall soft and out of focus.",
     "soundscape": "hurried footsteps, distant alarm tones"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s36",
@@ -1032,7 +1043,8 @@
     "mood": "calm, tense, resigned",
     "blur": "shallow depth of field, server racks and back wall softly out of focus in red haze",
     "soundscape": "soft clank of the low iron hatch closing, tracked wheels rolling on the floor, calm synthetic male voice from the machine"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s38",
@@ -1081,7 +1093,8 @@
     "mood": "tense, covert, crowded",
     "blur": "Shallow telephoto depth of field; foreground silhouettes and the security unit are soft, Amu and the steam are partly obscured.",
     "soundscape": "noisy crowd chatter, public address announcement tones, tracked vehicle rumble"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s40",

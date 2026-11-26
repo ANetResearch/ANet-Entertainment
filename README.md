@@ -23,6 +23,19 @@ MOSS 沉默之后，一群小人物用回收的旧机器搭起一张不属于任
 | `episodes/epNN/audio_qc.json` | 自动试听结果：听到的对白、是否疑似有配乐、标记 |
 | `tools/` | 生成流水线脚本（`config.example.json` 填入自己的密钥后改名为 `config.json`） |
 
+## 短片《未熄》
+
+约 12 分 30 秒、82 个镜头的独立短片，把 12 集的故事压成一部：人类的赞歌就是勇气的赞歌，ANET 是具身智能与人类智能的团结。
+
+| 路径 | 内容 |
+|---|---|
+| `film/TREATMENT.md` | 创作说明：立意、三个贯穿意象、五段结构与节奏、音乐编排 |
+| `film/weixi-roughcut.mp4` | 按镜头顺序拼的粗剪（无字幕、无配乐，1024 宽压缩版） |
+| `film/roughcut_takes.json` | 粗剪每个镜头用的是哪一条 |
+| `film/build_film.py` | 生成分镜脚本 `series/ep13.json` 的脚本 |
+| `episodes/ep13/` | 短片的原始片段（`clips/` 选用条，`alt/` 备选条）、分镜图、提示词、试听结果 |
+| `tools/gen_music.py` | 主题音乐与三首歌（《未熄》《勇气的赞歌》《螺丝》）的曲目提示词和歌词 |
+
 ## 分集
 
 | 集 | 标题 | 科普概念 |

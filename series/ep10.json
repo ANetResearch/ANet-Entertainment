@@ -52,7 +52,8 @@
     "mood": "tense, urgent, claustrophobic",
     "blur": "Shallow depth of field, with the orange windshield view and the landscape beyond softly out of focus.",
     "soundscape": "roaring engine, suspension impacts, wind"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s03",
@@ -174,7 +175,8 @@
     "mood": "tense, urgent, claustrophobic",
     "blur": "Shallow depth of field; the icy windshield view beyond the cab is soft, and Boss Jin's foreground profile is slightly soft.",
     "soundscape": "shrill tires grinding over ice, creaking of the vehicle body as it leans into the turn"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s07",
@@ -227,7 +229,8 @@
     "mood": "reflective, quiet, solemn",
     "blur": "Shallow depth of field; the background of the interview room falls softly out of focus while his face stays sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s09",
@@ -364,7 +367,8 @@
     "mood": "somber, tense, restrained",
     "blur": "Falling snow and streaks on the glass are soft in the foreground, while the two faces behind stay moderately sharp.",
     "soundscape": "howling wind and snow, radio white noise"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -418,7 +422,8 @@
     "mood": "chaotic, violent, urgent",
     "blur": "Shallow focus on Amu and the case; shards, snow and the broken windshield behind are smeared by motion blur.",
     "soundscape": "glass bursting, shrill screech of brakes, wind howling into the cab"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s16",
@@ -452,7 +457,8 @@
     "mood": "desperate, tense, gritty",
     "blur": "shallow depth of field, the cab's wreckage and the background out of focus, faces and hands sharp",
     "soundscape": "howling wind, creaking metal, heavy ragged breathing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -648,7 +654,8 @@
     "mood": "tense, claustrophobic, discouraging",
     "blur": "Shallow depth of field: the parka-clad backs in the foreground are slightly soft, while the flashlit beams and ice in the shaft stay sharp and the depths of the gap fall into darkness.",
     "soundscape": "wind howling up the shaft, fragments of ice sliding and falling"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s24",
@@ -833,7 +840,8 @@
     "mood": "urgent, tense, hopeful",
     "blur": "Shallow depth of field, the wall dots and the crowd behind are softly out of focus while Boye and Xing stay sharp.",
     "soundscape": "wind-noisy radio replies, compute chassis fan hum, murmuring and clamour of the crowd"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -858,7 +866,8 @@
     "mood": "urgent, desperate, breathless",
     "blur": "Deep focus on Amu's back with the distant gate slightly soft; ice in the foreground jolts in and out of sharpness from the handheld motion.",
     "soundscape": "rapid labored breathing, boots crunching on ice, low rumbling of the gate opening"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s32",
@@ -939,7 +948,8 @@
     "mood": "tense, urgent, determined",
     "blur": "Shallow depth of field; the cavernous chamber and machinery in the background fall into dark blur.",
     "soundscape": "heavy metallic clunk of the part seating, hollow echo of the empty chamber"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -1094,7 +1104,8 @@
     "mood": "quiet, reflective, tender",
     "blur": "Shallow depth of field; the dim room behind him is soft and out of focus while his face and the paper stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s41",

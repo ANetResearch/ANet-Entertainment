@@ -231,7 +231,8 @@
     "mood": "tense, restrained, quietly weighty",
     "blur": "Shallow depth of field, with the glass wall and the command hall beyond it softly out of focus behind the three figures.",
     "soundscape": "faint keyboard typing beyond the glass wall"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s10",
@@ -292,7 +293,8 @@
     "mood": "emphatic, tense, wary",
     "blur": "Shallow depth of field; the rows of racks and chassis in the background are softly out of focus behind Jin and Amu.",
     "soundscape": "compute chassis fan hum, echo of the machine room"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s12",
@@ -442,7 +444,8 @@
     "mood": "quiet, intimate, contemplative",
     "blur": "Shallow depth of field, the router shelf and stall background softly out of focus behind the two figures.",
     "soundscape": "desk lamp electrical hum, footsteps in the alley outside"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -466,7 +469,8 @@
     "mood": "quiet, solitary, contemplative",
     "blur": "Shallow depth of field, with the cramped bay walls and equipment in the background softly out of focus.",
     "soundscape": "steady fan hum, paper pages rustling and turning"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s18",
@@ -525,7 +529,8 @@
     "mood": "calm, resolute, quietly tense",
     "blur": "Shallow depth of field; the glass wall and the office staff beyond it are softly out of focus.",
     "soundscape": "faint distant keyboard typing beyond the glass wall"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s20",
@@ -559,7 +564,8 @@
     "mood": "tense, formal, steady",
     "blur": "shallow depth of field, the official's shoulder and head soft in the foreground, Amu and the tape in sharp focus",
     "soundscape": "rustling of paper tape unrolling, faint room tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s21",
@@ -589,7 +595,8 @@
     "mood": "calm, resolute, intimate",
     "blur": "Shallow depth of field; the tabletop objects are sharp at first, his face is soft and the background is blurred.",
     "soundscape": "light metallic clink of the box landing on the steel table"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s22",
@@ -618,7 +625,8 @@
     "mood": "restrained, weary, formal",
     "blur": "Shallow depth of field; the official's shoulder in the foreground and the room behind her are soft, focus held on her face and hand.",
     "soundscape": "quiet meeting room tone, faint air handling hum, soft paper rustle"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s23",
@@ -721,7 +729,8 @@
     "mood": "calm, contemplative, sincere",
     "blur": "Shallow depth of field; Amu's face is sharp while the dim room behind him falls into soft blur.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s27",
@@ -746,7 +755,8 @@
     "mood": "lonely, tense, quiet",
     "blur": "deep focus, the whole hall sharp, with the node-box lights as soft blinking points in the dark",
     "soundscape": "low hollow electrical hum of the empty hall, his footsteps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s28",
@@ -775,7 +785,8 @@
     "mood": "calm, cold, unsettling",
     "blur": "Razor-sharp lens and reflections; the terminal casing and display wall fall into dark soft blur.",
     "soundscape": "faint electrical hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s29",
@@ -805,7 +816,8 @@
     "mood": "calm, solemn, quietly resolute",
     "blur": "Shallow depth of field keeps Amu's face sharp while the dark aisle and hall behind him fall into soft shadow.",
     "soundscape": "low room tone of an empty, cavernous hall"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s30",
@@ -830,7 +842,8 @@
     "mood": "somber, lonely, unresolved",
     "blur": "Shallow depth of field, with the lens sharp and the reflected doorway and Amu's figure soft.",
     "soundscape": "footsteps fading into the distance, then a long, deep silence"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -1085,7 +1098,8 @@
     "mood": "quiet, wry, reflective",
     "blur": "Shallow depth of field, Amu sharp, dim room background softly out of focus.",
     "soundscape": "quiet room tone, faint rustle of the microphone rubbing against fabric"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s40",

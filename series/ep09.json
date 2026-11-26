@@ -59,7 +59,8 @@
     "mood": "Tense, hopeful, gritty",
     "blur": "Shallow depth of field: Amu and the boxes stay sharp, the dim collapsed walls and flashlight beam edges fall soft behind.",
     "soundscape": "crackling wire sparks, sharp relay clicks, rising fan whirr, faint dust and rubble settling"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s03",
@@ -634,7 +635,8 @@
     "mood": "urgent, collaborative, determined",
     "blur": "shallow depth of field, crowd and background consoles softly out of focus while the plan and hands stay sharp",
     "soundscape": "paper unfolding and rustling, footsteps of people gathering around the table"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s24",
@@ -754,7 +756,8 @@
     "mood": "quiet, reflective, understated",
     "blur": "Shallow depth of field, Amu sharp, dim room background softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s28",
@@ -941,7 +944,8 @@
     "mood": "tense, urgent, focused",
     "blur": "Shallow depth of field: Amu and Boye sharp in the midground, the wall lights and console operator slightly soft.",
     "soundscape": "radio static hiss, printer clatter"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -996,7 +1000,8 @@
     "mood": "tense, secretive, ominous",
     "blur": "Shallow depth of field; the frosted depot walls and shelves behind them fall into soft blur while the case and faces stay sharp.",
     "soundscape": "metal case clasps snapping open, wind blowing outside the depot"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",
@@ -1080,7 +1085,8 @@
     "mood": "solemn, wistful, tense",
     "blur": "Shallow depth of field; Boye and the handset sharp, the wall of dots softly out of focus with glowing bokeh.",
     "soundscape": "radio static hiss, wind noise through the radio speaker"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s40",

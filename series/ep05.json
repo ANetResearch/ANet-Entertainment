@@ -220,7 +220,8 @@
     "mood": "tense, restrained, intimate",
     "blur": "Shallow focus on Amu and Boye; the cluttered shelves and stall entrance behind them fall softly out of focus.",
     "soundscape": "soft rasping of the coil turning, faint voices from the distant alley"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s09",
@@ -326,7 +327,8 @@
     "mood": "tense, focused, intimate",
     "blur": "shallow depth of field; Amu's shoulder in the foreground edge and the background pipes and valve wheel fall softly out of focus, with the paper strip in sharp focus",
     "soundscape": "water flowing through pipes, faint low hum of the valve body"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s13",
@@ -353,7 +355,8 @@
     "mood": "focused, methodical, quietly tense",
     "blur": "Shallow depth of field; the blinking node racks in the background are soft and out of focus.",
     "soundscape": "paper strips rubbing and sliding, node rack fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -579,7 +582,8 @@
     "mood": "tense, uneasy, investigative",
     "blur": "Shallow depth of field; the far end of the table and the background fall softly out of focus.",
     "soundscape": "low, steady scanner beeping tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s22",
@@ -608,7 +612,8 @@
     "mood": "calm, steady, contemplative",
     "blur": "Shallow depth of field, concrete wall behind him softly out of focus, with Amu sharp, including the scar on his left eyebrow.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s23",
@@ -693,7 +698,8 @@
     "mood": "focused, intimate, tense",
     "blur": "Shallow depth of field, Amu's shoulder softly blurred in the foreground, paper and Boye's face in focus, background dim and soft.",
     "soundscape": "fan humming"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s26",
@@ -787,7 +793,8 @@
     "mood": "earnest, tense, tender",
     "blur": "Shallow depth of field, the door and the pump-station interior behind them softly out of focus.",
     "soundscape": "pouch buckle clicking, distant water dripping"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s29",
@@ -811,7 +818,8 @@
     "mood": "quiet, uneasy, watchful",
     "blur": "deep focus, with the whole hall sharp and only the screen glow and the red lens giving soft light halos",
     "soundscape": "sparse keyboard clicks, low air-conditioning hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s30",
@@ -842,7 +850,8 @@
     "mood": "quiet, tense, investigative",
     "blur": "Shallow depth of field; the command hall background is soft and out of focus, with the paper strip and both faces sharp.",
     "soundscape": "low ambient hum of the command hall, faint room tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -876,7 +885,8 @@
     "mood": "tense, attentive, restrained",
     "blur": "Shallow depth of field: Amu's shoulder in the foreground and the display wall behind Xing are soft, with focus on Xing's face.",
     "soundscape": "keyboard typing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s32",
@@ -1090,7 +1100,8 @@
     "mood": "tense, intimate, earnest",
     "blur": "Shallow long-lens depth of field, with the door frame in the foreground softly out of focus and the background passage blurred.",
     "soundscape": "echoes in the steel passage, distant keyboard typing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s40",
@@ -1119,7 +1130,8 @@
     "mood": "reflective, wry, intimate",
     "blur": "Shallow depth of field, Amu's face sharp, the dim room background softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s41",

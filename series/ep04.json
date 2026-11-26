@@ -187,7 +187,8 @@
     "mood": "calm, wry, subdued",
     "blur": "Shallow depth of field; the room behind Amu falls into soft, dark blur while his face and hand stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -341,7 +342,8 @@
     "mood": "urgent, warm, hopeful",
     "blur": "Shallow depth of field; the rack and doorway in the background are slightly soft while Xiaoman and Amu stay sharp.",
     "soundscape": "distant fading tracked rolling sound, steady fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s13",
@@ -417,7 +419,8 @@
     "mood": "tense, focused, uneasy",
     "blur": "Shallow depth of field: the monitor and Amu's profile are sharp, his shoulder in the foreground and the room behind Xiaoman are soft.",
     "soundscape": "high-pitched CRT whine, intermittent data beeps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s16",
@@ -722,7 +725,8 @@
     "mood": "urgent, determined, warm",
     "blur": "Shallow depth of field, background machinery and shelves softly out of focus while both characters stay sharp.",
     "soundscape": "clinking metal parts, tool bag buckle clicks"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s27",
@@ -747,7 +751,8 @@
     "mood": "urgent, tense, lonely",
     "blur": "Shallow telephoto depth of field; the shuttered stalls and lamps in the background and foreground are soft, with the runners in sharper focus.",
     "soundscape": "rapid footsteps, splashing puddle water, humming ventilation ducts"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s28",
@@ -827,7 +832,8 @@
     "mood": "tense, claustrophobic, efficient",
     "blur": "shallow depth of field; the valve stem and pin hand stay sharp while the pipes and gallery far behind fall soft",
     "soundscape": "fabric rubbing against metal grating, hissing steam, two people's heavy breathing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -850,7 +856,8 @@
     "mood": "tense, tactile, determined",
     "blur": "Very shallow depth of field: only the pin and hole edge are sharp, while the fingers, linkage and background fall into soft darkness.",
     "soundscape": "crisp ringing hammer strikes on metal, faint ice chips skittering over steel"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s32",
@@ -953,7 +960,8 @@
     "mood": "weary, gritty, quietly warm",
     "blur": "Shallow depth of field; the truck headlights and engine bulk in the background are soft and glowing.",
     "soundscape": "wind, low engine rumble, idling engine"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s36",
@@ -987,7 +995,8 @@
     "mood": "warm, wry, companionable",
     "blur": "Shallow depth of field, the distant terrain and truck rear softly out of focus behind the two figures.",
     "soundscape": "dull thump of a glove on the truck body, laughter over the helmet comm, wind"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",
@@ -1103,7 +1112,8 @@
     "mood": "tense, gritty, suspicious",
     "blur": "Shallow depth of field; Amu and the technician stay sharp while the busy crowd and stall behind blur softly.",
     "soundscape": "noisy crowd chatter, spatula clanging on a wok"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s41",
@@ -1132,7 +1142,8 @@
     "mood": "calm, solemn, resolute",
     "blur": "Shallow depth of field, with the dim room background softly out of focus and Amu's face and hands sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s42",

@@ -72,7 +72,8 @@
     "mood": "tense, quiet, uneasy",
     "blur": "shallow focus on Amu's shoulder and hand with the red panel glow sharp; the far corridor softly out of focus",
     "soundscape": "a short sharp access-denied beep, steady corridor ventilation hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s04",
@@ -95,7 +96,8 @@
     "mood": "tense, frustrated, claustrophobic",
     "blur": "very shallow depth of field, with the glove edge and scratched steel wall softly out of focus beyond the pad surface",
     "soundscape": "repeated electronic rejection beeps, faint rubbing of glove material on the pad, low metallic hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s05",
@@ -119,7 +121,8 @@
     "mood": "tense, weary, oppressive",
     "blur": "Shallow depth of field keeping Amu, the reader and the clerk sharp, with the long queue behind him softly out of focus.",
     "soundscape": "terminal rejection beep, impatient murmuring of the waiting queue, shuffling feet, muffled street ambience"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s06",
@@ -143,7 +146,8 @@
     "mood": "isolated, weary, quietly tense",
     "blur": "Shallow telephoto depth of field; foreground queue figures softly blurred, focus held on Amu and his scarred eyebrow.",
     "soundscape": "noisy crowd chatter, tin lunch boxes clanking together, shuffling footsteps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s07",
@@ -172,7 +176,8 @@
     "mood": "quiet, wry, melancholic",
     "blur": "Shallow depth of field; the concrete wall and room corners behind him fall softly out of focus while his face and the card stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -196,7 +201,8 @@
     "mood": "tense, uneasy, restrained",
     "blur": "Shallow depth of field; the colleague in the aisle and the server racks behind fall soft, while Amu and the red screen stay sharp.",
     "soundscape": "server fan hum, relay clicking"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s09",
@@ -259,7 +265,8 @@
     "mood": "tense, cold, suppressed",
     "blur": "Shallow depth of field, Amu's face sharp while the server racks behind him are softly blurred.",
     "soundscape": "fan hum, faint electrical buzz"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s11",
@@ -283,7 +290,8 @@
     "mood": "oppressive, resigned, tense",
     "blur": "Shallow depth of field keeps Amu and the guards sharp while the rack equipment and the colleague in the background soften.",
     "soundscape": "footsteps on the metal floor, dull metallic thud of the hatch closing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s12",
@@ -313,7 +321,8 @@
     "mood": "tense, confrontational, restrained",
     "blur": "Shallow depth of field; background consoles and operators soft and out of focus while the two people stay sharp.",
     "soundscape": "keyboard clatter in the command hall, low murmured status reports"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s13",
@@ -347,7 +356,8 @@
     "mood": "tense, subdued, regretful",
     "blur": "Shallow depth of field; Amu's shoulder in the foreground and the dark display wall behind are soft, Xing is sharp.",
     "soundscape": "low command hall room tone, faint electronic hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -373,7 +383,8 @@
     "mood": "tense, covert, restrained",
     "blur": "Shallow depth of field, the dark display wall and red lens softly out of focus behind the sharp railing and hands.",
     "soundscape": "low electronic hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s15",
@@ -432,7 +443,8 @@
     "mood": "warm, quiet, tender",
     "blur": "Shallow depth of field; the deeper alley and distant main street are softly out of focus.",
     "soundscape": "distant crowd voices from the main street, dripping water"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -462,7 +474,8 @@
     "mood": "intimate, quiet, wary",
     "blur": "shallow depth of field, cluttered tools and stall shelves softly out of focus behind the two figures",
     "soundscape": "faint electrical hum inside the stall, footsteps in the alley outside"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s18",
@@ -545,7 +558,8 @@
     "mood": "tense, intimate, scrutinising",
     "blur": "shallow depth of field, shelves of old routers softly out of focus behind them",
     "soundscape": "paper rustling, desk lamp electrical hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s21",
@@ -579,7 +593,8 @@
     "mood": "tense, intimate, sceptical",
     "blur": "shallow depth of field, workshop shelves and clutter behind them soft and out of focus",
     "soundscape": "dull thud of knuckles rapping on the keyboard casing, faint workshop room tone"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s22",
@@ -712,7 +727,8 @@
     "mood": "focused, intimate, hands-on",
     "blur": "Shallow depth of field keeps Amu's hands and the battery bay sharp, while Boye's back at the bench behind is softly out of focus.",
     "soundscape": "sandpaper rasping against metal, faint scratching of abrasion"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s27",
@@ -746,7 +762,8 @@
     "mood": "dry, wry, intimate",
     "blur": "Shallow depth of field; stall clutter and the far end of the workshop soften into background blur.",
     "soundscape": "faint electrical hum of the stall, low current buzz"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s28",
@@ -945,7 +962,8 @@
     "mood": "playful, intimate, startled",
     "blur": "Shallow depth of field: the robot's back in the foreground is soft, the three faces stay mostly sharp, and the workshop behind them is blurred.",
     "soundscape": "humming of the track motors, a stool clattering to the floor"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -974,7 +992,8 @@
     "mood": "calm, matter-of-fact, intimate",
     "blur": "shallow depth of field, Amu sharp, dim room background softly out of focus",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s36",
@@ -1008,7 +1027,8 @@
     "mood": "intimate, quiet, hopeful",
     "blur": "Shallow depth of field; the robot and workshop clutter in the background fall soft while the two faces and the outstretched hand stay sharp.",
     "soundscape": "drawer sliding open, low hum of the robot's motor"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",
@@ -1031,7 +1051,8 @@
     "mood": "tense, intimate, hopeful",
     "blur": "Very shallow depth of field; only the button and LED are sharp, and the glove fabric edges and background fall into soft blur.",
     "soundscape": "a faint click of the button being pressed"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s38",

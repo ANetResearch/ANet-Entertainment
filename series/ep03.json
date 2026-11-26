@@ -104,7 +104,8 @@
     "mood": "curious, awestruck, documentary",
     "blur": "Shallow telephoto depth of field; foreground wheels and the distant depot background fall soft while the two walkers stay sharp.",
     "soundscape": "idling engines, distant shouting voices"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s05",
@@ -202,7 +203,8 @@
     "mood": "tense, stubborn, restrained",
     "blur": "Shallow depth of field; the massive truck track behind them is softly out of focus.",
     "soundscape": "idling engine hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -362,7 +364,8 @@
     "mood": "eerie, tense, desolate",
     "blur": "Shallow depth of field, the far end of the pump hall dissolving into dark, with dusty pumps in the foreground slightly soft",
     "soundscape": "harsh screech of the iron door scraping, echoing footsteps in the empty space, dripping water"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s14",
@@ -391,7 +394,8 @@
     "mood": "intimate, nostalgic, weathered",
     "blur": "Shallow depth of field; the wall and the pump station background fall softly out of focus behind Boye's face and hand.",
     "soundscape": "dull thud of patting the conduit, dripping water"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s15",
@@ -423,7 +427,8 @@
     "mood": "industrious, warm, hopeful",
     "blur": "Deep focus on the rack and both figures; the far pump-station walls fall into dim shadow beyond the lamp's glow.",
     "soundscape": "equipment clunking onto the iron rack, cables dragging across the floor, fan humming as it starts up"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s16",
@@ -448,7 +453,8 @@
     "mood": "tactile, focused, gritty",
     "blur": "Very shallow depth of field; the glove and stencil edge are sharp while the crate edges and background fall into soft blur.",
     "soundscape": "spray can hiss, steel ball rattling inside the can"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -789,7 +795,8 @@
     "mood": "tense, wry, understated",
     "blur": "Shallow depth of field; the pump station machinery in the background falls soft while Amu, Boye and the monitor stay sharp.",
     "soundscape": "high-pitched whine of the CRT monitor, Luosi's soft notification beeps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s29",
@@ -1013,7 +1020,8 @@
     "mood": "intimate, quiet, contemplative",
     "blur": "Shallow depth of field, Amu and his fingers sharp, the dim room background softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",

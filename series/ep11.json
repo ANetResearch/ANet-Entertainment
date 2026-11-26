@@ -56,7 +56,8 @@
     "mood": "tense, hushed, ominous",
     "blur": "Shoulders in the near foreground are soft, the radio stays sharp, and the background of the hall falls into blur.",
     "soundscape": "radio static crackle, distant keyboard typing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s03",
@@ -188,7 +189,8 @@
     "mood": "focused, tense, industrious",
     "blur": "Shallow depth of field, with the background racks and cables slightly soft behind the two figures and the monitor.",
     "soundscape": "steady fan whirring, relay clicking, low hum of the compute chassis"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -450,7 +452,8 @@
     "mood": "urgent, tense, decisive",
     "blur": "Shallow depth of field; the dark display wall and the command hall behind them fall soft and out of focus.",
     "soundscape": "low murmured status announcements in the command hall, keyboard typing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -660,7 +663,8 @@
     "mood": "focused, tense, determined",
     "blur": "Shallow depth of field; Amu and the drawing are sharp while the cramped bay and server equipment behind him fall soft.",
     "soundscape": "server fan hum, electrical crackle and static in the headset"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s25",
@@ -693,7 +697,8 @@
     "mood": "tense, quiet, anticipatory",
     "blur": "Shallow depth of field keeps Zhou sharp, while the crew and the airlock door behind her are softly out of focus.",
     "soundscape": "airlock pump hiss, metal latch clicks, faint rustle of thermal suit fabric"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s26",
@@ -769,7 +774,8 @@
     "mood": "focused, intimate, tense",
     "blur": "Shallow depth of field; the workbench and the bay background fall into soft blur while his face and hand stay sharp.",
     "soundscape": "steady fan hum, distant low rumbling heard faintly through the headset"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s29",
@@ -890,7 +896,8 @@
     "mood": "tense, solemn, hushed",
     "blur": "deep focus, the whole hall fairly sharp, with slight softness on the far display wall and the red lens glow",
     "soundscape": "radio static, muffled hissing from the old radio, suppressed breathing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s33",
@@ -1094,7 +1101,8 @@
     "mood": "calm, reflective, quiet",
     "blur": "Shallow depth of field, the dim room background softly out of focus while Amu's face and scarred left eyebrow stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s41",
@@ -1119,7 +1127,8 @@
     "mood": "awestruck, hushed, solemn",
     "blur": "Shallow telephoto depth of field, with people along the line at the near and far ends softly out of focus and the ice behind them blurred.",
     "soundscape": "wind, faint breathing over the radio"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s42",

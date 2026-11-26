@@ -124,7 +124,8 @@
     "mood": "quiet, uneasy, reflective",
     "blur": "Shallow depth of field; the concrete wall behind Amu is softly out of focus while his face and hand stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s06",
@@ -798,7 +799,8 @@
     "mood": "tense, chaotic, urgent",
     "blur": "Shallow telephoto depth of field; foreground bodies and the distant dark street are soft, with focus held on Amu.",
     "soundscape": "crowd clamour, distant crying and shouting, shuffling footsteps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
@@ -832,7 +834,8 @@
     "mood": "urgent, tense, anxious",
     "blur": "Shallow depth of field; the cracked concrete and the dark corridor behind the door fall slightly soft while Xiaoman and Amu stay sharp.",
     "soundscape": "concrete cracking and crumbling during an aftershock, heavy panting breath"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s32",
@@ -857,7 +860,8 @@
     "mood": "tense, strained, gritty",
     "blur": "shallow depth of field, crowbar and lock bar sharp, the people's faces and the corridor behind softly out of focus",
     "soundscape": "lock bar snapping open, metal door scraping and grinding"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s33",
@@ -908,7 +912,8 @@
     "mood": "tense, gritty, urgent",
     "blur": "Shallow depth of field: the chassis and hands stay sharp while the background pipes and dark ruins fall softly out of focus.",
     "soundscape": "scraping of rubble, heavy labored breathing"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s35",
@@ -942,7 +947,8 @@
     "mood": "tense, urgent, gritty",
     "blur": "Shallow focus on Amu and the rack, with falling dust and the ceiling softly blurred and Xiaoman slightly soft at the edge of the frame.",
     "soundscape": "deep rumbling of the earth, chunks of debris striking the ground"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s36",
@@ -971,7 +977,8 @@
     "mood": "somber, reflective, quietly resolute",
     "blur": "Shallow depth of field, face and hands sharp, dim room background softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s37",
@@ -1065,7 +1072,8 @@
     "mood": "tense, hushed, hopeful",
     "blur": "Shallow depth of field: hands and node box sharp, compute chassis and rubble background softly out of focus.",
     "soundscape": "clicks of the battery clips, soft breathing of two people, faint dust-settling rubble quiet"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s40",

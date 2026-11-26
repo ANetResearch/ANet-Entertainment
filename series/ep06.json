@@ -113,7 +113,8 @@
     "mood": "calm, reserved, understated",
     "blur": "Shallow depth of field; Amu's face sharp, the concrete wall behind him softly out of focus.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s05",
@@ -189,7 +190,8 @@
     "mood": "excited, hopeful, curious",
     "blur": "Moderate depth of field; the board's distant bulbs and wall edges soften slightly while the characters and chassis stay fairly sharp.",
     "soundscape": "relay clicking, fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s08",
@@ -299,7 +301,8 @@
     "mood": "contemplative, wry, understated",
     "blur": "Shallow depth of field; the bulbs on the board soften into warm out-of-focus glows behind the two faces.",
     "soundscape": "relay clicking, fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s12",
@@ -435,7 +438,8 @@
     "mood": "focused, instructive, quiet",
     "blur": "Shallow depth of field; the scribbled circles and squares and the server room background are slightly soft.",
     "soundscape": "chalk tapping on the steel door, fan hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s17",
@@ -521,7 +525,8 @@
     "mood": "calm, thoughtful, intimate",
     "blur": "Shallow depth of field, the dim room background softly out of focus while Amu and his hands stay sharp.",
     "soundscape": "quiet room tone, faint low background hum"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s20",
@@ -657,7 +662,8 @@
     "mood": "urgent, tense, startled",
     "blur": "Shallow depth of field: Xiaoman and the strip stay sharp, while Amu in the background and the rest of the server room are slightly soft.",
     "soundscape": "compute chassis fan humming, thermal printer head clattering, quick hurried footsteps"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s25",
@@ -687,7 +693,8 @@
     "mood": "tense, intimate, expectant",
     "blur": "Shallow depth of field; node lights in the background are soft, glowing bokeh, and Xiaoman's hand at the edge is slightly soft.",
     "soundscape": "radio static hiss, intermittent feedback squeals"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s26",
@@ -746,7 +753,8 @@
     "mood": "tense, hushed, expectant",
     "blur": "Shallow depth of field, focus on Amu and Boye, dark radio room background soft and out of focus.",
     "soundscape": "radio static, faint electronic hiss, several seconds of rustling empty white noise"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s28",
@@ -838,7 +846,8 @@
     "mood": "focused, warm, understated",
     "blur": "Shallow depth of field, server racks and cables in the background softly out of focus.",
     "soundscape": "radio static and noise, pencil scratching on cardboard"
-   }
+   },
+   "_amu_male": true
   },
   {
    "id": "s31",
