@@ -1,0 +1,23 @@
+# ep12 s41_b  duration=8s  seed=1260281795
+# input images: ['episodes/ep12/storyboard/s41.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide sky shot from the ice plain: Jupiter far behind, shrunk to a small pale golden disc among the stars, a faint glowing trail around it, the dark curve of the horizon below. Blocking lock: Jupiter's small pale golden disc sits in the upper background centre among the stars, with the dark curve of the horizon along the bottom of the frame; no characters present.
+<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+On the ice plain, the night sky holds a small pale golden Jupiter among the stars, shrinking steadily as the camera drifts away; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, locked-off frame with a very slow pull-back; pacing: natural speed, a single continuous take with no cut. Blocking lock: Jupiter's small pale golden disc sits in the upper background centre among the stars, with the dark curve of the horizon along the bottom of the frame; no characters present. Start: Jupiter hangs as a small pale golden disc in the star field, a faint glowing trail around it, above the dark horizon curve. Middle: The camera eases back almost imperceptibly and the golden disc continues to shrink bit by bit against the stars. End: Jupiter is reduced to a tiny pale golden point in the vast starry sky above the dark horizon. Mood: lonely, vast, quiet. Blur: Deep focus; stars and horizon are sharp, with only a soft glow haloing the planet. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

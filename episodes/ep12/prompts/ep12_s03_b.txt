@@ -1,0 +1,25 @@
+# ep12 s03_b  duration=8s  seed=2046869217
+# input images: ['episodes/ep12/storyboard/s03.png', 'refs/locations/loc_street.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot of a patched steel wall on the main street: a large hand-sprayed red speech-bubble smiley with node lines on the wall, smaller smiley stickers on pipes and a cabin door, a woman in a padded jacket pressing a new sticker onto a mailbox. Blocking lock: the large hand-sprayed red speech-bubble smiley with node lines fills frame left and centre of the patched steel wall, smaller smiley stickers sit on pipes and a cabin door at right, and the woman in a padded jacket stands at right foreground at the mailbox.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+On a main street, a handheld camera pans slowly across a patched steel wall covered in smiley graffiti and stickers as a woman presses a new sticker onto a mailbox; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slow horizontal pan and a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the large hand-sprayed red speech-bubble smiley with node lines fills frame left and centre of the patched steel wall, smaller smiley stickers sit on pipes and a cabin door at right, and the woman in a padded jacket stands at right foreground at the mailbox. Start: The camera rests on the large red hand-sprayed smiley and its node lines on the patched steel wall, with small stickers visible on the pipes. Middle: The pan drifts right across the pipes and cabin door, with their small smiley stickers, toward the woman at the mailbox. End: The woman presses a new sticker onto the mailbox and flattens it with the heel of her palm. Mood: warm, lived-in, quietly hopeful. Blur: Moderate depth of field; the wall and woman are sharp while distant street passersby are softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+street crowd chatter, distant hammering and banging; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

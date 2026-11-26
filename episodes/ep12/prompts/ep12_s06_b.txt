@@ -1,0 +1,27 @@
+# ep12 s06_b  duration=10s  seed=2086907357
+# input images: ['episodes/ep12/storyboard/s06.png', 'refs/characters/xiaoman.png', 'refs/characters/luosi.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the tiny repair stall under the warm desk lamp: the crushed, dented yellow shell of the small tracked maintenance robot lies opened on the bench, its square screen cracked and dark, one track missing; Xiaoman bends over it with a soldering iron, headphones around his neck. Blocking lock: Xiaoman is centre-right, bent over the workbench; the opened yellow robot shell with its cracked dark screen lies centre foreground on the bench; the roller shutter edge frames the left foreground; the dim alley is in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 3>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+Inside a tiny repair stall lit by a warm desk lamp, Xiaoman hunches over the crushed yellow robot wreck on the bench and solders its wires one by one; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld from outside the roller shutter looking in, with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman is centre-right, bent over the workbench; the opened yellow robot shell with its cracked dark screen lies centre foreground on the bench; the roller shutter edge frames the left foreground; the dim alley is in the background. Start: Xiaoman sits hunched over the bench, soldering iron in hand, with headphones around his neck, while the dark, cracked screen of the crushed robot lies in front of him. Middle: He carefully joins one wire to the next, touching the iron to a joint as the lamp light glows on the dented yellow shell. End: A thin wisp of smoke curls up from the fresh solder joint as he keeps his head bowed over the work. Mood: quiet, melancholic, tender. Blur: Shallow focus on Xiaoman and the robot wreck; the roller shutter edge in the foreground and the alley behind are softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+electric soldering iron sizzling, faint voices drifting from the alley; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

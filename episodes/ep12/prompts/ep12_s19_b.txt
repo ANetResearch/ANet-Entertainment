@@ -1,0 +1,25 @@
+# ep12 s19_b  duration=10s  seed=59424359
+# input images: ['episodes/ep12/storyboard/s19.png', 'refs/characters/amu.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the glass-walled meeting room: Amu standing at the steel table, pushing the closed folder back toward the grey-haired official in the dark-blue coat, Governor Xing seated at the side watching him. Blocking lock: Amu stands at the steel table in centre frame, the grey-haired official in the dark-blue coat across from him at frame right, Governor Xing seated at the side at frame left, glass wall behind them.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In the glass-walled meeting room, Amu stands at the steel table and calmly pushes the closed folder back to the official while Governor Xing watches; the clip opens and ends on the single line "谢谢。这个署长，我不当。这张网，也不该有署长。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu stands at the steel table in centre frame, the grey-haired official in the dark-blue coat across from him at frame right, Governor Xing seated at the side at frame left, glass wall behind them. Start: Amu stands at the steel table with his hand resting on the closed folder in front of him. Middle: He gently slides the closed folder across the steel table back toward the official in the dark-blue coat. End: He withdraws his hand and remains standing, composed and calm, as Governor Xing keeps watching from her seat. Mood: calm, resolute, quietly tense. Blur: Shallow depth of field; the glass wall and the office staff beyond it are softly out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 谢谢。这个署长，我不当。这张网，也不该有署长。</d>; Final line of this shot: end on “，也不该有署长。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint distant keyboard typing beyond the glass wall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

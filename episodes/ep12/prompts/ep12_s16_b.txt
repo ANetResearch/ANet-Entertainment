@@ -1,0 +1,23 @@
+# ep12 s16_b  duration=10s  seed=1537785392
+# input images: ['episodes/ep12/storyboard/s16.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot in the repair stall at night: Xiaoman at the bench with the opened robot wreck, turning on his stool toward Amu, who leans against a shelf of old routers with his arms crossed, warm desk lamp between them. Blocking lock: Xiaoman sits on a stool at the bench at frame left, Amu leans against the shelf of old routers at frame right with arms crossed, the warm desk lamp sits between them at centre, and the opened robot wreck lies on the bench in the foreground.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Night in the repair stall, Xiaoman turns from the robot wreck to ask Amu a half-joking question and he calmly answers back, opening with "牧哥，你当署长，总比别人当强吧？" and ending on "强的是我。那我之后呢？"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a subtle natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits on a stool at the bench at frame left, Amu leans against the shelf of old routers at frame right with arms crossed, the warm desk lamp sits between them at centre, and the opened robot wreck lies on the bench in the foreground. Start: Xiaoman sets his tweezers down on the bench beside the opened robot wreck while Amu stays leaning against the shelf, watching the wreck. Middle: Xiaoman turns on his stool to face Amu with a half-joking look, while he keeps his arms crossed and his eyes on the wreck. End: Amu calmly turns his gaze to Xiaoman and holds it, while he hesitates with no reply and the lamp glows between them. Mood: quiet, intimate, contemplative. Blur: Shallow depth of field, the router shelf and stall background softly out of focus behind the two figures. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 牧哥，你当署长，总比别人当强吧？</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 强的是我。那我之后呢？</d>; Final line of this shot: end on “我。那我之后呢？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+desk lamp electrical hum, footsteps in the alley outside; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

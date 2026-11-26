@@ -1,0 +1,23 @@
+# ep12 s04_b  duration=9s  seed=771674543
+# input images: ['episodes/ep12/storyboard/s04.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. High angle looking down at the steel floor of an alley: three children in oversized padded coats kneeling and drawing a big smiley face inside a speech bubble with chalk, a small toy tracked robot made of tin cans beside them. Blocking lock: three children kneel in the centre of frame around the chalk smiley face, the tin-can toy tracked robot at frame right beside the drawing, and the steel alley floor fills the background below.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a steel-floored alley, three children in oversized padded coats kneel and chalk a big smiley face inside a speech bubble, then push a tin-can toy tracked robot beside it and look up at the camera, laughing.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, high angle, handheld overhead shot looking down with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: three children kneel in the centre of frame around the chalk smiley face, the tin-can toy tracked robot at frame right beside the drawing, and the steel alley floor fills the background below. Start: The three children kneel on the steel floor, heads bowed, drawing the outline of a smiley face inside a speech bubble with chalk. Middle: One child pushes the tin-can toy tracked robot across the steel floor until it sits beside the finished chalk smiley face. End: The child lets go of the toy and the children look up toward the camera, grinning and laughing. Mood: playful, warm, innocent. Blur: Shallow depth of field, focus on the children and chalk drawing, alley edges and walls softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+chalk scraping on steel plate, children's laughter; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

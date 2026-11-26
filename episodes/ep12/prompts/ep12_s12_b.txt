@@ -1,0 +1,27 @@
+# ep12 s12_b  duration=10s  seed=1215644462
+# input images: ['episodes/ep12/storyboard/s12.png', 'refs/characters/xing.png', 'refs/characters/jin.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot in the pump-station machine room: Governor Xing in her charcoal uniform standing by the doorway, facing Boss Jin with his arm in a sling, node lights blinking between them. Blocking lock: Governor Xing in charcoal uniform stands frame left by the doorway, Boss Jin with his arm in a sling stands frame right, blinking node lights sit between them in the centre.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In the pump-station machine room, Governor Xing questions Boss Jin, who answers gruffly while tapping a node box; the clip opens with "我只问一句：没有署，出了错找谁？" and ends on "找账。账在所有人手里。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a slight natural shake, slow pan between the two figures; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in charcoal uniform stands frame left by the doorway, Boss Jin with his arm in a sling stands frame right, blinking node lights sit between them in the centre. Start: Governor Xing stands by the doorway facing Boss Jin, her posture firm and attentive, node lights blinking between them. Middle: The camera pans slowly across to Boss Jin, who raises his good hand and pats the node box beside him. End: Boss Jin holds his hand on the node box and stands his ground, while Governor Xing remains still by the doorway. Mood: tense, earnest, confrontational. Blur: Shallow depth of field, the machine room's pipes and equipment in the background softly out of focus. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 我只问一句：没有署，出了错找谁？</d>; Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 找账。账在所有人手里。</d>; Final line of this shot: end on “账在所有人手里。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+fan hum, distant dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

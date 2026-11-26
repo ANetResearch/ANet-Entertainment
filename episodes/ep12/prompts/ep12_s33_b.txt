@@ -1,0 +1,23 @@
+# ep12 s33_b  duration=12s  seed=901313080
+# input images: ['episodes/ep12/storyboard/s33.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle close two-shot at bench height: the small yellow tracked robot's screen glowing with the red speech-bubble smiley, lighting the face of Xiaoman crouched level with it, eyes wet, old Boye blurred behind with his glasses pushed up. Blocking lock: Luosi's glowing screen sits foreground frame-left of centre, Xiaoman crouched at frame-right of centre facing it at the same level, and old Boye blurred in the background at centre with his glasses pushed up.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+At a workbench, the small yellow robot Luosi's smiley screen lights up steadily and Xiaoman, crouched in front of it with wet eyes, greets it with the single line 「……嘿。你回来啦。」, which both opens and closes the clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle close two-shot at bench height, handheld with a slight natural shake, slow push-in toward the robot's screen and Xiaoman's face.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi's glowing screen sits foreground frame-left of centre, Xiaoman crouched at frame-right of centre facing it at the same level, and old Boye blurred in the background at centre with his glasses pushed up. Start: The smiley face on Luosi's screen flickers, then glows steadily, throwing red light across Xiaoman's face as she crouches level with the robot. Middle: Luosi's tracks turn gently through half a rotation and the robot gives one short beep, while Xiaoman keeps her eyes fixed on the screen. End: Xiaoman, red-eyed and still crouched in front of the robot, breaks into a small, teary smile as the camera settles close on her. Mood: tender, emotional, hopeful. Blur: Very shallow depth of field: the robot screen and Xiaoman's face are sharp, while Boye and the workshop behind them fall into soft blur. Xiaoman (young male voice, quick and light) says, <d>[Chinese] ……嘿。你回来啦。</d>; Final line of this shot: end on “…嘿。你回来啦。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low electric motor hum, a short electronic beep; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
