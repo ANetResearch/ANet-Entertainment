@@ -186,24 +186,32 @@ def render(job):
                 return i, probe(out, stream=True)          # reuse a segment rendered by an interrupted run
         except Exception:
             pass
-    vf = [f"scale={W}:{H}:flags=lanczos,setsar=1,fps={FPS}", GRADE[era]]
+    # exact frame count by filter (an output frame limit would stop before loudnorm's look-ahead is flushed)
+    vf = [f"scale={W}:{H}:flags=lanczos,setsar=1,fps={FPS}", GRADE[era],
+          "tpad=stop_mode=clone:stop_duration=0.2", f"trim=end_frame={round(length * FPS)},setpts=PTS-STARTPTS"]
     gain = e.get("gain", 0)
     level = [f"loudnorm=I={-19 if talk else -26}:TP=-2:LRA=11", e.get("afx", "anull"),
              f"volume={gain}dB" if gain else "anull", "aresample=48000"]
     fades = ["afade=t=in:d=0.03", f"afade=t=out:st={max(0, length - 0.04):.3f}:d=0.04"]
     jl = min(e.get("j", 0), ss)
+    # sound: timestamps restarted (the AAC source starts a few ms late after a seek), padded and cut to the exact sample
+    n_a = round(length * 48000)
+    tail = ["apad", f"atrim=end_sample={n_a}"]
+    inp = ["-ss", f"{ss:.3f}", "-t", f"{length + 0.6:.3f}", "-i", src]
     if e.get("mute"):
-        ff("-ss", f"{ss:.3f}", "-i", src, "-t", f"{length:.4f}", "-vf", ",".join(vf),
-           "-af", f"volume=0,aresample=48000,apad,atrim=0:{length:.4f}", *VENC_SEG, "-frames:v", str(round(length * FPS)), *AENC_SEG, out)
+        ff(*inp, "-vf", ",".join(vf), "-af", ",".join(["asetpts=PTS-STARTPTS", "volume=0", "aresample=48000"] + tail),
+           *VENC_SEG, *AENC_SEG, out)
     elif jl:
         # J-cut: level the sound from (ss - j) on, keep the first j seconds as the pre-lap, the rest as the segment's sound
         wav = out[:-4] + "_pre.wav"
-        ff("-ss", f"{ss - jl:.3f}", "-i", src, "-t", f"{length + jl:.4f}", "-vn", "-af", ",".join(level), "-ac", "2", wav)
-        ff("-ss", f"{ss:.3f}", "-i", src, "-ss", f"{jl:.3f}", "-i", wav, "-t", f"{length:.4f}", "-map", "0:v", "-map", "1:a",
-           "-vf", ",".join(vf), "-af", ",".join(fades + ["apad", f"atrim=0:{length:.4f}"]), *VENC_SEG, "-frames:v", str(round(length * FPS)), *AENC_SEG, out)
+        ff("-ss", f"{ss - jl:.3f}", "-t", f"{length + jl + 0.6:.3f}", "-i", src, "-vn", "-af",
+           ",".join(["asetpts=PTS-STARTPTS"] + level + ["apad", f"atrim=end_sample={round((length + jl) * 48000)}"]),
+           "-ac", "2", "-c:a", "pcm_s16le", wav)
+        ff(*inp, "-ss", f"{jl:.3f}", "-i", wav, "-map", "0:v", "-map", "1:a", "-vf", ",".join(vf),
+           "-af", ",".join(["asetpts=PTS-STARTPTS"] + fades + tail), *VENC_SEG, *AENC_SEG, out)
     else:
-        ff("-ss", f"{ss:.3f}", "-i", src, "-t", f"{length:.4f}", "-vf", ",".join(vf),
-           "-af", ",".join(level + fades + ["apad", f"atrim=0:{length:.4f}"]), *VENC_SEG, "-frames:v", str(round(length * FPS)), *AENC_SEG, out)
+        ff(*inp, "-vf", ",".join(vf), "-af", ",".join(["asetpts=PTS-STARTPTS"] + level + fades + tail),
+           *VENC_SEG, *AENC_SEG, out)
     return i, probe(out, stream=True)
 
 
@@ -247,7 +255,7 @@ def main():
             a = e.get("a")
             ss = max(0.0, (s0 - 0.15) if a is None else a)
             end = min(dur - 0.05, ss + e["len"])
-        length = round((end - ss) * FPS) / FPS        # whole frames, so that picture and sound stay the same length
+        length = int((end - ss) * FPS + 1e-6) / FPS     # whole frames, so that picture and sound stay the same length
         o = os.path.join(tmp, f"{i:02d}_{sid}.mkv")
         jobs.append((i, e, src, ss, length, o, sh["era"], bool(sh["dialogue"]) and not e.get("mute")))
         segs.append(dict(e, file=o, src=src, ss=ss, edl=i))
@@ -300,6 +308,9 @@ def main():
     open(gfile, "w").write(graph)
     ff(*args, "-filter_complex_script", gfile, "-map", vlab, "-map", "[aout]", *VENC, *AENC, "-movflags", "+faststart", out)
     total = probe(out)
+    a_out = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a:0", "-show_entries", "stream=duration", "-of",
+                            "csv=p=0", out], capture_output=True, text=True).stdout.strip()
+    print(f"picture {probe(out, stream=True):.3f}s, sound {a_out}s")
     json.dump({"takes": used, "segments": [{k: v for k, v in s.items() if k in ("shot", "ss", "length", "t", "tag", "card")}
                                            | {"start": round(st, 3)} for s, st in zip(segs, starts)], "duration": total},
               open(out[:-4] + ".edl.json", "w"), ensure_ascii=False, indent=1)

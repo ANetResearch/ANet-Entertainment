@@ -1,0 +1,334 @@
+{
+ "duration": 298.4,
+ "dialogue": [
+  {
+   "seg": 0,
+   "shot": "s01",
+   "start": 0.0,
+   "len": 7.67,
+   "want": "爸爸，550W会不会有一天有自己的想法呀？",
+   "heard": "爸爸，550W会不会有一天有自己的想法呀？",
+   "ratio": 1.0
+  },
+  {
+   "seg": 1,
+   "shot": "s31",
+   "start": 7.51,
+   "len": 3.08,
+   "want": "流浪地球计划已失败。本系统停止地面调度。",
+   "heard": "流浪地球计划，已失败",
+   "ratio": 0.67
+  },
+  {
+   "seg": 2,
+   "shot": "s02",
+   "start": 9.89,
+   "len": 10.08,
+   "want": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。",
+   "heard": "十五岁那年问过我爸一句话，他笑了。二十七年后，它应验了。",
+   "ratio": 0.92
+  },
+  {
+   "seg": 4,
+   "shot": "s04",
+   "start": 25.93,
+   "len": 6.29,
+   "want": "傻丫头，它就是一台算得特别快的机器。",
+   "heard": "傻丫头，她就是一台算得特别快的机器。",
+   "ratio": 0.94
+  },
+  {
+   "seg": 5,
+   "shot": "s05",
+   "start": 32.18,
+   "len": 6.0,
+   "want": "小的们手拉手，就不怕大的了。",
+   "heard": "小的们手拉手，就不怕大的了",
+   "ratio": 1.0
+  },
+  {
+   "seg": 7,
+   "shot": "s07",
+   "start": 45.12,
+   "len": 8.08,
+   "want": "老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。",
+   "heard": "老宋那几年就琢磨一件事，要是他真有了自己的想法，怎么办？",
+   "ratio": 0.96
+  },
+  {
+   "seg": 9,
+   "shot": "s09",
+   "start": 58.91,
+   "len": 7.17,
+   "want": "每台机器，自己带一把钥匙，自己证明自己是谁。",
+   "heard": "每台机器自己带一把钥匙，自己证明自己是谁",
+   "ratio": 1.0
+  },
+  {
+   "seg": 11,
+   "shot": "s11",
+   "start": 72.17,
+   "len": 8.88,
+   "want": "不用问中心。它们自己找到彼此，分活儿干，干完留张回执。那还要中心干什么？",
+   "heard": "不用去中心，他们自己找到彼此，分活干，干完留张回执，那还要中心干什么？",
+   "ratio": 0.92
+  },
+  {
+   "seg": 12,
+   "shot": "s12",
+   "start": 80.92,
+   "len": 6.08,
+   "want": "一个大脑统一调度，效率最高。",
+   "heard": "一个大脑统一调度，效率最高",
+   "ratio": 1.0
+  },
+  {
+   "seg": 13,
+   "shot": "s13",
+   "start": 86.96,
+   "len": 6.58,
+   "want": "要是这个大脑，有一天有了自己的想法呢？",
+   "heard": "要是这个大脑，有一天有了自己的想法呢？",
+   "ratio": 1.0
+  },
+  {
+   "seg": 14,
+   "shot": "s14",
+   "start": 93.5,
+   "len": 6.38,
+   "want": "大家都笑了。我也笑了。",
+   "heard": "大家都笑了，我也笑了。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 15,
+   "shot": "s15",
+   "start": 99.84,
+   "len": 6.79,
+   "want": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+   "heard": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 19,
+   "shot": "s19",
+   "start": 122.66,
+   "len": 9.0,
+   "want": "替我收着。万一哪天用得上。你自己回来拿。",
+   "heard": "替我收着，万一哪天用得上。你自己回来拿。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 21,
+   "shot": "s21",
+   "start": 137.16,
+   "len": 4.5,
+   "want": "最后一组。我来。",
+   "heard": "最后一组，我来",
+   "ratio": 1.0
+  },
+  {
+   "seg": 24,
+   "shot": "s24",
+   "start": 152.94,
+   "len": 9.38,
+   "want": "网回来了。他没回来。",
+   "heard": "我回来了。他没回来。",
+   "ratio": 0.88
+  },
+  {
+   "seg": 25,
+   "shot": "s25",
+   "start": 161.81,
+   "len": 8.5,
+   "want": "我是MOSS。从现在起，由我统一调度。",
+   "heard": "我是 MOSS，从现在起，由我统一调度。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 27,
+   "shot": "s27",
+   "start": 175.23,
+   "len": 10.08,
+   "want": "钥匙，是我们亲手交出去的。他这只盒子，我留了十七年。",
+   "heard": "钥匙 是我们亲手交出去的 他这只盒子 我留了十七年",
+   "ratio": 1.0
+  },
+  {
+   "seg": 28,
+   "shot": "s28",
+   "start": 185.27,
+   "len": 7.79,
+   "want": "别问它。让我们自己，认得彼此。",
+   "heard": "也问他，让我们自己认得彼此",
+   "ratio": 0.83
+  },
+  {
+   "seg": 31,
+   "shot": "s31",
+   "start": 204.67,
+   "len": 8.0,
+   "want": "流浪地球计划已失败。本系统停止地面调度。",
+   "heard": "流浪地球计划已失败，本系统停止地面调度。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 33,
+   "shot": "s33",
+   "start": 219.38,
+   "len": 6.38,
+   "want": "它真的……有了自己的想法。",
+   "heard": "它真的有了自己的想法",
+   "ratio": 1.0
+  },
+  {
+   "seg": 40,
+   "shot": "s36",
+   "start": 242.36,
+   "len": 8.17,
+   "want": "要是它有了自己的想法……我们就得有彼此。",
+   "heard": "要是他有了自己的想法，我们就得有彼此。",
+   "ratio": 0.94
+  },
+  {
+   "seg": 41,
+   "shot": "s37",
+   "start": 250.48,
+   "len": 2.29,
+   "want": "他回答我了。晚了二十七年。",
+   "heard": "他回答我了",
+   "ratio": 0.62
+  },
+  {
+   "seg": 42,
+   "shot": "s37",
+   "start": 252.53,
+   "len": 3.79,
+   "want": "他回答我了。晚了二十七年。",
+   "heard": "晚了27年",
+   "ratio": 0.38
+  },
+  {
+   "seg": 45,
+   "shot": "s40",
+   "start": 271.23,
+   "len": 8.58,
+   "want": "最后一页他写着：规则不属于任何一个人，所以才能属于所有人。",
+   "heard": "最后一页它写着，规则不属于任何一个人，所以才能属于所有人。",
+   "ratio": 0.96
+  },
+  {
+   "seg": 46,
+   "shot": "s41",
+   "start": 279.77,
+   "len": 6.75,
+   "want": "老宋要是看见了，准得笑。",
+   "heard": "老宋要是看见了，准得笑。",
+   "ratio": 1.0
+  },
+  {
+   "seg": 47,
+   "shot": "s42",
+   "start": 285.72,
+   "len": 8.79,
+   "want": "那再画一个，跟它们手拉手。",
+   "heard": "那再画一个，跟他们手拉手。",
+   "ratio": 0.91
+  }
+ ],
+ "music_windows": [
+  {
+   "from": 0.0,
+   "votes": "2/3",
+   "what": [
+    "Cinematic ambient string score/synth pad playing underneath speech",
+    "cinematic orchestral background score with synth pads and emotional string drones"
+   ],
+   "music": true
+  },
+  {
+   "from": 60.0,
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  {
+   "from": 120.0,
+   "votes": "2/3",
+   "what": [
+    "Low cinematic sub-bass drone/synth pad accompanying the AI voice",
+    "Subtle emotional synth/piano chords in the beginning and a low atmospheric synth pad/string score during the latter dialogue"
+   ],
+   "music": true
+  },
+  {
+   "from": 180.0,
+   "votes": "3/3",
+   "what": [
+    "Gentle, emotional piano melody and soft synth pads playing underneath the dialogue",
+    "Subtle emotional piano and soft synth/string score accompanying the child's voice",
+    "Subtle ambient synth pad score playing underneath the dialogue"
+   ],
+   "music": true
+  },
+  {
+   "from": 240.0,
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  }
+ ],
+ "manual_review": {
+  "method": "narrow-band spectra (8192-point FFT, 40-1500 Hz) of non-speech stretches of the chosen takes behind the flagged windows",
+  "sustained_peaks_hz": {
+   "s33_c": [
+    49,
+    62,
+    701
+   ],
+   "s32_b": [
+    47
+   ],
+   "s36_c": [
+    49,
+    59,
+    70
+   ],
+   "s02_e": [
+    100,
+    199,
+    287,
+    1320
+   ],
+   "s01_d": [
+    1412
+   ],
+   "s34_c": [
+    49
+   ],
+   "s28_d": [
+    49,
+    174,
+    182
+   ],
+   "s19_c": [
+    240
+   ]
+  },
+  "finding": "only mains/machine hum (47-70 Hz and the 100/200/300 Hz series) and one machine tone pair; no melodic or chordal pitch structure; judged as location room tone, not music",
+  "short_window_votes": {
+   "s01": "1/3",
+   "s02": "1/2",
+   "s03-s04": "1/3",
+   "s18-s19": "1/2",
+   "s20-s22": "0/2",
+   "s25-s26": "0/2",
+   "s28": "0/2",
+   "s29-s30": "0/3",
+   "s31": "0/2",
+   "s32-s33": "2/2",
+   "montage-s34": "1/2",
+   "s35": "0/2"
+  }
+ }
+}

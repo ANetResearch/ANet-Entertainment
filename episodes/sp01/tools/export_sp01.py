@@ -21,7 +21,7 @@ OUT = os.path.join(REPO, "episodes", "sp01")
 LIMIT = 95 * 2**20
 TOOLS = ["cfg.py", "pipeline_sp01.py", "director.py", "director_system.md", "rag.py", "rag_vocab_sp01.jsonl", "styles.py",
          "style_presets.json", "qc_sp01.py", "music_check.py", "edit_sp01.py", "build_sp01.py", "build_refs_sp01.py", "ir.py",
-         "review_sheet.py", "task_status.py", "gen_image.py", "export_sp01.py", "sheet.py", "speech_times.py"]
+         "review_sheet.py", "task_status.py", "gen_image.py", "export_sp01.py", "sheet.py", "speech_times.py", "qc_cut_sp01.py"]
 
 
 def cp(src, dst):
@@ -116,9 +116,10 @@ def main():
             shutil.copy2(os.path.join(ROOT, f), f"{OUT}/{dst}")
     if cut:
         cp(cut, f"{OUT}/sp01-roughcut.mp4")
-        edl = cut[:-4] + ".edl.json"
-        if os.path.exists(edl):
-            shutil.copy2(edl, f"{OUT}/roughcut_edl.json")
+        base = cut.replace("-repo.mp4", ".mp4")[:-4]          # the EDL and QC sit next to the full-quality master
+        for ext, dst in ((".edl.json", "roughcut_edl.json"), (".qc.json", "roughcut_qc.json")):
+            if os.path.exists(base + ext):
+                shutil.copy2(base + ext, f"{OUT}/{dst}")
     n = sum(1 for _ in glob.glob(f"{OUT}/clips/*.mp4"))
     print(f"exported: {n} clips, {len(glob.glob(f'{OUT}/alt/*.mp4'))} alt takes")
 
