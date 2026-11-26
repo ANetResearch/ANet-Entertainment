@@ -1,0 +1,23 @@
+# ep03 s04_b  duration=8s  seed=839703038
+# input images: ['episodes/ep03/storyboard/s04.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot across the depot floor: young Xiaoman in his oversized army-green jacket hugging a small old ammunition tin with a short antenna against his chest, walking beside Amu in his orange-grey coverall between the giant truck wheels. Blocking lock: Amu in orange-grey coverall at frame right, Xiaoman in oversized army-green jacket just left of him, both walking through the midground, giant truck wheels framing foreground and background.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside the convoy depot, young Xiaoman hugs an old antenna tin and follows Amu between giant truck wheels, gazing up at the towering vehicles; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, telephoto candid capture from between the truck wheels, slight handheld drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu in orange-grey coverall at frame right, Xiaoman in oversized army-green jacket just left of him, both walking through the midground, giant truck wheels framing foreground and background. Start: Xiaoman walks beside Amu, both hands clutching the old tin with its short antenna against his chest. Middle: They move deeper into the convoy while Xiaoman tilts his head back to look up at the trucks, taller than houses. End: The two continue between the huge wheels, Xiaoman still staring upward, the tin held tight. Mood: curious, awestruck, documentary. Blur: Shallow telephoto depth of field; foreground wheels and the distant depot background fall soft while the two walkers stay sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+idling engines, distant shouting voices; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

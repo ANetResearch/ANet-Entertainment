@@ -1,0 +1,25 @@
+# ep03 s33_b  duration=8s  seed=1479857180
+# input images: ['episodes/ep03/storyboard/s33.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a thick black glove turning a wrench on a frost-crusted bolt on a hydraulic valve block, ice cracking off the metal, a bead of dark fluid forming. Blocking lock: the thick black glove and wrench are at frame centre, the frosted bolt and valve block fill the foreground and centre, and the dark metal housing recedes softly in the background.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+In a freezing mechanical space, a gloved hand uses a wrench to slowly force a frost-crusted bolt on a hydraulic valve block through a half turn, cracking the ice and releasing a bead of hydraulic fluid; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with only a faint vibration from the wrench's pressure; pacing: natural speed, a single continuous take with no cut. Blocking lock: the thick black glove and wrench are at frame centre, the frosted bolt and valve block fill the foreground and centre, and the dark metal housing recedes softly in the background. Start: The thick black glove grips the wrench and presses it firmly against the ice-covered bolt, the frost crust still intact. Middle: The wrench slowly turns the bolt about half a rotation, and the ice shell cracks and flakes off the metal in pieces. End: The last ice fragments fall away and a bead of dark hydraulic fluid seeps from the loosened bolt and swells on the valve block. Mood: tense, tactile, cold. Blur: very shallow depth of field, only the bolt threads and ice edge in sharp focus, glove and valve block background falling into soft blur No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+ice shell cracking, metal creaking; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

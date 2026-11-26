@@ -1,0 +1,23 @@
+# ep03 s41_b  duration=8s  seed=1779284854
+# input images: ['episodes/ep03/storyboard/s41.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of the round red speech-bubble smiley sticker on the scuffed truck dashboard, lit by green instrument glow, and through the windscreen behind it the blurred bright disc of Jupiter. Blocking lock: the round red smiley sticker sits at frame centre in the foreground on the scuffed dashboard, with the windscreen and the blurred Jupiter disc filling the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+In a macro close-up inside the truck cab, a red smiley sticker on the scuffed dashboard trembles gently while blurred Jupiter drifts slowly past the windscreen behind it; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the round red smiley sticker sits at frame centre in the foreground on the scuffed dashboard, with the windscreen and the blurred Jupiter disc filling the background. Start: The red smiley sticker sits in sharp focus on the dashboard, lit by green instrument glow, trembling faintly with the vibration of the truck body. Middle: The sticker keeps shivering softly while the blurred Jupiter disc slides slowly across the windscreen behind it. End: Jupiter has drifted further across the glass, and the sticker is still trembling gently in the green light. Mood: quiet, lonely, contemplative. Blur: Extremely shallow depth of field: only the sticker is sharp, while the windscreen and Jupiter dissolve into a soft bright blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low deep engine rumble, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

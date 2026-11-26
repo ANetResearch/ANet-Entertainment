@@ -1,0 +1,29 @@
+# ep03 s05_b  duration=10s  seed=1141743005
+# input images: ['episodes/ep03/storyboard/s05.png', 'refs/characters/jin.png', 'refs/characters/xiaoman.png', 'refs/props/prop_node.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium view beside a truck cab ladder: Boss Jin, a head taller, stands next to young Xiaoman with a wrench held loosely at his side, looking sceptically down at the small dented steel tin with a short antenna that Xiaoman holds up in both hands. Blocking lock: Boss Jin stands tall at frame left pointing his wrench, Xiaoman at frame right holds the ammunition tin with its short antenna in both hands, the truck cab ladder in the background behind them.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is the handmade ANET node box with the smiley sticker from <Picture 4>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 5> is the frozen plain with the heavy-truck convoy from <Picture 5>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Beside a truck cab ladder, Boss Jin points his wrench at the tin Xiaoman is holding, and Xiaoman lifts it up with a grin; the clip opens with "这铁盒子是啥？" and ends on "一个朋友。给您的车作个伴。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 5> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin stands tall at frame left pointing his wrench, Xiaoman at frame right holds the ammunition tin with its short antenna in both hands, the truck cab ladder in the background behind them. Start: Boss Jin lowers his wrench toward the tin in Xiaoman's arms, his head tilted down at it, while Xiaoman hugs the tin to their chest. Middle: Xiaoman looks up at Boss Jin and begins to raise the tin with both hands, a grin spreading across their face. End: Xiaoman holds the tin high in front of them like an offering, still smiling, while Boss Jin keeps the wrench pointed at it. Mood: playful, gruff, warm. Blur: Shallow depth of field, truck cab and ladder softly out of focus behind the two figures. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 这铁盒子是啥？</d>; Xiaoman (young male voice, quick and light) says, <d>[Chinese] 一个朋友。给您的车作个伴。</d>; Final line of this shot: end on “给您的车作个伴。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+idling engine rumble, wind howling through the gap in the gate; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

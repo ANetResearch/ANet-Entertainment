@@ -1,0 +1,25 @@
+# ep03 s02_b  duration=9s  seed=1174400030
+# input images: ['episodes/ep03/storyboard/s02.png', 'refs/locations/loc_ice.png', 'refs/characters/jin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide handheld shot of a surface vehicle depot at the mouth of a huge tunnel gate: massive heavy-haul trucks lined up under floodlights, crew members in thick black surface suits checking tracks and cargo straps, frost on everything. Blocking lock: heavy-haul trucks line the frame from foreground left to the background centre, crew members in black surface suits stand beside them at centre and right, and the tunnel gate and floodlights fill the background.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+
+summary:
+At a frost-covered surface vehicle depot at the mouth of a huge tunnel gate, a handheld camera moves slowly along a row of parked heavy-haul trucks while crew members prepare them for departure; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld follow with a faint shake, slow forward movement along the row of trucks; pacing: natural speed, a single continuous take with no cut. Blocking lock: heavy-haul trucks line the frame from foreground left to the background centre, crew members in black surface suits stand beside them at centre and right, and the tunnel gate and floodlights fill the background. Start: The camera begins moving slowly along the first truck in the row while a crew member in a black suit checks its track in the floodlight. Middle: The camera continues past the trucks as other crew members pull cargo straps tight, their white breath swirling in the floodlights. End: The camera settles on a crew member finishing a strap check beside a truck, with the lined-up trucks stretching toward the tunnel gate behind. Mood: cold, busy, tense. Blur: deep focus on the trucks and crew near the camera, with the distant tunnel gate and floodlight glare slightly soft No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+idling engines, metal clanking, shouted calls between crew; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

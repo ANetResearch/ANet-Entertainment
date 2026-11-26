@@ -1,0 +1,27 @@
+# ep03 s16_b  duration=8s  seed=633388730
+# input images: ['episodes/ep03/storyboard/s16.png', 'refs/characters/amu.png', 'assets/logos/agent-network-logo.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of a hand in a fingerless work glove peeling a cardboard stencil away from the side of an old wooden crate, revealing a freshly sprayed black-and-white wordmark logo, paint mist still in the air. Blocking lock: gloved hand at frame centre pressing the stencil, old wooden crate side filling the midground, paint mist drifting in the foreground, dim background empty of people.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the Agent Network wordmark from <Picture 3>, serving as in-world logo reference. A red-and-black horizontal wordmark plate. Reproduce it exactly where it is stencilled on a crate or equipment case.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a workshop, a gloved hand holds a cardboard stencil against an old wooden crate, sprays it, then peels the stencil away to reveal a freshly painted black-and-white wordmark as the paint mist drifts in the light.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off camera with a very slight, almost imperceptible push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: gloved hand at frame centre pressing the stencil, old wooden crate side filling the midground, paint mist drifting in the foreground, dim background empty of people. Start: A hand in a fingerless work glove presses a cardboard stencil flat against the weathered side of the wooden crate. Middle: A spray can sweeps across the stencil, depositing black and white paint, while the hand holds the cardboard steady. End: The hand peels the stencil away to reveal the fresh wordmark on the crate, with paint mist slowly dispersing in the light. Mood: tactile, focused, gritty. Blur: Very shallow depth of field; the glove and stencil edge are sharp while the crate edges and background fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+spray can hiss, steel ball rattling inside the can; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

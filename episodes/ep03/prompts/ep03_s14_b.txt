@@ -1,0 +1,25 @@
+# ep03 s14_b  duration=10s  seed=774151469
+# input images: ['episodes/ep03/storyboard/s14.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of old Boye, taped glasses, grey stubble, crouching by the wall of the pump station with his palm on an old dusty cable conduit, flashlight held under his arm. Blocking lock: Boye crouches at frame centre beside the wall, his palm on the dusty conduit; the flashlight is tucked under his arm; the wall fills the background; Amu is off-screen, toward which he turns.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a pump station, old Boye crouches by the wall, wipes dust from an old cable conduit and pats it, then turns to Amu; the clip opens and ends on his line "这根线，不过MOSS的手。五八年我亲手埋的。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye crouches at frame centre beside the wall, his palm on the dusty conduit; the flashlight is tucked under his arm; the wall fills the background; Amu is off-screen, toward which he turns. Start: Boye crouches by the wall with his palm resting on the old dusty cable conduit, flashlight held under his arm. Middle: He wipes his palm along a section of the conduit, clearing away the dust, then pats the pipe firmly. End: He turns his head back toward Amu, off-screen, hand still resting on the conduit. Mood: intimate, nostalgic, weathered. Blur: Shallow depth of field; the wall and the pump station background fall softly out of focus behind Boye's face and hand. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 这根线，不过MOSS的手。五八年我亲手埋的。</d>; Final line of this shot: end on “八年我亲手埋的。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+dull thud of patting the conduit, dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

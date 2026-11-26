@@ -1,0 +1,23 @@
+# ep03 s39_b  duration=8s  seed=1211057127
+# input images: ['episodes/ep03/storyboard/s39.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto side view of the convoy moving again across the frozen plain past ice-encased ruins, headlights in the snow, the bright banded disc of Jupiter above. Blocking lock: the convoy vehicles travel in a line through the middle ground from frame left to right, ice-encased ruins in the background and foreground snow, with Jupiter's banded disc high above the vehicles.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+The convoy rolls out again across a frozen plain, passing ice-encased ruins beneath a huge banded Jupiter; there is no dialogue in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide establishing shot, telephoto side view, slow pan following the convoy's movement.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the convoy vehicles travel in a line through the middle ground from frame left to right, ice-encased ruins in the background and foreground snow, with Jupiter's banded disc high above the vehicles. Start: The lead vehicle, headlights glowing in the snow, enters the frame and begins crossing the frozen plain past the ice-covered ruins. Middle: The vehicles follow one after another, tracks crunching over the ice, as the camera pans slowly to keep the line in frame. End: The last vehicles pass through the frame while Jupiter's disc still hangs above the convoy, and the line continues across the plain. Mood: Vast, cold, resolute. Blur: Telephoto compression with a shallow focus plane on the vehicles; distant ruins and snow soften slightly and Jupiter stays hazy. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+engines roaring, tracks crunching on ice, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

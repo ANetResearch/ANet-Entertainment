@@ -1,0 +1,23 @@
+# ep03 s11_b  duration=10s  seed=1726674141
+# input images: ['episodes/ep03/storyboard/s11.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: Xiaoman in the dim interview room, army-green jacket, headphones around his neck, holding both hands out in front of him and looking at them. Blocking lock: Xiaoman sits at frame centre in the army-green jacket with headphones around his neck, hands extended toward the camera in the foreground, dim interview room behind him.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In a dim interview room, Xiaoman holds out his hands to show how they shook on his first surface-vehicle trip, opening with "我头一回上地表车，手一直抖。" and ending on "是怕他真把我扔下去。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at frame centre in the army-green jacket with headphones around his neck, hands extended toward the camera in the foreground, dim interview room behind him. Start: Xiaoman raises both hands and holds them out in front of him, looking down at them. Middle: He shakes his outstretched hands twice, imitating how they trembled back then. End: He lowers his gaze slightly and laughs at himself, hands still loosely held out. Mood: wry, vulnerable, warm. Blur: Shallow depth of field, hands and face sharp, dim room background softly out of focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 我头一回上地表车，手一直抖。不是冷，是怕他真把我扔下去。</d>; Final line of this shot: end on “他真把我扔下去。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

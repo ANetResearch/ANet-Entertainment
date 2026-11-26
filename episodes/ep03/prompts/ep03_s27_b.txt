@@ -1,0 +1,25 @@
+# ep03 s27_b  duration=8s  seed=968904450
+# input images: ['episodes/ep03/storyboard/s27.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle in the pump station: the yellow robot beside the scrap rack, its smiley screen brighter than before, its body turned toward the rack where one router's lights have started blinking fast above a grey compute chassis with a blue three-bladed swirl badge, its status lights flickering. Blocking lock: Luosi the yellow robot at frame left foreground, body angled toward the scrap rack at frame right, with the blinking router above the grey compute chassis bearing the blue three-bladed swirl badge.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the pump station, a router on the scrap rack suddenly blinks fast, the compute chassis fan below spins up, and the yellow robot Luosi turns its smiley screen toward the rack; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle medium shot, locked-off fixed low camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi the yellow robot at frame left foreground, body angled toward the scrap rack at frame right, with the blinking router above the grey compute chassis bearing the blue three-bladed swirl badge. Start: The pump station is quiet; the router on the scrap rack suddenly begins blinking its lights rapidly above the grey compute chassis. Middle: The chassis fan spins faster, and two short chime tones sound from the screws on the rack while Luosi's status lights flicker. End: Luosi's tracks move and it rotates its brighter smiley screen to face the rack, settling in place. Mood: tense, curious, eerie. Blur: Shallow depth of field, with the pump station background and far pipes softly out of focus behind the rack and robot. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+fan spinning up with a rising hum, chime tones, tracked motor whirr, dripping water; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

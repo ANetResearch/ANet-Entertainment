@@ -1,0 +1,27 @@
+# ep03 s24_b  duration=10s  seed=1404583348
+# input images: ['episodes/ep03/storyboard/s24.png', 'refs/characters/xiaoman.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot across the truck cab: Xiaoman in the oversized borrowed surface suit leaning toward the dashboard with a small handheld terminal, Boss Jin glaring at him from the driver's seat. Blocking lock: Xiaoman in the oversized borrowed surface suit is at frame left in the passenger seat leaning toward the dashboard with a handheld terminal, Boss Jin is at frame right in the driver's seat facing him, dashboard in the foreground centre.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 4> is the frozen plain with the heavy-truck convoy from <Picture 4>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside a truck cab, Xiaoman gingerly points under the dashboard and tentatively asks Boss Jin to let it ask, and Jin turns and glares at him; the clip opens with "让它问一句吧。" and ends on "问谁？它认识谁？"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot across the truck cab, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman in the oversized borrowed surface suit is at frame left in the passenger seat leaning toward the dashboard with a handheld terminal, Boss Jin is at frame right in the driver's seat facing him, dashboard in the foreground centre. Start: Xiaoman leans toward the dashboard, holding the small handheld terminal, and carefully points to the space beneath the dashboard. Middle: Boss Jin turns his head away from the road toward Xiaoman, his brow tightening. End: Jin glares at Xiaoman with an irritated, challenging stare while Xiaoman stays hunched and hesitant beside the dashboard. Mood: tense, wary, cramped. Blur: Shallow depth of field, focus on the two faces, windscreen and outside terrain softly blurred. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 让它问一句吧。</d>; Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 问谁？它认识谁？</d>; Final line of this shot: end on “问谁？它认识谁？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+wind outside the cab, idling engine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
