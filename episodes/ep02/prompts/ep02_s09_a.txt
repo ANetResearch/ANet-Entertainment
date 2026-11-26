@@ -1,0 +1,23 @@
+# ep02 s09_a  duration=10s  seed=604650146
+# input images: ['episodes/ep02/storyboard/s09.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle looking up at the black AI terminal with its single red glowing lens in the ceiling corner of the communications bay, cable trays and rack tops around it. Blocking lock: MOSS's black terminal with its single red lens sits in the ceiling corner at upper centre, with cable trays and rack tops framing it on both sides and no other figures in frame.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the communications bay, MOSS's red lens watches from the ceiling corner and opens and closes on the line "这位访客，您好。系统中没有您的身份记录。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle medium shot looking up, fixed camera with a slow push-in toward the red lens; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's black terminal with its single red lens sits in the ceiling corner at upper centre, with cable trays and rack tops framing it on both sides and no other figures in frame. Start: The black terminal sits in the ceiling corner, its red lens glowing steadily among the cable trays and rack tops. Middle: The camera creeps closer to the lens, and the red glow dims and brightens slightly. End: The lens fills more of the frame, still glowing, with its light pulsing faintly against the dark ceiling. Mood: calm, polite, unsettling. Blur: Shallow depth of field keeps the red lens sharp while the cable trays and rack tops soften into dark blur. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 这位访客，您好。系统中没有您的身份记录。</d>; Final line of this shot: end on “有您的身份记录。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+steady fan hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

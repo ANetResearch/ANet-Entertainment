@@ -1,0 +1,27 @@
+# ep02 s32_a  duration=10s  seed=1238868795
+# input images: ['episodes/ep02/storyboard/s32.png', 'refs/characters/boye.png', 'refs/characters/luosi.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Side shot of old Boye at an old mechanical keyboard in front of a CRT monitor glowing green with a scrolling waveform, a grey ribbon cable running from the computer into the open back of the yellow robot on the bench. Blocking lock: Boye sits at frame left in profile at the keyboard, the glowing CRT monitor at centre, the open-backed yellow robot Luosi on the bench at frame right, grey ribbon cable linking them.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 3>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In a cluttered workshop, old Boye types at an aging keyboard to link the yellow robot Luosi to a CRT computer, opening with "不用谁批。让它自己算一把钥匙。" as his final keystroke lands and ending on the same line.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot from the side, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame left in profile at the keyboard, the glowing CRT monitor at centre, the open-backed yellow robot Luosi on the bench at frame right, grey ribbon cable linking them. Start: Boye presses the keys of the old mechanical keyboard one at a time, eyes on the green CRT screen where a waveform has begun to scroll. Middle: The scrolling waveform keeps moving while a small indicator light turns on at the ribbon cable port on the robot's open back. End: Boye presses the final key firmly and pauses, hand still on the keyboard, his face lit green by the screen. Mood: focused, tense, quietly determined. Blur: Shallow depth of field; Boye and the CRT stay sharp while the cluttered workshop background softens. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 不用谁批。让它自己算一把钥匙。</d>; Final line of this shot: end on “自己算一把钥匙。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+mechanical keyboard clacking, high-pitched CRT whine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

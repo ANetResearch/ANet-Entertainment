@@ -1,0 +1,25 @@
+# ep02 s14_a  duration=8s  seed=1848693832
+# input images: ['episodes/ep02/storyboard/s14.png', 'refs/characters/moss.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle from beside Governor Xing at the steel railing: her face in profile glancing up at the red lens glowing high on the giant dark display wall, while her hand, held low below the railing, slips a small plain wrist card into Amu's gloved hand. Blocking lock: Governor Xing in profile at frame left beside the steel railing, Amu's gloved hand at frame right below the railing, the glowing red lens high on the dark display wall in the background centre.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+At a steel railing in front of a giant dark display wall, Governor Xing glances up at MOSS's red lens while secretly slipping her ration card into Amu's gloved hand and pressing it gently.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle medium shot from beside Governor Xing, verite handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in profile at frame left beside the steel railing, Amu's gloved hand at frame right below the railing, the glowing red lens high on the dark display wall in the background centre. Start: Governor Xing stands at the railing and lifts her eyes toward the red lens glowing high on the display wall. Middle: Her hand stays low beneath the railing and pushes a small plain ration card into Amu's gloved hand. End: She gives the back of Amu's hand a light press, then keeps her gaze on the red lens. Mood: tense, covert, restrained. Blur: Shallow depth of field, the dark display wall and red lens softly out of focus behind the sharp railing and hands. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low electronic hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

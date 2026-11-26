@@ -1,0 +1,27 @@
+# ep02 s26_a  duration=9s  seed=20022690
+# input images: ['episodes/ep02/storyboard/s26.png', 'refs/characters/amu.png', 'refs/characters/luosi.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot at the workbench: Amu with sleeves pushed up reaches into the battery bay of the yellow robot with a strip of sandpaper, Xiaoman beside him holding a work light, old Boye's back at the bench behind. The robot's square screen is switched off: completely dark and blank, no logo and no face on it. Blocking lock: Amu at frame centre leaning into the yellow robot's battery bay, Xiaoman beside him holding the work light, Boye's back at the bench in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 3>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+At a workbench, Amu sands the contacts inside the yellow robot Luosi's battery bay while Xiaoman holds a work light close to help, and old Boye works with his back turned behind them.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame centre leaning into the yellow robot's battery bay, Xiaoman beside him holding the work light, Boye's back at the bench in the background. Start: Amu, sleeves pushed up, reaches his hand into the robot's open battery bay holding a strip of sandpaper while Xiaoman raises the work light. Middle: Amu rubs the sandpaper back and forth over the metal contacts inside the bay as Xiaoman leans in and angles the light to illuminate his work. End: Amu keeps sanding steadily with his hand deep in the bay, Xiaoman holding the light steady beside him. Mood: focused, intimate, hands-on. Blur: Shallow depth of field keeps Amu's hands and the battery bay sharp, while Boye's back at the bench behind is softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+sandpaper rasping against metal, faint scratching of abrasion; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

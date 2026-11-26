@@ -1,0 +1,27 @@
+# ep02 s27_a  duration=10s  seed=65502995
+# input images: ['episodes/ep02/storyboard/s27.png', 'refs/characters/xiaoman.png', 'refs/characters/boye.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot in the stall: Xiaoman wiping a worn metal serial plate on the robot's flank with his thumb, old Boye beside him glancing sideways with a dry half-smile. Blocking lock: Xiaoman at frame left, crouched at the robot's flank; the robot's metal side fills centre foreground; Boye at frame right beside him; Amu is off-frame at the far end of the stall.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In the workshop stall, Xiaoman rubs the worn serial plate on a robot's flank while old Boye glances toward Amu at the far end; opens with "它原来的编号早被注销了。" and ends on "跟你牧哥一样，查无此机。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close two-shot, handheld with a subtle natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left, crouched at the robot's flank; the robot's metal side fills centre foreground; Boye at frame right beside him; Amu is off-frame at the far end of the stall. Start: Xiaoman rubs his thumb back and forth across the worn metal serial plate on the robot's flank, then purses his lips with mild disdain. Middle: Old Boye, beside him, slowly turns his eyes sideways toward the far end of the stall, unhurried, a dry half-smile forming. End: Boye settles his gaze back with the half-smile intact, while Xiaoman's thumb comes to rest on the scuffed plate. Mood: dry, wry, intimate. Blur: Shallow depth of field; stall clutter and the far end of the workshop soften into background blur. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 它原来的编号早被注销了。</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 跟你牧哥一样，查无此机。</d>; Final line of this shot: end on “一样，查无此机。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum of the stall, low current buzz; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

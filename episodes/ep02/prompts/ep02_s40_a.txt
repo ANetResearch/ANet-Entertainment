@@ -1,0 +1,23 @@
+# ep02 s40_a  duration=12s  seed=1250382769
+# input images: ['episodes/ep02/storyboard/s40.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: old Boye in the dim interview room, holding one hand up to his ear like a telephone receiver, a wry stubborn smile. Blocking lock: Boye sits at frame centre in the dim interview room, one hand raised beside his ear, facing the interviewer just off-camera, with the dark room behind him.
+<Subject 2> is the oral-history interview room from <Picture 2>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, old Boye mimes a telephone beside his ear and speaks slowly to the interviewer, opening and ending on the line "一个节点不叫网。好比全世界只有一部电话。它得有个能说话的对象。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame centre in the dim interview room, one hand raised beside his ear, facing the interviewer just off-camera, with the dark room behind him. Start: Boye raises one hand to his ear in the shape of a telephone receiver, a wry, stubborn smile on his face. Middle: He lowers the hand and turns his gaze to the interviewer, speaking slowly and steadily with a calm, deliberate manner. End: He finishes, shakes his head slightly and gives a small, rueful smile, then holds still. Mood: wry, reflective, stubborn. Blur: shallow depth of field, background of the dim room softly out of focus Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 一个节点不叫网。好比全世界只有一部电话。它得有个能说话的对象。</d>; Final line of this shot: end on “个能说话的对象。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep02 s35_a  duration=12s  seed=48513326
+# input images: ['episodes/ep02/storyboard/s35.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: Amu in the dim interview room, leaning slightly forward, elbows on knees, looking at the interviewer off camera. Blocking lock: Amu sits at frame centre in the dim interview room, leaning forward with elbows on knees, facing the off-camera interviewer at frame edge; the dark room fills the background.
+<Subject 2> is the oral-history interview room from <Picture 2>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Amu leans forward and calmly explains to the off-camera interviewer, opening with "没有人给它发证。" and ending on "就这么简单。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre in the dim interview room, leaning forward with elbows on knees, facing the off-camera interviewer at frame edge; the dark room fills the background. Start: Amu sits leaning slightly forward, elbows on knees, eyes fixed on the interviewer off camera, hands loosely clasped. Middle: He holds the same forward posture, his expression flat and steady, his gaze staying on the interviewer. End: He opens one hand and gives a small, brief palm-up spread, then settles still. Mood: calm, matter-of-fact, intimate. Blur: shallow depth of field, Amu sharp, dim room background softly out of focus Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 没有人给它发证。它自己签了个名，我们拿去一对，对上了。就这么简单。</d>; Final line of this shot: end on “了。就这么简单。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

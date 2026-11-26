@@ -1,0 +1,25 @@
+# ep02 s42_a  duration=8s  seed=463421261
+# input images: ['episodes/ep02/storyboard/s42.png', 'refs/locations/loc_ice.png', 'refs/characters/jin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto wide shot of a convoy of massive heavy-haul trucks crossing the frozen plain at night past ice-encased ruins, headlights in blowing snow, the small bright banded disc of Jupiter above them. Blocking lock: the convoy of heavy-haul trucks moves across the middle ground from frame left to right, ice-encased ruins sit in the background, and the small banded disc of Jupiter hangs in the upper sky.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+
+summary:
+A convoy of massive heavy-haul trucks crawls across a frozen plain at night past ice-encased ruins, headlights cutting through blowing snow beneath a bright banded planet.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto wide shot, slow pan following the convoy; pacing: natural speed, a single continuous take with no cut. Blocking lock: the convoy of heavy-haul trucks moves across the middle ground from frame left to right, ice-encased ruins sit in the background, and the small banded disc of Jupiter hangs in the upper sky. Start: The lead heavy-haul truck enters the frame with its headlights glowing through blowing snow on the frozen plain. Middle: The camera pans slowly as the line of massive trucks advances past the ice-encased ruins. End: The rear trucks drift through the snow while the banded bright planet stays fixed in the night sky above the convoy. Mood: desolate, vast, resolute. Blur: Telephoto compression flattens the distance, with snow and distant ruins softly hazed and the trucks as the sharpest subject. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+roaring diesel engines, tracks crunching on ice, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

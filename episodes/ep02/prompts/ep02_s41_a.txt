@@ -1,0 +1,27 @@
+# ep02 s41_a  duration=8s  seed=2025545249
+# input images: ['episodes/ep02/storyboard/s41.png', 'refs/characters/luosi.png', 'refs/locations/loc_stall.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle from inside the dark repair stall: the small yellow robot parked at the gap under the half-open steel shutter, facing the empty alley outside, its glowing red-white smiley screen reflected on the wet concrete floor. Blocking lock: Luosi sits centre frame in the gap under the half-open shutter, facing away into the alley; the dark stall interior fills the foreground and the empty wet alley stretches behind it.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+<Subject 4> is the ANET smiley logo from <Picture 4>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In the darkened repair stall, the small yellow robot Luosi waits motionless under the half-open steel shutter, facing the empty alley, its smiley screen reflected on the wet floor. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle shot from inside the stall, fixed and locked-off at floor level.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi sits centre frame in the gap under the half-open shutter, facing away into the alley; the dark stall interior fills the foreground and the empty wet alley stretches behind it. Start: With the stall lights off, Luosi sits parked under the half-open shutter, facing the empty alley, its smiley screen glowing red-white and reflected on the damp concrete. Middle: Luosi stays perfectly still while its antenna gives a brief flash every few seconds, the faint light flickering across the wet floor. End: Luosi remains parked and facing the empty alley, the smiley reflection steady on the wet floor as the antenna flashes once more. Mood: Lonely, quiet, expectant. Blur: Luosi and its reflection stay sharp, while the dark stall foreground and the distant alley fall softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+intermittent beeping tone, distant pipe water dripping; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

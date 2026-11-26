@@ -1,0 +1,27 @@
+# ep02 s20_a  duration=10s  seed=33827722
+# input images: ['episodes/ep02/storyboard/s20.png', 'refs/characters/boye.png', 'refs/characters/amu.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the repair stall: old Boye holds the stamped scrap of paper up to the desk lamp in one hand and the stone seal in the other, Amu leaning in to look, shelves of old routers behind. Blocking lock: Boye at frame left holding the stone seal and the paper under the desk lamp, Amu at frame right leaning in toward him, shelves of old routers in the background.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In the repair stall, Boye holds up the stamped paper under the desk lamp and passes it to Amu, who examines it against the light; the clip opens and ends on his line "章在我手里。印子盖出去，谁都能拿来对。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye at frame left holding the stone seal and the paper under the desk lamp, Amu at frame right leaning in toward him, shelves of old routers in the background. Start: Boye grips the stone seal in one hand and raises the stamped paper into the desk lamp's light with the other, while Amu leans in. Middle: Boye extends the stamped paper toward Amu, and he reaches out and takes it from his fingers. End: Amu holds the paper up against the lamp light and studies the stamp closely, while Boye keeps the seal clenched in his hand. Mood: tense, intimate, scrutinising. Blur: shallow depth of field, shelves of old routers softly out of focus behind them Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 章在我手里。印子盖出去，谁都能拿来对。</d>; Final line of this shot: end on “，谁都能拿来对。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+paper rustling, desk lamp electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

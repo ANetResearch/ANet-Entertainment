@@ -1,0 +1,27 @@
+# ep02 s36_a  duration=10s  seed=1672410742
+# input images: ['episodes/ep02/storyboard/s36.png', 'refs/characters/amu.png', 'refs/characters/boye.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium two-shot in the lamplight: Amu looking at old Boye, who holds out to him on his open palm a tiny handmade device, a thumb-sized circuit board with one button wrapped in black tape. Blocking lock: Amu at frame left facing right, old Boye at frame right holding out his open palm toward him, the lit robot softly in the background, lamp glow between them.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In a lamplit workshop, Amu turns from the glowing robot to quietly question old Boye, who takes a taped-up circuit board from a drawer and offers it on his palm; the clip opens with Amu's "那我呢？" and ends on Boye's "你也刻一枚。这回，没人收得走。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame left facing right, old Boye at frame right holding out his open palm toward him, the lit robot softly in the background, lamp glow between them. Start: Amu watches the robot's screen light up, then turns his head toward Boye. Middle: Boye pulls open a drawer and fumbles out a small circuit board wrapped in black tape. End: Boye rests the board on his open palm and extends it toward Amu, who looks down at it. Mood: intimate, quiet, hopeful. Blur: Shallow depth of field; the robot and workshop clutter in the background fall soft while the two faces and the outstretched hand stay sharp. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 那我呢？</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 你也刻一枚。这回，没人收得走。</d>; Final line of this shot: end on “回，没人收得走。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+drawer sliding open, low hum of the robot's motor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
