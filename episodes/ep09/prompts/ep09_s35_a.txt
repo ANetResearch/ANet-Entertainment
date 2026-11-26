@@ -1,0 +1,27 @@
+# ep09 s35_a  duration=9s  seed=2083228058
+# input images: ['episodes/ep09/storyboard/s35.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the truck cab: Boss Jin holding the radio handset to his mouth, eyes on the dotted navigation screen, the node box on the dashboard with its LED lit, orange-lit snow outside. Blocking lock: Boss Jin sits at frame centre behind the wheel, the dotted navigation screen and the glowing node box on the dashboard in the foreground right, orange-lit snow visible through the window behind him.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 4> is the handmade ANET node box with the smiley sticker from <Picture 4>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+Inside a truck cab on a snowy night, Boss Jin watches the navigation screen, answers over the radio and then puts the truck in gear, opening and ending on the line "四十公里？我的车就在上面。我去。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld inside the cab with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin sits at frame centre behind the wheel, the dotted navigation screen and the glowing node box on the dashboard in the foreground right, orange-lit snow visible through the window behind him. Start: Boss Jin stares at the dotted lights on the navigation screen, one hand on the wheel, the node box LED glowing on the dashboard. Middle: He grabs the radio handset, lifts it to his mouth and answers in a gruff, heavy manner, eyes still on the screen. End: He hangs the handset back on its hook and pushes the truck into gear, his hand staying on the gear lever. Mood: tense, gritty, determined. Blur: Shallow depth of field, with the snow outside the windows and the cab edges softly out of focus. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 四十公里？我的车就在上面。我去。</d>; Final line of this shot: end on “就在上面。我去。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+roaring engine, radio static crackle; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

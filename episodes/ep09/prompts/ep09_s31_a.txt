@@ -1,0 +1,23 @@
+# ep09 s31_a  duration=10s  seed=1960138878
+# input images: ['episodes/ep09/storyboard/s31.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot at the central table: Governor Xing in her charcoal uniform bent over the paper plan writing on it with a marker pen, operators and workers watching her hand. Blocking lock: Governor Xing in charcoal uniform at centre, bent over the paper plan on the table in the foreground; operators and workers at frame left and right and behind her, watching her hand.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+At the central table, Governor Xing marks the paper plan with her own hand, circles it, caps the pen and addresses those around her, saying "我的决定也写在上面。错了，所有人都看得见。" as both opening and closing line.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close shot, handheld with a slight natural shake, framing Xing and the plan on the table; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in charcoal uniform at centre, bent over the paper plan on the table in the foreground; operators and workers at frame left and right and behind her, watching her hand. Start: Governor Xing leans over the paper plan, marker pen in hand, and writes a line of notes on the paper. Middle: She draws a circle around the mark she has just written, her hand steady while the onlookers watch it. End: She straightens up, pushes the cap onto the marker pen, and turns her face toward the people around her. Mood: solemn, resolute, tense. Blur: Shallow depth of field; Xing's hand and the plan sharp, onlookers in the background softly out of focus. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 我的决定也写在上面。错了，所有人都看得见。</d>; Final line of this shot: end on “所有人都看得见。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+marker pen scratching across paper, faint cap click, quiet shuffle of people around the table; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

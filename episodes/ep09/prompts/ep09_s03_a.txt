@@ -1,0 +1,23 @@
+# ep09 s03_a  duration=10s  seed=36968815
+# input images: ['episodes/ep09/storyboard/s03.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. High angle wide shot down into the blacked-out cavern of the underground city: almost total darkness, with a handful of tiny separate points of light scattered far apart on different levels. Blocking lock: the whole frame is the dark cavern seen from above, with small separate points of light scattered at different levels from foreground to far background, and no characters visible.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In the blacked-out shaft of the underground city, tiny points of light flicker on one by one, far apart from each other; there is no dialogue in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, high angle wide shot, locked-off fixed camera looking down into the shaft; pacing: natural speed, a single continuous take with no cut. Blocking lock: the whole frame is the dark cavern seen from above, with small separate points of light scattered at different levels from foreground to far background, and no characters visible. Start: The cavern shaft sits in almost total darkness, with no visible light anywhere in the frame. Middle: A single small point of light switches on, and after a long pause a second one lights up far away from the first. End: A third and then a fourth point of light come on, each distant from the others, leaving four isolated lights in the dark. Mood: desolate, quiet, hopeful. Blur: deep focus, the lights stay small and sharp against the dark, with faint haze in the far depths of the shaft No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+hollow wind echoing through the cavern, sparse distant human voices; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

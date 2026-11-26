@@ -1,0 +1,25 @@
+# ep09 s32_a  duration=9s  seed=667268151
+# input images: ['episodes/ep09/storyboard/s32.png', 'refs/locations/loc_admin.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot from the back of the command hall: the whole wall now a rough patchwork map dense with thousands of small glowing dots and uneven lines, people crowded around the central table below, the red lens small and silent above. Blocking lock: the glowing patchwork map wall fills the background and upper frame, the crowd clusters around the central table in the foreground and centre, and the small red lens sits high above them at upper centre.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the command hall, a wall-sized patchwork map fills with thousands of glowing dots while a crowd works busily around the central table beneath the small red lens; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot from the back of the command hall, fixed wide-angle camera with a slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: the glowing patchwork map wall fills the background and upper frame, the crowd clusters around the central table in the foreground and centre, and the small red lens sits high above them at upper centre. Start: The wall is already covered in dense small glowing dots and rough connecting lines, while people crowd around the central table working. Middle: New dots keep lighting up across the wall one after another as the camera slowly pushes closer to the busy table. End: The wall glows even denser, the crowd still bustles around the table, and the small red lens stays silent above them. Mood: busy, orderly, hopeful. Blur: deep focus across the hall, with only slight softness on the farthest corners of the wall No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+noisy but orderly murmur of many voices, printers running; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

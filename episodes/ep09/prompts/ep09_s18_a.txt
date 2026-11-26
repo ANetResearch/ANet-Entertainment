@@ -1,0 +1,23 @@
+# ep09 s18_a  duration=8s  seed=593985843
+# input images: ['episodes/ep09/storyboard/s18.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot of Xiaoman in his oversized green jacket running down the tiered steps of the command hall, paying out thick cable from a reel on his shoulder, two workers behind him carrying a salvaged grey GPU compute chassis with a blue three-bladed swirl badge on its side, operators lifting their feet out of the way. Blocking lock: Xiaoman in the green jacket is centre-foreground running toward camera, the two workers carrying the grey chassis are centre-background behind him, and seated operators line both sides of the steps, lifting their feet.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, Xiaoman runs down the tiered steps with a cable reel on his shoulder while two workers carry a salvaged GPU compute chassis behind him; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide-to-medium shot, handheld follow with a lively shake, tracking just ahead of Xiaoman; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman in the green jacket is centre-foreground running toward camera, the two workers carrying the grey chassis are centre-background behind him, and seated operators line both sides of the steps, lifting their feet. Start: Xiaoman bursts through the rear door of the hall with the cable reel on his shoulder and starts down the first tier of steps. Middle: He keeps running down the steps as the thick cable unspools behind him in loops, the two workers hurrying after him with the chassis. End: Operators lift their feet aside to clear a path as Xiaoman and the workers rush past toward the lower hall. Mood: urgent, kinetic, determined. Blur: shallow depth of field, Xiaoman and the nearest cable in focus, back of the hall and distant operators slightly soft No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+cable reel spinning and rattling, rapid footsteps on the steps, cable dragging across the floor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

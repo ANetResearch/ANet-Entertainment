@@ -1,0 +1,23 @@
+# ep09 s33_a  duration=12s  seed=145401947
+# input images: ['episodes/ep09/storyboard/s33.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot of an old battered shortwave radio on the central table, old Boye's wrinkled hand on the tuning dial, a ring of silent faces leaning in around it. Blocking lock: the battered radio sits at frame centre on the table, Boye's wrinkled hand on the dial at centre-right foreground, and a ring of silent faces leans in at frame left, right and background.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a gathering room, Boye slowly tunes an old shortwave radio until a broken broadcast voice surfaces from the static while everyone around the table freezes; it opens with "……全球各发动机，启动饱和式救援。" and ends on "把火石，送到每一台停机的发动机。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight natural shake, steady framing on the radio and hand; pacing: natural speed, a single continuous take with no cut. Blocking lock: the battered radio sits at frame centre on the table, Boye's wrinkled hand on the dial at centre-right foreground, and a ring of silent faces leans in at frame left, right and background. Start: Boye's wrinkled hand slowly turns the tuning dial of the old shortwave radio while static fills the air. Middle: A faint, broken human voice emerges from the noise as the dial settles, and the people around the table hold their breath without moving. End: Boye's hand stops still on the dial, and the ring of faces stays frozen, leaning toward the radio. Mood: tense, hushed, expectant. Blur: shallow depth of field; radio and hand sharp, the surrounding faces soft and slightly out of focus The 广播 (extra, ordinary voice) says, <d>[Chinese] ……全球各发动机，启动饱和式救援。重复，把火石，送到每一台停机的发动机。</d>; Final line of this shot: end on “台停机的发动机。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+shortwave whistling and hiss, crackling static, a faint broadcast voice from the radio; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

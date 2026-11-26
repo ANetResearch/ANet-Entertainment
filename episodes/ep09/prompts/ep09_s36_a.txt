@@ -1,0 +1,23 @@
+# ep09 s36_a  duration=9s  seed=1906519529
+# input images: ['episodes/ep09/storyboard/s36.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside a frost-covered surface depot: a steel shock-proof case open on a workbench, the dark-red glowing cylinder of the igniter core inside lighting the faces of Boss Jin and Amu in a surface parka leaning over it. Blocking lock: Boss Jin at frame left behind the workbench, Amu in his surface parka at frame right leaning in, the open steel case with the glowing igniter core at centre foreground, frosted depot wall in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+Inside a frost-covered surface depot, Boss Jin lifts the lid of a steel case and its dark-red glow spreads over his and Amu's faces as Amu reaches out to check the latch; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close-up, handheld with a slight natural shake, framing both faces and the case.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin at frame left behind the workbench, Amu in his surface parka at frame right leaning in, the open steel case with the glowing igniter core at centre foreground, frosted depot wall in the background. Start: Boss Jin grips the closed steel case on the workbench and flips the latches open, the clasps springing up. Middle: Jin lifts the lid and dark-red light wells up from the case, washing across both faces as they lean in. End: Amu extends his hand into the glow and presses the clasp to confirm it is secure, his fingers lit red. Mood: tense, secretive, ominous. Blur: Shallow depth of field; the frosted depot walls and shelves behind them fall into soft blur while the case and faces stay sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+metal case clasps snapping open, wind blowing outside the depot; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

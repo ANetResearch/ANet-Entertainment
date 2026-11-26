@@ -1,0 +1,25 @@
+# ep09 s13_a  duration=10s  seed=915062156
+# input images: ['episodes/ep09/storyboard/s13.png', 'refs/characters/xing.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot of Governor Xing's hands fitting a heavy manual override key into the dead electronic lock of the cell door, old Boye's face behind the bars above them, flashlight glare on the steel. Blocking lock: Governor Xing's hands and the dead lock fill the foreground centre, Boye's smiling face sits behind the bars in the upper background, and flashlight glare streaks across the steel door.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+Inside a dark detention corridor, Governor Xing personally unlocks Boye's cell with a manual key; the clip opens on Boye's line 邢总督，你怎么自己来了？ and ends on her reply 锁一断电我就来了。对不起，没能早点。
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Close shot, handheld with a slight organic shake, staying tight on the hands and lock before drifting up to the two faces.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing's hands and the dead lock fill the foreground centre, Boye's smiling face sits behind the bars in the upper background, and flashlight glare streaks across the steel door. Start: Governor Xing's hands push a heavy manual override key into the dead electronic lock of the cell door. Middle: She twists the key hard until the bolt springs free, then hauls the heavy iron door open. End: She lifts her eyes to Boye, who smiles down at her through the open doorway. Mood: Tense, tender, relieved. Blur: Shallow depth of field: hands and key in sharp focus, Boye's face behind the bars slightly soft, corridor background dissolved in darkness. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 邢总督，你怎么自己来了？</d>; Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 锁一断电我就来了。对不起，没能早点。</d>; Final line of this shot: end on “不起，没能早点。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+metal lock bolt springing open, creaking iron cell door; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep09 s11_a  duration=9s  seed=1040438324
+# input images: ['episodes/ep09/storyboard/s11.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot from behind Governor Xing in her charcoal uniform walking alone down a dark concrete administrative corridor, a flashlight in one hand and a ring of heavy manual override keys in the other. Blocking lock: Governor Xing is at frame centre, seen from behind, walking away from camera; the dark concrete corridor recedes in the background; the handheld camera trails close behind her in the foreground.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+Governor Xing walks alone and quickly down a dark concrete administrative corridor, flashlight in one hand and a ring of keys in the other, without looking back; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot from behind, handheld follow with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing is at frame centre, seen from behind, walking away from camera; the dark concrete corridor recedes in the background; the handheld camera trails close behind her in the foreground. Start: Governor Xing, seen from behind in her charcoal uniform, strides forward into the dark corridor, her flashlight beam swinging over the concrete ahead. Middle: She keeps up a fast pace, gripping the ring of heavy manual override keys in her other hand so they jostle against each other as she moves. End: She continues down the corridor without turning her head, her back growing slightly smaller as the camera follows her into the darkness. Mood: tense, urgent, lonely. Blur: shallow depth of field, the far end of the corridor dissolves into dark blur while her back stays sharp No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+echoing leather shoe steps on concrete, clinking and jangling of keys; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

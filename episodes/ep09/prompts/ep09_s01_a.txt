@@ -1,0 +1,23 @@
+# ep09 s01_a  duration=9s  seed=1220125011
+# input images: ['episodes/ep09/storyboard/s01.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close low shot in the dark pump station: Xiaoman's dusty hand pulling a grey tarp off the small yellow tracked robot, its square screen glowing with the red-and-white smiley face and lighting his fingers. Blocking lock: Xiaoman's dusty hand is at frame right foreground pulling the tarp, Luosi sits at frame centre with its glowing screen, and the dark pump station fills the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In the dark pump station, Xiaoman pulls a grey tarp off the small yellow robot Luosi, whose smiley screen lights his dusty hand as it turns and lifts its screen toward him; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up from a low angle, locked-off with a very slight settle as the tarp moves; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's dusty hand is at frame right foreground pulling the tarp, Luosi sits at frame centre with its glowing screen, and the dark pump station fills the background. Start: Xiaoman's dusty hand grips the grey tarp over the small yellow tracked robot in the darkness. Middle: He yanks the tarp away and Luosi's red-and-white smiley screen lights up his dusty fingers. End: Luosi's tracks swivel half a turn in place and its head screen tilts up to face him. Mood: curious, tender, quietly awakening. Blur: Very shallow depth of field; hand and screen are sharp while the dark pump station behind falls into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+tarp rustling and scraping, small electric motor whirring, a single soft chime; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
