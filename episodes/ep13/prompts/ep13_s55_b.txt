@@ -1,0 +1,25 @@
+# ep13 s55_b  duration=9s  seed=950542738
+# input images: ['episodes/ep13/storyboard/s55.png', 'refs/props/prop_node.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the node box in Amu's gloved hands: its lamps come back on, green, one after another, snow blowing across. Blocking lock: the node box sits at frame centre in Amu's gloved hands in the foreground, Amu's face and upper body are partly visible behind it, and blowing snow and the dim background fill the rest of the frame.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is Amu (34, male communications engineer, the protagonist) from <Picture 3>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a snowy outdoor setting, Amu holds a node box whose lamps relight green one by one, then he looks up and shouts; the clip opens and ends on the single line "通了！螺丝把自己架成了中继！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off with a slight handheld tremor, then a small tilt up as Amu raises his head; pacing: natural speed, a single continuous take with no cut. Blocking lock: the node box sits at frame centre in Amu's gloved hands in the foreground, Amu's face and upper body are partly visible behind it, and blowing snow and the dim background fill the rest of the frame. Start: The node box rests dark in Amu's gloved hands while snow blows across the frame. Middle: The box's lamps come back on one after another, glowing green, as his gloved fingers stay still on the casing. End: Amu suddenly jerks his head up from the box, mouth opening wide as he shouts. Mood: urgent, hopeful, tense. Blur: Very shallow depth of field: only the node box and its lamps are sharp, while Amu's face and the snowy background are softly blurred. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 通了！螺丝把自己架成了中继！</d>; Final line of this shot: end on “自己架成了中继！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+a rapid series of electronic beeps, wind blowing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

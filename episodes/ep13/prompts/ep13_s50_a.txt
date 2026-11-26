@@ -1,0 +1,25 @@
+# ep13 s50_a  duration=9s  seed=1783994248
+# input images: ['episodes/ep13/storyboard/s50.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low shot: the small yellow robot with the glowing smiley turns on its tracks to face a narrow black gap between fallen concrete slabs; Xiaoman, behind it, turning his head as he realises. Blocking lock: Luosi at frame centre-left in the foreground, its smiley screen facing the dark gap at frame right; Xiaoman behind it in the background, centre, head turning toward the robot; broken concrete slabs fill the surroundings.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Among fallen concrete rubble, the small yellow robot Luosi turns in place to face a narrow black gap between slabs and stops, while Xiaoman behind it slowly turns his head and realises what it intends to do.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle medium shot, handheld at ground level with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi at frame centre-left in the foreground, its smiley screen facing the dark gap at frame right; Xiaoman behind it in the background, centre, head turning toward the robot; broken concrete slabs fill the surroundings. Start: Luosi pivots on its tracks in place amid the rubble, turning its glowing smiley screen away from Xiaoman. Middle: Luosi finishes the turn, its screen now aimed at the narrow black gap between the broken concrete slabs, and it halts. End: Behind the stopped robot, Xiaoman slowly turns his head toward it, his expression shifting as he understands what it means to do. Mood: tense, quiet, foreboding. Blur: Shallow depth of field: Luosi and the dark gap stay sharp, while Xiaoman and the rubble behind fall softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+motor whirring from the robot's tracks, wind moving through the ruins; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

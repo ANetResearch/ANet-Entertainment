@@ -1,0 +1,25 @@
+# ep13 s57_a  duration=9s  seed=365036950
+# input images: ['episodes/ep13/storyboard/s57.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Xiaoman on his knees at the black gap in the rubble, both hands on the concrete, shouting into the darkness. Blocking lock: Xiaoman is at frame centre kneeling in the foreground at the black gap, with the broken concrete slabs spread around him and the rubble field behind him.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+In the ruins, Xiaoman kneels at a narrow black gap in the rubble and shouts into the darkness, opening with "撑住！" and ending on "再撑一会儿！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight shake, close on Xiaoman's face and hands; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman is at frame centre kneeling in the foreground at the black gap, with the broken concrete slabs spread around him and the rubble field behind him. Start: Xiaoman kneels at the narrow gap in the rubble, both palms pressed flat on the concrete slab, leaning toward the dark opening. Middle: He leans further forward, pushing his hands into the slab, and his head dips toward the black hole as he calls down into it. End: He holds the strained pose at the gap, chest heaving, hands still braced on the concrete, staring into the darkness. Mood: desperate, urgent, raw. Blur: Shallow focus on Xiaoman, with the rubble background and the depths of the gap softly out of focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 撑住！螺丝！再撑一会儿！</d>; Final line of this shot: end on “丝！再撑一会儿！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+concrete cracking and breaking, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep13 s58_a  duration=8s  seed=2128124981
+# input images: ['episodes/ep13/storyboard/s58.png', 'refs/characters/luosi.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Tight shot in the shaft: half of the smiley's pixels are dead, the cracked screen flickering, the antenna still up, dust pouring down. Blocking lock: Luosi's cracked smiley screen fills the centre of frame, the raised antenna at upper centre, falling dust in the foreground, dark shaft wall in the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+Inside the shaft, Luosi's cracked screen shows a half-dead smiley that flickers while its antenna stays raised and dust keeps falling; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off camera with a very slight handheld tremor; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi's cracked smiley screen fills the centre of frame, the raised antenna at upper centre, falling dust in the foreground, dark shaft wall in the background. Start: The half-dead smiley on Luosi's cracked screen flickers weakly while dust drifts down past the lens. Middle: The surviving half of the smiley stutters on and off as the antenna stays raised and more dust pours down. End: The flickering smiley holds on the cracked screen, antenna still raised, dust still falling steadily. Mood: desperate, fragile, tense. Blur: Very shallow depth of field: the screen's cracks in sharp focus, falling dust and shaft walls soft and blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crackling electrical current, dull rumble of a stone slab sinking; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

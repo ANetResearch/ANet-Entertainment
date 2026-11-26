@@ -1,0 +1,25 @@
+# ep13 s28_a  duration=10s  seed=1211024292
+# input images: ['episodes/ep13/storyboard/s28.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot of the command hall: the giant display wall going black panel by panel, operators frozen at their consoles, only the red lens still lit high in the middle. Blocking lock: the giant display wall fills the background across the frame, operators sit frozen at consoles in the foreground and left and right midground, and MOSS's red lens glows high at frame centre.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, the giant display wall goes dark panel by panel while operators sit frozen and MOSS's red lens stays lit; the clip opens with MOSS's line "流浪地球计划已失败。" and ends on "本系统停止地面调度。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, locked-off fixed camera, no movement; pacing: natural speed, a single continuous take with no cut. Blocking lock: the giant display wall fills the background across the frame, operators sit frozen at consoles in the foreground and left and right midground, and MOSS's red lens glows high at frame centre. Start: The display wall is still partly lit as the first panels go black, while operators sit rigid at their consoles and the red lens glows at centre. Middle: More panels go dark one after another across the wall, the hall dimming progressively while the operators stay frozen in their seats. End: The wall is almost fully black, leaving the red lens as the only light high in the middle of the silent hall, operators still motionless. Mood: bleak, eerie, motionless. Blur: deep focus, the whole hall sharp from the operators to the wall, with the red lens glowing as a small bright point of light MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 流浪地球计划已失败。本系统停止地面调度。</d>; Final line of this shot: end on “统停止地面调度。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum in dead silence, low current buzz, panels switching off; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

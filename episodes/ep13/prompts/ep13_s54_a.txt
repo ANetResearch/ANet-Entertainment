@@ -1,0 +1,23 @@
+# ep13 s54_a  duration=9s  seed=346302370
+# input images: ['episodes/ep13/storyboard/s54.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the collapsed shaft, tight shot: the small yellow robot wedged between concrete slabs raises its antenna, dust falling through its smiley glow, a slab pressing down on its roof, a crack running across the screen. Blocking lock: Luosi sits at frame centre, wedged between two concrete slabs, one above pressing on its roof and one below; its antenna rises at upper centre, and the dark, dusty shaft fills the background.
+<Subject 2> is the ANET smiley logo from <Picture 2>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+Inside a collapsed shaft, the small yellow robot Luosi, wedged between two concrete slabs, raises its antenna section by section as the slab above sinks and a crack splits its screen while the smiley face stays lit; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off camera with a barely perceptible tremor from the settling slab; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi sits at frame centre, wedged between two concrete slabs, one above pressing on its roof and one below; its antenna rises at upper centre, and the dark, dusty shaft fills the background. Start: Luosi sits jammed between the two slabs, its smiley screen glowing, and its antenna begins to extend from the top of its body. Middle: The antenna climbs up one segment at a time while dust drifts down through the glow and the upper slab slowly sinks onto its roof. End: A crack opens across Luosi's screen, and the smiley face keeps glowing through the split as the antenna stands fully raised. Mood: tense, claustrophobic, poignant. Blur: Very shallow depth of field: the screen and antenna are sharp, while the slab edges and the shaft behind are soft and dark. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+groaning concrete, a laboring motor straining, faint dust and grit trickling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

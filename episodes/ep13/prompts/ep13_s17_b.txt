@@ -1,0 +1,23 @@
+# ep13 s17_b  duration=9s  seed=662769194
+# input images: ['episodes/ep13/storyboard/s17.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot in the underground street: a small child on an adult's shoulders presses a red-and-white smiley sticker onto a steel pipe, other stickers already dotting the wall, passers-by smiling. Blocking lock: the child on the adult's shoulders is at frame centre-right in the foreground, the steel pipe with stickers at frame left, and smiling passers-by in the background at frame right.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In the underground street, a small child on an adult's shoulders presses a red-and-white smiley sticker onto a steel pipe, while passers-by glance at the scattered stickers on the wall and smile; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a gentle natural shake, slight drift following the child's hand toward the pipe; pacing: natural speed, a single continuous take with no cut. Blocking lock: the child on the adult's shoulders is at frame centre-right in the foreground, the steel pipe with stickers at frame left, and smiling passers-by in the background at frame right. Start: The child, seated on the adult's shoulders, holds a red-and-white smiley sticker and reaches toward the steel pipe. Middle: The child presses the sticker flat onto the pipe with a small palm, beside several stickers already dotting the wall. End: The child pulls the hand back and admires the sticker while passers-by walk past, glance at it and smile. Mood: warm, playful, hopeful. Blur: Shallow depth of field: the child and sticker stay sharp, while the street crowd and distant pipes soften into background blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+street market crowd chatter, a child's laughter; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

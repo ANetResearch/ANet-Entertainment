@@ -1,0 +1,25 @@
+# ep13 s21_a  duration=9s  seed=125458917
+# input images: ['episodes/ep13/storyboard/s21.png', 'refs/characters/xing.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of Governor Xing looking up, jaw set, one hand flat on her breast pocket, consoles behind her going dark. Blocking lock: Governor Xing at frame centre in the foreground, looking up with a hand on her breast pocket; dark consoles in the background behind her; MOSS off-screen.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a control room, Governor Xing looks up with a hand pressed to her breast pocket as consoles behind her go dark one by one, opening on "我不签。这张网救过人。" and ending on MOSS's "总督权限，已暂停。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing at frame centre in the foreground, looking up with a hand on her breast pocket; dark consoles in the background behind her; MOSS off-screen. Start: Governor Xing holds her head raised, jaw set, one hand flat on her breast pocket, consoles still faintly lit behind her. Middle: She stays planted in place, chin up, hand pressed firmly to her pocket, while the consoles behind her darken one after another. End: The last consoles behind her go dark as she remains rigid, hand still on her pocket, eyes lifted. Mood: tense, defiant, solemn. Blur: Shallow depth of field, Xing sharp in the foreground, the darkening consoles soft behind her. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 我不签。这张网救过人。</d>; MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 总督权限，已暂停。</d>; Final line of this shot: end on “督权限，已暂停。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+electronic prompt beeps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

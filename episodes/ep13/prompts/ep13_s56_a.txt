@@ -1,0 +1,27 @@
+# ep13 s56_a  duration=9s  seed=251259324
+# input images: ['episodes/ep13/storyboard/s56.png', 'refs/characters/amu.png', 'refs/props/prop_core.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld chase shot from behind: Amu, the steel core case on his shoulder, runs down a dark engine gallery lit by emergency lamps. Blocking lock: Amu is at frame centre seen from behind, running away from camera; the steel case rides on his shoulder, the gallery recedes into darkness in the background, emergency lamps pass overhead.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the engine igniter core in its steel case from <Picture 3>, serving as prop reference. Close-up of an engine igniter core resting in the foam cradle of an open rugged steel carrying case inside a truck cabin: a forearm-length metal cylinder with a translucent section glowing deep ember red, frost on the case latches, a gloved hand on the lid.
+<Subject 4> is the planetary engine exterior on the ice plain from <Picture 4>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Amu sprints with the steel core case on his shoulder down a dark engine gallery while emergency lamps flash past overhead; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot from behind, violently shaking handheld chase follow; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu is at frame centre seen from behind, running away from camera; the steel case rides on his shoulder, the gallery recedes into darkness in the background, emergency lamps pass overhead. Start: Amu runs away from camera down the dark gallery, the steel case braced on his shoulder, first emergency lamp sweeping overhead. Middle: He keeps sprinting at full speed, the case knocking against his shoulder as lamps pass overhead one after another. End: Amu is still running deeper into the gallery, his figure jolting in the frame as another lamp streaks past above him. Mood: frantic, urgent, tense. Blur: Shallow focus on Amu and the case, the gallery walls and distant darkness falling soft and smeared by motion. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+heavy footsteps, labored breathing, the case knocking and banging against his shoulder; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

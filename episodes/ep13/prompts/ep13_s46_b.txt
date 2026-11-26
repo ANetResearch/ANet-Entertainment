@@ -1,0 +1,23 @@
+# ep13 s46_b  duration=9s  seed=763041148
+# input images: ['episodes/ep13/storyboard/s46.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Tight close-up of Boss Jin gripping a radio handset in the cab, eyes fixed on the mirror, orange light on his scarred cheek. Blocking lock: Boss Jin fills the centre of frame in the cab, handset raised at frame right near his mouth, rear-view mirror at upper frame left, orange light falling on his scarred cheek, blurred cab interior behind him.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside the convoy cab, Boss Jin grips a radio handset and stares into the rear-view mirror, calling out for a response that never comes; the clip opens and ends on his line "七号车！老秦！回话！" with only static answering.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, tight close-up, handheld with a slight tense shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin fills the centre of frame in the cab, handset raised at frame right near his mouth, rear-view mirror at upper frame left, orange light falling on his scarred cheek, blurred cab interior behind him. Start: Boss Jin holds the radio handset tightly in his fist, his eyes locked on the rear-view mirror. Middle: He pulls the handset closer to his mouth and leans toward it, his jaw and knuckles tightening as he calls into it. End: He lowers the handset slightly but keeps staring at the mirror, his grip still white-knuckled as only static comes back. Mood: tense, anxious, urgent. Blur: shallow depth of field, cab interior and windshield background softly out of focus Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 七号车！老秦！回话！</d>; Final line of this shot: end on “车！老秦！回话！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio static crackle, engine hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

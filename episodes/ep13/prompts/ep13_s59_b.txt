@@ -1,0 +1,25 @@
+# ep13 s59_b  duration=9s  seed=1810479573
+# input images: ['episodes/ep13/storyboard/s59.png', 'refs/characters/amu.png', 'refs/props/prop_core.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up: Amu's gloved hands drive the ember-red glowing igniter core into a steel socket and throw a heavy locking lever. Blocking lock: Amu's gloved hands are centre foreground gripping the glowing igniter core and lever, the steel socket centre frame, Amu's body a dark blur at frame edge behind the hands.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the engine igniter core in its steel case from <Picture 3>, serving as prop reference. Close-up of an engine igniter core resting in the foam cradle of an open rugged steel carrying case inside a truck cabin: a forearm-length metal cylinder with a translucent section glowing deep ember red, frost on the case latches, a gloved hand on the lid.
+
+summary:
+In a close-up, Amu's gloved hands push the ember-red igniter core into its steel socket and lock it in place by throwing the heavy lever; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, locked-off with a slight handheld tremor from the impact; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu's gloved hands are centre foreground gripping the glowing igniter core and lever, the steel socket centre frame, Amu's body a dark blur at frame edge behind the hands. Start: Amu's gloved hands hold the ember-red glowing igniter core steady, lined up at the mouth of the steel socket. Middle: He shoves the core deep into the socket, leaning his whole body weight onto it as the red glow flares against the steel. End: His hands drag the heavy locking lever down until it slams into the locked position and the metal jolts still. Mood: tense, strained, climactic. Blur: very shallow depth of field, hands and socket sharp, Amu's body and background heavily blurred No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+loud metallic clamping crunch, heavy lever clang, Amu's strained roar; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep13 s69_a  duration=8s  seed=381516330
+# input images: ['episodes/ep13/storyboard/s69.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro shot: a gloved human hand and a steel robot manipulator grip the same frozen valve wheel and turn it together, frost cracking off. Blocking lock: gloved human hand at frame left, steel robot manipulator at frame right, both gripping the frozen valve wheel at centre, with a blurred dark background behind.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+In a macro shot, a gloved human hand and a steel robot manipulator grip the same frozen valve wheel and turn it together, cracking the frost until the wheel rotates; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a barely perceptible handheld tremor; pacing: natural speed, a single continuous take with no cut. Blocking lock: gloved human hand at frame left, steel robot manipulator at frame right, both gripping the frozen valve wheel at centre, with a blurred dark background behind. Start: The gloved hand and the steel manipulator clamp onto opposite sides of the frost-covered valve wheel, which does not move. Middle: Both strain together against the wheel, knuckles and metal joints tightening as frost splinters and cracks off the rim. End: The ice breaks free and the valve wheel rotates steadily under the two joined grips, frost fragments falling away. Mood: tense, determined, cooperative. Blur: Very shallow depth of field; only the wheel rim and gripping hand and claw are sharp, background falls into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+ice cracking, metal turning; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

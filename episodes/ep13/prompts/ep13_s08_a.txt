@@ -1,0 +1,27 @@
+# ep13 s08_a  duration=9s  seed=2035045036
+# input images: ['episodes/ep13/storyboard/s08.png', 'refs/characters/amu.png', 'refs/props/prop_node.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the tiny repair stall under a warm desk lamp: old Boye puts a small handmade node box, a dented steel tin with a short antenna, into Amu's hands across the cluttered bench. Blocking lock: Boye at frame left behind the cluttered bench, Amu at frame right facing him, the node box between them at centre, desk lamp glowing in the background above the bench.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In the tiny repair stall under a warm desk lamp, old Boye places a dented antenna tin into Amu's hands and presses the back of his hand; the clip opens and ends on his line "别问它。让我们自己，认得彼此。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake, slight drift toward the hands exchanging the box; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye at frame left behind the cluttered bench, Amu at frame right facing him, the node box between them at centre, desk lamp glowing in the background above the bench. Start: Boye holds the small dented steel tin with its short antenna in both hands over the cluttered bench, looking at Amu. Middle: Boye reaches across the bench and sets the tin into Amu's open hands. End: Boye presses the back of Amu's hand with his palm and keeps it there, while Amu looks down at the box. Mood: intimate, solemn, tender. Blur: Shallow depth of field; the hands and tin stay sharp while the cluttered tools and stall walls behind soften. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 别问它。让我们自己，认得彼此。</d>; Final line of this shot: end on “自己，认得彼此。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+soldering iron sizzling, faint crackle of hot solder; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

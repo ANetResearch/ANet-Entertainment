@@ -1,0 +1,23 @@
+# ep13 s78_a  duration=9s  seed=2103329584
+# input images: ['episodes/ep13/storyboard/s78.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the repair stall under the warm lamp: Xiaoman solders inside the open, dented body of the small yellow robot, its cracked screen dark; old Boye holds a work lamp for him. Blocking lock: Xiaoman at frame centre hunched over the open yellow robot body in the foreground, old Boye at frame right holding the work lamp, the stall's workbench and tools in the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In a repair stall under a warm lamp, Xiaoman solders wiring inside Luosi's dented body while old Boye holds a work lamp for him; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame centre hunched over the open yellow robot body in the foreground, old Boye at frame right holding the work lamp, the stall's workbench and tools in the background. Start: Xiaoman bends low over the open, dented robot body, soldering iron tip touching a wire inside, while Boye steadies the work lamp beside him. Middle: Xiaoman keeps soldering with small careful movements, and Boye tilts the lamp slightly to light the spot he is working on. End: Xiaoman lifts the soldering iron away and pauses over the finished joint, the robot's cracked screen still dark, Boye still holding the lamp. Mood: quiet, tender, weary. Blur: shallow depth of field, Xiaoman's hands and the robot's interior sharp, stall background softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+soldering iron sizzling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

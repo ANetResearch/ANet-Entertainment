@@ -1,0 +1,23 @@
+# ep13 s34_a  duration=9s  seed=9990593
+# input images: ['episodes/ep13/storyboard/s34.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the dark hub: Xiaoman has pulled the tarpaulin off; his tear-streaked face is lit by the glowing smiley screen of the small yellow robot, whose manipulator claw is held out toward him; his hand closes around it. Blocking lock: Xiaoman at frame left-centre facing right, Luosi at frame right-centre low in frame with its claw extended toward him, dark hub fading into the background.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In a dark hub, Xiaoman pulls off a tarpaulin and, lit by Luosi's glowing smiley screen, takes the robot's outstretched claw in a tight grip; the clip opens and ends on his line "……你还亮着。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left-centre facing right, Luosi at frame right-centre low in frame with its claw extended toward him, dark hub fading into the background. Start: Xiaoman pulls the tarpaulin away from Luosi, his tear-streaked face lit by the robot's glowing smiley screen. Middle: Luosi extends its manipulator claw toward him while he looks down at it. End: Xiaoman reaches out and closes his hand tightly around the claw, holding on. Mood: tender, melancholic, intimate. Blur: Shallow depth of field, the dark hub background falling into soft blur behind the two faces of light. Xiaoman (young male voice, quick and light) says, <d>[Chinese] ……你还亮着。</d>; Final line of this shot: end on “……你还亮着。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low motor hum, sniffling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

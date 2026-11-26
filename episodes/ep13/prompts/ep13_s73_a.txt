@@ -1,0 +1,23 @@
+# ep13 s73_a  duration=9s  seed=459940877
+# input images: ['episodes/ep13/storyboard/s73.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot of the ice plain: several engine beams burning on the horizon, the burning disc of Jupiter visibly smaller behind them. Blocking lock: engine light beams spread along the horizon at frame centre, burning Jupiter disc in the background behind and above them, empty ice plain filling the foreground, no characters visible.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+On a vast ice plain, several engine light beams burn steadily on the horizon while the burning disc of Jupiter slowly shrinks behind them; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: engine light beams spread along the horizon at frame centre, burning Jupiter disc in the background behind and above them, empty ice plain filling the foreground, no characters visible. Start: Several engine light beams burn steadily on the distant horizon with Jupiter's burning disc glowing large behind them. Middle: The beams hold steady while Jupiter's disc gradually shrinks behind them, a little at a time. End: Jupiter appears noticeably smaller behind the unwavering engine beams over the empty ice plain. Mood: vast, steady, solemn. Blur: deep focus, horizon beams and Jupiter sharp, faint atmospheric haze across the far distance No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+steady low engine rumble, wind; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

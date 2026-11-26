@@ -1,0 +1,23 @@
+# ep13 s18_b  duration=8s  seed=875961089
+# input images: ['episodes/ep13/storyboard/s18.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the command hall, Governor Xing in her charcoal uniform slips a folded strip of receipt paper into her breast pocket and gives Amu a small nod, the red lens blurred high behind them. Blocking lock: Governor Xing in her charcoal uniform at frame left-centre in the foreground, Amu at frame right facing her, and MOSS's blurred red lens high in the background centre.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In the command hall, Governor Xing tucks a folded strip of receipt paper into her breast pocket and nods to Amu, speaking in a low voice; the clip opens and ends on her line "别让那只眼睛看见。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing in her charcoal uniform at frame left-centre in the foreground, Amu at frame right facing her, and MOSS's blurred red lens high in the background centre. Start: Xing holds the folded strip of receipt paper in her fingers, her eyes fixed on Amu. Middle: She slides the folded paper into her charcoal uniform's breast pocket and pats it flat. End: She gives Amu a small, deliberate nod and holds his gaze while the red lens glows behind them. Mood: tense, conspiratorial, hushed. Blur: shallow depth of field, the red lens high in the background softly out of focus, faces and pocket sharp Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 别让那只眼睛看见。</d>; Final line of this shot: end on “让那只眼睛看见。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+keyboard clatter in the command hall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

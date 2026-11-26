@@ -1,0 +1,25 @@
+# ep13 s44_b  duration=9s  seed=2056066735
+# input images: ['episodes/ep13/storyboard/s44.png', 'refs/characters/jin.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the shaking cab: the node box on the dashboard flashes its lamps, Boss Jin hauls the wheel hard to the left, orange light through the windscreen. Blocking lock: Boss Jin at frame centre-right gripping the steering wheel, node box with flashing lamps on the dashboard at frame left foreground, windscreen with orange light filling the background.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+Inside a violently shaking convoy cab, Boss Jin wrenches the wheel left as the dashboard node box flashes; the clip opens and ends on his line "前面裂了！它让我们往左！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld inside the cab with strong violent shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin at frame centre-right gripping the steering wheel, node box with flashing lamps on the dashboard at frame left foreground, windscreen with orange light filling the background. Start: The node box on the dashboard blinks its lamps rapidly while Boss Jin grips the wheel, the cab already rattling. Middle: Boss Jin hauls the steering wheel hard to the left, his whole body thrown sideways by the lurch. End: Boss Jin braces against the wheel, held in the leftward turn, as the node box keeps flashing and orange light sweeps the cab. Mood: frantic, tense, urgent. Blur: Shallow depth of field, Jin and node box sharp, windscreen scenery behind them blurred into orange glare. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 前面裂了！它让我们往左！</d>; Final line of this shot: end on “！它让我们往左！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+rapid alert beeps, roaring engine, rattling cab; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

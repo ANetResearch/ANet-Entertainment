@@ -1,0 +1,27 @@
+# ep13 s24_a  duration=8s  seed=1890662736
+# input images: ['episodes/ep13/storyboard/s24.png', 'refs/characters/xiaoman.png', 'refs/characters/luosi.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In a pipe alcove off a back alley, Xiaoman throws a grey tarpaulin over the small yellow robot, one finger on his lips, the smiley glow dimming under the cloth. Blocking lock: Xiaoman at frame centre-left crouching and facing the robot, Luosi at frame centre-right low on the ground, pipes lining the alcove walls in the background, alley mouth deep behind them.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 3>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 4> is the underground city main street from <Picture 4>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a pipe alcove off a back alley, Xiaoman hurriedly covers Luosi with a grey tarpaulin and signals for silence, the robot's smiley glow fading beneath the cloth.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight tense shake, close on both figures; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame centre-left crouching and facing the robot, Luosi at frame centre-right low on the ground, pipes lining the alcove walls in the background, alley mouth deep behind them. Start: Xiaoman crouches beside Luosi and swings a grey tarpaulin up, holding it open over the small yellow robot. Middle: She drops the tarpaulin over Luosi, covering its body while its smiley glow still shines through the fabric. End: Xiaoman raises one finger to her lips as the glow under the cloth dims to darkness. Mood: tense, furtive, urgent. Blur: shallow depth of field, alley depth and distant pipes soft and out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+distant tracked vehicle rumble, quick shallow breathing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

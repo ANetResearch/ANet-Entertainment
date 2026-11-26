@@ -1,0 +1,27 @@
+# ep13 s67_a  duration=9s  seed=1095816361
+# input images: ['episodes/ep13/storyboard/s67.png', 'refs/characters/xing.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close shot at a console: Governor Xing signs a strip of receipt paper with a pen, her other hand holding it flat, operators watching. Blocking lock: Governor Xing at frame centre behind the console, paper strip and pen hand in the foreground, operators standing at frame left and right in the background watching her.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the receipt paper strip from a field printer from <Picture 3>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+At a control console, Governor Xing presses a strip of receipt paper flat and signs it without looking up, opening and ending on the line "敦煌给。全城降四度。我签。" while operators watch.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing at frame centre behind the console, paper strip and pen hand in the foreground, operators standing at frame left and right in the background watching her. Start: Xing lays the strip of receipt paper on the console and presses it flat with one hand. Middle: She raises the pen and signs the strip, her eyes staying fixed on the paper. End: She finishes the signature and holds the paper flat under her hand, head still down, while the operators keep watching. Mood: tense, resolute, heavy. Blur: shallow depth of field, operators in the background softly out of focus Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 敦煌给。全城降四度。我签。</d>; Final line of this shot: end on “城降四度。我签。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+pen nib scratching on paper, radio static; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

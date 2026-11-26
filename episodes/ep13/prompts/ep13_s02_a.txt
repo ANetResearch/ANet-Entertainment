@@ -1,0 +1,25 @@
+# ep13 s02_a  duration=12s  seed=1974220912
+# input images: ['episodes/ep13/storyboard/s02.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium shot in the dim concrete room: young Xiaoman sits on the metal chair holding in his lap the dented, crushed head of a small yellow robot, its square screen cracked and dark, his hand resting on it. Blocking lock: Xiaoman sits at frame centre on the metal chair, the crushed yellow robot head in his lap in the lower centre foreground, the bare dim concrete wall behind him.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim concrete room, Xiaoman sits holding the crushed head of Luosi and speaks to the interviewer, opening and ending on the line "它最后一条记录，是三分五十秒。我从头讲。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at frame centre on the metal chair, the crushed yellow robot head in his lap in the lower centre foreground, the bare dim concrete wall behind him. Start: Xiaoman sits on the metal chair with the dented yellow robot head in his lap, its cracked screen dark, his hand resting on it. Middle: He rubs the dust off the cracked screen with his thumb, then lifts his head and looks toward the interviewer. End: He lowers his head again and looks back down at the robot head in his lap, his hand still on it. Mood: somber, intimate, quiet. Blur: Shallow depth of field, concrete wall behind him softly out of focus, sharp on his face and the robot head. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 它最后一条记录，是三分五十秒。我从头讲。</d>; Final line of this shot: end on “十秒。我从头讲。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

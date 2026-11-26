@@ -1,0 +1,25 @@
+# ep13 s10_a  duration=9s  seed=96921097
+# input images: ['episodes/ep13/storyboard/s10.png', 'refs/characters/xiaoman.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up: Xiaoman's finger with a red paint marker draws a simple smiling face inside a speech-bubble outline on the dusty dark square screen of the yellow robot. Blocking lock: the dusty dark square screen of the yellow robot fills the centre of frame, Xiaoman's hand with the red marker enters from frame right, and everything else is out of frame.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In a macro close-up, Xiaoman draws a smiling face in a speech bubble on the dusty black screen of the yellow robot, opening and ending on the line "给你起个名儿，叫螺丝。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme macro close-up, locked-off camera with a very slight handheld settle; pacing: natural speed, a single continuous take with no cut. Blocking lock: the dusty dark square screen of the yellow robot fills the centre of frame, Xiaoman's hand with the red marker enters from frame right, and everything else is out of frame. Start: Xiaoman's fingertip holding a red paint marker touches the dusty black glass screen and begins tracing a speech-bubble outline. Middle: The marker draws a simple smiling face inside the speech bubble, leaving a bright red line through the dust. End: Xiaoman wipes the edge of the drawing with a sleeve, tidying the smudged border of the finished face. Mood: tender, intimate, quietly hopeful. Blur: razor-thin depth of field, only the marker tip and the drawn lines are sharp, while the rest of the screen and the background fall into soft blur Xiaoman (young male voice, quick and light) says, <d>[Chinese] 给你起个名儿，叫螺丝。</d>; Final line of this shot: end on “个名儿，叫螺丝。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+marker tip squeaking across glass, faint sleeve rustle; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

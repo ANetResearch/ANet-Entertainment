@@ -1,0 +1,25 @@
+# ep13 s53_b  duration=9s  seed=552284136
+# input images: ['episodes/ep13/storyboard/s53.png', 'refs/characters/luosi.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. From behind: the small yellow robot drives into the narrow dark gap under a tilted concrete slab, its whip antenna scraping the concrete, its glow disappearing inside. Blocking lock: Luosi is at frame centre, seen from behind, facing away from camera; the tilted concrete slab fills the background and upper frame, and the dark gap is centre background; no other characters visible.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+Inside a ruined area, Luosi, the small yellow tracked robot, drives away from camera into the narrow dark gap under a tilted concrete slab, its antenna scraping the concrete as its glow fades into the darkness.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot from behind, handheld follow with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi is at frame centre, seen from behind, facing away from camera; the tilted concrete slab fills the background and upper frame, and the dark gap is centre background; no other characters visible. Start: Luosi rolls forward on its tracks toward the low, narrow gap beneath the tilted concrete slab, its glow lighting its immediate surroundings. Middle: Luosi squeezes into the gap, its whip antenna scraping along the underside of the concrete as it pushes deeper. End: Luosi's body and glow gradually sink into the darkness beneath the slab until only a faint trace of light remains. Mood: tense, eerie, intimate. Blur: shallow depth of field, Luosi in soft focus with the concrete edges and dark gap falling off into blur and shadow No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+tracked robot treads rolling over rubble, metallic scraping of antenna against concrete; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep13 s41_a  duration=9s  seed=399966808
+# input images: ['episodes/ep13/storyboard/s41.png', 'refs/characters/amu.png', 'refs/props/prop_core.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Beside a huge truck in blowing snow: Boss Jin and Amu lift a rugged steel case, open for a moment to show the ember-red glowing igniter core, up into the cab. Blocking lock: Boss Jin at frame left and Amu at frame right share the steel case at centre, the huge truck fills the background, and blowing snow streaks through the foreground.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is the engine igniter core in its steel case from <Picture 3>, serving as prop reference. Close-up of an engine igniter core resting in the foam cradle of an open rugged steel carrying case inside a truck cabin: a forearm-length metal cylinder with a translucent section glowing deep ember red, frost on the case latches, a gloved hand on the lid.
+
+summary:
+Beside a huge truck in blowing snow, Boss Jin and Amu lift a steel case holding the glowing igniter core up into the cab; the clip opens and ends on the line "火石上车。四十公里，冰上走。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld with a natural shake, slight drift following the case upward; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin at frame left and Amu at frame right share the steel case at centre, the huge truck fills the background, and blowing snow streaks through the foreground. Start: Boss Jin and Amu brace in the snow, gripping the rugged steel case between them beside the truck's cab step. Middle: They heave the case upward together, and the lid shows the ember-red igniter core glowing for a moment before closing. End: The closed case is pushed up into the cab as both men steady their footing against the wind. Mood: urgent, gritty, tense. Blur: Shallow depth of field, snow flakes in the foreground and the truck's far body soft, focus on the case and the two men's hands. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 火石上车。四十公里，冰上走。</d>; Final line of this shot: end on “十公里，冰上走。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+howling wind, idling truck engine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep13 s04_b  duration=8s  seed=1285139500
+# input images: ['episodes/ep13/storyboard/s04.png', 'refs/locations/loc_street.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot in the crowded main street of the underground city: tired people in padded work clothes queue past a steel pillar on which a black terminal with a single red glowing lens is mounted; several of them glance up at it as they pass. Blocking lock: the steel pillar with the black terminal and red lens sits at frame centre-right, the queue of padded-clothed people flows from frame left past it toward frame right, and the crowded street recedes in the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+<Subject 3> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 3>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the crowded main street of the underground city, tired workers queue past a steel pillar with a red-lensed terminal, each glancing up at it before lowering their heads and shuffling on; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld follow with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the steel pillar with the black terminal and red lens sits at frame centre-right, the queue of padded-clothed people flows from frame left past it toward frame right, and the crowded street recedes in the background. Start: A line of tired people in padded work clothes shuffles forward along the street toward the steel pillar with the red-lensed terminal. Middle: Each person passing the pillar tilts their head up to glance at the red glowing lens. End: The people lower their heads again and keep walking past the pillar, while the next ones in the queue approach. Mood: oppressive, weary, watchful. Blur: Shallow depth of field keeps the pillar and passing faces sharp while the crowded street behind falls soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+noisy crowd chatter, humming ventilation pipes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

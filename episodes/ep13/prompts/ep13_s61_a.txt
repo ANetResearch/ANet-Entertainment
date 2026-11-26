@@ -1,0 +1,25 @@
+# ep13 s61_a  duration=9s  seed=170970848
+# input images: ['episodes/ep13/storyboard/s61.png', 'refs/locations/loc_engine.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide shot: the blue-white plasma column of the planetary engine blasts back to life and rises into the Jupiter-filled sky. Blocking lock: the planetary engine sits at frame centre as the only focal structure, the plasma column rising from its base through the centre, Jupiter filling the upper background, barren ground in the lower foreground, no characters visible.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+At the planetary engine site beneath a Jupiter-filled sky, the engine blasts back to life and a blue-white plasma column surges upward; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme wide shot, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the planetary engine sits at frame centre as the only focal structure, the plasma column rising from its base through the centre, Jupiter filling the upper background, barren ground in the lower foreground, no characters visible. Start: The engine stands dark and still against the huge Jupiter-filled sky, then a blue-white glow begins to appear at its base. Middle: The glow flares and a blue-white plasma column abruptly shoots upward from the engine's base toward the sky. End: The plasma column pierces deep into the Jupiter-filled sky, burning at full intensity and dominating the frame. Mood: awe-inspiring, explosive, monumental. Blur: deep focus, engine, plasma column and Jupiter all sharp, with slight glow bloom around the bright column No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+sudden deafening roar bursting out of total silence, deep engine rumble, rushing plasma blast; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep13 s01_a  duration=8s  seed=1936296190
+# input images: ['episodes/ep13/storyboard/s01.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Extreme close-up in a dark room: a small battered field printer slowly feeds out a strip of thermal paper covered with barcode-like marks, a tiny red square stamp at its end, lit by one desk lamp. Blocking lock: the battered field printer sits at frame centre, the paper strip emerges and hangs from its output slot in the lower centre foreground, the desk lamp lights it from one side, and the dark room fills the background.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In a dark room, a small battered field printer feeds out a barcode-marked paper strip one notch at a time, stamps a tiny red seal at its end, and the strip hangs and sways gently; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme close-up macro, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the battered field printer sits at frame centre, the paper strip emerges and hangs from its output slot in the lower centre foreground, the desk lamp lights it from one side, and the dark room fills the background. Start: The printer's print head clicks and pushes out the first notch of thermal paper, with barcode-like marks visible on the strip under the desk lamp. Middle: The strip advances notch by notch, lengthening steadily out of the printer's slot while the print head keeps working. End: A tiny red square stamp is pressed onto the strip's end, the printer falls still, and the strip hangs down and sways gently. Mood: tense, quiet, intimate. Blur: Very shallow macro depth of field: the paper strip and stamp are sharp, while the printer body edges and the dark room behind fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rhythmic print head clicking, faint paper feed rustle, then near silence; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

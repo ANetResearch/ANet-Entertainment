@@ -1,0 +1,29 @@
+# ep13 s72_a  duration=10s  seed=35013914
+# input images: ['episodes/ep13/storyboard/s72.png', 'refs/characters/amu.png', 'refs/characters/xiaoman.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. On the ice: Amu, Xiaoman and Boss Jin leaning on a cane stand among other crew, faces lit white, looking up without a word; beside them a small loader robot has tilted its sensor head up as well. Blocking lock: Amu and Xiaoman stand at frame centre, Boss Jin leaning on his cane at frame right of them, other crew members in the background, and the small loader robot at the lower foreground beside the group.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is Boss Jin (45, male, surface convoy boss) from <Picture 4>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 5> is the frozen plain with the heavy-truck convoy from <Picture 5>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+On the ice, Amu, Xiaoman, Boss Jin and the rest of the crew stand silently with faces lit white, gazing upward while a small loader robot tilts its sensor head up beside them; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 5> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld with a slow pan across the group; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu and Xiaoman stand at frame centre, Boss Jin leaning on his cane at frame right of them, other crew members in the background, and the small loader robot at the lower foreground beside the group. Start: The camera begins on the upturned, white-lit faces of Amu and Xiaoman, standing motionless on the ice. Middle: The slow pan drifts right past Boss Jin leaning on his cane and the other crew, all staring upward without moving. End: The pan settles on the small loader robot beside them as its sensor head finishes tilting up toward the same point in the sky. Mood: awestruck, hushed, solemn. Blur: Shallow depth of field; the distant crew and icy horizon soften while the nearest faces and robot stay sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind across the ice, no human voices; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

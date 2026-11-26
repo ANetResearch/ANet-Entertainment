@@ -1,0 +1,25 @@
+# ep13 s62_a  duration=10s  seed=974670896
+# input images: ['episodes/ep13/storyboard/s62.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Xiaoman kneeling at the gap, blue light washing over his face from behind; he is not looking at the beam but into the dark gap. Blocking lock: Xiaoman kneels at frame centre in close-up facing the dark gap, blue light source behind him, cheering crowd out of frame in the background, the gap in the foreground below his gaze.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the planetary engine exterior on the ice plain from <Picture 3>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At the gap, Xiaoman kneels with blue light washing over his face while everyone behind him cheers, and he stares into the dark crack and softly calls out; the clip opens and ends on the single line "螺丝？".
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight organic shake, holding steady on his face; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman kneels at frame centre in close-up facing the dark gap, blue light source behind him, cheering crowd out of frame in the background, the gap in the foreground below his gaze. Start: Xiaoman kneels at the gap as blue light spreads over his face from behind, his eyes fixed on the dark crack. Middle: The celebration goes on behind him, but he does not turn around and keeps staring into the black gap. End: He leans slightly toward the gap, lips parting as he gives a soft, hesitant call into the darkness. Mood: hushed, uneasy, tender. Blur: Shallow depth of field, face sharp, blue-lit background and cheering figures soft and out of focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 螺丝？</d>; Final line of this shot: end on “螺丝？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+distant cheering, engine roar; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

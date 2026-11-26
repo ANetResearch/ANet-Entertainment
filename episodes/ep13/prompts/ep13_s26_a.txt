@@ -1,0 +1,23 @@
+# ep13 s26_a  duration=9s  seed=1684133796
+# input images: ['episodes/ep13/storyboard/s26.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot in the underground street during an earthquake: dust and flakes of rust fall from the pipes, hanging lamps swing wildly, people grab railings and crouch over children. Blocking lock: crouching residents with children fill the foreground and centre along the railings, swinging hanging lamps and falling debris occupy the upper frame, and the long underground street recedes into the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+During an earthquake in the underground city's main street, dust and rust flakes rain down, lamps swing wildly, and residents grab railings and crouch over their children; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, violently shaking handheld camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: crouching residents with children fill the foreground and centre along the railings, swinging hanging lamps and falling debris occupy the upper frame, and the long underground street recedes into the background. Start: The street begins to tremble as dust and rust flakes start dropping from the overhead pipes and the hanging lamps jerk sideways. Middle: The lamps swing wildly and the shaking intensifies while people lunge to grab the railings. End: People crouch low over their children, bracing against the railings as debris keeps falling around them. Mood: panicked, chaotic, tense. Blur: Shallow, unstable focus that hunts under the shaking; dust haze and the far end of the street stay soft and out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+deep rumbling, screaming, groaning metal; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
