@@ -1,0 +1,23 @@
+{
+ "id": "nian_child",
+ "out": "refs/sp01/nian_child.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A 6-year-old Chinese girl with a round face, a straight black bob haircut with blunt bangs, big curious dark eyes, a small gap between her front teeth, rosy cheeks, a mustard-yellow knitted sweater, crayon smudges on her fingers. Plain blurred background of a sunny family kitchen. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Soft warm late-afternoon daylight, desaturated warm beige base, gentle shadows, quiet domestic atmosphere.",
+ "inputs": [],
+ "usage": {
+  "input_tokens": 164,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 164
+  },
+  "output_tokens": 5488,
+  "output_tokens_details": {
+   "image_tokens": 5488,
+   "text_tokens": 0
+  },
+  "total_tokens": 5652
+ },
+ "seconds": 92.1,
+ "ts": "2026-11-26 16:58:22"
+}

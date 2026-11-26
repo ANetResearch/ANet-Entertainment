@@ -1,0 +1,30 @@
+# sp01 s24_e  duration=9s  seed=24184665  prompt_source=director  cost=0.36
+# input images: ['episodes/sp01/storyboard/s24.png', 'refs/sp01/nian.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of an oral-history interview close-up in a dim concrete room from <Picture 1>, serving as composition, lighting and blocking reference. Nian, mid-thirties, in a plain dark knitted sweater, sits on a plain metal chair, head lowered, eyes glistening but composed; one large soft key falls from frame left, the concrete wall behind her sits one to two stops under her face, with out-of-focus pipes and a small warm lamp in the depth. Palette: charcoal, cool grey concrete, one small warm amber accent; soft directional light with a gentle falloff to the right. No text, no numbers, no logos. Blocking lock: Nian's face at frame centre-left, chin down, gaze toward frame right; soft dim background filling frame right and the far depth; the chair seat and her dark sweater occupying the lower third foreground.
+<Subject 2> is Nian (Song's daughter, dispatch engineer, 33 in 2075, 36 in 2078) from <Picture 2>, serving as the interviewee, the daughter now grown up. A Chinese woman in her mid-thirties, straight black shoulder-length hair tucked behind her ears with short side-swept bangs, calm guarded tired eyes, faint lines at the eye corners and brow, a round face grown lean. Costume lock for this shot: she wears a plain dark charcoal knitted sweater, fine rib at the neckline and cuffs, soft matte wool texture; no uniform, no headset, nothing around her neck; only her face and hair are taken from the reference picture.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as the location reference. A dim concrete room: one plain metal chair facing the camera, a single large soft key from the left, out-of-focus pipes along the back wall and a small warm practical lamp in the background, a boom microphone tip at the top edge of frame. Bare concrete walls with faint formwork seams, no decoration, no text.
+
+summary:
+A locked-off oral-history interview close-up in a dim concrete room, 2078, clean digital documentary look: Nian, mid-thirties in a plain dark charcoal knitted sweater, sits with her head lowered, is silent for a moment, then lifts her eyes and speaks the line calmly to the interviewer past the lens. The clip ends on "他没回来。", with the whole sentence completed, no cut-off; final frame: Nian's face at frame centre-left, eyes lifted toward frame right, composed and still.
+
+retention_analysis:
+<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, hairstyle and the dark charcoal knitted sweater retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — room layout, concrete surfaces, key light direction and dim background retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, Locked look "2078 oral-history interview" (style preset sp01-int78): a Sony FX6 on a locked tripod; S-Cinetone; a 50mm prime at f/2.8; filter Black Pro-Mist 1/8; grade: neutral, gently warm skin, background one to two stops under the face; light: one large soft key 45 degrees from frame left, negative fill on the right, a small warm practical in the background; texture: clean, fine detail, real skin texture; a calm, restrained oral-history interview, the subject looking past the lens; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.
+[Shot 1] At 0.0s, close-up, locked-off tripod camera on a Sony FX6 with a 50mm prime, absolutely static, no camera movement, Nian on the centre-left third with nose room toward frame right; pacing: natural speed, a single continuous take with no cut.
+Blocking at the start: Nian's face at frame centre-left, chin lowered, gaze down toward frame right; her dark charcoal sweater shoulder and the plain metal chair back in the lower foreground; the dim concrete wall, out-of-focus pipes and the small warm lamp soft in the background at frame right and behind her.
+Start: she sits still, head down, shoulders slightly drawn in, her jaw working once as she swallows. Middle: a long pause; her eyelids lower, she breathes in through the nose, her lips press together, then she lifts her chin and raises her eyes to look past the lens toward frame right, and the words come out low and even. End: her gaze stays lifted and steady, her mouth closes, her breath settles, and she holds completely still, only a faint blink.
+Mood: grieving, restrained, dignified. Blur: her eyes and the fine texture of her skin razor sharp, the lashes and the small soft catchlight in each eye clear; her ears, the back of the chair, the concrete wall, the pipes and the warm practical falling into very shallow softness.
+Nian (a woman in her mid-thirties, low, calm, restrained voice) says, <d>[Chinese] 网回来了。他没回来。</d>;
+Final line of this shot: end on "他没回来。", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Quiet room tone of a small concrete room, a low distant ventilation hum, the faint rustle of a wool sweater as she shifts, one soft breath drawn in before she speaks, her low voice close and dry; raw production location sound only, dry and unscored, no background music.
+
+non_diegetic_music:
+N/A

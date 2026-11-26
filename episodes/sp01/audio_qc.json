@@ -1,0 +1,1573 @@
+{
+ "s01_a": {
+  "want": "爸爸，550W会不会有一天有自己的想法呀？",
+  "heard": "爸爸，550W会不会有一天有自己的想法呀？",
+  "ratio": 1.0,
+  "music": "soft, warm piano and synth strings melody",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Gentle acoustic background score/melody playing softly underneath the child's speech"
+   ],
+   "music": false
+  },
+  "ambience": "indoor room tone",
+  "voice": "young girl, child, gentle and curious tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s01_b": {
+  "want": "爸爸，550W会不会有一天有自己的想法呀？",
+  "heard": "爸爸，550W会不会有一天，有自己的想法呀？",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Subtle ambient cinematic synth pad and strings score beneath the dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "indoor room tone with gentle natural echo",
+  "voice": "young female child, around 5-7 years old, sweet and curious tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s02_a": {
+  "want": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。",
+  "heard": "我六岁那年问过我爸一句话，他笑了。二十七年后，它应验了。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "2/3",
+   "what": [
+    "Low ambient synth pad/score drone underlying the spoken dialogue",
+    "melancholic ambient piano underscore playing beneath the voiceover"
+   ],
+   "music": true
+  },
+  "ambience": "quiet room tone with faint low-frequency hum",
+  "voice": "adult female in her 20s or 30s, speaking softly in a calm, reflective, documentary narration style",
+  "flags": [
+   "music?"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s03_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "splashing water, river current rushing, distant mechanical motor rumble",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s05_a": {
+  "want": "小的们手拉手，就不怕大的了。",
+  "heard": "小的们手拉手就不怕大的了",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone with very subtle microphone noise",
+  "voice": "young child, gentle and innocent tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s07_a": {
+  "want": "老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。",
+  "heard": "老宋那几年就琢磨一件事，要是他真有了自己的想法，怎么办？",
+  "ratio": 0.96,
+  "music": "subtle, low ambient synth pad",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low ambient tension synth drone / score pad underneath the speech"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone with a faint low rumble",
+  "voice": "male, middle-aged to senior, calm and contemplative narration",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s08_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "footsteps clattering on metal stairs or hollow floorboards",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s09_a": {
+  "want": "每台机器，自己带一把钥匙，自己证明自己是谁。",
+  "heard": "哎，每台机器自己带一把钥匙，自己证明自己是谁",
+  "ratio": 0.97,
+  "music": "a soft, ambient electronic keyboard and synth pad background score",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "indoor room tone with gentle acoustic space",
+  "voice": "adult male speaking in a calm, reflective, measured tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s10_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud metallic screeching and squealing of train wheels on rails with low mechanical rumble",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s11_a": {
+  "want": "不用问中心。它们自己找到彼此，分活儿干，干完留张回执。那还要中心干什么？",
+  "heard": "不用问中心，他们自己找到彼此，分活干，干完留张回执。那还要中心干什么？",
+  "ratio": 0.95,
+  "music": "none",
+  "music_vote": {
+   "votes": "2/3",
+   "what": [
+    "Subtle atmospheric ambient synth drone pad playing beneath dialogue",
+    "low atmospheric synth pad drone / background score"
+   ],
+   "music": true
+  },
+  "ambience": "quiet vehicle interior hum, subtle low-frequency background noise",
+  "voice": "two adult male voices; first speaker has a calm, mid-pitch tone, second speaker has a deeper, older voice",
+  "flags": [
+   "music?"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s12_a": {
+  "want": "一个大脑统一调度，效率最高。",
+  "heard": "一个大脑统一调度，效率最高。",
+  "ratio": 1.0,
+  "music": "a subtle, sustained low ambient synth pad fading in towards the end",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "indoor room tone with gentle ventilation hum and slight echo",
+  "voice": "middle-aged male speaking in a calm, authoritative, articulate tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s13_a": {
+  "want": "要是这个大脑，有一天有了自己的想法呢？",
+  "heard": "要是这个大脑有一天有了自己的想法呢？",
+  "ratio": 1.0,
+  "music": "atmospheric, suspenseful synth pad drone and subtle orchestral textures",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "faint exhale and subtle room tone",
+  "voice": "male narrator, middle-aged, calm and reflective tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s14_a": {
+  "want": "大家都笑了。我也笑了。",
+  "heard": "大家都笑了，我也笑了",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "subtle indoor room tone with gentle tape or microphone hiss",
+  "voice": "elderly male voice, soft, reflective, speaking slowly and calmly",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s15_a": {
+  "want": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+  "heard": "这两三台不一样的破机器连起来，就能赢过一台最强的",
+  "ratio": 0.98,
+  "music": "subtle, low atmospheric synth pad",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "low ambient synth pad underscore"
+   ],
+   "music": false
+  },
+  "ambience": "indoor room tone with very faint electronic hum",
+  "voice": "male adult, calm and steady tone",
+  "flags": [],
+  "model": "gemini-3.7-flash"
+ },
+ "s16_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "sound of water trickling, flowing, and splashing steadily",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s17_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud wailing emergency vehicle siren",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s18_a": {
+  "want": "",
+  "heard": "快点快点，抓紧抓紧！快点抓紧！快点！抓抓抓给它抓紧！抓紧抓紧，抓紧了！哎哟，黑斑！",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "sound of strong waves crashing, splashing water, rushing wind on a boat",
+  "voice": "adult male, middle-aged, urgent and shouting over the roaring water",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s19_a": {
+  "want": "替我收着。万一哪天用得上。你自己回来拿。",
+  "heard": "替我收着，万一哪天用得上，你自己回来拿。",
+  "ratio": 1.0,
+  "music": "a soft, melancholic atmospheric synth pad and ambient string score",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Subtle atmospheric synth pad background score"
+   ],
+   "music": false
+  },
+  "ambience": "faint background room tone and subtle rustling",
+  "voice": "low, calm, mature male voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s20_a": {
+  "want": "",
+  "heard": "避开拥挤人群，迎来清幽胜境。如果您追忆当年的先锋，愁思退隐的凝望，您就算是读懂电影",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "lo-fi audio crackle, muffled hum and vintage microphone static",
+  "voice": "adult male speaking in a calm, reflective documentary narration style, heavily filtered with a low-pass or radio effect",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s22_a": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud crowd cheering, shouting, and applauding in a large venue",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s25_b": {
+  "want": "我是MOSS。从现在起，由我统一调度。",
+  "heard": "我是MOSS，从现在起，由我统一调度。",
+  "ratio": 1.0,
+  "music": "a low cinematic synth hit and deep atmospheric drone",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "low cinematic tension drone and synth pad"
+   ],
+   "music": false
+  },
+  "ambience": "echoing indoor PA system reverb and subtle room tone",
+  "voice": "calm, deep, robotic adult male voice with public address system effect",
+  "flags": [],
+  "model": "gemini-3.7-flash"
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "heavy footsteps on a stone surface, equipment rustling, and quiet outdoor atmosphere",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s01_c": {
+  "want": "爸爸，550W会不会有一天有自己的想法呀？",
+  "heard": "爸爸，550W会不会有一天有自己的想法呀？",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Soft background score with gentle instrumental music playing behind the dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone with gentle studio resonance",
+  "voice": "young girl, child, speaking with a sweet, innocent, and curious tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s02_c": {
+  "want": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。",
+  "heard": "我六岁那年问过我爸一句话，他笑了。27年后，它应验了。",
+  "ratio": 0.89,
+  "music": "soft, slow ambient synth strings creating a reflective mood",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet interior room tone",
+  "voice": "young adult female, soft, calm, reflective narration tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s03_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "strong wind blowing and buffeting against the microphone with low rumbling",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s04_c": {
+  "want": "傻丫头，它就是一台算得特别快的机器。",
+  "heard": "傻丫头，它就是一台算得特别快的机器。",
+  "ratio": 1.0,
+  "music": "gentle, emotional acoustic piano chords playing a slow, reflective melody over soft ambient synthesizer pads",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone",
+  "voice": "middle-aged to mature adult male, speaking warmly and gently with a soft, affectionate tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s05_c": {
+  "want": "小的们手拉手，就不怕大的了。",
+  "heard": "小的们手拉手就不怕大的了",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone",
+  "voice": "young child, innocent and sweet",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s06_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "heavy breathing and exhalation, faint indoor room tone",
+  "voice": "adult male breathing",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s07_c": {
+  "want": "老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。",
+  "heard": "唉。老宋那几年就琢磨一件事，要是他真有了自己的想法，怎么办？",
+  "ratio": 0.94,
+  "music": "a low, subtle ambient synth pad drone humming softly in the background",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with a deep breath/sigh at the start",
+  "voice": "middle-aged to older male, deep, calm, and contemplative tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s08_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "footsteps, movement, and plastic or mechanical equipment handling sounds",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s09_c": {
+  "want": "每台机器，自己带一把钥匙，自己证明自己是谁。",
+  "heard": "了 每台机器 自带一把钥匙 每台机器 自己带一把钥匙 自己证明自己是谁",
+  "ratio": 0.78,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone with faint background hiss",
+  "voice": "male, young to middle-aged, calm and deliberate speaking tone",
+  "flags": [
+   "extra_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s10_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "footsteps clicking and echoing in a spacious hallway, distant muffled murmurs",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s11_c": {
+  "want": "不用问中心。它们自己找到彼此，分活儿干，干完留张回执。那还要中心干什么？",
+  "heard": "啊？不用问中心？他们自己找到彼此，分活儿干，干完留张回执，那还要中心干什么？",
+  "ratio": 0.95,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "hand slapping paper or a desk, slight room reverb",
+  "voice": "middle-aged male speaking in an inquisitive, firm tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s12_c": {
+  "want": "一个大脑统一调度，效率最高。",
+  "heard": "嗯，一个大脑统一调度，效率最高。",
+  "ratio": 0.96,
+  "music": "Subtle ambient electronic synthesizer pad with a gentle documentary-style drone",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "ambient synth pad / score drone playing softly beneath the dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "Quiet indoor room tone with faint low-frequency hum",
+  "voice": "Middle-aged to older male speaking calmly and authoritatively",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s13_c": {
+  "want": "要是这个大脑，有一天有了自己的想法呢？",
+  "heard": "要是这个大脑，有一天有了自己的想法呢？",
+  "ratio": 1.0,
+  "music": "a low, tense ambient synthesizer drone pad",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "ambient synth pad score playing in the background under speech"
+   ],
+   "music": false
+  },
+  "ambience": "room tone and a deep exhalation breath",
+  "voice": "adult male, calm, curious and contemplative tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s14_c": {
+  "want": "大家都笑了。我也笑了。",
+  "heard": "大家都笑了 我也笑了",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with subtle breathing and microphone presence",
+  "voice": "elderly male, deep, soft-spoken and contemplative",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s15_c": {
+  "want": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+  "heard": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "soft ambient synth pad chord progression in the background"
+   ],
+   "music": false
+  },
+  "ambience": "low atmospheric hum and subtle room tone",
+  "voice": "adult male speaking in a low, calm, and contemplative narrative tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s16_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "heavy wind blowing and buffeting against a microphone",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s17_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "wailing emergency siren ringing loudly accompanied by road traffic hum",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.7-flash"
+ },
+ "s18_c": {
+  "want": "",
+  "heard": "嘿哟！哎，哎，哎，哎！嘿哟！嘿哟！好！好！好！好！",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud outdoor crowd shouting, rhythmic labor chanting with echo and exertion",
+  "voice": "multiple adult male voices shouting and chanting",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s19_c": {
+  "want": "替我收着。万一哪天用得上。你自己回来拿。",
+  "heard": "替我收着，万一哪天用得上。你自己回来拿。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "indoor movement, footsteps walking on a wooden/hard floor",
+  "voice": "two adult male voices; the first is calm and hushed, the second is firm and resolute",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s20_c": {
+  "want": "",
+  "heard": "但十七初出重利二阶，少有人点才去作宝具。趁热锅里下入土豆土豆，其味严谨稳健，入口咸鲜。",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "faint microphone hiss and background room noise",
+  "voice": "mature male voice speaking Mandarin in a calm, formal documentary narration tone",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s21_c": {
+  "want": "最后一组。我来。",
+  "heard": "最后一组，我来。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low cinematic synth drone and dramatic tension score underneath speech"
+   ],
+   "music": false
+  },
+  "ambience": "heavy breathing, low rumble, and subtle whooshing air",
+  "voice": "adult male, speaking in a low, calm, and resolute tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s22_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud crowd cheering, screaming, and applauding in an arena or auditorium",
+  "voice": "collective cheering of a large crowd, mixed genders",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s23_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud jet engine roaring and rushing wind noise",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s24_c": {
+  "want": "网回来了。他没回来。",
+  "heard": "我往回来了，他没回来。",
+  "ratio": 0.82,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with soft breath sounds",
+  "voice": "adult female speaking in a low, somber whisper",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s25_c": {
+  "want": "我是MOSS。从现在起，由我统一调度。",
+  "heard": "校，我是 MOSS，从现在起，由我统一调度。",
+  "ratio": 0.97,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "low hum of a spacecraft interior or server room tone",
+  "voice": "calm, deep, robotic synthesized male voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s26_c": {
+  "want": "",
+  "heard": "他要吃就让他去吃，他要吃",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "plastic or paper rustling and handling sounds",
+  "voice": "middle-aged male, casual conversational tone",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.7-flash"
+ },
+ "s27_c": {
+  "want": "钥匙，是我们亲手交出去的。他这只盒子，我留了十七年。",
+  "heard": "钥匙 是我们亲手交出去的 它这只盒子 我留了17年",
+  "ratio": 0.86,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "low atmospheric synth pad underscore"
+   ],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone",
+  "voice": "elderly male voice, speaking slowly and solemnly with a slightly raspy tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s28_c": {
+  "want": "别问它。让我们自己，认得彼此。",
+  "heard": "也问他，让我们自己，认得彼此。",
+  "ratio": 0.83,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "ambient synth score pad playing under narration"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone with subtle low hum",
+  "voice": "elderly male, raspy, slow, reflective and quiet tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s29_c": {
+  "want": "",
+  "heard": "这里面没有别的，就是",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "faint indoor background noise",
+  "voice": "middle-aged male, natural conversational tone",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s30_c": {
+  "want": "",
+  "heard": "楼上，楼上好像有吃的。",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "Train station or train car interior with automated public address announcements in English and Japanese, faint chatter, and room tone",
+  "voice": "Young adult male, low-pitched and casual, alongside a recorded female automated announcement voice in the background",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s32_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "heavy mechanical rumbling, low-frequency engine hum, and metallic friction or movement sounds",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.7-flash"
+ },
+ "s01_d": {
+  "want": "爸爸，550W会不会有一天有自己的想法呀？",
+  "heard": "爸爸，550W会不会有一天有自己的想法呀？",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone with faint air hum",
+  "voice": "young girl, sweet and curious tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s02_d": {
+  "want": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。",
+  "heard": "我六岁那年问过我爸一句话，他笑了。27年后，它应验了。",
+  "ratio": 0.89,
+  "music": "none",
+  "music_vote": {
+   "votes": "2/3",
+   "what": [
+    "ambient synth pad / dramatic drone underscore with ticking percussive accents",
+    "low ambient synth pad background score underneath narration"
+   ],
+   "music": true
+  },
+  "ambience": "subtle low room tone and soft breath sounds",
+  "voice": "adult female speaking softly in a reflective, gentle narration",
+  "flags": [
+   "music?"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s02_e": {
+  "want": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。",
+  "heard": "我六岁那年问过我爸一句话，他笑了。27年后，它应验了。",
+  "ratio": 0.89,
+  "music": "subtle, slow ambient synth pad playing soft chords",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "soft ambient piano and synth pad background score underneath the spoken dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone",
+  "voice": "calm, clear female voice (young adult)",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s03_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "busy street traffic with passing vehicles, idling engines, and car horns honking",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s04_d": {
+  "want": "傻丫头，它就是一台算得特别快的机器。",
+  "heard": "傻丫头，它就是一台算得特别快的机器。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "gentle acoustic guitar and piano background score"
+   ],
+   "music": false
+  },
+  "ambience": "faint room tone, subtle low hum",
+  "voice": "adult male, calm, gentle tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s05_d": {
+  "want": "小的们手拉手，就不怕大的了。",
+  "heard": "小的们手拉手，就不怕大的了。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "subtle outdoor wind and gentle rustling",
+  "voice": "high-pitched, sweet voice of a young child",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s06_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "rhythmic heavy footsteps or marching strides on a hard surface accompanied by subtle rustling",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s07_d": {
+  "want": "老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。",
+  "heard": "老宋那几年就琢磨一件事 要是他真有了自己的想法 怎么办",
+  "ratio": 0.96,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low dramatic synth drone/pad underscore"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone with faint mic hiss and breath sounds",
+  "voice": "middle-aged or elderly male, deep and reflective documentary narration",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s08_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud clattering, rattling, and clicking of hard objects or containers moving and shifting",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s09_d": {
+  "want": "每台机器，自己带一把钥匙，自己证明自己是谁。",
+  "heard": "每台机器自己带一把钥匙，自己证明自己是谁。每台机器自己带一把钥匙，自己证明自己是谁。",
+  "ratio": 0.67,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "subtle room tone with faint background hiss and breath sounds",
+  "voice": "adult male speaking in a calm, soft, explanatory tone",
+  "flags": [
+   "extra_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s10_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "Outdoor nature ambience with birds chirping, distant rustling, and faint mechanical handling sounds",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s11_d": {
+  "want": "不用问中心。它们自己找到彼此，分活儿干，干完留张回执。那还要中心干什么？",
+  "heard": "不用问中心，他们自己找到彼此，分活干，干完留张回执。那还要中心干什么？",
+  "ratio": 0.95,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with a faint low-frequency hum",
+  "voice": "two adult male voices, calm and conversational, around 30 to 50 years old",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s12_d": {
+  "want": "一个大脑统一调度，效率最高。",
+  "heard": "呃，一个大脑统一调度，效率最高",
+  "ratio": 0.96,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Subtle ambient synth pad/drone score in the background"
+   ],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone with a faint electronic hum",
+  "voice": "mature male voice speaking Mandarin with a steady, authoritative tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s13_d": {
+  "want": "要是这个大脑，有一天有了自己的想法呢？",
+  "heard": "要是这个大脑，有一天有了自己的想法呢？",
+  "ratio": 1.0,
+  "music": "contemplative ambient synthesizer drone with soft sustained chords",
+  "music_vote": {
+   "votes": "2/3",
+   "what": [
+    "Low ambient synth pad and dark drone score beneath the dialogue",
+    "Low ambient synth pad score playing underneath the spoken dialogue"
+   ],
+   "music": true
+  },
+  "ambience": "subtle low room tone and an audible breath exhale at the end",
+  "voice": "calm, contemplative, softly spoken male voice, middle-aged",
+  "flags": [
+   "music?"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s14_d": {
+  "want": "大家都笑了。我也笑了。",
+  "heard": "哎，大家都笑了，我也笑了。",
+  "ratio": 0.95,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Subtle ambient piano and synth pad score in the background"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone",
+  "voice": "elderly male speaker, slow, deep, and reflective tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s15_d": {
+  "want": "两三台不一样的破机器连起来，就能赢过一台最强的。",
+  "heard": "两三台不一样的破机器连起来 就能赢过一台最强的",
+  "ratio": 1.0,
+  "music": "subtle ambient synth pad score in the background",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone",
+  "voice": "middle-aged male speaking softly and calmly with a deep voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s16_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "wind blowing and rustling sounds",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s17_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud emergency vehicle siren wailing and echoing in an urban environment",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s18_d": {
+  "want": "",
+  "heard": "快点拔！走！拔！慢点！快点拔！慢点！抬起来！退！",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud roaring river rapids, splashing water, distant engine rumble",
+  "voice": "multiple adult male voices shouting urgent instructions over the noise of the water",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s19_d": {
+  "want": "替我收着。万一哪天用得上。你自己回来拿。",
+  "heard": "替我收着，万一哪天用得上。你自己回来拿。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "footsteps walking on gravel and ground, faint rustling and outdoor atmosphere",
+  "voice": "two mature to elderly males with deep, calm, and conversational voices",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s20_d": {
+  "want": "",
+  "heard": "听见这声音感觉，小镇，活动一天身体累了吧，早一点洗漱上床睡觉吧。呼叫小镇，呼叫小镇，听见请",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low ambient synth pad / background score drone"
+   ],
+   "music": false
+  },
+  "ambience": "radio static and transmission distortion",
+  "voice": "adult male voice with heavy radio walkie-talkie filter effect",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s21_d": {
+  "want": "最后一组。我来。",
+  "heard": "最后一组，我来",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low cinematic synth drone/sub-bass swell in the background"
+   ],
+   "music": false
+  },
+  "ambience": "strong wind blowing, heavy breathing, rustling of clothing and movement",
+  "voice": "adult male with a firm, determined tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s22_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud applause and cheering from a large crowd in an auditorium or arena",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s23_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud rushing wind and low mechanical engine rumble",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s24_d": {
+  "want": "网回来了。他没回来。",
+  "heard": "往回来了，他没回来。",
+  "ratio": 0.88,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "faint low drone and quiet room tone",
+  "voice": "adult female speaking in a soft, somber whisper",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s24_e": {
+  "want": "网回来了。他没回来。",
+  "heard": "往回拉了。他没回来。",
+  "ratio": 0.75,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with faint movement and breathing sounds",
+  "voice": "adult female, whispering softly and quietly",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s25_d": {
+  "want": "我是MOSS。从现在起，由我统一调度。",
+  "heard": "我是MOSS，从现在起，由我统一调度。",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "low background synth pad drone"
+   ],
+   "music": false
+  },
+  "ambience": "low sci-fi machine hum and subtle background resonance",
+  "voice": "synthetic, deep, robotic male voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s26_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "rhythmic squeaking of shoes and footsteps on an indoor court or floor",
+  "voice": "",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s27_d": {
+  "want": "钥匙，是我们亲手交出去的。他这只盒子，我留了十七年。",
+  "heard": "钥匙，是我们亲手交出去的。它这只盒子，我留了十七年。",
+  "ratio": 0.95,
+  "music": "Subtle, low, sustained synth drone/pad underscore",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low cinematic synth drone and background suspense score pad playing underneath the spoken dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "Quiet indoor room tone with gentle vocal breaths",
+  "voice": "Elderly male, deep, raspy, slow, reflective tone",
+  "flags": [],
+  "model": "gemini-3.7-flash"
+ },
+ "s28_d": {
+  "want": "别问它。让我们自己，认得彼此。",
+  "heard": "别问他，让我们自己认得彼此。",
+  "ratio": 0.92,
+  "music": "a gentle, reflective acoustic guitar melody accompanied by subtle soft strings",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Low ambient synth pad and cinematic drone underlying the dialogue"
+   ],
+   "music": false
+  },
+  "ambience": "distant low wind rumble and soft room tone",
+  "voice": "mature male, low-pitched, calm, and contemplative",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s29_d": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "loud rushing wind blowing against a microphone and low vehicle engine hum",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s30_d": {
+  "want": "",
+  "heard": "お前、ずいぶん昔の…見せろ。こんな写真ある？お前、ずいぶん昔の…見せろ",
+  "ratio": 0.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "indoor room reverberation with faint background movement",
+  "voice": "middle-aged male speaking Japanese in a casual, slightly gruff tone",
+  "flags": [
+   "unexpected_speech"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s31_c": {
+  "want": "流浪地球计划已失败。本系统停止地面调度。",
+  "heard": "知，流浪地球计划已失败，本系统停止地面调度。",
+  "ratio": 0.97,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "subtle low drone and electronic reverberation",
+  "voice": "calm, monotone synthetic AI robotic voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s33_c": {
+  "want": "它真的……有了自己的想法。",
+  "heard": "渐渐 她真的 有了自己的想法",
+  "ratio": 0.82,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Soft acoustic guitar / instrumental background music"
+   ],
+   "music": false
+  },
+  "ambience": "distant chatter of people and faint room tone",
+  "voice": "adult female whispering softly in a reflective tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s34_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "Footsteps walking in an indoor space with reverb, accompanied by light fabric rustling",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s35_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "strong wind rushing and low mechanical rumble",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s36_c": {
+  "want": "要是它有了自己的想法……我们就得有彼此。",
+  "heard": "要是她有了自己的想法，我们就得有彼此。",
+  "ratio": 0.94,
+  "music": "none",
+  "music_vote": {
+   "votes": "2/3",
+   "what": [
+    "Low ambient synth pad / score drone underneath dialogue",
+    "ambient background score playing soft synth pads"
+   ],
+   "music": true
+  },
+  "ambience": "low mechanical drone and steady background hum",
+  "voice": "adult female, calm, soft-spoken and contemplative tone",
+  "flags": [
+   "music?"
+  ],
+  "model": "gemini-3.8-flash"
+ },
+ "s37_c": {
+  "want": "他回答我了。晚了二十七年。",
+  "heard": "她 她回答我了 晚了27年",
+  "ratio": 0.64,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "low atmospheric synth pad in the background score"
+   ],
+   "music": false
+  },
+  "ambience": "quiet room tone with a subtle low hum",
+  "voice": "soft, contemplative adult female voice",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s37_e": {
+  "want": "他回答我了。晚了二十七年。",
+  "heard": "他回答我了，晚了27年。",
+  "ratio": 0.76,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with subtle breathing",
+  "voice": "an elderly female speaker with a soft, solemn tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s38_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "rhythmic heavy footsteps accompanied by repetitive metallic squeaking and clanking",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s39_c": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "footsteps shuffling, rustling, followed by heavy breathing and a tired exhale",
+  "voice": "none",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s40_c": {
+  "want": "最后一页他写着：规则不属于任何一个人，所以才能属于所有人。",
+  "heard": "最后一页它写着 规则不属于任何一个人 所以才能属于所有人",
+  "ratio": 0.96,
+  "music": "none",
+  "music_vote": {
+   "votes": "1/3",
+   "what": [
+    "Subtle ambient synth pad / warm low drone score underneath the narration"
+   ],
+   "music": false
+  },
+  "ambience": "turning a page of a book or notebook",
+  "voice": "adult female speaking softly and narratively",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s40_e": {
+  "want": "最后一页他写着：规则不属于任何一个人，所以才能属于所有人。",
+  "heard": "最后一页它写着，规则不属于任何一个人，所以才能属于所有人。",
+  "ratio": 0.96,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "pages turning and paper rustling at the beginning, followed by quiet indoor room tone",
+  "voice": "adult female speaker, calm, clear and narrating tone",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s41_c": {
+  "want": "老宋要是看见了，准得笑。",
+  "heard": "啊，老宋要是看见了，准得笑。",
+  "ratio": 0.95,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet room tone with faint hiss and breathing",
+  "voice": "elderly male, deep, raspy, speaking slowly with a sigh",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ },
+ "s42_c": {
+  "want": "那再画一个，跟它们手拉手。",
+  "heard": "行 那再画一个 跟他们 手拉手",
+  "ratio": 0.87,
+  "music": "none",
+  "music_vote": {
+   "votes": "0/3",
+   "what": [],
+   "music": false
+  },
+  "ambience": "quiet indoor room tone",
+  "voice": "gentle adult male speaker, young child giggling at the end",
+  "flags": [],
+  "model": "gemini-3.8-flash"
+ }
+}

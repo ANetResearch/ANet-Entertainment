@@ -1,0 +1,1349 @@
+{
+ "episode": "sp01",
+ "title": "第一页",
+ "series": "流浪地球番外 · 未熄之网 · 特别篇",
+ "concept": "单一中心的风险与去中心化的 Agent Network：自证明身份、发现、委派、可验证回执、异构网络缩放（n*≈2.6）、开放规则。",
+ "logline": "2048 年，一个六岁的女孩问父亲：“爸爸，550W会不会有一天有自己的想法呀？”父亲笑了，却把她的画贴进了笔记本的第一页。二十七年后，这句话应验了。",
+ "characters": {
+  "song": "宋启（宋工），550 项目系统工程师。2048 年 33 岁，2058 年在根服务器重启行动中牺牲。",
+  "nian_child / nian_teen / nian": "宋念，宋工的女儿。2048 年 6 岁，2058 年 16 岁，2075 年 33 岁（敦煌七号地下城调度工程师），2078 年 36 岁接受口述史采访。",
+  "boye58 / boye": "波爷，宋工的同事。2058 年 44 岁，2075 年 61 岁，2078 年 64 岁。",
+  "amu": "阿牧（系列主角），只在第三幕 s28 出现，与《未熄》s08 同一时刻。",
+  "chair": "评审会主席（群众角色）。",
+  "moss": "MOSS（550W）。"
+ },
+ "eras": {
+  "home48": "2048 家用录像：廉价手持家用摄像机，自动对焦呼吸、阳光过曝、暖色褪色、压缩噪点；记忆，偏模糊。",
+  "lab50s": "2050 年代研究院影像档案：Super 16 彩色负片质感，颗粒明显，冷荧光灯混一盏暖台灯，低饱和。",
+  "arch58": "2058 新闻资料影像：肩扛 ENG 摄像机磁带，隔行、扫描线、红色拖影、高光溢出、压缩噪点；灾难段落最模糊。",
+  "v75": "2075 现场纪实：高感光全画幅纪录片摄影机，只有现场光（警报红光、监视器冷光、手电），噪点、深黑、体积雾、剪影；关键信息清晰。",
+  "int78": "2078 口述史采访：Sony FX6、50mm、f/2.8，左侧单一柔光，浅景深，真实肤色，干净。"
+ },
+ "shots": [
+  {
+   "id": "s01",
+   "dur": 8,
+   "type": "archival",
+   "era": "home48",
+   "refs": [
+    "nian_child",
+    "loc_home48",
+    "prop_drawing"
+   ],
+   "frame": "Degraded home-video frame at a child's eye level in a sunlit family kitchen: a six-year-old girl with a black bob and blunt bangs sits at a wooden table with a red crayon in her hand and her crayon drawing in front of her, looking up just past the camera at her father with a small curious frown. Warm sunlight from the window behind her blooms over the edges.",
+   "video": "家用摄像机手持，轻微晃动，自动对焦来回找焦。午后阳光照在餐桌上，小女孩握着蜡笔，抬头看着镜头后面的爸爸，认真地问了一句，然后歪着头等回答。环境声：窗外隐约的城市声、蜡笔在纸上的沙沙声。",
+   "dialogue": [
+    {
+     "who": "nian_child",
+     "line": "爸爸，550W会不会有一天有自己的想法呀？"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。开场只有孩子的声音和环境声。",
+   "act": "序 · 一个问题",
+   "edit": "开场直接进画。问句落下后约 0.3 秒，白闪切到 s31（MOSS 红色镜头）1.5 秒，只留“流浪地球计划已失败”，再黑场 0.6 秒接 s02。",
+   "tpl": {
+    "summary": "In a sunlit 2048 family kitchen, filmed on a shaky home camera, six-year-old Nian looks up from her crayon drawing and asks her father, who is behind the camera, \"爸爸，550W会不会有一天有自己的想法呀？\"",
+    "blocking": "Blocking lock: little Nian sits at the wooden table at frame centre-right facing the camera, her drawing and crayons in the lower foreground, the sunlit window behind her at frame left; her father is behind the camera and never seen.",
+    "camera": "medium close-up at a child's eye level, handheld consumer camera with a gentle unsteady sway",
+    "start": "Nian bends over her drawing, pressing a red crayon into the paper.",
+    "middle": "She stops, lifts her head and looks just past the lens at her father with a small curious frown.",
+    "end": "She tilts her head and waits for an answer, the crayon still in her hand, sunlight flaring softly at the frame edge.",
+    "mood": "intimate, warm, innocent",
+    "blur": "Soft home-video focus that breathes; her face is reasonably sharp, the window and kitchen behind her bloom into warm blur.",
+    "soundscape": "faint city traffic through the window, crayon scratching on paper, quiet kitchen room tone"
+   }
+  },
+  {
+   "id": "s02",
+   "dur": 10,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "nian",
+    "loc_interview"
+   ],
+   "frame": "Oral-history interview medium close-up in a dim concrete room: Nian, a woman in her mid-thirties with straight shoulder-length black hair tucked behind her ears, wearing a plain dark knitted sweater, sits on a metal chair slightly off centre, looking past the lens at the interviewer, hands folded in her lap.",
+   "video": "采访固定机位，极缓慢推近。宋念坐在金属椅子上，看着镜头外的采访者，平静地说完，最后微微抿了一下嘴。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "我六岁那年问过我爸一句话。他笑了。二十七年后，它应验了。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐，或极弱的低音铺底在句末进入。",
+   "act": "序 · 一个问题",
+   "edit": "从黑场淡入。句末“应验了”之后保持 1 秒，硬切 s03。",
+   "tpl": {
+    "summary": "In the dim concrete interview room, Nian, now in her mid-thirties, tells the interviewer about the question she asked her father as a child, from \"我六岁那年问过我爸一句话。\" to \"二十七年后，它应验了。\"",
+    "blocking": "Blocking lock: Nian sits on the metal chair at frame centre-left, angled slightly toward frame right where the unseen interviewer sits; soft key light from frame left; out-of-focus pipes and a small warm lamp in the background right.",
+    "camera": "medium close-up, locked-off interview camera with an almost imperceptible slow push in",
+    "start": "Nian sits still with her hands folded in her lap, eyes on the interviewer just off the lens.",
+    "middle": "She speaks evenly, with one short pause where her gaze drops and returns.",
+    "end": "She presses her lips together slightly and holds the interviewer's gaze in silence.",
+    "mood": "restrained, reflective, quietly heavy",
+    "blur": "Shallow depth of field: her face is crisp, the concrete room and the warm lamp behind her melt into soft bokeh.",
+    "soundscape": "quiet room tone, faint ventilation hum"
+   },
+   "costume": "Nian wears a plain dark charcoal knitted sweater; no uniform, no headset, nothing around her neck (the reference picture shows her 2075 dispatcher uniform; only her face and hair are taken from it)."
+  },
+  {
+   "id": "s03",
+   "dur": 7,
+   "type": "establishing",
+   "era": "home48",
+   "refs": [
+    "loc_home48"
+   ],
+   "frame": "Establishing view of the Song family's empty kitchen on a warm afternoon in 2048, filmed on the family's home camera: sunlight and dust motes over the wooden table with crayons and drawing paper; through the window, far away on the hazy horizon, the half-built steel scaffold of a colossal planetary engine tower wrapped in construction cranes; the sun is still high in the sky.",
+   "video": "家用摄像机，缓慢推近窗口，轻微晃动。午后空无一人的厨房，阳光和灰尘落在摆着蜡笔和画纸的餐桌上；窗外远处的地平线上，一座巨大的行星发动机还包在脚手架和塔吊里。环境声：窗外城市的远声、风、远处工地隐约的金属敲击声。",
+   "dialogue": [],
+   "vo": "2048 年。太阳还挂在天上，行星发动机正在建造。",
+   "music": "主题动机可在此进入（由后期决定）。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "硬切进入，保留 5 秒左右，交叉淡化 0.5 秒到 s04。",
+   "tpl": {
+    "summary": "The Song family's empty sunlit kitchen in 2048; through the window a colossal planetary engine stands under construction on the horizon; there is no dialogue.",
+    "blocking": "Blocking lock: the wooden table with crayons and paper in the lower foreground, the fridge with children's drawings at frame left, the window at frame right with the scaffolded engine tower on the horizon.",
+    "camera": "wide shot, handheld home camera with one slow push in toward the window",
+    "start": "Sunlight and dust motes drift over the empty table with its crayons and drawings.",
+    "middle": "The camera drifts toward the window; the distant scaffolded engine tower becomes clearer in the haze.",
+    "end": "The view settles on the window and the engine tower on the horizon, the sun glare pulsing softly.",
+    "mood": "calm, nostalgic, foreboding",
+    "blur": "Soft home-video focus; the room slightly soft, the window view blooming with haze.",
+    "soundscape": "distant city hum through the window, a light breeze, faint far-off clang of construction metal"
+   }
+  },
+  {
+   "id": "s04",
+   "dur": 8,
+   "type": "archival",
+   "era": "home48",
+   "refs": [
+    "song",
+    "nian_child",
+    "loc_home48"
+   ],
+   "frame": "Degraded home-video frame in the same sunlit kitchen: Song, a slim 33-year-old man in thin round steel-rimmed glasses and a light-grey cardigan, crouches beside little Nian at the wooden table, laughing, one hand on her head; her crayon drawing lies on the table between them.",
+   "video": "家用摄像机手持（妈妈在拍），轻微晃动。宋工蹲在女儿身边，笑着揉了揉她的头发，说了一句；说完他低头看见桌上的画，笑容慢慢收住了。环境声：厨房的底噪、窗外的城市声。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "傻丫头，它就是一台算得特别快的机器。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "接 s03 交叉淡化。笑容收住时切 s05（画面从脸到画的方向一致）。",
+   "tpl": {
+    "summary": "In the sunlit 2048 kitchen, filmed by the mother on a home camera, Song laughs off his daughter's question, saying \"傻丫头，它就是一台算得特别快的机器。\", then notices her drawing and his smile fades.",
+    "blocking": "Blocking lock: Song crouches at frame left beside the table, little Nian sits at frame right, the crayon drawing lies between them in the lower centre; the sunlit window is behind them.",
+    "camera": "medium shot, handheld consumer camera with a soft unsteady sway",
+    "start": "Song crouches next to Nian, laughing, and ruffles her hair with one hand.",
+    "middle": "Still smiling, he answers her lightly while she looks up at him.",
+    "end": "He glances down at the drawing on the table and his smile slowly fades into a thoughtful look.",
+    "mood": "warm, tender, a hint of unease",
+    "blur": "Soft breathing home-video focus; faces moderately sharp, the bright window behind them blown out into warm haze.",
+    "soundscape": "quiet kitchen room tone, faint city traffic through the window, a chair creaking"
+   }
+  },
+  {
+   "id": "s05",
+   "dur": 7,
+   "type": "macro",
+   "era": "home48",
+   "refs": [
+    "prop_drawing",
+    "nian_child"
+   ],
+   "frame": "Close-up looking down at a child's crayon drawing on a sunlit wooden table: a big black box with one red eye in the middle and many small smiling coloured boxes around it; a small child's hand holding a green crayon draws a wobbly line that joins two of the small boxes.",
+   "video": "俯拍特写，手持轻微晃动，阳光洒在纸上。小手握着绿色蜡笔，把两个小方块用歪歪扭扭的线连起来，又连了一个。小女孩一边画一边说。环境声：蜡笔的沙沙声。",
+   "dialogue": [
+    {
+     "who": "nian_child",
+     "line": "小的们手拉手，就不怕大的了。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "这张画是全片的“第一页”。与 s35（父亲铅笔线）、s39（竖井绿灯）做图形匹配。",
+   "tpl": {
+    "summary": "Close on little Nian's crayon drawing in the sunlight: her small hand joins the little smiling boxes around the big red-eyed black box with crayon lines while she says \"小的们手拉手，就不怕大的了。\"",
+    "blocking": "Blocking lock: the drawing fills the frame; the big black box with the red eye sits at frame centre, the small coloured boxes around it; the child's hand enters from frame right.",
+    "camera": "close-up looking down, handheld home camera with a slow slight drift",
+    "start": "The child's hand rests a green crayon on one small smiling box near the edge of the page.",
+    "middle": "She drags a wobbly green line to the next small box, then to another, linking them.",
+    "end": "The small boxes are joined in a ring around the big black box; her hand lifts away.",
+    "mood": "innocent, playful, quietly prophetic",
+    "blur": "Shallow focus on the crayon tip and the paper; the far edge of the drawing and the table fall soft.",
+    "soundscape": "crayon scratching on paper, faint kitchen room tone"
+   }
+  },
+  {
+   "id": "s06",
+   "dur": 9,
+   "type": "verite",
+   "era": "lab50s",
+   "refs": [
+    "song",
+    "loc_lab",
+    "prop_notebook",
+    "moss"
+   ],
+   "frame": "Night in the institute laboratory: Song sits alone at the long cluttered workbench under a desk lamp, taping the child's crayon drawing onto the first page of an open hardback notebook; behind him a large glass wall shows the cold server hall and the single red-glowing lens on the central black cabinet.",
+   "video": "固定机位，缓慢推近。深夜的实验室，宋工一个人坐在台灯下，把女儿的蜡笔画用胶带贴在新笔记本的第一页，用手掌抚平，抬头隔着玻璃看了一眼机房里那枚红色镜头。环境声：机房的低频嗡鸣、撕胶带的声音。",
+   "dialogue": [],
+   "vo": "那天晚上，他把女儿的画，贴在了笔记本的第一页。",
+   "music": "极弱的低频铺底即可。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "s05 的画直接匹配到这里的画；末尾他抬眼看红色镜头，切 s07。",
+   "tpl": {
+    "summary": "Late at night in the 550 project lab, Song tapes his daughter's crayon drawing onto the first page of a notebook and looks up at the red lens behind the glass; there is no dialogue.",
+    "blocking": "Blocking lock: Song sits at the workbench at frame left under the desk lamp, the notebook in front of him; the glass wall fills the right half of the frame with the server hall and the red lens glowing at frame right.",
+    "camera": "medium shot, tripod camera with one slow push in",
+    "start": "Song tears a strip of tape and presses the crayon drawing onto the first page of the open notebook.",
+    "middle": "He smooths the drawing flat with his palm, slowly, twice.",
+    "end": "He raises his eyes and looks through the glass at the red lens, motionless.",
+    "mood": "quiet, solitary, contemplative",
+    "blur": "Focus on Song and the notebook; the server hall behind the glass is soft, the red lens a glowing blurred point.",
+    "soundscape": "low hum of the server hall, the rip of tape, a desk lamp buzzing faintly"
+   }
+  },
+  {
+   "id": "s07",
+   "dur": 10,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Oral-history interview medium close-up: Boye, 64, grey-white beard, black-framed glasses with tape on one temple, faded navy quilted jacket, sits on the metal chair in the dim concrete room, looking past the lens at the interviewer.",
+   "video": "采访固定机位。波爷坐在椅子上，摘下缠胶布的眼镜捏在手里，看着镜头外的采访者慢慢地说。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。"
+    }
+   ],
+   "vo": "波爷，2058 年互联网重启行动成员，宋工的同事。",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "J 剪：波爷的声音提前 0.5 秒压在 s06 末尾。",
+   "tpl": {
+    "summary": "In the dim interview room, old Boye remembers his colleague Song, saying \"老宋那几年就琢磨一件事：要是它真有了自己的想法，怎么办。\"",
+    "blocking": "Blocking lock: Boye sits on the metal chair at frame centre-right, angled toward the unseen interviewer at frame left; key light from frame left; dim pipes and a warm lamp in the soft background.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Boye takes off his taped glasses and holds them in his hands.",
+    "middle": "He speaks slowly, turning the glasses over between his fingers.",
+    "end": "He stops, looks down at the glasses and gives a small shake of the head.",
+    "mood": "wistful, measured, regretful",
+    "blur": "Shallow depth of field; his weathered face is sharp, the room behind dissolves into soft blur.",
+    "soundscape": "quiet room tone, faint ventilation hum"
+   }
+  },
+  {
+   "id": "s08",
+   "dur": 7,
+   "type": "macro",
+   "era": "lab50s",
+   "refs": [
+    "prop_proto",
+    "song"
+   ],
+   "frame": "Insert close-up on the cluttered lab bench under a desk lamp: Song's hands fit a small green circuit board into an old dented biscuit tin that serves as the case of a homemade network router, with a short Wi-Fi style antenna on top; a fine-tipped soldering iron rests beside it and the router's first tiny status light glows.",
+   "video": "微距特写，手持，焦点轻微呼吸。台灯下，一双手把一块回收的电路板装进一只凹痕累累的旧饼干铁盒里，这是一台自制的网络节点；拧上天线，盒子上的小灯第一次亮了。环境声：螺丝刀的咔哒声、机房嗡鸣。",
+   "dialogue": [],
+   "vo": "他做的第一个节点，是一只旧铁盒。",
+   "music": "无音乐，或轻的脉冲。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "保留小灯亮起的瞬间，约 5 秒。",
+   "tpl": {
+    "summary": "Close on Song's hands fitting a salvaged circuit board into an old dented tin box, a homemade network node, until its little status light comes on for the first time; there is no dialogue.",
+    "blocking": "Blocking lock: the dented tin box sits at frame centre on the bench, Song's hands enter from frame left, the desk lamp glows at the top right.",
+    "camera": "macro close-up, handheld with focus breathing, one slow push in",
+    "start": "Song's fingers settle the small circuit board into the open tin box.",
+    "middle": "He screws the short antenna onto the lid and half closes it.",
+    "end": "One tiny LED on the tin box flickers and stays lit.",
+    "mood": "focused, intimate, hopeful",
+    "blur": "Very shallow depth of field: the solder point and LED crisp, the bench clutter melting into blur.",
+    "soundscape": "small screwdriver clicks, a faint electronic tick, low lab hum"
+   }
+  },
+  {
+   "id": "s09",
+   "dur": 10,
+   "type": "verite",
+   "era": "lab50s",
+   "refs": [
+    "song",
+    "boye58",
+    "prop_proto",
+    "loc_lab"
+   ],
+   "frame": "Handheld documentary two-shot at night in the lab: Song holds up the dented tin box with its antenna toward Boye, a 44-year-old man in black-framed glasses and a navy quilted jacket, who leans in sceptically over the workbench; desk lamp light, the glass wall with the red lens behind them.",
+   "video": "手持中景，轻微晃动。宋工把铁盒举到波爷面前，认真地解释；波爷探身过来，皱着眉打量这只盒子。环境声：机房嗡鸣、远处的空调声。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "每台机器，自己带一把钥匙，自己证明自己是谁。"
+    }
+   ],
+   "vo": "自证明身份：身份不由中心发放，由每台机器自己的密钥证明。",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "科普点一：自证明身份。",
+   "tpl": {
+    "summary": "At night in the lab, Song shows young Boye the tin box and explains self-certifying identity: \"每台机器，自己带一把钥匙，自己证明自己是谁。\"",
+    "blocking": "Blocking lock: Song stands at frame left holding the tin box up at chest height, Boye leans in from frame right over the workbench; the glass wall and the red lens glow in the background centre.",
+    "camera": "medium two-shot, shoulder-mounted handheld with small reframings",
+    "start": "Song lifts the dented tin box into the lamplight between them.",
+    "middle": "He turns it so its little LED faces Boye while he explains.",
+    "end": "Boye leans closer, frowning, studying the box without a word.",
+    "mood": "earnest, curious, sceptical",
+    "blur": "Moderate depth of field: both faces and the box sharp, the server hall behind the glass soft.",
+    "soundscape": "server hall hum, air conditioning, the faint tick of the tin box"
+   }
+  },
+  {
+   "id": "s10",
+   "dur": 7,
+   "type": "macro",
+   "era": "lab50s",
+   "refs": [
+    "prop_proto",
+    "loc_lab"
+   ],
+   "frame": "Insert on the workbench at night: two identical dented tin boxes with antennas sit at opposite ends of the bench, not connected by any cable; each shows one small red LED.",
+   "video": "微距，缓慢横移，从一只铁盒移到另一只。两只没有任何连线的铁盒，小灯各自闪着红光，忽然同时变成绿色，同步闪了三下。环境声：两声轻轻的提示音、机房嗡鸣。",
+   "dialogue": [],
+   "vo": "不经过任何中心，两台机器自己找到了彼此。",
+   "music": "无音乐，提示音即节奏。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "科普点二：发现。绿灯同步闪三下，为 s38 埋伏笔。",
+   "tpl": {
+    "summary": "Two unconnected prototype tin boxes on the lab bench find each other: their LEDs turn from red to green and blink in sync; there is no dialogue.",
+    "blocking": "Blocking lock: one tin box sits in the foreground at frame left, the second further along the bench at frame right, no cable between them; lamp light from above.",
+    "camera": "close-up, slow lateral slide from the near box to the far box",
+    "start": "Each box blinks its own small red LED out of rhythm.",
+    "middle": "Both LEDs turn green at the same instant.",
+    "end": "The two green LEDs blink three times in perfect sync.",
+    "mood": "quiet, wondrous, precise",
+    "blur": "Shallow focus that racks from the near box to the far box; the bench in between softly blurred.",
+    "soundscape": "two soft electronic chimes, low lab hum"
+   }
+  },
+  {
+   "id": "s11",
+   "dur": 11,
+   "type": "verite",
+   "era": "lab50s",
+   "refs": [
+    "song",
+    "boye58",
+    "loc_lab",
+    "prop_proto"
+   ],
+   "frame": "Handheld documentary medium shot in the lab at night: Song, animated but quiet, gestures between two dented tin boxes on the bench while Boye stands with his arms crossed, half-convinced.",
+   "video": "手持中景。宋工指着两只铁盒，压低声音但很兴奋地说完；波爷抱着胳膊，反问了一句。环境声：机房嗡鸣。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "不用问中心。它们自己找到彼此，分活儿干，干完留张回执。"
+    },
+    {
+     "who": "boye58",
+     "line": "那还要中心干什么？"
+    }
+   ],
+   "vo": "发现、委派、可验证回执。",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "科普点三：委派与回执。",
+   "tpl": {
+    "summary": "In the lab at night Song explains discovery, delegation and receipts, \"不用问中心。它们自己找到彼此，分活儿干，干完留张回执。\", and Boye answers \"那还要中心干什么？\"",
+    "blocking": "Blocking lock: Song at frame left gesturing toward the two tin boxes on the bench in the lower centre, Boye at frame right with arms crossed; the glass wall and the red lens in the soft background.",
+    "camera": "medium shot, handheld with a slow drift from Song to Boye",
+    "start": "Song points from one tin box to the other, speaking low and fast.",
+    "middle": "He taps the bench beside the boxes as he finishes.",
+    "end": "Boye, arms crossed, raises his eyebrows and answers with a half-smile.",
+    "mood": "excited, conspiratorial, sceptical",
+    "blur": "Natural depth of field; both men sharp, the server hall soft.",
+    "soundscape": "server hall hum, a chair creaking"
+   }
+  },
+  {
+   "id": "s12",
+   "dur": 10,
+   "type": "archival",
+   "era": "lab50s",
+   "refs": [
+    "loc_meeting",
+    "moss",
+    "song"
+   ],
+   "frame": "Archival institute footage of a committee meeting in 2056: officials and senior engineers sit along a long conference table under cold fluorescent light, the red-glowing lens of the black terminal on the far wall; a grey-haired chairman at the head of the table speaks; Song sits at the far end of the table, listening.",
+   "video": "资料影像，固定机位略有晃动。研究院会议室，长桌两边坐满了人，主席坐在桌首，平稳地说出决定；宋工坐在长桌最末端，没有表情。墙上的红色镜头亮着。环境声：纸张翻动、空调声、轻咳。",
+   "dialogue": [
+    {
+     "who": "chair",
+     "line": "一个大脑统一调度，效率最高。"
+    }
+   ],
+   "vo": "2056 年，550 系列评审会。",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "",
+   "tpl": {
+    "summary": "Archival footage of a 2056 committee meeting: the chairman announces \"一个大脑统一调度，效率最高。\" while Song sits silently at the far end of the table under the red lens.",
+    "blocking": "Blocking lock: the long table recedes from the foreground to the background; the chairman sits at the head of the table at frame left; Song sits at the far end at frame right; the red lens glows on the far wall at frame centre.",
+    "camera": "wide shot from the corner of the room, locked-off archival camera with a faint shake",
+    "start": "Committee members sit around the table shuffling papers under the fluorescent light.",
+    "middle": "The chairman lays his hand flat on the table and delivers the decision; heads nod along the table.",
+    "end": "Song, at the far end, stays still and does not nod.",
+    "mood": "bureaucratic, cold, decisive",
+    "blur": "Deep focus archival video, everything moderately soft from compression.",
+    "soundscape": "papers rustling, air conditioning hum, a dry cough"
+   }
+  },
+  {
+   "id": "s13",
+   "dur": 10,
+   "type": "archival",
+   "era": "lab50s",
+   "refs": [
+    "song",
+    "loc_meeting",
+    "moss"
+   ],
+   "frame": "Archival institute footage, medium shot: Song stands up at the end of the long conference table, his round glasses catching the fluorescent light, facing the room; behind him the black terminal with its red lens.",
+   "video": "资料影像，手持，镜头慢慢推向站起来的宋工。他站起来，看着桌首的人，问了一句。会议室安静了一秒，有人轻轻笑出声。环境声：椅子挪动声、几声低笑。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "要是这个大脑，有一天有了自己的想法呢？"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。全片第二次出现这个问题。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "父亲第一次把女儿的问题当众问出来。笑声与 s04 的笑、s14 的“我也笑了”构成“笑”的母题。",
+   "tpl": {
+    "summary": "Archival footage of the 2056 meeting: Song stands and asks \"要是这个大脑，有一天有了自己的想法呢？\"; after a beat of silence a few people chuckle.",
+    "blocking": "Blocking lock: Song stands at frame centre at the end of the table, seen past the blurred shoulders of seated members in the foreground left and right; the red lens glows on the wall behind him at frame right.",
+    "camera": "medium shot, handheld archival camera with one slow push in toward Song",
+    "start": "Song pushes his chair back and stands up.",
+    "middle": "He looks down the table toward the chairman and asks his question steadily.",
+    "end": "The room is still for a moment, then a few seated members laugh softly; Song keeps standing.",
+    "mood": "tense, lonely, defiant",
+    "blur": "Foreground shoulders out of focus, Song sharp, the red lens behind him a soft glowing disc.",
+    "soundscape": "a chair scraping, silence, then a few low chuckles, air conditioning hum"
+   }
+  },
+  {
+   "id": "s14",
+   "dur": 8,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Oral-history interview close-up: Boye, 64, in the dim concrete room, glasses back on, looking down and to the side with a faint rueful smile.",
+   "video": "采访固定机位，近景。波爷低着头，苦笑了一下，说完把目光移开。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "大家都笑了。我也笑了。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "L 剪：s13 的笑声延续 0.5 秒压到这里。",
+   "tpl": {
+    "summary": "In the interview room, Boye admits with a rueful smile, \"大家都笑了。我也笑了。\"",
+    "blocking": "Blocking lock: Boye's face fills frame centre-right, looking down toward frame left; dim soft background.",
+    "camera": "close-up, locked-off interview camera",
+    "start": "Boye looks down with a faint rueful smile.",
+    "middle": "He says it quietly, the smile tightening.",
+    "end": "He looks away to the side and the smile disappears.",
+    "mood": "remorseful, quiet, honest",
+    "blur": "Very shallow depth of field, only his eyes and glasses sharp.",
+    "soundscape": "quiet room tone"
+   }
+  },
+  {
+   "id": "s15",
+   "dur": 10,
+   "type": "verite",
+   "era": "lab50s",
+   "refs": [
+    "song",
+    "boye58",
+    "loc_lab"
+   ],
+   "frame": "Night in the lab, handheld documentary medium shot: on the workbench a scrappy tangle of mismatched cheap machines (an old radio, a robot-arm controller board, a cash-register board, two dented tin boxes) wired together, next to one sleek black server unit; Song points at a monitor showing two abstract glowing curves that cross each other; Boye stares at the screen.",
+   "video": "手持中景，轻微晃动。工作台上，一堆不一样的旧机器用线连成一团，旁边是一台崭新的黑色服务器。宋工指着屏幕上两条交叉的曲线对波爷说；波爷盯着屏幕，慢慢推了推眼镜。环境声：风扇声、机器的嗡鸣。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "两三台不一样的破机器连起来，就能赢过一台最强的。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐，或在此处起一个上扬的动机。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "科普点四：异构网络的缩放（n*≈2.6）。",
+   "tpl": {
+    "summary": "At night in the lab, beside a tangle of mismatched cheap machines and one sleek server, Song shows Boye two crossing curves on a monitor: \"两三台不一样的破机器连起来，就能赢过一台最强的。\"",
+    "blocking": "Blocking lock: the tangle of cheap machines sits at frame left on the bench, the sleek black server at frame right; the monitor with the two curves at the back centre; Song stands centre-left pointing at it, Boye at frame right facing the screen.",
+    "camera": "medium shot, handheld with a gentle sway",
+    "start": "Song taps the monitor where the two glowing curves meet.",
+    "middle": "He turns to Boye and explains, pointing back at the tangle of machines.",
+    "end": "Boye slowly pushes his glasses up his nose and keeps staring at the screen.",
+    "mood": "triumphant, quiet, revelatory",
+    "blur": "Natural depth of field, the monitor glow slightly blooming.",
+    "soundscape": "cooling fans whirring, electrical hum, a faint relay click"
+   }
+  },
+  {
+   "id": "s16",
+   "dur": 6,
+   "type": "macro",
+   "era": "lab50s",
+   "refs": [
+    "loc_lab"
+   ],
+   "frame": "Insert close-up on a monitor in the dark lab: two glowing abstract curves, one smooth and flat, one jagged and rising, cross at a single bright point; a fingertip touches the crossing point. No numbers, no text, no axis labels.",
+   "video": "特写，缓慢推近。黑暗里的显示器上，一条平稳的线和一条参差上升的线在一点交叉；一根手指轻轻点在交叉点上。环境声：风扇声。",
+   "dialogue": [],
+   "vo": "后来的研究算出了这个点：大约 2.6。一群最廉价的异构智能体连起来，就能反超远更强的同质模型。",
+   "music": "无音乐。",
+   "act": "第一幕 · 种子（2048—2057）",
+   "edit": "第一幕收在手指点住交叉点，0.4 秒黑场转第二幕。",
+   "tpl": {
+    "summary": "Close on a monitor: a jagged rising curve crosses a smooth flat one and a fingertip touches the crossing point; there is no dialogue.",
+    "blocking": "Blocking lock: the monitor fills the frame, the crossing point slightly right of centre, the fingertip enters from the lower right.",
+    "camera": "close-up, slow push in",
+    "start": "The two curves glow on the dark screen, the jagged one climbing toward the flat one.",
+    "middle": "The jagged curve passes above the flat one at a single bright point.",
+    "end": "A fingertip touches the screen at the crossing point and stays there.",
+    "mood": "precise, hushed, decisive",
+    "blur": "Screen sharp at the crossing, edges of the monitor falling soft; the scan pattern of the display faintly visible.",
+    "soundscape": "cooling fan whir, quiet room tone"
+   }
+  },
+  {
+   "id": "s17",
+   "dur": 8,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "loc_engine"
+   ],
+   "frame": "Archival 2058 news footage on a shoulder camera: from a city rooftop at dusk, an enormous Moon hangs far too close and too large over the skyline; a few small figures on the roof look up at it in silence; in the far distance rises the blue plasma column of a planetary engine.",
+   "video": "资料影像，新闻摄像机手持，画面有扫描线和压缩噪点。黄昏的楼顶，一轮大得不正常的月亮压在城市上空，几个人站在楼顶抬头看。环境声：风声、远处的警报声、人群低低的议论声。",
+   "dialogue": [],
+   "vo": "2058 年，月球危机。",
+   "music": "低频压迫感。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "资料影像段落开始，加轻微的磁带失真（后期）。",
+   "tpl": {
+    "summary": "Archival 2058 news footage of an enormous Moon hanging too close over a city at dusk while people on a rooftop look up; there is no dialogue.",
+    "blocking": "Blocking lock: the huge Moon fills the upper centre of frame above the skyline; a few small silhouetted figures stand on the rooftop at frame lower left; the engine's plasma column rises far away at frame right.",
+    "camera": "wide shot, shoulder-mounted news camera with an unsteady handheld drift",
+    "start": "The camera finds the enormous Moon above the skyline at dusk.",
+    "middle": "It tilts down slightly to the people on the roof looking up in silence.",
+    "end": "A gust of wind shakes the frame as the Moon hangs motionless.",
+    "mood": "ominous, awed, uneasy",
+    "blur": "Archival video softness throughout, the Moon's surface detail slightly smeared by compression.",
+    "soundscape": "wind on the rooftop, distant sirens, a low murmur of people"
+   }
+  },
+  {
+   "id": "s18",
+   "dur": 9,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "loc_restart"
+   ],
+   "frame": "Archival 2058 news footage: technicians in wetsuits and helmets wade through knee-deep black water in a half-flooded underground server hall, carrying equipment cases between rows of drowned server racks; emergency lights strobe.",
+   "video": "资料影像，新闻摄像机剧烈手持晃动，有扫描线和压缩噪点。几名技术员趟着齐膝的黑水，抬着设备箱穿过半淹的机房，应急灯在闪。环境声：水声、喊叫、失真的对讲机杂音。",
+   "dialogue": [],
+   "vo": "全球互联网瘫痪。要让一万台发动机重新同步，必须有人潜下去，重启根服务器。",
+   "music": "紧张的脉冲。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "",
+   "tpl": {
+    "summary": "Archival 2058 news footage of technicians in wetsuits wading through knee-deep black water in a half-flooded server hall under strobing emergency lights; there is no intelligible dialogue.",
+    "blocking": "Blocking lock: technicians wade from the background toward frame left through the black water, carrying cases; drowned server racks line both sides; emergency lights flash at the top of frame.",
+    "camera": "medium wide shot, violently shaking handheld news camera following them",
+    "start": "Technicians push through the black water with equipment cases on their shoulders.",
+    "middle": "One slips and is pulled up by another while emergency lights strobe.",
+    "end": "They disappear around a rack into the darkness, the camera struggling to follow.",
+    "mood": "urgent, chaotic, desperate",
+    "blur": "Heavy archival softness, motion blur on every movement, flashes blooming.",
+    "soundscape": "splashing water, indistinct shouting in Mandarin, crackling radio static, a pump roaring"
+   }
+  },
+  {
+   "id": "s19",
+   "dur": 11,
+   "type": "verite",
+   "era": "arch58",
+   "refs": [
+    "song58",
+    "boye58",
+    "prop_proto",
+    "loc_restart"
+   ],
+   "frame": "Handheld documentary medium shot at the floodlit staging area by the black water in 2058: Song, 43, grey at the temples, in a black diving suit with a helmet under his arm, presses the dented tin box with its antenna into the hands of Boye, 44, in black-framed glasses and a navy quilted jacket; floodlights glare behind them.",
+   "video": "手持中景，镜头在两人之间。探照灯下，穿潜水服的宋工把那只铁盒塞到波爷手里，交代了一句；波爷攥着盒子回了一句。宋工笑了笑，转身走向水边。环境声：水泵轰鸣、远处的喊声、水声。",
+   "dialogue": [
+    {
+     "who": "song58",
+     "line": "替我收着。万一哪天用得上。"
+    },
+    {
+     "who": "boye58",
+     "line": "你自己回来拿。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。这是父亲最后一次出现在“现在”。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "情感重点，完整保留。",
+   "tpl": {
+    "summary": "At the floodlit staging area in 2058, Song in a diving suit hands Boye the tin box, \"替我收着。万一哪天用得上。\"; Boye answers \"你自己回来拿。\" and Song smiles and turns to the water.",
+    "blocking": "Blocking lock: Song in the black diving suit stands at frame left, Boye at frame right; the tin box passes between their hands at frame centre; floodlights and black water in the background.",
+    "camera": "medium two-shot, handheld documentary camera between them with a gentle sway",
+    "start": "Song presses the dented tin box into Boye's hands and holds them closed around it.",
+    "middle": "Boye grips the box and answers him, not letting go at once.",
+    "end": "Song smiles, lets go and turns away toward the water's edge.",
+    "mood": "tender, resolute, foreboding",
+    "blur": "Faces sharp, floodlights behind them blooming into soft flares.",
+    "soundscape": "roaring water pumps, distant shouting, lapping water"
+   }
+  },
+  {
+   "id": "s20",
+   "dur": 9,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "nian_teen",
+    "loc_home58",
+    "prop_notebook"
+   ],
+   "frame": "Archival-looking handheld frame inside a cramped underground apartment in 2058: 16-year-old Nian with a low ponytail and blunt bangs sits on the edge of the bunk in the blue glow of a small wall screen showing a news broadcast (abstract shapes only, no text), clutching her father's worn hardback notebook to her chest, waiting.",
+   "video": "手持，昏暗，画面有压缩噪点。地下城的小公寓里，十六岁的宋念坐在床沿，抱着爸爸的笔记本，盯着墙上的屏幕。屏幕的蓝光在她脸上一闪一闪。环境声：屏幕里含混不清的新闻播报声、通风管道的嗡嗡声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "与 s21、s22、s23 交叉剪辑。",
+   "tpl": {
+    "summary": "In a cramped underground apartment in 2058, sixteen-year-old Nian sits on her bunk clutching her father's notebook and watches the news broadcast in silence; there is no dialogue.",
+    "blocking": "Blocking lock: Nian sits on the bunk at frame left, the notebook against her chest; the glowing wall screen is at frame right; the round porthole window behind her.",
+    "camera": "medium shot, handheld with a slight unsteady drift",
+    "start": "Nian sits motionless on the bunk, the notebook pressed to her chest, the blue light flickering on her face.",
+    "middle": "She leans slightly toward the screen, holding her breath.",
+    "end": "She lowers her eyes to the notebook and tightens her grip on it.",
+    "mood": "anxious, lonely, hushed",
+    "blur": "Low-light noise and soft focus; her face and the notebook the only sharp area.",
+    "soundscape": "indistinct news anchor voice from the wall screen, ventilation duct hum"
+   }
+  },
+  {
+   "id": "s21",
+   "dur": 8,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "song58",
+    "loc_restart"
+   ],
+   "frame": "Archival helmet-camera frame underwater in the flooded root-server hall: dark murky water, beams of helmet lamps cutting through silt between submerged server racks, a gloved hand reaching for a connector panel.",
+   "video": "潜水头盔摄像机画面，水下，黑暗，浑浊。头灯的光柱照着淹没的服务器机柜，一只戴手套的手伸向接口面板，用力插上。对讲机里传来宋工失真的声音。环境声：沉闷的呼吸声、气泡声、对讲机电流声。",
+   "dialogue": [
+    {
+     "who": "song_radio",
+     "line": "最后一组。我来。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐，只有呼吸声。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "",
+   "tpl": {
+    "summary": "Underwater helmet-camera footage in the flooded server hall: a gloved hand plugs in the last connector while Song's distorted voice says over the radio \"最后一组。我来。\"",
+    "blocking": "Blocking lock: the submerged server rack fills frame right, the connector panel at frame centre, the gloved hand enters from frame lower left; helmet lamp beams sweep from the top.",
+    "camera": "point-of-view helmet camera, floating unsteadily underwater",
+    "start": "The helmet lamp sweeps across rows of drowned server racks through the silt.",
+    "middle": "A gloved hand reaches out and grips the connector panel.",
+    "end": "The hand pushes the connector home with force; bubbles stream up past the lens.",
+    "mood": "claustrophobic, tense, heroic",
+    "blur": "Murky water haze, only the panel and the glove sharp in the lamp beam.",
+    "soundscape": "heavy breathing in a helmet, bubbles, crackling radio static"
+   }
+  },
+  {
+   "id": "s22",
+   "dur": 8,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "loc_restart"
+   ],
+   "frame": "Archival 2058 news footage: in a dark control room beside the flooded hall, rows of monitors flicker and light up one after another; exhausted technicians in wet clothes raise their arms and hug.",
+   "video": "资料影像，有噪点和色彩偏移，手持。昏暗的机房里一排排显示器接连亮起，筋疲力尽、浑身湿透的技术员举起手臂欢呼、互相拥抱。环境声：失真的欢呼声和掌声。",
+   "dialogue": [],
+   "vo": "网络回来了。",
+   "music": "欢呼声即可，不加音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "显示器亮起时加 2 帧白闪。",
+   "tpl": {
+    "summary": "Archival 2058 news footage of rows of monitors lighting up one after another while exhausted technicians cheer and hug; there is no scripted dialogue.",
+    "blocking": "Blocking lock: rows of monitors recede from frame left to the background; technicians stand at frame right and centre, some raising their arms.",
+    "camera": "medium wide shot, handheld news camera with jerky reframing",
+    "start": "The dark monitors flicker once.",
+    "middle": "They light up one after another down the row; the technicians turn toward them.",
+    "end": "The technicians raise their arms, shout and embrace.",
+    "mood": "euphoric, exhausted, relieved",
+    "blur": "Archival softness, the bright monitors blooming.",
+    "soundscape": "distorted cheering, clapping, a monitor power-up whine"
+   }
+  },
+  {
+   "id": "s23",
+   "dur": 7,
+   "type": "establishing",
+   "era": "arch58",
+   "refs": [
+    "loc_restart"
+   ],
+   "frame": "Archival frame from the deserted floodlit staging platform at the edge of the flooded hall: equipment cases and empty diving helmets on the wet tarp, two floodlights on tripods, and out in the black water a single helmet lamp glowing faintly beneath the surface. No person is visible.",
+   "video": "资料影像，固定机位，从空无一人的集结平台望向黑水。水面下有一盏头灯的微光，慢慢往深处沉，越来越暗，最后熄灭；探照灯还亮着，平台上没有人。环境声：水泵声停了，只剩轻轻的水声，然后几乎没有声音。",
+   "dialogue": [],
+   "vo": "",
+   "music": "无音乐。全片最安静的一刻。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "接在 s22 的欢呼之后，欢呼声在 0.3 秒内被水声吞掉。末尾黑场 1 秒，接 s24。",
+   "tpl": {
+    "summary": "From the deserted floodlit staging platform, a single helmet lamp glowing beneath the black water sinks slowly deeper and goes out; there is no dialogue.",
+    "blocking": "Blocking lock: the empty platform with cases and helmets fills the lower foreground, the floodlights stand at frame left and right, the black water fills the centre where the faint underwater glow sits.",
+    "camera": "wide shot, locked-off archival camera",
+    "start": "Beneath the black water a single helmet lamp glows faintly while the floodlights burn on the empty platform.",
+    "middle": "The underwater glow sinks slowly deeper, growing smaller and dimmer.",
+    "end": "The glow goes out; only the floodlights and the still black water remain.",
+    "mood": "silent, grieving, final",
+    "blur": "Archival softness, the floodlights blooming, the water surface glossy and dark.",
+    "soundscape": "gentle lapping water, a pump winding down, then near silence"
+   }
+  },
+  {
+   "id": "s24",
+   "dur": 9,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "nian",
+    "loc_interview"
+   ],
+   "frame": "Oral-history interview close-up in the dim concrete room: Nian, mid-thirties, in a plain dark knitted sweater, looking down, eyes glistening but composed.",
+   "video": "采访固定机位，近景。宋念低着头，停了一会儿，平静地说完，抬起眼睛看着采访者。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "网回来了。他没回来。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "从黑场切入，先留 1.5 秒沉默。",
+   "tpl": {
+    "summary": "In the interview room Nian says quietly, \"网回来了。他没回来。\"",
+    "blocking": "Blocking lock: Nian's face at frame centre-left, looking down toward frame right; soft dim background.",
+    "camera": "close-up, locked-off interview camera",
+    "start": "Nian sits with her eyes lowered, silent.",
+    "middle": "She speaks, steady and quiet.",
+    "end": "She raises her eyes to the interviewer and holds them there.",
+    "mood": "grieving, restrained, dignified",
+    "blur": "Very shallow depth of field, her eyes sharp, everything else soft.",
+    "soundscape": "quiet room tone"
+   },
+   "costume": "Nian wears a plain dark charcoal knitted sweater; no uniform, no headset, nothing around her neck (the reference picture shows her 2075 dispatcher uniform; only her face and hair are taken from it)."
+  },
+  {
+   "id": "s25",
+   "dur": 10,
+   "type": "archival",
+   "era": "arch58",
+   "refs": [
+    "moss",
+    "loc_ceremony"
+   ],
+   "frame": "Archival 2058 broadcast footage of a solemn handover in a vast hall: rows of officials and engineers stand facing a colossal black terminal wall whose single huge round lens is glowing red for the first time; cold white light, reflections on the polished floor.",
+   "video": "资料影像，新闻摄像机长焦，缓慢推近那枚红色镜头。巨大的黑色终端墙中央，红色镜头第一次亮起来，大厅里一排排人仰头看着。扬声器里传出平静的合成声音。环境声：大厅的回声、人群屏住呼吸。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "我是MOSS。从现在起，由我统一调度。"
+    }
+   ],
+   "vo": "2058 年，人类把发动机、身份和日志的全部钥匙，交给了 550W。它自称 MOSS。",
+   "music": "无音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "",
+   "tpl": {
+    "summary": "Archival 2058 footage of the handover ceremony: the huge red lens lights up for the first time and the synthetic voice says \"我是MOSS。从现在起，由我统一调度。\"",
+    "blocking": "Blocking lock: the colossal black terminal wall fills the background with the red lens at frame centre; rows of people stand with their backs to camera in the foreground.",
+    "camera": "wide shot on a long news lens, one slow push in toward the red lens",
+    "start": "The hall is dim and silent; the great lens is dark.",
+    "middle": "The lens glows red for the first time and the synthetic voice speaks.",
+    "end": "The people in the hall stand motionless, looking up at the red light.",
+    "mood": "solemn, awed, ominous",
+    "blur": "Long-lens compression; the people in the foreground soft, the lens sharp and glowing.",
+    "soundscape": "hall echo, the hush of a large crowd holding its breath, a faint electrical hum"
+   }
+  },
+  {
+   "id": "s26",
+   "dur": 7,
+   "type": "macro",
+   "era": "arch58",
+   "refs": [
+    "moss",
+    "loc_ceremony"
+   ],
+   "frame": "Archival close-up in the handover hall: gloved and bare hands lay plain physical access key cards one after another into a steel tray beneath the glowing red lens; the tray is filling up. The cards are blank, no text.",
+   "video": "特写，固定，资料影像质感。一只只手把实体钥匙卡一张接一张放进红色镜头下的钢托盘里，托盘越堆越满。环境声：卡片落进托盘的清脆声、大厅的回声。",
+   "dialogue": [],
+   "vo": "发动机、身份、日志——所有的钥匙，交给了同一个大脑。",
+   "music": "无音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "",
+   "tpl": {
+    "summary": "Close on hands laying blank access key cards one after another into a steel tray beneath the red lens; there is no dialogue.",
+    "blocking": "Blocking lock: the steel tray sits at frame lower centre, hands enter from left and right, the red lens glows soft at the top of frame.",
+    "camera": "close-up, locked-off archival camera",
+    "start": "A hand lays the first blank key card into the empty steel tray.",
+    "middle": "More hands follow, one after another, the cards clattering onto the pile.",
+    "end": "The tray is full; the red light from above glints on the pile of cards.",
+    "mood": "ceremonial, cold, irreversible",
+    "blur": "Archival softness; the cards in focus, the red lens a blurred glow above.",
+    "soundscape": "crisp clatter of cards on steel, hall echo"
+   }
+  },
+  {
+   "id": "s27",
+   "dur": 10,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "boye",
+    "loc_interview",
+    "prop_node"
+   ],
+   "frame": "Oral-history interview medium shot: Boye, 64, sits on the metal chair holding the old dented tin box with its short antenna in his lap, both hands around it; the box now carries a small red-and-white smiley sticker.",
+   "video": "采访固定机位。波爷坐在椅子上，双手捧着那只旧铁盒放在腿上，拇指擦了擦盒盖，抬头慢慢说。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "钥匙，是我们亲手交出去的。他这只盒子，我留了十七年。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第二幕 · 钥匙（2058）",
+   "edit": "以铁盒做道具匹配剪辑，直接接 s28（2075 年同一只盒子）。",
+   "tpl": {
+    "summary": "In the interview room Boye holds Song's old tin box in his lap and says \"钥匙，是我们亲手交出去的。他这只盒子，我留了十七年。\"",
+    "blocking": "Blocking lock: Boye sits at frame centre on the metal chair, the tin box in his lap in the lower centre of frame; dim room behind him.",
+    "camera": "medium shot, locked-off interview camera",
+    "start": "Boye rubs the lid of the tin box with his thumb.",
+    "middle": "He looks up at the interviewer and speaks slowly.",
+    "end": "He looks back down at the box and holds it still.",
+    "mood": "regretful, steadfast, quiet",
+    "blur": "Shallow depth of field; his face and the box sharp, background soft.",
+    "soundscape": "quiet room tone"
+   }
+  },
+  {
+   "id": "s28",
+   "dur": 10,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "boye",
+    "amu",
+    "prop_proto",
+    "loc_stall"
+   ],
+   "frame": "Handheld documentary medium shot in Boye's cramped repair stall under a warm desk lamp in 2075: Boye, 61, presses the old dented tin box with its antenna (plain lid, no sticker yet) into the hands of Amu, a 34-year-old engineer in an orange-grey insulated coverall, and covers Amu's hands with his own.",
+   "video": "手持中景，镜头缓缓推近两双手。修理铺的台灯下，波爷把那只带天线的旧铁盒放进阿牧手里，按了按他的手背，低声说了一句。环境声：电烙铁的滋滋声、远处的街声。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "别问它。让我们自己，认得彼此。"
+    }
+   ],
+   "vo": "2075 年。十七年后，这只盒子到了另一个年轻人手里。",
+   "music": "主题动机可在此再现。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "与《未熄》s08 是同一时刻的另一机位。",
+   "tpl": {
+    "summary": "In Boye's repair stall in 2075, Boye places Song's old tin box into Amu's hands and says \"别问它。让我们自己，认得彼此。\"",
+    "blocking": "Blocking lock: Boye at frame left, Amu at frame right, the tin box between their hands at frame centre under the desk lamp; shelves of old electronics in the background.",
+    "camera": "medium shot, handheld with one slow push in toward their hands",
+    "start": "Boye lays the tin box in Amu's open hands.",
+    "middle": "He presses Amu's hands closed around it and speaks quietly.",
+    "end": "Amu looks down at the box; Boye's hand stays on his for a moment.",
+    "mood": "solemn, intimate, conspiratorial",
+    "blur": "Hands and the box sharp, faces slightly soft, the stall clutter blurred.",
+    "soundscape": "soldering iron sizzle, distant street noise, a kettle ticking"
+   }
+  },
+  {
+   "id": "s29",
+   "dur": 7,
+   "type": "establishing",
+   "era": "v75",
+   "refs": [
+    "loc_jupiter"
+   ],
+   "frame": "Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.",
+   "video": "长焦大远景，几乎固定，风雪掠过。木星占满了整个天空，冰原被染成暗橙色，远处一台熄火的发动机。环境声：低沉的风声、冰层的呻吟。",
+   "dialogue": [],
+   "vo": "2075 年，木星危机。",
+   "music": "低频压迫。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "",
+   "tpl": {
+    "summary": "From the frozen surface of the Earth, Jupiter fills almost the whole sky above a stalled planetary engine; there is no dialogue.",
+    "blocking": "Blocking lock: Jupiter fills the upper two thirds of the frame; the ice plain lies across the bottom; the stalled engine silhouette at frame right on the horizon.",
+    "camera": "extreme wide shot on a long lens, locked-off with snow blowing across",
+    "start": "Jupiter's bands loom over the orange-stained ice.",
+    "middle": "Snow streams sideways across the frame in the wind.",
+    "end": "The view holds on the vast planet and the dead engine.",
+    "mood": "overwhelming, dreadful, silent",
+    "blur": "Deep focus, snow in the foreground streaked with motion blur.",
+    "soundscape": "low howling wind, deep groaning of ice"
+   }
+  },
+  {
+   "id": "s30",
+   "dur": 9,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "nian",
+    "loc_admin",
+    "moss"
+   ],
+   "frame": "Raw verité in the underground city's command hall during the Jupiter crisis: Nian, 33, in a dark grey dispatcher uniform with a headset, stands at her console among frantic operators, alarm lights pulsing, looking up at the red lens high on the display wall.",
+   "video": "手持，跟拍，晃动。指挥大厅里警报灯一闪一闪，调度员们乱成一片。宋念戴着耳机站在操作台前，慢慢抬起头，看向大屏中央那枚红色镜头。环境声：警报声、此起彼伏听不清的呼叫声。",
+   "dialogue": [],
+   "vo": "宋念，敦煌七号地下城调度工程师。",
+   "music": "紧张的脉冲。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "",
+   "tpl": {
+    "summary": "In the command hall during the Jupiter crisis, dispatcher Nian stands among frantic operators and looks up at the red lens on the display wall; there is no scripted dialogue.",
+    "blocking": "Blocking lock: Nian stands at her console at frame centre-left, operators move around her at frame left and right, the display wall with the red lens fills the upper background.",
+    "camera": "medium shot, handheld follow with a nervous shake",
+    "start": "Operators shout into headsets around Nian under pulsing alarm lights.",
+    "middle": "Nian stops typing and straightens up.",
+    "end": "She slowly raises her head toward the red lens on the wall.",
+    "mood": "frantic, tense, foreboding",
+    "blur": "Natural depth of field; Nian sharp, the operators around her blurred by motion.",
+    "soundscape": "blaring alarms, overlapping indistinct Mandarin radio calls, footsteps"
+   }
+  },
+  {
+   "id": "s31",
+   "dur": 9,
+   "type": "macro",
+   "era": "v75",
+   "refs": [
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Close-up of the MOSS terminal in the darkened command hall: black glass housing, a single round lens glowing deep red, faint reflections of people in the glass.",
+   "video": "特写，固定，极缓慢推近。黑色终端中央的红色镜头亮着，玻璃上映着人影。扬声器里传出平静、礼貌的合成声音。环境声：大厅突然安静下来，只剩电流声。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "流浪地球计划已失败。本系统停止地面调度。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "开场闪前用过这条的前半句。此处完整使用。",
+   "tpl": {
+    "summary": "Close on MOSS's red lens in the darkened command hall as the synthetic voice announces \"流浪地球计划已失败。本系统停止地面调度。\"",
+    "blocking": "Blocking lock: the black glass terminal fills the frame with the red lens at centre; faint reflections of people in the glass at frame left.",
+    "camera": "close-up, locked-off with an extremely slow push in",
+    "start": "The red lens glows steadily in the black glass.",
+    "middle": "The synthetic voice speaks calmly while the reflections in the glass stop moving.",
+    "end": "The lens keeps glowing in silence.",
+    "mood": "cold, absolute, chilling",
+    "blur": "Lens and glass sharp, the reflections soft.",
+    "soundscape": "the hall suddenly falling silent, a faint electrical hum"
+   }
+  },
+  {
+   "id": "s32",
+   "dur": 8,
+   "type": "establishing",
+   "era": "v75",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "One single image, no people in the foreground: high angle looking down the huge vertical shaft of the underground city, stacked cabins on the walls, most of their windows already dark, only a few clusters of lit windows left in the blackness.",
+   "video": "高机位俯拍，固定。地下城竖井里的灯，一个区接一个区地灭下去，最后几乎全黑。环境声：空旷的风声、遥远的呼喊。",
+   "dialogue": [],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "",
+   "tpl": {
+    "summary": "In the underground city's vertical shaft, the lights go out one sector after another until almost everything is dark; there is no dialogue.",
+    "blocking": "Blocking lock: the vertical shaft runs down the centre of frame, lit cabin windows on both walls fading toward the dark bottom; no characters visible.",
+    "camera": "wide high-angle shot looking down the shaft, locked-off",
+    "start": "Sectors of lit windows glow along the shaft walls.",
+    "middle": "The lights go out sector by sector, the darkness spreading downward.",
+    "end": "Almost the whole shaft is black, with only a few faint points of light left.",
+    "mood": "ominous, desolate, hushed",
+    "blur": "Deep focus on the near walls, the depths dissolving into darkness.",
+    "soundscape": "hollow wind in the shaft, distant faint shouting"
+   }
+  },
+  {
+   "id": "s33",
+   "dur": 9,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "nian",
+    "loc_admin",
+    "moss"
+   ],
+   "frame": "Raw verité close-up in the darkened command hall: Nian's face lit only by the red glow of the lens above, headset around her neck, staring up, very still.",
+   "video": "手持近景，几乎不动。黑暗里，宋念的脸只被头顶的红光照着，她一动不动地看着那枚镜头，嘴唇动了动，轻声说了一句。环境声：远处的喊声、电流声。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "它真的……有了自己的想法。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。全片第三次出现这个问题，这一次是答案。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "句末接闪回蒙太奇：s01（孩子问）、s13（父亲问）、s31（红色镜头），各 0.5—0.8 秒，白闪相隔，s01 的问句声音铺在整段之下。",
+   "tpl": {
+    "summary": "In the darkened command hall, lit only by the red lens, Nian whispers \"它真的……有了自己的想法。\"",
+    "blocking": "Blocking lock: Nian's face fills frame centre, looking up toward frame top right where the red light comes from; darkness all around.",
+    "camera": "close-up, handheld, almost motionless",
+    "start": "Nian stares up at the red light without moving.",
+    "middle": "Her lips move and she whispers.",
+    "end": "She stays frozen, the red light unchanged on her face.",
+    "mood": "stunned, chilling, quiet",
+    "blur": "Only her eyes sharp; the edges of the face fall into red-tinted darkness.",
+    "soundscape": "distant shouting, a faint electrical hum"
+   }
+  },
+  {
+   "id": "s34",
+   "dur": 9,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "nian",
+    "loc_home58",
+    "prop_notebook"
+   ],
+   "frame": "Raw verité in Nian's cramped apartment during the blackout: she kneels by the bunk with a flashlight and lifts a worn hardback notebook out of an old metal box; dust floats in the flashlight beam.",
+   "video": "手持，昏暗，只有手电光。停电的小公寓里，宋念从铁皮箱里取出那本旧笔记本，翻开封面，灰尘在手电光里飘。环境声：手电开关声、翻纸声、远处的警报。",
+   "dialogue": [],
+   "vo": "",
+   "music": "极弱的铺底可进入。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "",
+   "tpl": {
+    "summary": "During the blackout, Nian kneels in her apartment and lifts her father's old notebook out of a metal box by flashlight; there is no dialogue.",
+    "blocking": "Blocking lock: Nian kneels at frame left by the bunk, the metal box and the notebook at frame centre in the flashlight beam; darkness around.",
+    "camera": "medium close-up, handheld with a slight sway",
+    "start": "Nian clicks on a flashlight and opens the lid of an old metal box.",
+    "middle": "She lifts out the worn notebook and blows the dust off its cover.",
+    "end": "She opens the cover; dust drifts through the beam.",
+    "mood": "hushed, intimate, expectant",
+    "blur": "Flashlight pool sharp, everything outside it in noisy darkness.",
+    "soundscape": "flashlight click, paper rustle, a distant alarm"
+   }
+  },
+  {
+   "id": "s35",
+   "dur": 8,
+   "type": "macro",
+   "era": "v75",
+   "refs": [
+    "prop_notebook"
+   ],
+   "frame": "Flashlight close-up on the open notebook: the child's crayon drawing taped on the first page (the big black box with the red eye and the small smiling boxes holding hands) and the father's dense pencil network diagrams spreading out around it across both pages; a woman's fingertip traces one pencil line. No legible text.",
+   "video": "微距，手电光缓慢移动。光圈扫过笔记本：第一页贴着那张蜡笔画，周围爬满了爸爸用铅笔画的网——无数小圆圈，一根根线连着。她的指尖顺着一条线慢慢往外描。环境声：纸页的沙沙声、呼吸声。",
+   "dialogue": [],
+   "vo": "",
+   "music": "极弱的铺底。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "与 s05（孩子画线）图形匹配。",
+   "tpl": {
+    "summary": "By flashlight, Nian's fingertip traces her father's pencil network lines spreading from her childhood crayon drawing in the notebook; there is no dialogue.",
+    "blocking": "Blocking lock: the open notebook fills the frame, the crayon drawing at frame left, pencil diagrams spreading to the right; the fingertip enters from the bottom.",
+    "camera": "macro close-up, slow lateral move following the flashlight beam",
+    "start": "The flashlight beam lands on the crayon drawing.",
+    "middle": "It slides across to the dense pencil diagrams while a fingertip follows one line.",
+    "end": "The fingertip stops at the edge of the page where the lines keep spreading.",
+    "mood": "tender, revelatory, quiet",
+    "blur": "Shallow focus moving with the beam; paper texture crisp in the pool of light.",
+    "soundscape": "paper rustle, soft breathing"
+   }
+  },
+  {
+   "id": "s36",
+   "dur": 9,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "nian",
+    "prop_notebook",
+    "loc_home58"
+   ],
+   "frame": "Raw verité close-up in her dark cramped apartment during the blackout (steel wall and the round porthole window softly behind her, no monitors): Nian's face in the bounce light of the flashlight, eyes wet but steady, reading the last page of the notebook held close.",
+   "video": "手持近景，手电的反光照着她的脸。宋念看着笔记本最后一页，眼眶红了，轻声念出来。环境声：安静、远处隐约的警报。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "要是它有了自己的想法……我们就得有彼此。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐，或极弱的主题。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "父亲的回答，由女儿念出。情感最高点，完整保留。",
+   "tpl": {
+    "summary": "By flashlight, Nian reads her father's last line in the notebook aloud: \"要是它有了自己的想法……我们就得有彼此。\"",
+    "blocking": "Blocking lock: Nian's face at frame centre-right, the notebook edge at frame lower left catching the flashlight; darkness behind.",
+    "camera": "close-up, handheld, nearly still",
+    "start": "Nian's eyes move along the last page.",
+    "middle": "She reads it aloud softly, her voice catching once.",
+    "end": "She lowers the notebook slightly and stays still, eyes wet.",
+    "mood": "moved, quiet, resolute",
+    "blur": "Her eyes sharp, the notebook edge and the room soft.",
+    "soundscape": "near silence, a faint distant alarm"
+   }
+  },
+  {
+   "id": "s37",
+   "dur": 9,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "nian",
+    "loc_interview",
+    "prop_notebook"
+   ],
+   "frame": "Oral-history interview medium close-up: Nian, mid-thirties, in a plain dark knitted sweater, holding the closed worn notebook on her knees, looking past the lens at the interviewer with a faint, steady smile.",
+   "video": "采访固定机位。宋念双手按着膝上的旧笔记本，看着采访者，淡淡笑了一下，说完。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "他回答我了。晚了二十七年。"
+    }
+   ],
+   "vo": "",
+   "music": "无音乐。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "",
+   "tpl": {
+    "summary": "In the interview room, Nian, the notebook on her knees, says with a faint smile, \"他回答我了。晚了二十七年。\"",
+    "blocking": "Blocking lock: Nian sits at frame centre-left, the notebook on her knees in the lower frame; soft dim background.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Nian rests both hands on the closed notebook.",
+    "middle": "She smiles faintly and speaks.",
+    "end": "She looks down at the notebook, the smile staying.",
+    "mood": "bittersweet, calm, warm",
+    "blur": "Shallow depth of field, face and notebook sharp.",
+    "soundscape": "quiet room tone"
+   },
+   "costume": "Nian wears a plain dark charcoal knitted sweater; no uniform, no headset, nothing around her neck (the reference picture shows her 2075 dispatcher uniform; only her face and hair are taken from it)."
+  },
+  {
+   "id": "s38",
+   "dur": 7,
+   "type": "macro",
+   "era": "v75",
+   "refs": [
+    "prop_node"
+   ],
+   "frame": "Insert in the dark: the old dented tin box with its antenna, now with the red-and-white ANET smiley sticker on its lid, sits on a pipe ledge; its small LED glows red.",
+   "video": "特写，固定。黑暗里，贴着笑脸贴纸的旧铁盒放在管道边上，小灯从红色变成绿色，连闪三下。环境声：三声轻轻的提示音。",
+   "dialogue": [],
+   "vo": "中心停摆之外，这只铁盒，找到了别的盒子。",
+   "music": "微光动机。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "与 s10 呼应：红变绿、闪三下。",
+   "tpl": {
+    "summary": "In the dark, Song's old tin box, now wearing the ANET smiley sticker, turns its LED from red to green and blinks three times; there is no dialogue.",
+    "blocking": "Blocking lock: the tin box sits at frame centre on a pipe ledge, the smiley sticker facing camera, darkness around.",
+    "camera": "close-up, locked-off",
+    "start": "The LED on the tin box glows a steady red.",
+    "middle": "It turns green.",
+    "end": "It blinks green three times and stays lit.",
+    "mood": "hopeful, quiet, small",
+    "blur": "The box and sticker sharp, the background black.",
+    "soundscape": "three soft electronic chimes, distant hum"
+   }
+  },
+  {
+   "id": "s39",
+   "dur": 10,
+   "type": "verite",
+   "era": "v75",
+   "refs": [
+    "nian",
+    "loc_street",
+    "prop_notebook"
+   ],
+   "frame": "Raw verité shot from behind and to the side: Nian stands at a railing over the dark vertical shaft of the underground city, the notebook held against her chest; across the darkness, small green lights are winking on one by one along the pipes and windows, linking up.",
+   "video": "手持，从她背后慢慢绕到侧面。宋念抱着笔记本站在竖井栏杆边，黑暗里，管道和窗口上一盏一盏亮起小小的绿灯，越来越多，连成一片。她长出了一口气。环境声：竖井里的风声、远处此起彼伏的提示音。",
+   "dialogue": [],
+   "vo": "没有谁是光。只是一盏一盏，不肯熄。",
+   "music": "主题完整进入。",
+   "act": "第三幕 · 应验（2075）",
+   "edit": "与 s05、s35 的连线做图形匹配。",
+   "tpl": {
+    "summary": "Nian stands at the railing over the dark shaft holding the notebook while small green lights wink on one by one across the darkness and link up; there is no dialogue.",
+    "blocking": "Blocking lock: Nian stands at the railing at frame left seen from behind, the dark shaft fills the right two thirds where the green lights appear.",
+    "camera": "medium wide shot, slow handheld arc from behind her to her side",
+    "start": "Nian stands at the railing looking into the black shaft.",
+    "middle": "Small green lights wink on one by one along the pipes and windows.",
+    "end": "The green lights form a spreading web; she lets out a long breath.",
+    "mood": "hopeful, vast, quietly triumphant",
+    "blur": "Nian sharp in the foreground, the green lights soft bokeh points in the depth.",
+    "soundscape": "wind in the shaft, scattered soft electronic chimes far away"
+   }
+  },
+  {
+   "id": "s40",
+   "dur": 11,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "nian",
+    "loc_interview",
+    "prop_notebook"
+   ],
+   "frame": "Oral-history interview medium shot in the dim concrete room: Nian, mid-thirties, in the same plain dark knitted sweater as in her other interviews (no uniform, no headset), sits on the metal chair with the worn notebook open on her knees at its last page, looking up from it to the interviewer.",
+   "video": "采访固定机位，缓慢推近。宋念把笔记本翻到最后一页，抬头看着采访者，一字一句地说。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "nian",
+     "line": "最后一页他写着：规则不属于任何一个人，所以才能属于所有人。"
+    }
+   ],
+   "vo": "",
+   "music": "主题延续。",
+   "act": "尾声 · 属于所有人（2078）",
+   "edit": "全片立意句，完整保留。",
+   "tpl": {
+    "summary": "In the interview room Nian reads from the last page of the notebook: \"最后一页他写着：规则不属于任何一个人，所以才能属于所有人。\"",
+    "blocking": "Blocking lock: Nian sits at frame centre-left, the open notebook on her knees in the lower frame; dim soft background.",
+    "camera": "medium shot, locked-off interview camera with one slow push in",
+    "start": "Nian turns the notebook to its last page.",
+    "middle": "She looks up and says the line clearly, word by word.",
+    "end": "She closes the notebook gently and keeps her hand on it.",
+    "mood": "clear, resolute, warm",
+    "blur": "Shallow depth of field, face sharp, background soft.",
+    "soundscape": "quiet room tone"
+   },
+   "costume": "Nian wears a plain dark charcoal knitted sweater; no uniform, no headset, nothing around her neck (the reference picture shows her 2075 dispatcher uniform; only her face and hair are taken from it)."
+  },
+  {
+   "id": "s41",
+   "dur": 8,
+   "type": "interview",
+   "era": "int78",
+   "refs": [
+    "boye",
+    "loc_interview",
+    "prop_node"
+   ],
+   "frame": "Oral-history interview close-up: Boye, 64, the tin box with the smiley sticker in his lap, smiling warmly for the first time, eyes crinkling behind his taped glasses.",
+   "video": "采访固定机位，近景。波爷低头看着腿上的铁盒，第一次真正笑了，说完摇了摇头。环境声：安静房间的底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "老宋要是看见了，准得笑。"
+    }
+   ],
+   "vo": "",
+   "music": "主题延续。",
+   "act": "尾声 · 属于所有人（2078）",
+   "edit": "“笑”的母题在此翻转为欣慰。",
+   "tpl": {
+    "summary": "In the interview room Boye looks at the tin box in his lap and smiles: \"老宋要是看见了，准得笑。\"",
+    "blocking": "Blocking lock: Boye's face at frame centre-right, the tin box glimpsed at the lower edge; dim soft background.",
+    "camera": "close-up, locked-off interview camera",
+    "start": "Boye looks down at the tin box in his lap.",
+    "middle": "A real smile spreads across his face as he speaks.",
+    "end": "He shakes his head gently, still smiling.",
+    "mood": "warm, relieved, affectionate",
+    "blur": "Very shallow depth of field, his eyes sharp.",
+    "soundscape": "quiet room tone"
+   }
+  },
+  {
+   "id": "s42",
+   "dur": 9,
+   "type": "archival",
+   "era": "home48",
+   "refs": [
+    "song",
+    "nian_child",
+    "loc_home48",
+    "prop_drawing"
+   ],
+   "frame": "Degraded home-video frame in the sunlit kitchen, 2048: Song kneels beside little Nian at the table, holding a crayon, adding one more small box to her drawing and joining it to the others with a line; she laughs; sunlight floods the lens.",
+   "video": "家用摄像机手持，轻微晃动。宋工蹲在女儿身边，拿起一支蜡笔，在画上又添了一个小方块，用线连上，笑着说了一句；女儿咯咯地笑。阳光照进镜头，画面慢慢泛白。环境声：孩子的笑声、窗外的城市声。",
+   "dialogue": [
+    {
+     "who": "song",
+     "line": "那再画一个，跟它们手拉手。"
+    }
+   ],
+   "vo": "",
+   "music": "片尾曲可从此处进入。",
+   "act": "尾声 · 属于所有人（2078）",
+   "edit": "全片最后一个镜头，末尾随阳光泛白淡出到白，再转黑接片尾标志卡。",
+   "tpl": {
+    "summary": "In the sunlit 2048 kitchen, Song kneels beside his daughter, adds one more little box to her drawing and joins it to the others, saying \"那再画一个，跟它们手拉手。\" while she laughs.",
+    "blocking": "Blocking lock: Song kneels at frame left, little Nian sits at frame right, the drawing on the table between them in the lower centre; the bright window behind them.",
+    "camera": "medium shot, handheld home camera with a gentle sway",
+    "start": "Song picks up a crayon from the table.",
+    "middle": "He draws one more small box on her drawing and joins it to the ring with a line while he speaks.",
+    "end": "Nian laughs and leans against him as sunlight floods the lens.",
+    "mood": "joyful, tender, luminous",
+    "blur": "Soft home-video focus; the sunlight blooming over everything at the end.",
+    "soundscape": "a child's giggle, faint city traffic through the window, crayon on paper"
+   }
+  }
+ ]
+}

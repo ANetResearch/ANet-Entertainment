@@ -1,0 +1,151 @@
+#!/usr/bin/env python3
+"""Reference images of the side story sp01 《第一页》 (new characters, eras, locations, props).
+
+Writes refs/sp01/refs.json (registry, merged with refs/refs.json by the pipeline) and
+refs/sp01/jobs_stage1.json, jobs_stage2.json (stage 2 derives older/younger versions from stage 1
+images so that faces and props stay the same across eras).  Run gen_image.py on each stage.
+"""
+import json, os
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = ("Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, "
+        "unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. "
+        "No captions, no subtitles, no watermark, no legible text anywhere.")
+COLD = " Muted cold palette with a few warm practical lamps."
+WARM = " Soft warm late-afternoon daylight, desaturated warm beige base, gentle shadows, quiet domestic atmosphere."
+PORTRAIT = "Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. "
+SAME_PERSON = ("Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and "
+               "distinguishing marks, so that the two images are unmistakably the same individual. ")
+
+R = [
+    # ------------------------------------------------------------ stage 1
+    dict(id="song", kind="character", stage=1, palette=COLD,
+         zh="宋启（宋工），2048年33岁，国家量子计算机550项目的系统工程师；偏瘦，黑色短发侧分，戴细圆钢框眼镜，右眼下有一颗小痣，穿浅灰开衫和浅蓝衬衫，挂空白工牌",
+         en_name="Engineer Song (Song Qi, 33 in 2048, systems engineer on the 550 quantum-computer project)",
+         role="the protagonist",
+         en=("A 33-year-old Chinese man, systems engineer on a national quantum-computer project. Slim, medium height, "
+             "short neat black hair with a side parting, clean-shaven, a small mole under his right eye, warm attentive "
+             "eyes with faint laugh lines, thin round steel-rimmed glasses. Light-grey knitted cardigan over a pale blue "
+             "collared work shirt, a blank white ID card on a dark lanyard, a cheap black digital wristwatch on his left wrist."),
+         bg="Plain blurred background of a research-institute corridor under fluorescent tubes."),
+    dict(id="nian_child", kind="character", stage=1, palette=WARM,
+         zh="宋念（童年），2048年6岁的女孩，圆脸，齐刘海黑色短发，大眼睛，门牙有个小缝，穿芥末黄毛衣，手指上有蜡笔印",
+         en_name="little Nian (Song's daughter, 6 years old in 2048)",
+         role="the child who asks the question",
+         en=("A 6-year-old Chinese girl with a round face, a straight black bob haircut with blunt bangs, big curious dark "
+             "eyes, a small gap between her front teeth, rosy cheeks, a mustard-yellow knitted sweater, crayon smudges on "
+             "her fingers."),
+         bg="Plain blurred background of a sunny family kitchen."),
+    dict(id="boye58", kind="character", stage=1, palette=COLD, inputs=["refs/characters/boye.png"],
+         zh="2058年的波爷，44岁，宋工的同事，网络协议工程师；黑色短发夹着几缕白，胡茬，黑框眼镜（还没缠胶布），深蓝棉服配棕色毛背心",
+         en_name="Boye at 44 (Song's colleague, network protocol engineer, in the 2050s)",
+         role="Song's colleague",
+         en=("A 44-year-old Chinese man, network protocol engineer: short black hair with the first grey streaks, dark "
+             "stubble, intact black-framed glasses, a broad nose and a stubborn mouth. Dark navy quilted work jacket over a "
+             "brown knitted vest."),
+         prefix=("The man in the reference image, but twenty years younger, at 44. " + SAME_PERSON),
+         bg="Plain blurred background of a cluttered electronics laboratory at night."),
+    dict(id="loc_home48", kind="location", stage=1, palette=WARM,
+         zh="2048年宋家的厨房：地表城市里的小公寓，午后阳光照在木餐桌上，桌上有蜡笔和画纸，窗外远处是在建的行星发动机脚手架",
+         en_name="the Song family kitchen on the surface in 2048", role="location reference",
+         en=("Interior of a small family apartment kitchen on the Earth's surface in 2048, late afternoon: warm sunlight "
+             "through a window falls across a wooden table with crayons and sheets of drawing paper, a rice cooker and a "
+             "teapot on the counter, children's drawings stuck on the fridge, a potted plant; through the window a hazy "
+             "city skyline and, far away on the horizon, the half-built steel scaffold of a colossal engine tower with "
+             "construction cranes. Empty of people, lived-in.")),
+    dict(id="loc_lab", kind="location", stage=1, palette=COLD, inputs=["refs/characters/moss.png"],
+         zh="550项目实验室（2050年代）：夜里堆满仪器的长工作台，玻璃墙后是冷白的机房，中央黑色机柜上一枚红色镜头",
+         en_name="the 550 project laboratory at night (2050s)", role="location reference",
+         en=("Interior of the quantum-computer laboratory of a national research institute at night in the 2050s: a long "
+             "cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and "
+             "notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black "
+             "cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the "
+             "terminal in the reference image. Fluorescent tubes. Empty of people.")),
+    dict(id="loc_meeting", kind="location", stage=1, palette=COLD, inputs=["refs/characters/moss.png"],
+         zh="研究院会议室（2050年代）：长会议桌、茶杯和文件，冷白顶灯，尽头墙上一枚红色镜头的黑色终端",
+         en_name="the institute conference room (2050s)", role="location reference",
+         en=("A plain conference room at a national research institute in the 2050s: a long table with tea cups, papers "
+             "and closed laptops, rows of empty chairs, cold overhead fluorescent light, and on the far wall a black glass "
+             "terminal with a single round red-glowing lens exactly like the reference image. Empty of people.")),
+    dict(id="loc_restart", kind="location", stage=1, palette=COLD,
+         zh="2058年根服务器重启行动的集结区：被水淹的地下机房边缘，三脚架探照灯照着黑水，混凝土柱子、电缆、潜水头盔和气瓶",
+         en_name="the staging area of the 2058 root-server restart operation", role="location reference",
+         en=("A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods "
+             "glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, "
+             "diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold.")),
+    dict(id="loc_home58", kind="location", stage=1, palette=COLD,
+         zh="地下城的小公寓（2058/2075）：钢板墙、窄床、发蓝光的小墙屏、能看见城市竖井灯光的圆窗、折叠桌",
+         en_name="Nian's cramped apartment in the underground city", role="location reference",
+         en=("A cramped family apartment in an underground city: steel walls, a narrow bunk bed, a small wall screen "
+             "glowing blue, a round porthole window looking out on the lit shaft of the city, a folding table with a "
+             "teapot and a worn notebook. Empty of people, dim.")),
+    dict(id="loc_ceremony", kind="location", stage=1, palette=COLD, inputs=["refs/characters/moss.png"],
+         zh="2058年移交大厅：空旷肃穆的大厅，阶梯座席面对一整面黑色终端墙，中央一枚巨大的红色圆形镜头",
+         en_name="the 2058 handover hall of the global network authority", role="location reference",
+         en=("A vast, solemn control hall of the 2058 global network authority: tiered empty rows facing a colossal black "
+             "monolithic terminal wall with a single huge round red-glowing lens at its centre, in the design of the "
+             "reference terminal; cold white light, a polished floor reflecting the red lens. Empty of people.")),
+    dict(id="prop_drawing", kind="prop", stage=1, palette=WARM,
+         zh="念念的蜡笔画：中间一个黑色的大方块，长着一只红眼睛；周围许多彩色的小方块，都有两个点的眼睛和笑脸，用歪歪扭扭的线手拉手连在一起",
+         en_name="little Nian's crayon drawing", role="prop reference",
+         en=("A child's crayon drawing on a sheet of slightly crumpled paper on a wooden table in sunlight: in the middle a "
+             "big black square box with one round red eye; around it many small boxes in different bright colours "
+             "(yellow, blue, green, orange), each with two dot eyes and a little smile, joined to each other by wobbly "
+             "crayon lines like holding hands. Naive childlike strokes, no letters or words. A few crayons beside it.")),
+    dict(id="prop_proto", kind="prop", stage=1, palette=COLD, inputs=["refs/props/prop_node.png"],
+         zh="宋工的原型节点：凹痕累累的旧铁盒、回收电路板、小散热片、三颗小灯和一根短天线，盒盖素面，没有贴纸",
+         en_name="Song's prototype node (the dented tin box, still without a sticker)", role="prop reference",
+         en=("A handmade prototype network node: an old dented steel tin box with a plain scratched olive-grey lid, a "
+             "salvaged circuit board, a small heat sink, three tiny LEDs and a short screw-on antenna, on a cluttered lab "
+             "workbench under a desk lamp. No sticker on the lid."),
+         prefix=("The same handmade device as in the reference image, the same dented tin box and antenna, but earlier: "
+                 "remove the sticker completely, the lid is plain scratched metal. ")),
+    # ------------------------------------------------------------ stage 2 (derived)
+    dict(id="song58", kind="character", stage=2, palette=COLD, inputs=["refs/sp01/song.png"],
+         zh="2058年的宋工，43岁：同一张脸、同一副细圆钢框眼镜和小痣，两鬓斑白，胡茬，更瘦；橄榄色工程夹克，里面是黑色保温内衬",
+         en_name="Engineer Song at 43 (2058, the restart operation)", role="the protagonist",
+         en=("The same man ten years later, 43: the same face, mole and thin round steel-rimmed glasses, now grey at the "
+             "temples, short stubble, a thinner face with deeper lines and tired eyes. Dark olive engineering field jacket "
+             "with reflective strips over a black thermal undersuit."),
+         prefix="The man in the reference image, ten years older, at 43. " + SAME_PERSON,
+         bg="Plain blurred background of a floodlit concrete staging area."),
+    dict(id="nian_teen", kind="character", stage=2, palette=COLD, inputs=["refs/sp01/nian_child.png"],
+         zh="宋念（少年），2058年16岁：同一张脸，黑发扎低马尾仍留齐刘海，神情倔强，地下城的苍白肤色，旧藏青棉校服外套配灰色卫衣",
+         en_name="Nian at 16 (2058)", role="Song's daughter",
+         en=("A 16-year-old Chinese girl: straight black hair in a low ponytail with blunt bangs, serious guarded eyes, "
+             "pale skin from living underground, a faded navy padded school jacket over a grey hoodie."),
+         prefix="The girl in the reference image, ten years older, at 16. " + SAME_PERSON,
+         bg="Plain blurred background of a dim underground apartment lit by a blue screen."),
+    dict(id="nian", kind="character", stage=2, palette=COLD, inputs=["refs/sp01/nian_child.png"],
+         zh="宋念（成年），2075年33岁、2078年36岁，地下城调度工程师：同一张脸，齐肩黑发别在耳后，短侧刘海，冷静克制，深灰立领调度员制服，脖子上挂着耳机",
+         en_name="Nian (Song's daughter, dispatch engineer, 33 in 2075, 36 in 2078)", role="the daughter, now grown up",
+         en=("A Chinese woman in her mid-thirties, dispatch engineer of an underground city: straight black shoulder-length "
+             "hair tucked behind her ears with short side-swept bangs, calm guarded tired eyes, faint lines, a round face "
+             "grown lean. Dark grey dispatcher uniform jacket with a high collar, a light headset around her neck."),
+         prefix="The girl in the reference image, grown up, at 35. " + SAME_PERSON,
+         bg="Plain blurred background of a command hall with cold blue monitors."),
+    dict(id="prop_notebook", kind="prop", stage=2, palette=COLD, inputs=["refs/sp01/prop_drawing.png"],
+         zh="宋工的笔记本：磨旧的硬壳工程笔记本，第一页用发黄的胶带贴着念念的那张蜡笔画，周围和对页是密密麻麻的铅笔网络草图（小圆圈和连线），没有可读的字",
+         en_name="Song's notebook with the crayon drawing taped on the first page", role="prop reference",
+         en=("A worn hardback engineer's notebook lying open: on the first page the child's crayon drawing (a big black box "
+             "with one red eye and many small smiling coloured boxes holding hands) is taped in with yellowed tape; around "
+             "it and across the facing page, an adult's dense pencil diagrams of networks, many small circles linked by "
+             "lines, arrows and loops spreading outward. Only abstract shapes, no legible words or numbers."),
+         prefix="The same crayon drawing as in the reference image, now taped into a notebook. "),
+]
+
+reg, jobs = {}, {1: [], 2: []}
+for r in R:
+    out = f"refs/sp01/{r['id']}.png"
+    reg[r["id"]] = {"kind": r["kind"], "file": out, "zh": r["zh"], "en_name": r["en_name"], "role": r["role"], "en": r["en"]}
+    body = r["en"]
+    if r["kind"] == "character":
+        body = PORTRAIT + body + " " + r.get("bg", "")
+    prompt = r.get("prefix", "") + body + " " + BASE + r["palette"]
+    jobs[r["stage"]].append({"id": r["id"], "out": out, "prompt": prompt, "inputs": r.get("inputs", [])})
+
+os.makedirs(os.path.join(ROOT, "refs/sp01"), exist_ok=True)
+json.dump(reg, open(os.path.join(ROOT, "refs/sp01/refs.json"), "w"), ensure_ascii=False, indent=1)
+for st, j in jobs.items():
+    json.dump(j, open(os.path.join(ROOT, f"refs/sp01/jobs_stage{st}.json"), "w"), ensure_ascii=False, indent=1)
+print({k: len(v) for k, v in jobs.items()}, "ref jobs")

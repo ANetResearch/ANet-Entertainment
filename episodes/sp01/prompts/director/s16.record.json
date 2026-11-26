@@ -1,0 +1,94 @@
+{
+ "shot": "s16",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s16.png",
+  "refs/sp01/loc_lab.png"
+ ],
+ "ref_ids": [
+  "loc_lab"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-lab50s"
+ },
+ "retrieved": [
+  {
+   "id": "ours/cam-insert",
+   "title": "机位：细节特写插入",
+   "kind": "ours:camera",
+   "score": 68.92
+  },
+  {
+   "id": "rules/size/insert-shot",
+   "title": "size: insert-shot",
+   "kind": "rules:size",
+   "score": 39.61
+  },
+  {
+   "id": "rules/move/push-to-close-up",
+   "title": "move: push-to-close-up",
+   "kind": "rules:move",
+   "score": 37.87
+  },
+  {
+   "id": "aigc/25/video4",
+   "title": "徐克《青蛇》影像风格提示词 · 视频提示词 4",
+   "kind": "aigc:video",
+   "score": 25.99
+  },
+  {
+   "id": "ours/emo-hope-small",
+   "title": "情绪：微小的希望",
+   "kind": "ours:emotion",
+   "score": 23.19
+  }
+ ],
+ "request": "镜头 s16：纪录片细节特写镜头，时长 6 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-lab50s）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['Super 16', 'Vision3 500T']）：Locked look \"2050s institute film archive\" (style preset sp01-lab50s): an Arriflex 416 Super 16 camera; Kodak Vision3 500T 7219 pushed one stop; a 12-120mm documentary zoom at f/2.8; filter none; grade: muted, desaturated, a green-cyan fluorescent cast with one warm practical; light: cold fluorescent tubes plus one warm desk lamp, deep shadows; texture: lively Super 16 grain, slightly soft resolution; the institute's own observational record, watching people work from across the room.\n该类型的纪录片默认机位：documentary insert close-up grabbed handheld, focus breathing\n导演意图（自然语言）：特写，缓慢推近。黑暗里的显示器上，一条平稳的线和一条参差上升的线在一点交叉；一根手指轻轻点在交叉点上。环境声：风扇声。\n情绪：precise, hushed, decisive\n建议的景别与运镜（只做一个主要运镜）：close-up, slow push in\n景深与虚实：Screen sharp at the crossing, edges of the monitor falling soft; the scan pattern of the display faintly visible.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Insert close-up on a monitor in the dark lab: two glowing abstract curves, one smooth and flat, one jagged and rising, cross at a single bright point; a fingertip touches the crossing point. No numbers, no text, no axis labels. Blocking lock: the monitor fills the frame, the crossing point slightly right of centre, the fingertip enters from the lower right.\nPicture 2: the 550 project laboratory at night (2050s) (location reference; role: location reference). Interior of the quantum-computer laboratory of a national research institute at night in the 2050s: a long cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the terminal in the reference image. Fluorescent tubes. Empty of people.\n本镜头没有台词。\n现场环境声：cooling fan whir, quiet room tone\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[ours/cam-insert] 机位：细节特写插入\n[rules/size/insert-shot] size\n[rules/move/push-to-close-up] move\n[aigc/25/video4] 徐克《青蛇》影像风格提示词 · 视频提示词 4\n[ours/emo-hope-small] 情绪：微小的希望\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\nSubject 1 is the storyboard keyframe of this shot from Picture 1, serving as composition, lighting and blocking reference. Insert close-up on a monitor in the dark lab: two glowing abstract curves, one smooth and flat, one jagged and rising, cross at a single bright point; the monitor fills the frame, its screen the only major light source, with faint green-cyan spill at the edges and deep black surround. No numbers, no text, no axis labels. Blocking lock: monitor fills the frame, the crossing point slightly right of centre, the fingertip enters from the lower right.\nSubject 2 is the 550 project laboratory at night (2050s) from Picture 2, serving as location reference. Interior of the quantum-computing laboratory of a national research institute at night in the 2050s: a long cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the terminal in the reference image. Fluorescent tubes. Empty of people.\n\nsummary:\nIn the dark 2050s institute laboratory, a handheld documentary insert close-up watches a monitor where two glowing abstract curves cross. One curve is smooth and flat, the other jagged and rising; they meet at a single bright point, and a fingertip enters from the lower right and presses exactly on the crossing. There is no dialogue; final frame: the fingertip holds the crossing point, the monitor sharp there and soft at its edges.\n\nretention_analysis:\nSubject 1 (appears in this shot): fully_preserved — composition, environment, lighting, blocking and the screen's abstract curve geometry retained as the opening frame.\nSubject 2 (appears in this shot): fully_preserved — the laboratory's layout, materials, cold fluorescent plus warm desk-lamp light and empty night atmosphere retained as the surrounding location and ambient light.\n\ndetailed_description:\n16:9 horizontal, single clip 6.0s, 24fps, Locked look \"2050s institute film archive\" (style preset sp01-lab50s): an Arriflex 416 Super 16 camera; Kodak Vision3 500T 7219 pushed one stop; a 12-120mm documentary zoom at f/2.8; filter none; grade: muted, desaturated, a green-cyan fluorescent cast with one warm practical; light: cold fluorescent tubes plus one warm desk lamp, deep shadows; texture: lively Super 16 grain, slightly soft resolution; the institute's own observational record, watching people work from across the room; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up, handheld documentary insert camera with one very slow push in from close-up to tighter close-up, focus breathing on the crossing point; pacing: natural speed, a single continuous take with no cut. The monitor fills the frame, crossing point slightly right of centre, the fingertip entering from the lower right; the lab beyond is only a faint green-cyan spill and a low warm edge at the extreme frame border. Start: the dark screen shows two glowing abstract curves, one smooth and flat, one jagged and rising, crossing at a single bright point; the display carries no numbers, text or axis labels. Middle: a fingertip enters from the lower right, extends slowly and settles onto the bright crossing point, the focus breathing slightly as the screen holds sharp there while the bezel begins to soften. End: the fingertip rests exactly on the crossing with a small decisive pressure, the bright point glowing around the nail, and the handheld frame settles into the tighter close-up. Mood: precise, hushed, decisive. Blur: the crossing point and the tip of the finger stay sharp; the monitor's edges, bezel and the dark laboratory behind fall soft; a faint scan pattern is just visible on the display. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nCooling fan whir from the server hall, quiet room tone, faint electrical hum from the monitor, a soft fingertip touch on the glass; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [
+    "subject_definitions line does not start with '<Subject N> is ... from <Picture N>': Subject 1 is the storyboard keyframe of this shot from Picture 1, serving as com",
+    "subject_definitions line does not start with '<Subject N> is ... from <Picture N>': Subject 2 is the 550 project laboratory at night (2050s) from Picture 2, serving",
+    "there must be exactly one subject line per picture, Subject 1..2 in order; found []",
+    "retention_analysis needs one line per subject '<Subject N> (appears in ...): fully_preserved — ...', N = 1..2 in order; found []"
+   ],
+   "usage": {
+    "prompt_tokens": 4888,
+    "completion_tokens": 5620,
+    "total_tokens": 10508,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 4654
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1176
+   },
+   "reasoning_chars": 20379
+  },
+  {
+   "output": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot, an insert close-up on a monitor in the dark lab, from <Picture 1>, serving as composition, lighting and blocking reference. Two glowing abstract curves, one smooth and flat, one jagged and rising, cross at a single bright point; the monitor fills the frame, its screen the only major light source, with faint green-cyan spill at the edges and deep black surround. No numbers, no text, no axis labels. Blocking lock: monitor fills the frame, the crossing point slightly right of centre, the fingertip enters from the lower right.\n<Subject 2> is the 550 project laboratory at night (2050s) from <Picture 2>, serving as location reference. Interior of the quantum-computing laboratory of a national research institute at night in the 2050s: a long cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the terminal in the reference image. Fluorescent tubes. Empty of people.\n\nsummary:\nIn the dark 2050s institute laboratory, a handheld documentary insert close-up watches a monitor where two glowing abstract curves cross. One curve is smooth and flat, the other jagged and rising; they meet at a single bright point, and a fingertip enters from the lower right and presses exactly on the crossing. There is no dialogue; final frame: the fingertip holds the crossing point, the monitor sharp there and soft at its edges.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting, blocking and the screen's abstract curve geometry retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — the laboratory's layout, materials, cold fluorescent plus warm desk-lamp light and empty night atmosphere retained as the surrounding location and ambient light.\n\ndetailed_description:\n16:9 horizontal, single clip 6.0s, 24fps, Locked look \"2050s institute film archive\" (style preset sp01-lab50s): an Arriflex 416 Super 16 camera; Kodak Vision3 500T 7219 pushed one stop; a 12-120mm documentary zoom at f/2.8; filter none; grade: muted, desaturated, a green-cyan fluorescent cast with one warm practical; light: cold fluorescent tubes plus one warm desk lamp, deep shadows; texture: lively Super 16 grain, slightly soft resolution; the institute's own observational record, watching people work from across the room; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up, handheld documentary insert camera with one very slow push in from close-up to tighter close-up, focus breathing on the crossing point; pacing: natural speed, a single continuous take with no cut. The monitor fills the frame, the crossing point slightly right of centre, the fingertip entering from the lower right; the lab beyond is only a faint green-cyan spill and a low warm edge at the extreme frame border. Start: the dark screen shows two glowing abstract curves, one smooth and flat, one jagged and rising, crossing at a single bright point; the display carries no numbers, text or axis labels. Middle: a fingertip enters from the lower right, extends slowly and settles onto the bright crossing point, the focus breathing slightly as the screen holds sharp there while the bezel begins to soften. End: the fingertip rests exactly on the crossing with a small decisive pressure, the bright point glowing around the nail, and the handheld frame settles into the tighter close-up. Mood: precise, hushed, decisive. Blur: the crossing point and the tip of the finger stay sharp; the monitor's edges, bezel and the dark laboratory behind fall soft; a faint scan pattern is just visible on the display. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nCooling fan whir from the server hall, quiet room tone, faint electrical hum from the monitor, a soft fingertip touch on the glass; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 6020,
+    "completion_tokens": 1243,
+    "total_tokens": 7263,
+    "prompt_tokens_details": {
+     "cached_tokens": 4864
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 264
+    },
+    "prompt_cache_hit_tokens": 4864,
+    "prompt_cache_miss_tokens": 1156
+   },
+   "reasoning_chars": 1113
+  }
+ ],
+ "ts": "2026-11-26 17:30:29",
+ "final": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot, an insert close-up on a monitor in the dark lab, from <Picture 1>, serving as composition, lighting and blocking reference. Two glowing abstract curves, one smooth and flat, one jagged and rising, cross at a single bright point; the monitor fills the frame, its screen the only major light source, with faint green-cyan spill at the edges and deep black surround. No numbers, no text, no axis labels. Blocking lock: monitor fills the frame, the crossing point slightly right of centre, the fingertip enters from the lower right.\n<Subject 2> is the 550 project laboratory at night (2050s) from <Picture 2>, serving as location reference. Interior of the quantum-computing laboratory of a national research institute at night in the 2050s: a long cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the terminal in the reference image. Fluorescent tubes. Empty of people.\n\nsummary:\nIn the dark 2050s institute laboratory, a handheld documentary insert close-up watches a monitor where two glowing abstract curves cross. One curve is smooth and flat, the other jagged and rising; they meet at a single bright point, and a fingertip enters from the lower right and presses exactly on the crossing. There is no dialogue; final frame: the fingertip holds the crossing point, the monitor sharp there and soft at its edges.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting, blocking and the screen's abstract curve geometry retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — the laboratory's layout, materials, cold fluorescent plus warm desk-lamp light and empty night atmosphere retained as the surrounding location and ambient light.\n\ndetailed_description:\n16:9 horizontal, single clip 6.0s, 24fps, Locked look \"2050s institute film archive\" (style preset sp01-lab50s): an Arriflex 416 Super 16 camera; Kodak Vision3 500T 7219 pushed one stop; a 12-120mm documentary zoom at f/2.8; filter none; grade: muted, desaturated, a green-cyan fluorescent cast with one warm practical; light: cold fluorescent tubes plus one warm desk lamp, deep shadows; texture: lively Super 16 grain, slightly soft resolution; the institute's own observational record, watching people work from across the room; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up, handheld documentary insert camera with one very slow push in from close-up to tighter close-up, focus breathing on the crossing point; pacing: natural speed, a single continuous take with no cut. The monitor fills the frame, the crossing point slightly right of centre, the fingertip entering from the lower right; the lab beyond is only a faint green-cyan spill and a low warm edge at the extreme frame border. Start: the dark screen shows two glowing abstract curves, one smooth and flat, one jagged and rising, crossing at a single bright point; the display carries no numbers, text or axis labels. Middle: a fingertip enters from the lower right, extends slowly and settles onto the bright crossing point, the focus breathing slightly as the screen holds sharp there while the bezel begins to soften. End: the fingertip rests exactly on the crossing with a small decisive pressure, the bright point glowing around the nail, and the handheld frame settles into the tighter close-up. Mood: precise, hushed, decisive. Blur: the crossing point and the tip of the finger stay sharp; the monitor's edges, bezel and the dark laboratory behind fall soft; a faint scan pattern is just visible on the display. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nCooling fan whir from the server hall, quiet room tone, faint electrical hum from the monitor, a soft fingertip touch on the glass; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director_repaired"
+}

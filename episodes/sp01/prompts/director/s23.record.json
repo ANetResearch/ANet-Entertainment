@@ -1,0 +1,71 @@
+{
+ "shot": "s23",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s23.png",
+  "refs/sp01/loc_restart.png"
+ ],
+ "ref_ids": [
+  "loc_restart"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-arch58"
+ },
+ "retrieved": [
+  {
+   "id": "rules/lens/documentary-zoom",
+   "title": "lens: documentary-zoom",
+   "kind": "rules:lens",
+   "score": 57.63
+  },
+  {
+   "id": "rules/move/locked-off",
+   "title": "move: locked-off",
+   "kind": "rules:move",
+   "score": 39.39
+  },
+  {
+   "id": "ours/tex-flooded",
+   "title": "被淹的机房与集结区",
+   "kind": "ours:texture",
+   "score": 37.01
+  },
+  {
+   "id": "ours/cam-interview",
+   "title": "机位：采访固定机位",
+   "kind": "ours:camera",
+   "score": 24.06
+  },
+  {
+   "id": "aigc/05/video2",
+   "title": "乔・赖特《赎罪》影像风格提示词 · 视频提示词 2",
+   "kind": "aigc:video",
+   "score": 23.51
+  }
+ ],
+ "request": "镜头 s23：纪录片空镜，时长 7 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-arch58）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['ENG broadcast camera', 'scan lines']）：Locked look \"2058 broadcast news archive\" (style preset sp01-arch58): a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew.\n该类型的纪录片默认机位：documentary establishing shot on a long zoom lens, atmospheric haze\n导演意图（自然语言）：资料影像，固定机位，从空无一人的集结平台望向黑水。水面下有一盏头灯的微光，慢慢往深处沉，越来越暗，最后熄灭；探照灯还亮着，平台上没有人。环境声：水泵声停了，只剩轻轻的水声，然后几乎没有声音。\n情绪：silent, grieving, final\n建议的景别与运镜（只做一个主要运镜）：wide shot, locked-off archival camera\n景深与虚实：Archival softness, the floodlights blooming, the water surface glossy and dark.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Archival frame from the deserted floodlit staging platform at the edge of the flooded hall: equipment cases and empty diving helmets on the wet tarp, two floodlights on tripods, and out in the black water a single helmet lamp glowing faintly beneath the surface. No person is visible. Blocking lock: the empty platform with cases and helmets fills the lower foreground, the floodlights stand at frame left and right, the black water fills the centre where the faint underwater glow sits.\nPicture 2: the staging area of the 2058 root-server restart operation (location reference; role: location reference). A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold.\n本镜头没有台词。\n现场环境声：gentle lapping water, a pump winding down, then near silence\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[rules/lens/documentary-zoom] lens\n[rules/move/locked-off] move\n[ours/tex-flooded] 被淹的机房与集结区\n[ours/cam-interview] 机位：采访固定机位\n[aigc/05/video2] 乔・赖特《赎罪》影像风格提示词 · 视频提示词 2\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot, the deserted floodlit staging platform at the edge of the flooded hall from <Picture 1>, serving as composition, lighting and blocking reference. Archival frame: equipment cases and empty diving helmets sit on a wet tarp in the lower foreground, two floodlights on tripods stand at frame left and frame right, and out in the black water at the centre a single helmet lamp glows faintly beneath the surface. No person is visible anywhere in the frame. Light: hard floodlight glare clipped to white, the rest of the hall falling into murky shadow, the water surface glossy and dark with long vertical reflections. Palette: hot white, black-green water, dull grey concrete. No door plates, signage, numbers or any text. Blocking lock: empty platform with cases and helmets in the lower foreground, floodlights frame left and frame right, black water filling the centre with the faint underwater glow slightly below centre; background pillars and darkness.\n<Subject 2> is the staging area of the 2058 root-server restart operation from <Picture 2>, serving as location reference. A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold. Layout, materials and floodlight direction retained.\n\nsummary:\nAn archival news shot of the deserted floodlit staging platform at the edge of the flooded root-server hall in 2058: cases, empty helmets, two floodlights, and out in the black water a single helmet lamp sinking slowly into the dark. The pump winds down, the light under the water dims and goes out, and the platform stays empty, nobody speaking. Final frame: the black water unbroken and glossy at frame centre, the floodlights still blazing at frame left and right, no person in frame.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2058 broadcast news archive\" (style preset sp01-arch58): a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, wide shot on a long documentary zoom, locked-off archival camera on a fixed mount with no movement at all, the zoom holding the framing steady across the flooded hall from the platform to the black water. pacing: natural speed, a single continuous take with no cut. Blocking at the start: the empty platform with open equipment cases and two empty diving helmets on the wet tarp fills the lower foreground, a floodlight on a tripod stands at frame left, another at frame right, and black water fills the centre with the faint underwater glow slightly below centre; concrete pillars and darkness in the background. Start: the surface of the flooded hall is still, cables and a foam board floating motionless, the two floodlights blazing and blooming into the tape, the small helmet lamp glowing far down in the water at frame centre. Middle: a ring of ripples opens across the glossy black surface and the glow begins to sink, sliding down and away from the camera, growing smaller and dimmer as it goes deeper, the floodlight reflections stretching and shivering on the water; at the water's edge nothing and nobody moves, only a slack cable swaying once. End: the glow contracts to a single dull point deep in the dark and goes out, the water settles back to a flat unbroken black mirror with the floodlights still burning on it, the platform still empty. Mood: silent, grieving, final. Blur: the foreground cases and helmets soft at the edges, the floodlights blooming into halos, the water surface glossy and dark and the depths beyond the glow falling away into pure black; faint scan lines and compression noise across the whole frame. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nA pump winding down and stopping, gentle lapping water against the platform edge, a slack cable tapping concrete, the hum of floodlights, distant dripping in the hall, then near silence; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 4983,
+    "completion_tokens": 1243,
+    "total_tokens": 6226,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 134
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1271
+   },
+   "reasoning_chars": 537
+  }
+ ],
+ "ts": "2026-11-26 17:30:38",
+ "final": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot, the deserted floodlit staging platform at the edge of the flooded hall from <Picture 1>, serving as composition, lighting and blocking reference. Archival frame: equipment cases and empty diving helmets sit on a wet tarp in the lower foreground, two floodlights on tripods stand at frame left and frame right, and out in the black water at the centre a single helmet lamp glows faintly beneath the surface. No person is visible anywhere in the frame. Light: hard floodlight glare clipped to white, the rest of the hall falling into murky shadow, the water surface glossy and dark with long vertical reflections. Palette: hot white, black-green water, dull grey concrete. No door plates, signage, numbers or any text. Blocking lock: empty platform with cases and helmets in the lower foreground, floodlights frame left and frame right, black water filling the centre with the faint underwater glow slightly below centre; background pillars and darkness.\n<Subject 2> is the staging area of the 2058 root-server restart operation from <Picture 2>, serving as location reference. A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold. Layout, materials and floodlight direction retained.\n\nsummary:\nAn archival news shot of the deserted floodlit staging platform at the edge of the flooded root-server hall in 2058: cases, empty helmets, two floodlights, and out in the black water a single helmet lamp sinking slowly into the dark. The pump winds down, the light under the water dims and goes out, and the platform stays empty, nobody speaking. Final frame: the black water unbroken and glossy at frame centre, the floodlights still blazing at frame left and right, no person in frame.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2058 broadcast news archive\" (style preset sp01-arch58): a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, wide shot on a long documentary zoom, locked-off archival camera on a fixed mount with no movement at all, the zoom holding the framing steady across the flooded hall from the platform to the black water. pacing: natural speed, a single continuous take with no cut. Blocking at the start: the empty platform with open equipment cases and two empty diving helmets on the wet tarp fills the lower foreground, a floodlight on a tripod stands at frame left, another at frame right, and black water fills the centre with the faint underwater glow slightly below centre; concrete pillars and darkness in the background. Start: the surface of the flooded hall is still, cables and a foam board floating motionless, the two floodlights blazing and blooming into the tape, the small helmet lamp glowing far down in the water at frame centre. Middle: a ring of ripples opens across the glossy black surface and the glow begins to sink, sliding down and away from the camera, growing smaller and dimmer as it goes deeper, the floodlight reflections stretching and shivering on the water; at the water's edge nothing and nobody moves, only a slack cable swaying once. End: the glow contracts to a single dull point deep in the dark and goes out, the water settles back to a flat unbroken black mirror with the floodlights still burning on it, the platform still empty. Mood: silent, grieving, final. Blur: the foreground cases and helmets soft at the edges, the floodlights blooming into halos, the water surface glossy and dark and the depths beyond the glow falling away into pure black; faint scan lines and compression noise across the whole frame. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nA pump winding down and stopping, gentle lapping water against the platform edge, a slack cable tapping concrete, the hum of floodlights, distant dripping in the hall, then near silence; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director"
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "song58",
+  "out": "refs/sp01/song58.png",
+  "prompt": "The man in the reference image, ten years older, at 43. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. The same man ten years later, 43: the same face, mole and thin round steel-rimmed glasses, now grey at the temples, short stubble, a thinner face with deeper lines and tired eyes. Dark olive engineering field jacket with reflective strips over a black thermal undersuit. Plain blurred background of a floodlit concrete staging area. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+  "inputs": [
+   "refs/sp01/song.png"
+  ]
+ },
+ {
+  "id": "nian_teen",
+  "out": "refs/sp01/nian_teen.png",
+  "prompt": "The girl in the reference image, ten years older, at 16. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A 16-year-old Chinese girl: straight black hair in a low ponytail with blunt bangs, serious guarded eyes, pale skin from living underground, a faded navy padded school jacket over a grey hoodie. Plain blurred background of a dim underground apartment lit by a blue screen. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+  "inputs": [
+   "refs/sp01/nian_child.png"
+  ]
+ },
+ {
+  "id": "nian",
+  "out": "refs/sp01/nian.png",
+  "prompt": "The girl in the reference image, grown up, at 35. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A Chinese woman in her mid-thirties, dispatch engineer of an underground city: straight black shoulder-length hair tucked behind her ears with short side-swept bangs, calm guarded tired eyes, faint lines, a round face grown lean. Dark grey dispatcher uniform jacket with a high collar, a light headset around her neck. Plain blurred background of a command hall with cold blue monitors. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+  "inputs": [
+   "refs/sp01/nian_child.png"
+  ]
+ },
+ {
+  "id": "prop_notebook",
+  "out": "refs/sp01/prop_notebook.png",
+  "prompt": "The same crayon drawing as in the reference image, now taped into a notebook. A worn hardback engineer's notebook lying open: on the first page the child's crayon drawing (a big black box with one red eye and many small smiling coloured boxes holding hands) is taped in with yellowed tape; around it and across the facing page, an adult's dense pencil diagrams of networks, many small circles linked by lines, arrows and loops spreading outward. Only abstract shapes, no legible words or numbers. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+  "inputs": [
+   "refs/sp01/prop_drawing.png"
+  ]
+ }
+]

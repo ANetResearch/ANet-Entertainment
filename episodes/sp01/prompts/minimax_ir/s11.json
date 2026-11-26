@@ -1,0 +1,14 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s11.png",
+  "refs/sp01/song.png",
+  "refs/sp01/loc_lab.png",
+  "refs/sp01/prop_proto.png"
+ ],
+ "ref_ids": [
+  "song",
+  "loc_lab",
+  "prop_proto"
+ ],
+ "notes": []
+}

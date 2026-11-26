@@ -1,0 +1,16 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s36.png",
+  "refs/sp01/nian.png",
+  "refs/sp01/prop_notebook.png",
+  "refs/sp01/loc_home58.png"
+ ],
+ "ref_ids": [
+  "nian",
+  "prop_notebook",
+  "loc_home58"
+ ],
+ "notes": [
+  "dialogue text restored"
+ ]
+}

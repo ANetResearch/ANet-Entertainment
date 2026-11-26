@@ -1,0 +1,16 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s09.png",
+  "refs/sp01/song.png",
+  "refs/sp01/boye58.png",
+  "refs/sp01/prop_proto.png",
+  "refs/sp01/loc_lab.png"
+ ],
+ "ref_ids": [
+  "song",
+  "boye58",
+  "prop_proto",
+  "loc_lab"
+ ],
+ "notes": []
+}

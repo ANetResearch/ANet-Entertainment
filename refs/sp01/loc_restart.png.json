@@ -1,0 +1,23 @@
+{
+ "id": "loc_restart",
+ "out": "refs/sp01/loc_restart.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [],
+ "usage": {
+  "output_tokens_details": {
+   "image_tokens": 1372,
+   "text_tokens": 0
+  },
+  "total_tokens": 1515,
+  "input_tokens": 143,
+  "output_tokens": 1372,
+  "input_tokens_details": {
+   "text_tokens": 143,
+   "image_tokens": 0
+  }
+ },
+ "seconds": 40.5,
+ "ts": "2026-11-26 16:57:30"
+}

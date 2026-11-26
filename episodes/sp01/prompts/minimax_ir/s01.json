@@ -1,0 +1,10 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s01.png",
+  "refs/sp01/loc_home48.png"
+ ],
+ "ref_ids": [
+  "loc_home48"
+ ],
+ "notes": []
+}

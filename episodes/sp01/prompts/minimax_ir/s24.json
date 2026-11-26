@@ -1,0 +1,12 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s24.png",
+  "refs/sp01/nian.png",
+  "refs/locations/loc_interview.png"
+ ],
+ "ref_ids": [
+  "nian",
+  "loc_interview"
+ ],
+ "notes": []
+}

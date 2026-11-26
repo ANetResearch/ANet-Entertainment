@@ -1,0 +1,25 @@
+{
+ "id": "loc_lab",
+ "out": "refs/sp01/loc_lab.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "Interior of the quantum-computer laboratory of a national research institute at night in the 2050s: a long cluttered engineer's workbench with a soldering station, oscilloscopes, coils of wire, circuit boards and notebooks under a desk lamp; behind a large glass wall, a cold clean server hall with rows of tall black cabinets and, on the central black cabinet, a single round red-glowing camera lens exactly like the terminal in the reference image. Fluorescent tubes. Empty of people. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [
+  "refs/characters/moss.png"
+ ],
+ "usage": {
+  "input_tokens": 1723,
+  "input_tokens_details": {
+   "image_tokens": 1536,
+   "text_tokens": 187
+  },
+  "output_tokens": 1372,
+  "output_tokens_details": {
+   "image_tokens": 1372,
+   "text_tokens": 0
+  },
+  "total_tokens": 3095
+ },
+ "seconds": 53.9,
+ "ts": "2026-11-26 17:07:50"
+}

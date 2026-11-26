@@ -1,0 +1,25 @@
+{
+ "id": "boye58",
+ "out": "refs/sp01/boye58.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "The man in the reference image, but twenty years younger, at 44. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A 44-year-old Chinese man, network protocol engineer: short black hair with the first grey streaks, dark stubble, intact black-framed glasses, a broad nose and a stubborn mouth. Dark navy quilted work jacket over a brown knitted vest. Plain blurred background of a cluttered electronics laboratory at night. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [
+  "refs/characters/boye.png"
+ ],
+ "usage": {
+  "input_tokens": 1756,
+  "input_tokens_details": {
+   "image_tokens": 1536,
+   "text_tokens": 220
+  },
+  "output_tokens": 5488,
+  "output_tokens_details": {
+   "image_tokens": 5488,
+   "text_tokens": 0
+  },
+  "total_tokens": 7244
+ },
+ "seconds": 92.9,
+ "ts": "2026-11-26 17:08:29"
+}

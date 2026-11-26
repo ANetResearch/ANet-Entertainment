@@ -1,0 +1,25 @@
+{
+ "id": "nian_teen",
+ "out": "refs/sp01/nian_teen.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "The girl in the reference image, ten years older, at 16. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A 16-year-old Chinese girl: straight black hair in a low ponytail with blunt bangs, serious guarded eyes, pale skin from living underground, a faded navy padded school jacket over a grey hoodie. Plain blurred background of a dim underground apartment lit by a blue screen. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [
+  "refs/sp01/nian_child.png"
+ ],
+ "usage": {
+  "output_tokens_details": {
+   "text_tokens": 0,
+   "image_tokens": 1372
+  },
+  "total_tokens": 3118,
+  "input_tokens": 1746,
+  "output_tokens": 1372,
+  "input_tokens_details": {
+   "text_tokens": 210,
+   "image_tokens": 1536
+  }
+ },
+ "seconds": 41.8,
+ "ts": "2026-11-26 17:05:38"
+}

@@ -1,0 +1,12 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s26.png",
+  "refs/characters/moss.png",
+  "refs/sp01/loc_ceremony.png"
+ ],
+ "ref_ids": [
+  "moss",
+  "loc_ceremony"
+ ],
+ "notes": []
+}

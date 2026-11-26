@@ -1,0 +1,1383 @@
+{
+ "version": 1,
+ "fields": [
+  "camera",
+  "stock",
+  "lens",
+  "aperture",
+  "filter",
+  "grade",
+  "light",
+  "texture"
+ ],
+ "presets": [
+  {
+   "id": "sp01-home48",
+   "name_zh": "2040年代家庭录像",
+   "name_en": "2040s family home video",
+   "source": "ours",
+   "camera": "a 2040s consumer handheld family camera on full auto",
+   "stock": "low-bitrate consumer digital video",
+   "lens": "fixed wide-normal zoom around 28mm equivalent",
+   "aperture": "automatic, deep but soft focus",
+   "filter": "none",
+   "grade": "warm faded beige, lifted greyish blacks, low saturation",
+   "light": "available window daylight, auto-exposure pumping, highlights blooming",
+   "texture": "macroblocking on motion, chroma noise in shadows, slight motion blur, focus hunting",
+   "key_terms": [
+    "consumer handheld family camera",
+    "low-bitrate"
+   ],
+   "suffix": "remembered family footage: warm, soft, imperfect, held by a parent's hand"
+  },
+  {
+   "id": "sp01-lab50s",
+   "name_zh": "2050年代研究院档案",
+   "name_en": "2050s institute film archive",
+   "source": "ours",
+   "camera": "an Arriflex 416 Super 16 camera",
+   "stock": "Kodak Vision3 500T 7219 pushed one stop",
+   "lens": "a 12-120mm documentary zoom",
+   "aperture": "f/2.8",
+   "filter": "none",
+   "grade": "muted, desaturated, a green-cyan fluorescent cast with one warm practical",
+   "light": "cold fluorescent tubes plus one warm desk lamp, deep shadows",
+   "texture": "lively Super 16 grain, slightly soft resolution",
+   "key_terms": [
+    "Super 16",
+    "Vision3 500T"
+   ],
+   "suffix": "the institute's own observational record, watching people work from across the room"
+  },
+  {
+   "id": "sp01-arch58",
+   "name_zh": "2058年新闻资料",
+   "name_en": "2058 broadcast news archive",
+   "source": "ours",
+   "camera": "a shoulder-mounted 2/3-inch ENG broadcast camera",
+   "stock": "broadcast tape, later dubbed",
+   "lens": "an 18x broadcast zoom",
+   "aperture": "auto iris",
+   "filter": "none",
+   "grade": "hot clipped whites, crushed murky shadows, chroma smear on reds",
+   "light": "floodlights, emergency strobes and whatever is there",
+   "texture": "interlaced softness, faint scan lines, compression noise, an occasional tape dropout",
+   "key_terms": [
+    "ENG broadcast camera",
+    "scan lines"
+   ],
+   "suffix": "urgent news footage of a disaster operation, the operator running with the crew"
+  },
+  {
+   "id": "sp01-v75",
+   "name_zh": "2075年危机现场纪实",
+   "name_en": "2075 crisis verite",
+   "source": "ours",
+   "camera": "a Sony FX6 full-frame documentary camera handheld",
+   "stock": "S-Cinetone at high ISO",
+   "lens": "a 24mm prime",
+   "aperture": "f/4",
+   "filter": "UV only",
+   "grade": "deep solid blacks, true-to-life skin, colour only from the practical sources",
+   "light": "available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes",
+   "texture": "visible high-ISO noise, focus occasionally hunting",
+   "key_terms": [
+    "Sony FX6",
+    "S-Cinetone"
+   ],
+   "suffix": "raw verite in a city that has lost its light; faces and key objects readable, the rest dark"
+  },
+  {
+   "id": "sp01-int78",
+   "name_zh": "2078年口述史采访",
+   "name_en": "2078 oral-history interview",
+   "source": "ours",
+   "camera": "a Sony FX6 on a locked tripod",
+   "stock": "S-Cinetone",
+   "lens": "a 50mm prime",
+   "aperture": "f/2.8",
+   "filter": "Black Pro-Mist 1/8",
+   "grade": "neutral, gently warm skin, background one to two stops under the face",
+   "light": "one large soft key 45 degrees from frame left, negative fill on the right, a small warm practical in the background",
+   "texture": "clean, fine detail, real skin texture",
+   "key_terms": [
+    "Sony FX6",
+    "50mm"
+   ],
+   "suffix": "a calm, restrained oral-history interview, the subject looking past the lens"
+  },
+  {
+   "name_zh": "罗杰·迪金斯剪影单色",
+   "name_en": "Roger Deakins Silhouette Monochrome",
+   "camera": "ARRI ALEXA 65",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "40mm large-format prime",
+   "aperture": "f/2.2",
+   "filter": "ND1.2, Black Pro Mist 1/8",
+   "grade": "Monochrome-leaning grade with deep blacks, nuanced midtones, and restrained saturation; color is shaped on set rather than heavily post-graded.",
+   "light": "Directional natural light through haze, smoke, or fog to create visible beams and strong silhouettes.",
+   "texture": "Fine film grain, gentle halation, tactile haze, and soft highlight roll-off.",
+   "suffix": "silhouette-led atmospheric monochrome, visible volumetric haze, deep blacks, precise contrast, natural set lighting, fine grain",
+   "key_terms": [
+    "ARRI ALEXA 65",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "dir-01",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "王家卫与杜可风：印象派霓虹",
+   "name_en": "Wong Kar-wai / Christopher Doyle: Impressionist Neon",
+   "camera": "Arriflex 535B",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "35mm",
+   "aperture": "f/1.8",
+   "filter": "Pro Mist 1/2, Fluorescent Green Gel",
+   "grade": "Push greens toward blue without neutralizing them; keep reds hot and risky; let highlights clip slightly.",
+   "light": "Neon fluorescent green mixes with cool blue from windows; humid night glow; no white-balance cleanup.",
+   "texture": "Low shutter drag and step-printed smear make time feel thick; coarse 35mm grain and neon bokeh.",
+   "suffix": "Arriflex 535B, Kodak Vision3 500T 5219; dreamy humid neon drift, smeared motion, green-blue haze, hot red accents, grainy 35mm.",
+   "key_terms": [
+    "Arriflex 535B",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "dir-02",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "大卫·芬奇：病态黄绿黑暗清晰度",
+   "name_en": "David Fincher: Sickly Yellow-Green Dark Clarity",
+   "camera": "RED Epic-W Helium 8K",
+   "stock": "Digital RED IPP2",
+   "lens": "50mm",
+   "aperture": "f/2.0",
+   "filter": "Black Pro Mist 1/4, Sodium Vapor Gel",
+   "grade": "Muted yellow-green cast with sanitized cyan shadows; highlights roll off to pale yellow/teal, never clipping to pure white; grayscale kept in blacks.",
+   "light": "Low-contrast illumination that holds open shadow detail; highlights are restrained and tinted, avoiding harsh white sources.",
+   "texture": "Fine grain, smooth highlight falloff, and layered shadow density; subtle halation from filtration softens edges without losing clinical sharpness.",
+   "suffix": "Sickly yellow-green sodium tint, restrained highlights, cyan-shadow grayscale, low contrast, fine texture, clinical unease, no clipped whites.",
+   "key_terms": [
+    "RED Epic-W Helium 8K",
+    "Digital RED IPP2"
+   ],
+   "id": "dir-03",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "韦斯·安德森糖果绘本柔光",
+   "name_en": "Wes Anderson Pastel Storybook",
+   "camera": "Panavision Millennium DXL2",
+   "stock": "Kodak Vision3 200T 5213",
+   "lens": "Panavision Primo 40mm",
+   "aperture": "f/2.8",
+   "filter": "Soft FX 1 and Warm 81EF",
+   "grade": "Pastel macaron palette restrained to pink, mint and butter yellow; lifted tinted shadows, no true black, low contrast.",
+   "light": "Even, shadowless soft fill that flattens depth and makes sets read like a lit toy diorama.",
+   "texture": "Clean, smooth surfaces with gentle grain; no harsh blacks or gritty contrast, keeping a crafted miniature feel.",
+   "suffix": "Storybook pastel palette, symmetrical flat soft light, lifted tinted shadows, no true black, mint pink butter-yellow, crafted miniature set.",
+   "key_terms": [
+    "Panavision Millennium DXL2",
+    "Kodak Vision3 200T 5213"
+   ],
+   "id": "dir-04",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "昆汀·塔伦蒂诺 / 罗伯特·理查德森",
+   "name_en": "Tarantino / Robert Richardson",
+   "camera": "Panavision System 65",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "Panavision 50mm System 65 prime",
+   "aperture": "f/2.0",
+   "filter": "Warm 85 + Black Pro Mist 1/8",
+   "grade": "Vivid warm primaries, red and yellow pushed hard, coppery skin, and highlights allowed to clip for graphic punch.",
+   "light": "Hard overhead source rings hair with a hot halo, letting highlights flare out while faces stay warm and coppery.",
+   "texture": "Heavy analog grain, greasy bronze sheen on skin, softly halated edges, and a rough low-budget exploitation print feel.",
+   "suffix": "Hard top-light halo, intentionally blown highlights, saturated primary red/yellow, bronze oily skin, coarse exploitation-film grain, Panavision System 65, Kodak Vision3 500T 5219.",
+   "key_terms": [
+    "Panavision System 65",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "dir-05",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "丹尼斯・维伦纽瓦与格雷格・弗雷泽：单色胶片质感",
+   "name_en": "Villeneuve / Greig Fraser Monochrome Film Texture",
+   "camera": "ARRI ALEXA LF",
+   "stock": "Kodak Vision3 250D 5207",
+   "lens": "ARRI Signature Prime 65mm",
+   "aperture": "f/2.8",
+   "filter": "ND1.8, Classic Soft 1/4",
+   "grade": "Desaturated single-hue grade with deep tonal steps, dense blacks, restrained chroma, and detailed midtone separation.",
+   "light": "Soft directional daylight with broad falloff, low fill, dusty atmosphere, and deep shadow pockets.",
+   "texture": "Coarse analog grain, film-transfer imperfections, tactile surface grit, and heavy emulsion-like density.",
+   "suffix": "single-hue tonal depth, coarse analog grain, tactile surface, grand scale, muted earth palette, dense layered exposure, minimal chroma, film-transfer imperfections",
+   "key_terms": [
+    "ARRI ALEXA LF",
+    "Kodak Vision3 250D 5207"
+   ],
+   "id": "dir-06",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "克里斯托弗·诺兰与霍伊特·范·霍特玛",
+   "name_en": "Christopher Nolan & Hoyte van Hoytema",
+   "camera": "IMAX MSM 9802 65mm film camera",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "80mm",
+   "aperture": "f/4.0",
+   "filter": "ND2.1, UV only",
+   "grade": "Analog photochemical finish: sober navy-blue shadows, cool gray midtones, muted saturation, natural skin, restrained reds and greens.",
+   "light": "Naturalistic high-contrast daylight and practical sources; shadow detail remains, blacks stay dense without lifted fill.",
+   "texture": "Visible large-format grain, compact physical depth, and unforced analog surface with subtle halation.",
+   "suffix": "cool navy shadows, neutral skin, dense black levels, muted reds and greens, coarse large-format grain, tangible analog texture.",
+   "key_terms": [
+    "IMAX MSM 9802",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "dir-07",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "达里奥·阿基多：铅黄 RGB 噩梦",
+   "name_en": "Dario Argento: Giallo RGB Nightmare",
+   "camera": "Technicolor 3-Strip Camera",
+   "stock": "Technicolor 3-strip",
+   "lens": "28mm",
+   "aperture": "f/2.0",
+   "filter": "Red / Green / Blue Color Gels",
+   "grade": "Over-saturated primaries, severe RGB casts, and unneutralized color balance; keep unnatural red, green, and blue separation without correction.",
+   "light": "Theatrical hard beams gelled red, green, and blue; non-natural stage lighting, colored shadows, and saturated beam overlap.",
+   "texture": "Coarse dye-transfer grain, strong color separation, slight halation, and a dreamlike, high-contrast optical unease.",
+   "suffix": "Giallo-inspired nightmare under saturated red, green, and blue stage beams; surreal horror mood, extreme RGB contrast, vivid unneutralized primaries.",
+   "key_terms": [
+    "Technicolor 3-Strip Camera",
+    "Technicolor 3-strip"
+   ],
+   "id": "dir-08",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "艾曼努尔·卢贝兹基：自然光广角沉浸",
+   "name_en": "Emmanuel Lubezki: Natural-Light Wide-Angle Immersion",
+   "camera": "ARRI ALEXA 65",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "24mm wide-angle lens",
+   "aperture": "f/2.2",
+   "filter": "ND0.6, circular polarizer",
+   "grade": "Protect highlight-to-shadow detail, avoid heavy grading, and let natural cool-warm contrasts read cleanly.",
+   "light": "Mostly available natural light; soft golden-hour glow, firelit warmth, and cool shade kept in balance.",
+   "texture": "Crisp, transparent image with deep focus, fine grain, and airy atmospheric depth.",
+   "suffix": "ARRI ALEXA 65, Kodak Vision3 500T 5219 look: available-light wide frames, wide tonal range, cool shadows with fire warmth, immersive long-take realism.",
+   "key_terms": [
+    "ARRI ALEXA 65",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "dir-09",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "维托里奥·斯托拉罗风格",
+   "name_en": "Vittorio Storaro Style",
+   "camera": "Panavision Panaflex Gold II",
+   "stock": "Kodak Vision3 200T 5213",
+   "lens": "35mm prime",
+   "aperture": "f/2.0",
+   "filter": "Color gradient filters, ND0.9",
+   "grade": "Symbolic color arcs shift with story beats; deep blues, vivid reds, warm oranges balanced by rich shadow contrast.",
+   "light": "Theatrical, directional chiaroscuro with colored practicals and strong highlights carving faces and sets.",
+   "texture": "Painterly filmic grain, smooth tonal gradients, crisp contrast, subtle halation in colored highlights.",
+   "suffix": "Storaro-inspired light-writing, symbolic red-blue-orange palette, dramatic chiaroscuro, evolving color narrative, painterly shadows.",
+   "key_terms": [
+    "Panavision Panaflex Gold II",
+    "Kodak Vision3 200T 5213"
+   ],
+   "id": "dir-10",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "张艺谋单色符号美学",
+   "name_en": "Zhang Yimou Monochrome Symbolism",
+   "camera": "ARRI ALEXA 65",
+   "stock": "Kodak Vision3 250D",
+   "lens": "ARRI Prime 65 50mm",
+   "aperture": "f/2.0",
+   "filter": "Warm 85, Soft 1/4",
+   "grade": "Single dominant hue pushed to high saturation; supporting colors desaturated; strong tonal separation with clean shadows and restrained highlights.",
+   "light": "High-contrast directional light, luminous highlights, deep but clean shadow detail; painterly and calligraphic balance.",
+   "texture": "Thick oil-paint density mixed with ink-wash negative space; crisp edges and smooth shadow falloff.",
+   "suffix": "Dominant saturated single hue, Eastern symbolic staging, extreme contrast, Chinese architecture, ink-wash space, oil-paint density, lantern scarlet or imperial gold, clean shadows, grand framing.",
+   "key_terms": [
+    "ARRI ALEXA 65",
+    "Kodak Vision3 250D"
+   ],
+   "id": "dir-11",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "李安柔和低反差",
+   "name_en": "Ang Lee Soft Low-Contrast",
+   "camera": "Sony VENICE 2",
+   "stock": "Sony X-OCN ST / S-Log3",
+   "lens": "80mm cinema prime",
+   "aperture": "f/1.8",
+   "filter": "Soft/FX 1/2 + Skylight 1A",
+   "grade": "Low-contrast grade, lifted shadows, gentle highlight roll-off, muted green-to-ochre palette, smooth cool-warm transitions.",
+   "light": "Poetic natural light, misty diffusion, gentle volumetric haze, warm golden exteriors, soft interior ambience.",
+   "texture": "Creamy skin, fine organic grain, dreamy haze, smooth tonal gradients, no harsh edges or color clashes.",
+   "suffix": "Sony VENICE 2 X-OCN ST; muted emerald-ochre palette, soft low contrast, misty volumetric light, creamy skin, dreamy poetic calm.",
+   "key_terms": [
+    "Sony VENICE 2",
+    "X-OCN ST"
+   ],
+   "id": "dir-12",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "是枝裕和日常纪实",
+   "name_en": "Hirokazu Kore-eda Domestic Documentary",
+   "camera": "Panasonic S1H",
+   "stock": "Fujifilm Pro 400H emulation",
+   "lens": "35mm prime",
+   "aperture": "f/2.8",
+   "filter": "UV filter with 1/4 Soft Glow",
+   "grade": "Reduced saturation and contrast, warm beige highlights, pale mint greens and warm wood browns; shadows lifted toward light cream, no punchy color.",
+   "light": "Soft, diffused daylight; no hard shadows, gentle warm ambience, natural indoor/outdoor domestic illumination.",
+   "texture": "Fine gentle grain, lived-in domestic details, soft focus falloff, calm everyday surfaces, low contrast.",
+   "suffix": "Quiet domestic documentary look, muted warm beige palette, diffused daylight, pale green and brown accents, gentle grain, soft bokeh, understated healing mood.",
+   "key_terms": [
+    "Panasonic S1H",
+    "Fujifilm Pro 400H"
+   ],
+   "id": "dir-13",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "北野武蓝",
+   "name_en": "Takeshi Kitano / Kitano Blue",
+   "camera": "Arriflex 35",
+   "stock": "Fujifilm Eterna",
+   "lens": "40mm",
+   "aperture": "f/2.2",
+   "filter": "Cyan Color Compensate Filter",
+   "grade": "Cobalt-blue cast in shadows and midtones, highlights faintly warmed, and overall saturation restrained.",
+   "light": "Overcast seaside daylight, cool gray ambience, rare soft amber warmth in gentle scenes.",
+   "texture": "Clean fine grain, soft low contrast, spacious negative space, detached stillness.",
+   "suffix": "Cobalt cyan wash, low saturation, sparse framing, faint warm highlights, gray coastal daylight, locked-off long takes, quiet melancholy.",
+   "key_terms": [
+    "Arriflex 35",
+    "Fujifilm Eterna"
+   ],
+   "id": "dir-14",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "盖·里奇英伦黑帮复古胶片",
+   "name_en": "Guy Ritchie British Gangster Vintage Film",
+   "camera": "Panavision Millennium XL2",
+   "stock": "Kodak Vision3 500T",
+   "lens": "Panavision C Series 32mm",
+   "aperture": "f/2.0",
+   "filter": "Warm 81EF + Black Pro Mist 1/8",
+   "grade": "Warm sepia-brown base, gently lifted blacks, muted earthy colors, and selective contrast deepening.",
+   "light": "Hard, broken chiaroscuro patches cut across faces and streets, leaving deep shadow pockets.",
+   "texture": "Heavy coarse 90s film grain with gritty street surfaces and crisp high-contrast silhouettes.",
+   "suffix": "Vintage London gangster texture, warm brown earth tones, rough grain, fractured hard light, desaturated retro street mood, sharp silhouettes.",
+   "key_terms": [
+    "Panavision Millennium XL2",
+    "Kodak Vision3 500T"
+   ],
+   "id": "dir-15",
+   "source": "dir (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "电影质感",
+   "name_en": "Cinematic Film",
+   "camera": "Panavision Sphero 65",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "Hasselblad 65mm",
+   "aperture": "f/2.0",
+   "filter": "ND0.6, 1/4 diffusion",
+   "grade": "Warm filmic color, gentle contrast, and soft highlight roll-off.",
+   "light": "Soft directional key with natural falloff and mild halation.",
+   "texture": "Fine organic grain, smooth shadows, and subtle diffusion glow.",
+   "suffix": "Cinematic film look with shallow focus, soft diffusion, fine grain, and warm halation.",
+   "key_terms": [
+    "Panavision Sphero 65",
+    "Vision3 500T 5219"
+   ],
+   "id": "look-01",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "经典动漫",
+   "name_en": "Anime Classic",
+   "camera": "Virtual Camera",
+   "stock": "Digital",
+   "lens": "50mm",
+   "aperture": "f/2.8",
+   "filter": "Soft Glow",
+   "grade": "Lively saturated palette with gentle contrast and clean pastel highlights.",
+   "light": "Soft diffused illumination with warm ambient fill and mild bloom around highlights.",
+   "texture": "Hand-inked linework feel, smooth cel planes, subtle paper grain and airy glow.",
+   "suffix": "anime-inspired illustration with flat color blocking, lively hues, gentle bloom, drawn finish",
+   "key_terms": [
+    "Virtual Camera",
+    "Digital"
+   ],
+   "id": "look-02",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "赛博朋克霓虹",
+   "name_en": "Cyberpunk Neon",
+   "camera": "RED Monstro 8K VV",
+   "stock": "Digital S-Log3",
+   "lens": "35mm",
+   "aperture": "f/1.4",
+   "filter": "Pro Mist 1/4, Cyan Gel",
+   "grade": "Punchy contrast, cool teal shadows, warm orange highlights, and vivid neon saturation.",
+   "light": "Night scenes glow with cyan and magenta neon; wet pavement throws reflections and soft rim highlights.",
+   "texture": "Glossy rain-slick surfaces, soft diffusion halation, and crisp digital detail in lit areas.",
+   "suffix": "RED Monstro 8K VV capture, neon-lit rainy streets, Pro Mist 1/4 diffusion, Cyan Gel, punchy contrast, wet reflective sheen.",
+   "key_terms": [
+    "RED Monstro 8K VV",
+    "Digital S-Log3"
+   ],
+   "id": "look-03",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "邵氏武侠老片",
+   "name_en": "Shaw Brothers Wuxia",
+   "camera": "Arriflex 35 BL",
+   "stock": "Kodak Eastmancolor 5247",
+   "lens": "35mm prime",
+   "aperture": "f/2.8",
+   "filter": "Warm 85, 4-point star filter",
+   "grade": "Vivid, high-chroma color with strong primary separation and rich contrast.",
+   "light": "Hard theatrical studio keying, dramatic stage pools, crisp shadows.",
+   "texture": "Visible film grain, slight softness, and vintage dye-rich texture.",
+   "suffix": "1970s Hong Kong wuxia pastiche, vivid punchy colors, forceful studio key, fast zooms, theatrical staging, coarsely grained old-film finish.",
+   "key_terms": [
+    "Arriflex 35 BL",
+    "Kodak Eastmancolor 5247"
+   ],
+   "id": "look-04",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "韩剧氛围",
+   "name_en": "Korean Drama",
+   "camera": "Sony VENICE 2",
+   "stock": "Digital X-OCN",
+   "lens": "85mm",
+   "aperture": "f/1.8",
+   "filter": "Soft FX 1/2, Warm 81EF",
+   "grade": "Warm pastel palette with gentle contrast, lifted blacks, creamy skin tones, and soft golden highlights.",
+   "light": "Warm diffused key, soft golden-hour ambient glow, gentle fill, low contrast, flattering skin illumination.",
+   "texture": "Smooth digital clarity with soft halation, creamy bokeh, and delicate highlight rolloff; minimal grain.",
+   "suffix": "Sony VENICE 2 capture, Korean-drama mood, gentle warm glow, shallow focus, soft golden highlights, creamy bokeh, muted pastel tones.",
+   "key_terms": [
+    "Sony VENICE 2",
+    "Digital X-OCN"
+   ],
+   "id": "look-05",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "暗黑悬疑",
+   "name_en": "Dark Thriller",
+   "camera": "ARRI ALEXA 65",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "27mm",
+   "aperture": "f/2.0",
+   "filter": "ND1.2, Black Pro Mist 1/8",
+   "grade": "Muted cool palette, compressed contrast, inky blacks and restrained highlight roll-off.",
+   "light": "Hard directional key, deep shadow pockets, minimal fill, tense negative space.",
+   "texture": "Fine grain, gentle highlight halation, subtle mist bloom, crisp large-format detail.",
+   "suffix": "Shot on ARRI ALEXA 65 with Kodak Vision3 500T, dark thriller atmosphere, high-contrast chiaroscuro, cold desaturated tones, noir shadows.",
+   "key_terms": [
+    "ARRI ALEXA 65",
+    "Kodak Vision3 500T"
+   ],
+   "id": "look-06",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "港风复古",
+   "name_en": "Vintage Hong Kong",
+   "camera": "ARRI 535B",
+   "stock": "Kodak Vision3 500T 5219 (35mm)",
+   "lens": "Cooke Anamorphic 50mm",
+   "aperture": "T2.3",
+   "filter": "Warm 85 + Pro Mist 1/4",
+   "grade": "Warm amber highlights, deep teal-green shadows, muted saturation, gentle filmic contrast.",
+   "light": "Warm tungsten practicals, soft directional key, colored neon spill, deep shadow pockets.",
+   "texture": "Fine 35mm grain, halation around highlights, soft diffusion glow, subtle anamorphic smear.",
+   "suffix": "ARRI 535B with Kodak Vision3 500T 5219 through Cooke Anamorphic, warm tungsten Hong Kong night, soft haze, fine grain, anamorphic flares.",
+   "key_terms": [
+    "ARRI 535B",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "look-07",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "武侠大片",
+   "name_en": "Wuxia Epic",
+   "camera": "Panavision Millennium DXL2",
+   "stock": "Kodak Vision3 250D 5207",
+   "lens": "75mm",
+   "aperture": "f/2.0",
+   "filter": "ND0.9, Glimmerglass 1/4",
+   "grade": "Warm jade-and-gold highlights, deep earthy shadows, restrained contrast, and smooth filmic highlight roll-off.",
+   "light": "Soft directional daylight through mist, broad highlights, deep atmospheric shadow pockets.",
+   "texture": "Fine grain, gentle halation, light diffusion, drifting haze, and silk-like fabric motion.",
+   "suffix": "wuxia epic, wide vistas, high crane sweeps, rippling robes, atmospheric fog; Panavision Millennium DXL2, Kodak Vision3 250D",
+   "key_terms": [
+    "Panavision Millennium DXL2",
+    "Kodak Vision3 250D"
+   ],
+   "id": "look-08",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "甜蜜恋爱",
+   "name_en": "Soft Romance",
+   "camera": "Canon C500 Mark II",
+   "stock": "Canon Cinema RAW Light",
+   "lens": "100mm prime",
+   "aperture": "f/1.4",
+   "filter": "Soft FX 2, Warm 812",
+   "grade": "Pastel warmth, low contrast, creamy highlights, delicate rose and cream hues, gentle romantic color.",
+   "light": "Soft backlight with airy fill, subtle blossom glow, and intimate rim highlights.",
+   "texture": "Dreamy diffusion, fine digital detail, delicate flare, smooth skin, soft edges.",
+   "suffix": "Canon C500 Mark II, Canon Cinema RAW Light, tender diffusion, pastel warmth, floral bokeh, gentle rim glow, close shallow framing.",
+   "key_terms": [
+    "Canon C500 Mark II",
+    "Canon Cinema RAW Light"
+   ],
+   "id": "look-09",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "纪实写实",
+   "name_en": "Documentary Real",
+   "camera": "Sony FX6",
+   "stock": "S-Cinetone",
+   "lens": "24mm",
+   "aperture": "f/4.0",
+   "filter": "UV only",
+   "grade": "Restrained true-to-life color, soft contrast, faithful skin, no stylized tint.",
+   "light": "Available daylight or practicals, evenly balanced, unshaped, without dramatic falloff.",
+   "texture": "Clean full-frame digital texture, mild handheld movement, crisp but not glossy.",
+   "suffix": "Handheld documentary footage from Sony FX6 in S-Cinetone: available light, deep focus, believable skin.",
+   "key_terms": [
+    "Sony FX6",
+    "S-Cinetone"
+   ],
+   "id": "look-10",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "Netflix 剧集质感",
+   "name_en": "Netflix Drama",
+   "camera": "ARRI ALEXA 35",
+   "stock": "ARRI LogC4",
+   "lens": "50mm prime",
+   "aperture": "f/2.2",
+   "filter": "ND0.9, Black Satin 1/8",
+   "grade": "Balanced cinematic grade, clean highlight control, natural skin, broad tonal range, restrained saturation.",
+   "light": "Motivated soft sources, realistic practicals, gentle contrast, smooth falloff, and controlled modern episodic atmosphere.",
+   "texture": "Fine subtle grain, organic detail, smooth highlight rolloff, clean shadows, minimal sharpening.",
+   "suffix": "Contemporary streaming drama aesthetic, polished cinematic grade, lifelike skin, wide tonal range, faint grain, realistic lighting, modern episodic finish.",
+   "key_terms": [
+    "ARRI ALEXA 35",
+    "ARRI LogC4"
+   ],
+   "id": "look-11",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "日系治愈胶片",
+   "name_en": "Japanese Film Grain",
+   "camera": "Panasonic S1H Cinema",
+   "stock": "Fujifilm Pro 400H emulation",
+   "lens": "35mm prime",
+   "aperture": "f/2.8",
+   "filter": "Soft Focus 1/4, Skylight 1A",
+   "grade": "Low-contrast pastel grade with muted greens, cyan shadows, and warm clipped highlights.",
+   "light": "Soft diffused daylight, gentle backlight, and airy overexposure; shadows stay open and cool.",
+   "texture": "Fine organic grain, soft focus bloom, and creamy highlight halation.",
+   "suffix": "Airy Japanese film mood, creamy highlight rolloff, restrained contrast, sea-green shadows, fine grain, warm edge halation.",
+   "key_terms": [
+    "Panasonic S1H",
+    "Fujifilm Pro 400H"
+   ],
+   "id": "look-12",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "变形宽银幕史诗",
+   "name_en": "Anamorphic Epic",
+   "camera": "Panavision System 65",
+   "stock": "Kodak Vision3 200T 5213",
+   "lens": "Panavision C Series Anamorphic 75mm",
+   "aperture": "f/2.8",
+   "filter": "ND1.2 + Warm 85 conversion",
+   "grade": "Warm, high-contrast widescreen grade with deep blacks, creamy highlights, restrained saturation, and a subtle amber cast.",
+   "light": "Epic-scale lighting with a soft directional key, warm practical accents, and deep atmospheric shadow.",
+   "texture": "Heavy organic grain, anamorphic softness, oval bokeh, and faint horizontal flare streaks.",
+   "suffix": "Anamorphic widescreen, horizontal flare streaks, oval bokeh, ultra-wide scope, pronounced grain, blockbuster scale.",
+   "key_terms": [
+    "Panavision System 65",
+    "Kodak Vision3 200T 5213"
+   ],
+   "id": "look-13",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "超8毫米复古",
+   "name_en": "Super 8 Vintage",
+   "camera": "Canon Super 8 814 Auto Zoom",
+   "stock": "Kodak Vision3 50D 7203",
+   "lens": "Canon Super 8 814 Auto Zoom lens set to 18mm",
+   "aperture": "f/2.8",
+   "filter": "UV filter plus 85C color conversion filter",
+   "grade": "Warm faded palette, lifted blacks, low contrast, and a soft nostalgic tint.",
+   "light": "Daylight-balanced 50D exposure with soft halation, gentle flare, and forgiving highlights.",
+   "texture": "Coarse organic grain, mild corner darkening, faint leaks, and unstable handheld motion.",
+   "suffix": "Super 8 aesthetic with strong grain, subtle leaks, vignetted edges, unsteady handheld framing, and warm faded colors.",
+   "key_terms": [
+    "Canon Super 8 814 Auto Zoom",
+    "Kodak Vision3 50D 7203"
+   ],
+   "id": "look-14",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "VHS 录像带质感",
+   "name_en": "VHS Retro",
+   "camera": "Sony Hi8 Handycam CCD-TRV",
+   "stock": "Hi8 tape",
+   "lens": "Auto Zoom 20-80mm",
+   "aperture": "f/4.0",
+   "filter": "None",
+   "grade": "Faded unstable color, smeared chroma, lifted black levels, and harsh white-balance shifts.",
+   "light": "Flat low-dynamic-range video exposure, clipped highlights, soft tungsten indoor wash.",
+   "texture": "Line interference, tape noise, dropout streaks, chroma fringing, and over-crisped edge halos.",
+   "suffix": "Analog videotape decay, rolling scan lines, color smear, dropouts, noisy chroma, harsh edge halos, Nineties camcorder feel.",
+   "key_terms": [
+    "Sony Hi8 Handycam CCD-TRV",
+    "Hi8 tape"
+   ],
+   "id": "look-15",
+   "source": "look (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "徐克武侠废土冷调",
+   "name_en": "Tsui Hark Wuxia Wasteland Noir",
+   "camera": "ARRI 435 35mm film camera",
+   "stock": "Kodak Vision3 500T 5219, push-processed two stops",
+   "lens": "14mm ultra-wide prime",
+   "aperture": "T2.8",
+   "filter": "None; allow veiling glare, halation, and lens flare from hard backlight.",
+   "grade": "Bleach-bypass cold palette of deep blue-green, charcoal, and dark green, with gold blade glints and fire accents; desaturated, high-contrast shadows.",
+   "light": "Hard low-angle backlight, blown halation, rim-lit blades, smoky shafts, and deep shadow pockets; theatrical and unnatural.",
+   "texture": "Coarse pushed-film grain, gritty dust and smoke, slight motion smear, rough highlight edges, tactile grime.",
+   "suffix": "Shoot on ARRI 435 with Kodak Vision3 500T, 14mm ultra-wide, low-angle imbalance, foreground obstruction, bleach-bypass contrast, gritty pushed grain.",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-01",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "岩井俊二《关于莉莉周的一切》青春胶片风格",
+   "name_en": "Iwai Shunji Lily Chou-Chou Youth Film Look",
+   "camera": "Canon EOS-1V",
+   "stock": "Fuji Superia 400",
+   "lens": "Canon EF 35mm f/1.4L USM",
+   "aperture": "f/2",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Muted cyan-green shadows, warm golden highlights, low saturation, soft contrast, faint pink accents",
+   "light": "Soft hazy daylight or golden backlight; cool dim ambient for night; gentle flares and long shadows",
+   "texture": "Fine 35mm grain, gentle halation, slight softness, subtle handheld motion, atmospheric haze",
+   "suffix": "Shot on 35mm film, handheld, shallow focus, minimal composition with vast negative space, quiet nostalgic mood",
+   "key_terms": [
+    "Canon EOS-1V",
+    "Fuji Superia 400"
+   ],
+   "id": "style-02",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "岩井俊二《花与爱丽丝》淡紫青春胶片风",
+   "name_en": "Shunji Iwai Hana & Alice Pastel Film Style",
+   "camera": "Arricam LT",
+   "stock": "Kodak Vision3 250D 5207 (35mm)",
+   "lens": "Cooke S4 50mm",
+   "aperture": "T2.8",
+   "filter": "Tiffen Pro-Mist 1/4",
+   "grade": "Pastel lavender-pink, low saturation, cool shadows, soft warm blossom highlights, gentle contrast.",
+   "light": "Diffused overcast daylight; even, shadowless illumination with mild highlight bloom and airy translucency.",
+   "texture": "Fine 35mm grain, gentle halation, slightly soft focus, hazy highlights, delicate film texture.",
+   "suffix": "Arricam LT, Kodak Vision3 250D, pastel lavender-pink film look, diffused daylight, fine grain, dreamy shallow depth.",
+   "key_terms": [
+    "Arricam LT",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-03",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "岩井俊二《燕尾蝶》日系胶片柔焦",
+   "name_en": "Shunji Iwai Swallowtail Japanese Film Soft-Focus",
+   "camera": "Arriflex 435",
+   "stock": "Kodak Vision 500T 5279 35mm",
+   "lens": "Zeiss Super Speed 50mm",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Muted low-saturation palette; cool green shadows with warm skin and gentle soft highlight roll-off.",
+   "light": "Soft window light through horizontal blinds; cool ambient fill plus warm practical glow on faces.",
+   "texture": "Fine 35mm grain, mild halation, subtle breathing handheld softness, gentle focus falloff.",
+   "suffix": "Intimate Japanese film still, quiet and tender, low-contrast soft focus, faint retro grain.",
+   "key_terms": [
+    "Arriflex 435",
+    "Kodak Vision 500T 5279"
+   ],
+   "id": "style-04",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "乔·赖特《赎罪》暖绿胶片影像风格",
+   "name_en": "Joe Wright Atonement Warm Green Film Style",
+   "camera": "Panavision Platinum 35mm camera",
+   "stock": "Kodak Vision2 500T 5218 color negative",
+   "lens": "Panavision Primo spherical primes",
+   "aperture": "T2.8",
+   "filter": "1/4 Pro-Mist diffusion filter",
+   "grade": "Muted warm greens and cream highlights, golden skin, gently lifted shadows with cool cyan traces.",
+   "light": "Soft backlit afternoon sun, dappled foliage shadows, gentle rim light, hazy golden highlights.",
+   "texture": "Fine 35mm grain, soft halation, creamy focus falloff, faint gate weave, delicate bloom.",
+   "suffix": "cinematic 35mm film still, soft focus, nostalgic summer haze, gentle motion blur",
+   "key_terms": [
+    "Panavision Platinum",
+    "Kodak Vision2 500T"
+   ],
+   "id": "style-05",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "库布里克式科幻极简",
+   "name_en": "Kubrickian Sci-Fi Minimalism",
+   "camera": "Mitchell BFC 65mm camera",
+   "stock": "65mm film stock, color negative",
+   "lens": "Panavision 65mm prime lens",
+   "aperture": "T4 to T5.6",
+   "filter": "clear UV filter",
+   "grade": "Cool blue-gray palette, low saturation, controlled contrast, clean whites, restrained metallic highlights.",
+   "light": "Even diffuse station illumination, soft cosmic fill, gentle modeling, readable shadows, no harsh spill.",
+   "texture": "Precise metal paneling, smooth white surfaces, subtle film grain, immaculate mechanical detail, generous negative space.",
+   "suffix": "symmetrical wide-angle staging, geometric order, monumental scale, deep-space emptiness, restrained futuristic realism",
+   "key_terms": [
+    "Mitchell BFC",
+    "65mm film"
+   ],
+   "id": "style-06",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《溺水小刀》海岸胶片影像风格",
+   "name_en": "Drowning Knife Coastal Film Still Style",
+   "camera": "Nikon FM2",
+   "stock": "Kodak Portra 400",
+   "lens": "Nikkor 50mm f/1.4 AI-S",
+   "aperture": "f/2",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Muted low-saturation palette with teal-green shadows and warm skin; faded blacks, gentle cool-warm contrast.",
+   "light": "Soft diffused natural daylight, overcast sea haze, subtle backlight; no hard artificial sources.",
+   "texture": "Fine visible grain, mild halation, layered foreground/background softness, wet cloth and salt-air detail.",
+   "suffix": "Japanese film still, nostalgic coastal romance, dreamy shallow-focus mood, poetic youthful melancholy.",
+   "key_terms": [
+    "Nikon FM2",
+    "Kodak Portra 400"
+   ],
+   "id": "style-07",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《First Love》日式纯爱胶片蓝",
+   "name_en": "First Love Japanese Pure-Love Film Blue",
+   "camera": "Canon EOS 5 35mm film SLR",
+   "stock": "Fujifilm Superia 400",
+   "lens": "Canon EF 85mm f/1.8 USM",
+   "aperture": "f/2",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Cool azure base; pale cyan for youth, muted gray-blue for adulthood; low saturation, clean whites, no clashing colors.",
+   "light": "Side-backlight rims hair in youth scenes; soft overcast diffusion softens adult faces; natural snow and train-window glow.",
+   "texture": "Fine 35mm grain, gentle halation and soft focus, restrained contrast, breathable negative space.",
+   "suffix": "Minimal Japanese pure-love film still, blue palette, natural skin, quiet emotional detail, soft grain and airy negative space.",
+   "key_terms": [
+    "Canon EOS 5",
+    "Fujifilm Superia 400"
+   ],
+   "id": "style-08",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "娄烨《苏州河》手持16mm颓败美学预设",
+   "name_en": "Lou Ye Suzhou River Handheld 16mm Decay Aesthetic Preset",
+   "camera": "Arriflex 16SR",
+   "stock": "Kodak Vision3 500T 7219 16mm",
+   "lens": "Carl Zeiss Super Speed 25mm T1.3",
+   "aperture": "T1.3",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Desaturated low-key palette of gray-blue, murky green and dark cyan; aged gray shadows with small neon red and warm yellow accents.",
+   "light": "Single hard practical source from side or top; deep shadows, strong contrast, wet haze diffusion and dim halos.",
+   "texture": "Coarse 16mm grain, damp liquid sheen, soft focus and halation, grimy urban surfaces, uneasy handheld blur.",
+   "suffix": "Handheld 16mm film still, shaky framing, shallow focus, muted murky colors, wet haze, isolated figure in decayed city spaces.",
+   "key_terms": [
+    "Arriflex 16SR",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-09",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "天狗的厨房：日式框景生活",
+   "name_en": "Tengu's Kitchen: Japanese Framed Daily Life",
+   "camera": "S200 film camera",
+   "stock": "Fujifilm Pro 400H",
+   "lens": "56mm prime lens",
+   "aperture": "f/8",
+   "filter": "1/8 black pro-mist",
+   "grade": "Warm low-saturation palette of raw wood, cream, and matcha green; gentle contrast and slight vintage film cast.",
+   "light": "Soft side-backlight and diffused daylight through trees and paper doors; translucent glow, no hard shadows.",
+   "texture": "Clear grain of aged wood, bamboo baskets, tatami; fine film grain and airy, lived-in softness.",
+   "suffix": "Quiet Japanese domestic scene framed by shoji and lattice, warm low-saturation palette, soft grain, slice-of-life composition.",
+   "key_terms": [
+    "S200 film camera",
+    "Fujifilm Pro 400H"
+   ],
+   "id": "style-10",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "URI 蓝窗金鱼梦境",
+   "name_en": "URI Blue Window Goldfish Dream",
+   "camera": "ARRI 416",
+   "stock": "Kodak Vision3 250D",
+   "lens": "Zeiss Ultra Prime 32mm",
+   "aperture": "T2.8",
+   "filter": "Tiffen Glimmerglass 1",
+   "grade": "Deep cyan-blue shadows, warm orange-gold highlights, soft lifted blacks and creamy rolloff",
+   "light": "Soft diffused window daylight, gentle blue ambient fill, faint mist and curtain glow",
+   "texture": "Oil-paint brushwork over fine 16mm grain, gentle halation, delicate canvas softness",
+   "suffix": "Poetic magical-realist dream, floating goldfish, sheer curtains, quiet underwater room",
+   "key_terms": [
+    "ARRI 416",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-11",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "超现实双重曝光人像",
+   "name_en": "Surreal Double Exposure Portrait",
+   "camera": "Hasselblad 500C/M medium format body, 6x6 back, locked on a tripod for in-camera multiple exposures",
+   "stock": "Kodak Ektachrome E100 slide film in 120",
+   "lens": "Carl Zeiss Planar 80mm f/2.8",
+   "aperture": "f/5.6",
+   "filter": "Tiffen Black Pro-Mist 1/4 diffusion filter",
+   "grade": "Punchy slide saturation: deep cobalt blues, emerald greens, clean whites and a single hot magenta accent, with soft pastel highlights and open shadows.",
+   "light": "Bright high daylight, gentle atmospheric haze, luminous rim on hair and manes, sky filled with pale cloud, no hard black shadows anywhere.",
+   "texture": "Fine slide grain, layered exposures bleeding at the edges, painterly color mixing and organic halftone overlaps where figure meets landscape.",
+   "suffix": "in-camera double exposure, silhouette fused with running horses and green hills, symbolic dream logic, modern fine-art collage feel",
+   "key_terms": [
+    "Hasselblad 500C/M",
+    "Kodak Ektachrome E100"
+   ],
+   "id": "style-12",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "热带海岛航拍度假风格",
+   "name_en": "Tropical Beach Aerial Vacation Style",
+   "camera": "DJI Mavic 3 Pro",
+   "stock": "digital 5.1K",
+   "lens": "Hasselblad 24mm equivalent fixed lens",
+   "aperture": "f/5.6",
+   "filter": "circular polarizer",
+   "grade": "Vivid but believable color, high clarity, strong turquoise-and-white contrast, gentle highlight roll-off.",
+   "light": "Bright overhead sun, soft beach fill, dappled cliff shadows, clean water highlights.",
+   "texture": "Crisp aerial detail, fine sand and foam texture, sharp yet natural rendering.",
+   "suffix": "Realistic travel aerial photograph, high clarity, clean detail, no heavy grading.",
+   "key_terms": [
+    "DJI Mavic 3 Pro",
+    "digital 5.1K"
+   ],
+   "id": "style-13",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "李安《卧虎藏龙》空灵竹林影像",
+   "name_en": "Ang Lee Crouching Tiger Hidden Dragon Ethereal Wuxia",
+   "camera": "ARRI 435 35mm camera",
+   "stock": "Kodak Vision 500T 5279",
+   "lens": "Cooke S4 50mm prime",
+   "aperture": "T2.8",
+   "filter": "1/4 Black Pro-Mist",
+   "grade": "Jade shadows, muted greens, warm porcelain skin, restrained contrast, gentle filmic falloff",
+   "light": "Diffused daylight through leaves, dappled patches, airy haze, soft edge highlights",
+   "texture": "Fine 35mm grain, delicate halation, painterly foliage, calm optical softness",
+   "suffix": "Ethereal wuxia mood, floating figures, natural green frame, quiet mystery",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision 500T"
+   ],
+   "id": "style-14",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "横道世之介：水族馆蓝调",
+   "name_en": "A Story of Yonosuke: Aquarium Blue",
+   "camera": "ARRI 435",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "Zeiss Super Speed 35mm",
+   "aperture": "T2.0",
+   "filter": "Tiffen Black Pro-Mist 1/8",
+   "grade": "Cyan-blue water and amber fish accents; low-contrast shadows, restrained saturation, pale skin, soft highlight roll-off.",
+   "light": "Available dim room light contrasted with bright tank tubes; soft reflections, faint caustics, and gentle bloom on white surfaces.",
+   "texture": "Fine 35mm grain, subtle halation around lamps, smooth water ripples, and slightly soft edge detail.",
+   "suffix": "quiet Japanese aquarium memory, clear blue water, warm goldfish accents, observant naturalistic mood",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "style-15",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《森林边缘的寂寞》·1970年代田园暖阳",
+   "name_en": "Vintage Pastoral Golden Hour — 1970s European Countryside",
+   "camera": "Arriflex 35 BL",
+   "stock": "Kodak Eastmancolor 5247, 35mm",
+   "lens": "Cooke Speed Panchro primes",
+   "aperture": "T2.2, opened wide for soft falloff",
+   "filter": "Black-dot net diffusion at low strength",
+   "grade": "Golden-warm highlights over muted olive greens, gently lifted blacks, restrained saturation, gentle nostalgic contrast without harsh clipping.",
+   "light": "Low warm sun raking through foliage, dappled patches across faces, soft bounce fill, glowing edges on hair and fabric.",
+   "texture": "Fine 35mm grain, mild halation around highlights, creamy out-of-focus falloff, slightly imperfect organic softness.",
+   "suffix": "Shot on vintage 35mm film in warm pastoral daylight, dappled shadows, soft bokeh, natural skin tones, gentle grain.",
+   "key_terms": [
+    "Arriflex 35 BL",
+    "Kodak Eastmancolor 5247"
+   ],
+   "id": "style-16",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《请以你的名字呼唤我》夏日胶片风格",
+   "name_en": "Call Me by Your Name Summer Film Look",
+   "camera": "ARRI Arricam LT",
+   "stock": "Kodak Vision3 250D 35mm",
+   "lens": "Zeiss Master Prime 35mm",
+   "aperture": "T2.0",
+   "filter": "Tiffen Glimmerglass 1/8",
+   "grade": "Warm sunlit pastels, gentle green-yellow bias, lifted shadows, low contrast, soft skin tones.",
+   "light": "Natural summer sun, dappled tree shade, hazy backlight, soft fill from grass, gentle highlights.",
+   "texture": "Fine 35mm grain, soft halation, organic detail, creamy highlight rolloff, slight lens bloom.",
+   "suffix": "summer afternoon, hazy golden light, shallow depth of field, 35mm film still",
+   "key_terms": [
+    "ARRI Arricam LT",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-17",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《傲慢与偏见》金色时刻浪漫",
+   "name_en": "Pride & Prejudice Golden-Hour Romance",
+   "camera": "Canon EOS-1V",
+   "stock": "Kodak Portra 400 35mm",
+   "lens": "Canon EF 85mm f/1.4L IS USM",
+   "aperture": "f/2",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Warm amber highlights, creamy skin, mossy green shadows, gentle contrast.",
+   "light": "Low golden-hour sun filtering through leaves, soft backlight and haze.",
+   "texture": "Fine 35mm grain, mild halation, creamy bokeh and airy film softness.",
+   "suffix": "period romance, dreamy atmosphere, shallow focus, cinematic 21:9 framing",
+   "key_terms": [
+    "Canon EOS-1V",
+    "Kodak Portra 400"
+   ],
+   "id": "style-18",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《泰坦尼克号》暖阳古典影像",
+   "name_en": "Titanic Sunlit Period Romance",
+   "camera": "ARRI 535B",
+   "stock": "Kodak Vision 500T",
+   "lens": "Panavision Primo 50mm",
+   "aperture": "T2.8",
+   "filter": "1/4 Pro-Mist",
+   "grade": "Warm golden highlights, gentle contrast, creamy skin tones, restrained teal shadows.",
+   "light": "Soft late-afternoon side sun, warm bounce fill, glowing hair rim.",
+   "texture": "Fine 35mm grain, slight halation, soft optical falloff, natural skin detail.",
+   "suffix": "Period romantic medium shot, sunlit deck, lace dress, wicker and silver props, warm filmic finish.",
+   "key_terms": [
+    "ARRI 535B",
+    "Kodak Vision 500T"
+   ],
+   "id": "style-19",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "巨物美学影像风格",
+   "name_en": "Monumental Scale Cinematic Style",
+   "camera": "Panavision 65",
+   "stock": "Kodak Vision3 500T 65mm",
+   "lens": "Panavision Sphero 65 35mm",
+   "aperture": "T4",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm amber and deep umber palette, crushed shadows, bright highlights, restrained saturation, strong tonal separation.",
+   "light": "Hard side sunlight, visible dust shafts, soft haze fill, crisp cast shadows, glowing orange accents.",
+   "texture": "Fine grain, atmospheric dust, wet reflective sheen, subtle halation, layered depth.",
+   "suffix": "Monumental scale, surreal dystopian tableau, cinematic still, dramatic contrast.",
+   "key_terms": [
+    "Panavision 65",
+    "Kodak Vision3 500T 65mm"
+   ],
+   "id": "style-20",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "日系清冷蓝调水族馆胶片",
+   "name_en": "Japanese Cool-Blue Aquarium Film",
+   "camera": "Arri 435",
+   "stock": "Fujifilm Eterna 250D",
+   "lens": "Zeiss Super Speed 35mm T1.5",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Cool cyan-blue cast, low saturation, milky highlights, restrained contrast.",
+   "light": "Soft aquarium daylight, water caustic beams, gentle backlight and window glow.",
+   "texture": "Fine 35mm grain, subtle halation, soft focus bloom, slight handheld breathing.",
+   "suffix": "Fixed or slow dolly, faint breathing sway, quiet romantic Japanese-film mood, soft bloom, cool blue-green cast.",
+   "key_terms": [
+    "Arri 435",
+    "Fujifilm Eterna 250D"
+   ],
+   "id": "style-21",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "是枝裕和《怪物》日系胶片静谧风格",
+   "name_en": "Kore-eda Monster Quiet Japanese Film Style",
+   "camera": "Arricam LT",
+   "stock": "Kodak Vision3 500T 5219 35mm film",
+   "lens": "Zeiss Master Prime 50mm",
+   "aperture": "T2.0",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Cool cyan-green shadows, soft pastel highlights, low saturation, gentle contrast.",
+   "light": "Diffused natural daylight and soft window glow, with gentle aquarium reflections and shaded foliage.",
+   "texture": "Fine 35mm grain, subtle halation, soft focus falloff, faint handheld breathing.",
+   "suffix": "Quiet Japanese film still, intimate shallow focus, cool green-cyan mood, soft grain and glow.",
+   "key_terms": [
+    "Arricam LT",
+    "Kodak Vision3 500T 5219"
+   ],
+   "id": "style-22",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《少年斯派维的奇异旅行》明媚奇想",
+   "name_en": "The Young and Prodigious T.S. Spivet Bright Whimsy",
+   "camera": "Arriflex 435",
+   "stock": "Kodak Vision3 250D 5207",
+   "lens": "Zeiss Master Prime 18mm",
+   "aperture": "f/4",
+   "filter": "Hoya circular polarizer",
+   "grade": "Saturated primaries, clean cyan skies, warm skin, lifted shadows, gentle film contrast.",
+   "light": "Bright natural daylight, soft sky fill, crisp water glints, open shadows.",
+   "texture": "Fine grain, sharp detail, clean highlights, mild halation, playful wide-angle feel.",
+   "suffix": "Bright whimsical adventure; vivid color, clear water, snowy peaks, childlike wonder, wide-angle energy.",
+   "key_terms": [
+    "Arriflex 435",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-23",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "杨德昌《一一》影像风格",
+   "name_en": "Edward Yang's Yi Yi Look",
+   "camera": "Arriflex 535B",
+   "stock": "Kodak Vision 250D",
+   "lens": "Zeiss Ultra Prime 32mm",
+   "aperture": "T2.8",
+   "filter": "Tiffen Black Pro-Mist 1/8",
+   "grade": "Muted vintage color, warm skin tones, gentle contrast, faint cyan shadows, restrained saturation.",
+   "light": "Soft diffused practicals, dim wedding-hall ambience, warm neon glow, gentle falloff, no hard shadows.",
+   "texture": "Fine 35mm grain, slight halation, soft focus bloom, subtle handheld breath.",
+   "suffix": "Shot on 35mm film with slow push-in and quiet observational mood.",
+   "key_terms": [
+    "Arriflex 535B",
+    "Kodak Vision 250D"
+   ],
+   "id": "style-24",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "徐克《青蛇》古风奇幻胶片风格",
+   "name_en": "Tsui Hark's Green Snake Classical Fantasy Film Style",
+   "camera": "ARRI 435 35mm camera",
+   "stock": "Kodak Vision3 500T",
+   "lens": "Cooke S4 50mm",
+   "aperture": "T2.0",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Jade-green shadows, muted amber highlights, low saturation, gentle contrast.",
+   "light": "Warm lantern glow against cool moonlight, soft halation and quiet falloff.",
+   "texture": "Fine 35mm grain, slight gate weave, soft bloom and faint handheld breath.",
+   "suffix": "Slow push-in with subtle breathing shake, soft focus, classical Chinese fantasy atmosphere.",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-25",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "王家卫《重庆森林》风格",
+   "name_en": "Wong Kar-wai Chungking Express Style",
+   "camera": "Arri 435",
+   "stock": "Kodak Vision 500T 5279",
+   "lens": "Cooke S4 25mm",
+   "aperture": "T2.0",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Cool cyan shadows, muted greens, warm sodium highlights, low saturation.",
+   "light": "Low-key practicals: fluorescent tubes, escalator reflections, soft halation, flickering mixed color.",
+   "texture": "Heavy 35mm grain, radial motion smear, light leaks, soft focus glow.",
+   "suffix": "Handheld low-angle tracking, slight zoom, strong motion blur, urban alienation.",
+   "key_terms": [
+    "Arri 435",
+    "Kodak Vision 500T"
+   ],
+   "id": "style-26",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "陈凯歌《霸王别姬》戏曲胶片风格",
+   "name_en": "Farewell My Concubine Peking Opera Film Look",
+   "camera": "ARRI 535B",
+   "stock": "Kodak Vision3 500T 5219",
+   "lens": "Cooke S4 35mm",
+   "aperture": "T2.8",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Warm vintage palette, crimson and gold highlights, lifted shadows, muted contrast, subtle filmic richness.",
+   "light": "Warm stage spotlights, soft falloff, glowing red curtains, gentle face fill, theatrical depth.",
+   "texture": "Fine 35mm grain, soft halation, delicate highlight bloom, slight breathing handheld motion.",
+   "suffix": "35mm Chinese opera stage, warm soft glow, slow push-in, subtle handheld drift, vintage film finish.",
+   "key_terms": [
+    "ARRI 535B",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-27",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "寂静的朋友·暖绿胶片",
+   "name_en": "Silent Friend Warm-Green Film",
+   "camera": "Arricam LT",
+   "stock": "Kodak Portra 400",
+   "lens": "Cooke S4 50mm",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm green cast, muted contrast, gentle highlight roll-off.",
+   "light": "Natural afternoon sun, direct on skin, soft grassy bounce.",
+   "texture": "Fine organic 35mm grain, mild halation, delicate soft focus.",
+   "suffix": "35mm film look, handheld breathing, warm green natural light, soft halation.",
+   "key_terms": [
+    "Arricam LT",
+    "Kodak Portra 400"
+   ],
+   "id": "style-28",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《暖》江南复古胶片",
+   "name_en": "Warm Jiangnan Vintage Film",
+   "camera": "Arriflex 435",
+   "stock": "Kodak Vision3 250D",
+   "lens": "Zeiss Super Speed 35mm",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm amber highlights, muted jade greens, lifted shadows, soft filmic contrast, gentle halation.",
+   "light": "Soft warm daylight mixed with dim tungsten practicals; gentle falloff and glowing steam.",
+   "texture": "Fine 35mm grain, slight gate weave, soft focus bloom, delicate highlight halation.",
+   "suffix": "35mm film look, warm nostalgic Jiangnan mood, soft handheld breathing, slow push-in, gentle contrast.",
+   "key_terms": [
+    "Arriflex 435",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-29",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "绿山墙的安妮复古田园",
+   "name_en": "Anne of Green Gables Pastoral Vintage",
+   "camera": "Arriflex 435",
+   "stock": "Kodak Vision3 250D 35mm",
+   "lens": "Cooke S4 50mm",
+   "aperture": "f/2.8",
+   "filter": "Tiffen Black Pro-Mist 1/4 + light green gel",
+   "grade": "Warm pastoral palette, pale green shadows, creamy highlights, lifted blacks, gentle contrast",
+   "light": "Soft warm daylight, backlit hair, window shafts, open-shade fill",
+   "texture": "Fine 35mm grain, mild halation, soft-focus bloom, subtle handheld breath",
+   "suffix": "Slow push-in or trailing follow, shallow bokeh, vintage pastoral film grain, tender and healing mood",
+   "key_terms": [
+    "Arriflex 435",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-30",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《风的第一声呼吸》",
+   "name_en": "The First Breath of Wind",
+   "camera": "Arriflex 435",
+   "stock": "Kodak Vision3 500T 35mm film",
+   "lens": "Cooke S4 50mm",
+   "aperture": "f/2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm amber highlights, muted mossy greens, soft contrast, inky but detailed shadows, nostalgic filmic palette.",
+   "light": "Soft motivated window light, backlit silhouettes, low-key side glow, gentle shadows and practical pools.",
+   "texture": "Fine 35mm grain, slight halation, gentle breathing handheld softness, low contrast in shadows.",
+   "suffix": "Slow push-in or pull-back with faint breathing sway, shallow focus, 35mm grain, soft halation, wistful literary mood.",
+   "key_terms": [
+    "Arriflex 435",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-31",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《音乐之声》暖调田园胶片风格",
+   "name_en": "The Sound of Music Warm Pastoral Film Style",
+   "camera": "ARRI 435",
+   "stock": "Kodak Vision3 250D 35mm",
+   "lens": "Cooke S4 50mm",
+   "aperture": "T2.8",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "warm pastel highlights, soft green shadows, low-contrast vintage film emulation",
+   "light": "bright alpine daylight, warm sun haze, gentle bounce fill, glowing foliage backlight",
+   "texture": "fine 35mm grain, mild halation, organic breathing softness",
+   "suffix": "slow pullback with gentle handheld sway; hopeful, lyrical, nostalgic mood",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-32",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "月麟绮纪·暖调武侠柔光",
+   "name_en": "Warm Wuxia Soft-Focus Portrait",
+   "camera": "ARRI 435",
+   "stock": "Kodak Vision3 500T 35mm",
+   "lens": "Cooke S4 50mm prime",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm amber balance, soft contrast, creamy highlights, gently muted reds, lifted shadows.",
+   "light": "Soft warm indoor key with practical glow, gentle lens flare, and dim background falloff.",
+   "texture": "Fine 35mm grain, mild halation, soft-focus glow, shallow bokeh, subtle breathing motion.",
+   "suffix": "Slow push-in with faint handheld breathing; eye-level close-up; dreamy wuxia atmosphere.",
+   "key_terms": [
+    "ARRI 435",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-33",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "杜可风港风复古胶片",
+   "name_en": "Christopher Doyle Hong Kong Retro Film",
+   "camera": "Arri 435 35mm film camera",
+   "stock": "Kodak Vision3 500T",
+   "lens": "Cooke S4 50mm prime",
+   "aperture": "T2.0",
+   "filter": "Black Pro-Mist 1/4",
+   "grade": "Warm amber highlights, muted teal-green shadows, faded contrast, gentle magenta skin tones.",
+   "light": "Soft warm practicals, colored neon spill, low-key club ambience, subtle halos around highlights.",
+   "texture": "Fine 35mm grain, mild gate weave, soft bloom, slight halation, delicate focus falloff.",
+   "suffix": "Slow push-in with faint handheld breathing, shallow focus, dreamy detached mood.",
+   "key_terms": [
+    "Arri 435",
+    "Kodak Vision3 500T"
+   ],
+   "id": "style-34",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "复古英伦田园胶片风格",
+   "name_en": "Vintage British Pastoral Film Style",
+   "camera": "Bolex H16",
+   "stock": "Kodak Vision3 250D 16mm",
+   "lens": "Switar 25mm f/1.4",
+   "aperture": "f/2.8",
+   "filter": "Tiffen Black Pro-Mist 1/4",
+   "grade": "Warm muted oil-paint palette, soft lifted blacks, gentle rosy highlights, desaturated greens, low contrast.",
+   "light": "Warm diffused afternoon haze, soft side and backlight, gentle window glow, subtle mist over skin and foliage.",
+   "texture": "Fine film grain, soft-focus edges, gentle halation, low-contrast bloom, painterly surface with subtle breathing motion.",
+   "suffix": "Vintage British pastoral film still, painterly softness, shallow depth of field, quiet romantic atmosphere, cinematic.",
+   "key_terms": [
+    "Bolex H16",
+    "Kodak Vision3 250D"
+   ],
+   "id": "style-35",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "《岁月神偷》怀旧胶片预设",
+   "name_en": "Echoes of the Past Retro Film Preset",
+   "camera": "Canon EOS-1 35mm SLR",
+   "stock": "Kodak Gold 200 (35mm)",
+   "lens": "Canon EF 35mm f/2",
+   "aperture": "f/2.8",
+   "filter": "Tiffen 1/4 Black Pro-Mist",
+   "grade": "Warm amber highlights, gently faded shadows, and a faint aged teal shift in the cool tones.",
+   "light": "Soft late-afternoon sun filters through leaves, casting dappled wall patterns and a gentle haze.",
+   "texture": "Fine 35mm grain, mild halation, softened edges, and a delicate nostalgic wash.",
+   "suffix": "Canon EOS-1, Kodak Gold 200, 35mm film, warm faded colors, dappled light, fine grain.",
+   "key_terms": [
+    "Canon EOS-1",
+    "Kodak Gold 200"
+   ],
+   "id": "style-36",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  },
+  {
+   "name_zh": "蓝色大门 夏日青春胶片",
+   "name_en": "Blue Gate Crossing Summer Youth Film",
+   "camera": "ARRI 535B",
+   "stock": "Kodak Vision 250D 35mm film",
+   "lens": "Carl Zeiss Super Speed 35mm T1.3",
+   "aperture": "T1.3–T2.0",
+   "filter": "Tiffen 812 Warming",
+   "grade": "low-contrast warm print, soft greens, creamy highlights, pastel skin, faint teal shadows",
+   "light": "bright natural summer sun, gentle bounce fill, warm flares, soft dappled shade",
+   "texture": "fine 35mm grain, gentle halation, soft motion smear, smooth bokeh",
+   "suffix": "warm daylight youth-film look, shallow focus, soft grain, natural motion blur",
+   "key_terms": [
+    "ARRI 535B",
+    "Kodak Vision 250D"
+   ],
+   "id": "style-37",
+   "source": "style (reduced from the reference PDFs, rewritten)"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": "loc_home48",
+ "out": "refs/sp01/loc_home48.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "Interior of a small family apartment kitchen on the Earth's surface in 2048, late afternoon: warm sunlight through a window falls across a wooden table with crayons and sheets of drawing paper, a rice cooker and a teapot on the counter, children's drawings stuck on the fridge, a potted plant; through the window a hazy city skyline and, far away on the horizon, the half-built steel scaffold of a colossal engine tower with construction cranes. Empty of people, lived-in. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Soft warm late-afternoon daylight, desaturated warm beige base, gentle shadows, quiet domestic atmosphere.",
+ "inputs": [],
+ "usage": {
+  "output_tokens_details": {
+   "text_tokens": 0,
+   "image_tokens": 5488
+  },
+  "total_tokens": 5668,
+  "input_tokens": 180,
+  "output_tokens": 5488,
+  "input_tokens_details": {
+   "text_tokens": 180,
+   "image_tokens": 0
+  }
+ },
+ "seconds": 93.2,
+ "ts": "2026-11-26 16:58:23"
+}

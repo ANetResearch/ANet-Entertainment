@@ -1,0 +1,71 @@
+{
+ "shot": "s18",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s18.png",
+  "refs/sp01/loc_restart.png"
+ ],
+ "ref_ids": [
+  "loc_restart"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-arch58"
+ },
+ "retrieved": [
+  {
+   "id": "rules/lens/documentary-zoom",
+   "title": "lens: documentary-zoom",
+   "kind": "rules:lens",
+   "score": 52.84
+  },
+  {
+   "id": "ours/arch-vhs",
+   "title": "资料退化：磁带与扫描线",
+   "kind": "ours:archival",
+   "score": 46.61
+  },
+  {
+   "id": "rules/move/shaky-combat",
+   "title": "move: shaky-combat",
+   "kind": "rules:move",
+   "score": 42.35
+  },
+  {
+   "id": "ours/tex-flooded",
+   "title": "被淹的机房与集结区",
+   "kind": "ours:texture",
+   "score": 41.74
+  },
+  {
+   "id": "ours/arch-dv",
+   "title": "资料退化：DV/低码率数字录像",
+   "kind": "ours:archival",
+   "score": 20.61
+  }
+ ],
+ "request": "镜头 s18：纪录片中引用的旧资料影像，时长 9 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-arch58）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['ENG broadcast camera', 'scan lines']）：Locked look \"2058 broadcast news archive\" (style preset sp01-arch58): a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew.\n该类型的纪录片默认机位：archival footage quoted inside a documentary\n导演意图（自然语言）：资料影像，新闻摄像机剧烈手持晃动，有扫描线和压缩噪点。几名技术员趟着齐膝的黑水，抬着设备箱穿过半淹的机房，应急灯在闪。环境声：水声、喊叫、失真的对讲机杂音。\n情绪：urgent, chaotic, desperate\n建议的景别与运镜（只做一个主要运镜）：medium wide shot, violently shaking handheld news camera following them\n景深与虚实：Heavy archival softness, motion blur on every movement, flashes blooming.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Archival 2058 news footage: technicians in wetsuits and helmets wade through knee-deep black water in a half-flooded underground server hall, carrying equipment cases between rows of drowned server racks; emergency lights strobe. Blocking lock: technicians wade from the background toward frame left through the black water, carrying cases; drowned server racks line both sides; emergency lights flash at the top of frame.\nPicture 2: the staging area of the 2058 root-server restart operation (location reference; role: location reference). A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold.\n本镜头没有台词。\n现场环境声：splashing water, indistinct shouting in Mandarin, crackling radio static, a pump roaring\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[rules/lens/documentary-zoom] lens\n[ours/arch-vhs] 资料退化：磁带与扫描线\n[rules/move/shaky-combat] move\n[ours/tex-flooded] 被淹的机房与集结区\n[ours/arch-dv] 资料退化：DV/低码率数字录像\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Archival 2058 news footage inside a half-flooded underground server hall: several technicians in black wetsuits and helmets wade through knee-deep black water between rows of drowned server racks, carrying hard equipment cases; emergency lights strobe at the top of frame and floodlight glare stretches across the water. The frame is medium wide and slightly canted, with the blacks of the water and racks broken by hot clipped whites and red chroma smear from the emergency lights. Blocking lock: several technicians in wetsuits and helmets wade from the background toward frame left through knee-deep black water, carrying equipment cases; drowned server racks line frame left and frame right; emergency lights flash at the top of frame.\n<Subject 2> is the staging area of the 2058 root-server restart operation from <Picture 2>, serving as location reference. A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold.\n\nsummary:\nArchival 2058 broadcast news footage shows several technicians in wetsuits and helmets wading knee-deep through black water inside a half-flooded underground server hall, carrying equipment cases between drowned racks while emergency lights strobe. No one speaks a line; only water, shouting and radio static are heard. Final frame: the technicians have pushed past frame left, the camera still shaking, the last drowned rack and rippling black water filling the frame under flashing emergency light.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained: concrete pillars, cable coils, open equipment cases, diving helmets and air tanks on a tarp, floodlight glare on black water and the temporary railing at the water's edge.\n\ndetailed_description:\n16:9 horizontal, single clip 9.0s, 24fps, Locked look \"2058 broadcast news archive\": a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, medium wide shot, violently shaking shoulder-held ENG news camera following the technicians, one continuous handheld follow that starts on the group in the mid-ground and ends slightly wider and lower as the operator lurches after them toward frame left; pacing: natural speed, a single continuous take with no cut. At the start several technicians in black wetsuits and helmets are in the background centre-right, wading toward frame left through knee-deep black water, each carrying a hard equipment case; drowned server racks line frame left and frame right; emergency lights strobe at the top of frame. Start: the camera catches them mid-stride, water at knee height, cases lifted clear of the surface, shoulders glossy with water. Middle: one technician's boot slips on a submerged cable and his case corner dips toward the water; the man behind jams a shoulder under it and they keep moving as the camera swings past a rack and a strobe blooms across the lens. End: the group reaches and passes the left edge of frame, the camera still following, the last drowned rack sliding through the foreground, black water rippling behind them. Mood: urgent, chaotic, desperate. Blur: heavy archival softness across the whole frame, motion blur on every movement, strobe flashes blooming to white, background racks falling out of focus. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nknee-deep water splashing, boots dragging through water, indistinct Mandarin shouting, distorted walkie-talkie static, a pump roaring, equipment cases knocking against server racks, emergency strobe buzz, the operator's breath close to the microphone; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 4935,
+    "completion_tokens": 3545,
+    "total_tokens": 8480,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 2516
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1223
+   },
+   "reasoning_chars": 11350
+  }
+ ],
+ "ts": "2026-11-26 17:30:29",
+ "final": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Archival 2058 news footage inside a half-flooded underground server hall: several technicians in black wetsuits and helmets wade through knee-deep black water between rows of drowned server racks, carrying hard equipment cases; emergency lights strobe at the top of frame and floodlight glare stretches across the water. The frame is medium wide and slightly canted, with the blacks of the water and racks broken by hot clipped whites and red chroma smear from the emergency lights. Blocking lock: several technicians in wetsuits and helmets wade from the background toward frame left through knee-deep black water, carrying equipment cases; drowned server racks line frame left and frame right; emergency lights flash at the top of frame.\n<Subject 2> is the staging area of the 2058 root-server restart operation from <Picture 2>, serving as location reference. A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold.\n\nsummary:\nArchival 2058 broadcast news footage shows several technicians in wetsuits and helmets wading knee-deep through black water inside a half-flooded underground server hall, carrying equipment cases between drowned racks while emergency lights strobe. No one speaks a line; only water, shouting and radio static are heard. Final frame: the technicians have pushed past frame left, the camera still shaking, the last drowned rack and rippling black water filling the frame under flashing emergency light.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained: concrete pillars, cable coils, open equipment cases, diving helmets and air tanks on a tarp, floodlight glare on black water and the temporary railing at the water's edge.\n\ndetailed_description:\n16:9 horizontal, single clip 9.0s, 24fps, Locked look \"2058 broadcast news archive\": a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, medium wide shot, violently shaking shoulder-held ENG news camera following the technicians, one continuous handheld follow that starts on the group in the mid-ground and ends slightly wider and lower as the operator lurches after them toward frame left; pacing: natural speed, a single continuous take with no cut. At the start several technicians in black wetsuits and helmets are in the background centre-right, wading toward frame left through knee-deep black water, each carrying a hard equipment case; drowned server racks line frame left and frame right; emergency lights strobe at the top of frame. Start: the camera catches them mid-stride, water at knee height, cases lifted clear of the surface, shoulders glossy with water. Middle: one technician's boot slips on a submerged cable and his case corner dips toward the water; the man behind jams a shoulder under it and they keep moving as the camera swings past a rack and a strobe blooms across the lens. End: the group reaches and passes the left edge of frame, the camera still following, the last drowned rack sliding through the foreground, black water rippling behind them. Mood: urgent, chaotic, desperate. Blur: heavy archival softness across the whole frame, motion blur on every movement, strobe flashes blooming to white, background racks falling out of focus. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nknee-deep water splashing, boots dragging through water, indistinct Mandarin shouting, distorted walkie-talkie static, a pump roaring, equipment cases knocking against server racks, emergency strobe buzz, the operator's breath close to the microphone; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director"
+}

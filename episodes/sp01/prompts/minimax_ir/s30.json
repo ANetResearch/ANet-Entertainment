@@ -1,0 +1,14 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s30.png",
+  "refs/sp01/nian.png",
+  "refs/locations/loc_admin.png",
+  "refs/characters/moss.png"
+ ],
+ "ref_ids": [
+  "nian",
+  "loc_admin",
+  "moss"
+ ],
+ "notes": []
+}

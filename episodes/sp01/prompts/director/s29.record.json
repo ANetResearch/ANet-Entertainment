@@ -1,0 +1,71 @@
+{
+ "shot": "s29",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s29.png",
+  "refs/locations/loc_jupiter.png"
+ ],
+ "ref_ids": [
+  "loc_jupiter"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-v75"
+ },
+ "retrieved": [
+  {
+   "id": "ours/tex-ice",
+   "title": "冰原与压顶的天体",
+   "kind": "ours:texture",
+   "score": 79.85
+  },
+  {
+   "id": "rules/lens/documentary-zoom",
+   "title": "lens: documentary-zoom",
+   "kind": "rules:lens",
+   "score": 47.71
+  },
+  {
+   "id": "rules/size/extreme-wide-shot",
+   "title": "size: extreme-wide-shot",
+   "kind": "rules:size",
+   "score": 44.44
+  },
+  {
+   "id": "ours/sound-crisis",
+   "title": "声音：危机现场",
+   "kind": "ours:sound",
+   "score": 29.8
+  },
+  {
+   "id": "ours/cam-long-lens",
+   "title": "机位：长焦远观",
+   "kind": "ours:camera",
+   "score": 25.3
+  }
+ ],
+ "request": "镜头 s29：纪录片空镜，时长 7 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-v75）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['Sony FX6', 'S-Cinetone']）：Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark.\n该类型的纪录片默认机位：documentary establishing shot on a long zoom lens, atmospheric haze\n导演意图（自然语言）：长焦大远景，几乎固定，风雪掠过。木星占满了整个天空，冰原被染成暗橙色，远处一台熄火的发动机。环境声：低沉的风声、冰层的呻吟。\n情绪：overwhelming, dreadful, silent\n建议的景别与运镜（只做一个主要运镜）：extreme wide shot on a long lens, locked-off with snow blowing across\n景深与虚实：Deep focus, snow in the foreground streaked with motion blur.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon. Blocking lock: Jupiter fills the upper two thirds of the frame; the ice plain lies across the bottom; the stalled engine silhouette at frame right on the horizon.\nPicture 2: the ice plain under a sky filled by Jupiter (location reference; role: location reference). Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.\n本镜头没有台词。\n现场环境声：low howling wind, deep groaning of ice\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[ours/tex-ice] 冰原与压顶的天体\n[rules/lens/documentary-zoom] lens\n[rules/size/extreme-wide-shot] size\n[ours/sound-crisis] 声音：危机现场\n[ours/cam-long-lens] 机位：长焦远观\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\n<Subject 1> is the exterior wide-shot keyframe of the frozen Earth surface under Jupiter from <Picture 1>, serving as composition, lighting and blocking reference. The planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; silhouettes of a stalled planetary engine and a tiny transport truck sit on the horizon. The ice plain lies across the bottom of the frame under a heavy, heatless orange light. Blocking lock: Jupiter fills the upper two thirds of the frame; the ice plain lies across the bottom; the stalled planetary engine silhouette is at frame right on the horizon with the tiny transport truck beside it; frame left and centre are empty ice.\n<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide view from the frozen surface of the Earth looking up: Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth toward it; silhouettes of a stalled planetary engine and a tiny transport truck stand on the horizon. The ice is wind-scoured, pale beneath the orange cast, with deep haze compressing the distance.\n\nsummary:\nThis seven-second establishing clip is a 2075 crisis-verite view from the frozen surface of the Earth, where Jupiter fills almost the entire sky and stains the ice plain dull orange. A stalled planetary engine and a tiny transport truck stand as silhouettes on the horizon while wind-driven snow streaks across the foreground; nobody speaks. The clip ends on the same extreme wide frame, Jupiter in the upper two thirds, the ice plain across the bottom, the stalled engine silhouette at frame right on the horizon.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, extreme wide shot, locked-off tripod camera with fixed framing from extreme wide shot to extreme wide shot, no camera movement; the only motion is wind-driven snow crossing the frame. pacing: natural speed, a single continuous take with no cut. Blocking at the start: Jupiter fills the upper two thirds of the frame from edge to edge; the ice plain lies across the bottom; the stalled planetary engine silhouette and the tiny transport truck sit at frame right on the horizon; the foreground bottom edge carries a low drift of snow; frame left and centre are empty ice fading into haze. Start: a thin veil of snow lifts from the ice at frame left and begins to stream sideways. Middle: the gust thickens, horizontal snow streaks crossing the foreground and briefly softening the engine silhouette at frame right while the lower ice plain dissolves into deeper haze. End: the gust thins, the snow drops into a drifting haze, the engine silhouette and transport truck sharpen again, and the framing remains unchanged. Mood: overwhelming, dreadful, silent. Blur: deep focus; Jupiter and the ice horizon stay sharp while the foreground snow is streaked with motion blur. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nLow howling wind across the ice plain, deep groaning of the ice sheet, dry snow hissing past the lens, a faint metallic creak from the stalled engine far off; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 4914,
+    "completion_tokens": 4935,
+    "total_tokens": 9849,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 3978
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1202
+   },
+   "reasoning_chars": 17516
+  }
+ ],
+ "ts": "2026-11-26 17:30:52",
+ "final": "subject_definitions:\n<Subject 1> is the exterior wide-shot keyframe of the frozen Earth surface under Jupiter from <Picture 1>, serving as composition, lighting and blocking reference. The planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; silhouettes of a stalled planetary engine and a tiny transport truck sit on the horizon. The ice plain lies across the bottom of the frame under a heavy, heatless orange light. Blocking lock: Jupiter fills the upper two thirds of the frame; the ice plain lies across the bottom; the stalled planetary engine silhouette is at frame right on the horizon with the tiny transport truck beside it; frame left and centre are empty ice.\n<Subject 2> is the ice plain under a sky filled by Jupiter from <Picture 2>, serving as location reference. Exterior wide view from the frozen surface of the Earth looking up: Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth toward it; silhouettes of a stalled planetary engine and a tiny transport truck stand on the horizon. The ice is wind-scoured, pale beneath the orange cast, with deep haze compressing the distance.\n\nsummary:\nThis seven-second establishing clip is a 2075 crisis-verite view from the frozen surface of the Earth, where Jupiter fills almost the entire sky and stains the ice plain dull orange. A stalled planetary engine and a tiny transport truck stand as silhouettes on the horizon while wind-driven snow streaks across the foreground; nobody speaks. The clip ends on the same extreme wide frame, Jupiter in the upper two thirds, the ice plain across the bottom, the stalled engine silhouette at frame right on the horizon.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, extreme wide shot, locked-off tripod camera with fixed framing from extreme wide shot to extreme wide shot, no camera movement; the only motion is wind-driven snow crossing the frame. pacing: natural speed, a single continuous take with no cut. Blocking at the start: Jupiter fills the upper two thirds of the frame from edge to edge; the ice plain lies across the bottom; the stalled planetary engine silhouette and the tiny transport truck sit at frame right on the horizon; the foreground bottom edge carries a low drift of snow; frame left and centre are empty ice fading into haze. Start: a thin veil of snow lifts from the ice at frame left and begins to stream sideways. Middle: the gust thickens, horizontal snow streaks crossing the foreground and briefly softening the engine silhouette at frame right while the lower ice plain dissolves into deeper haze. End: the gust thins, the snow drops into a drifting haze, the engine silhouette and transport truck sharpen again, and the framing remains unchanged. Mood: overwhelming, dreadful, silent. Blur: deep focus; Jupiter and the ice horizon stay sharp while the foreground snow is streaked with motion blur. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.\n\noverall_soundscape:\nLow howling wind across the ice plain, deep groaning of the ice sheet, dry snow hissing past the lens, a faint metallic creak from the stalled engine far off; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director"
+}

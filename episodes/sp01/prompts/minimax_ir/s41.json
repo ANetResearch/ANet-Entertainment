@@ -1,0 +1,14 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s41.png",
+  "refs/characters/boye.png",
+  "refs/locations/loc_interview.png",
+  "refs/props/prop_node.png"
+ ],
+ "ref_ids": [
+  "boye",
+  "loc_interview",
+  "prop_node"
+ ],
+ "notes": []
+}

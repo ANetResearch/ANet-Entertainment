@@ -1,0 +1,23 @@
+# sp01 s22_c  duration=8s  seed=969093006  prompt_source=director  cost=0.32
+# input images: ['episodes/sp01/storyboard/s22.png', 'refs/sp01/loc_restart.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this 2058 broadcast news archive shot — a dark control room beside the flooded hall, with rows of monitors and exhausted technicians in wet clothes — from <Picture 1>, serving as composition, lighting and blocking reference. Rows of monitor faces flicker and light up one after another, their glow hot and clipped against crushed murky shadows; the technicians raise their arms and hug, their wet clothes catching the hard floodlight and monitor light. Blocking lock: rows of monitors recede from frame left to the background; technicians stand at frame right and centre, some raising their arms.
+<Subject 2> is the staging area of the 2058 root-server restart operation from <Picture 2>, serving as location reference. A staging area at the edge of a flooded underground root-server facility in 2058: floodlights on tripods glaring off black water that covers the floor, concrete pillars, coils of cable, open equipment cases, diving helmets and air tanks on a tarp, a temporary railing at the water's edge. Empty of people, urgent, cold; hard floodlight glare against deep shadow and black water reflections.
+
+summary:
+Archival 2058 broadcast news footage inside a dark control room beside the flooded hall. Rows of monitors flicker and light up one after another; exhausted, soaked technicians raise their arms and pull each other into embraces. No spoken dialogue; the clip ends on the technicians' raised arms and wet faces as the monitor bank burns white; final frame: technicians at frame right and centre, arms lifted, monitors blooming at frame left.
+
+retention_analysis:
+<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, Locked look "2058 broadcast news archive" (style preset sp01-arch58): a shoulder-mounted 2/3-inch ENG broadcast camera; broadcast tape, later dubbed; an 18x broadcast zoom at auto iris; filter none; grade: hot clipped whites, crushed murky shadows, chroma smear on reds; light: floodlights, emergency strobes and whatever is there; texture: interlaced softness, faint scan lines, compression noise, an occasional tape dropout; urgent news footage of a disaster operation, the operator running with the crew; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.
+[Shot 1] At 0.0s, medium wide shot, handheld ENG broadcast camera with one small, jerky reframing from the rows of monitors at frame left to the technicians at frame right and centre, the framing staying medium wide and moving abruptly, then settling; the 18x broadcast zoom at auto iris hunts as the screens flare. pacing: natural speed, a single continuous take with no cut. At the start the rows of monitors recede from frame left into the background, the nearest monitor housing a dark edge in the foreground at frame left; technicians stand at frame right and centre in soaked clothes, some with arms half raised, lit by floodlight glare and emergency strobe light. Start: one monitor at the far left flickers, a faint scan line rolling across its face, then catches and burns pale blue-white. Middle: the screens light up one after another from frame left toward the background, the glow blooming through the room and flaring in the auto iris, while the technicians lift their heads and turn toward the bank, wet hair plastered to their foreheads. End: the technicians at frame right and centre throw both arms up and pull each other into wet, exhausted hugs, mouths open in a cheer, their faces and raised hands lit hard by the monitors. Mood: euphoric, exhausted, relieved. Blur: archival softness overall, the bright monitor faces blooming into halos and the background dissolving into murk, while the raised arms and wet faces at frame right and centre stay legible. No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only. Hold the last frame.
+
+overall_soundscape:
+Distorted cheering and applause, a monitor power-up whine, electrical hum from the monitor bank, wet shoes shifting on concrete, exhausted breathing; raw production location sound only, dry and unscored, no background music.
+
+non_diegetic_music:
+N/A

@@ -1,0 +1,25 @@
+{
+ "id": "nian",
+ "out": "refs/sp01/nian.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "The girl in the reference image, grown up into a mature woman of 35: a mature adult face with fine lines at the corners of the eyes and a firmer jaw, lips closed, a serious composed expression (no smile, teeth not visible). Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A Chinese woman in her mid-thirties, dispatch engineer of an underground city: straight black shoulder-length hair tucked behind her ears with short side-swept bangs, calm guarded tired eyes, faint lines, a round face grown lean. Dark grey dispatcher uniform jacket with a high collar, a light headset around her neck. Plain blurred background of a command hall with cold blue monitors. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [
+  "refs/sp01/nian_child.png"
+ ],
+ "usage": {
+  "output_tokens_details": {
+   "text_tokens": 0,
+   "image_tokens": 1372
+  },
+  "total_tokens": 3175,
+  "input_tokens": 1803,
+  "output_tokens": 1372,
+  "input_tokens_details": {
+   "text_tokens": 267,
+   "image_tokens": 1536
+  }
+ },
+ "seconds": 42.7,
+ "ts": "2026-11-26 17:08:00"
+}

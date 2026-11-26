@@ -1,0 +1,10 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s16.png",
+  "refs/sp01/loc_lab.png"
+ ],
+ "ref_ids": [
+  "loc_lab"
+ ],
+ "notes": []
+}

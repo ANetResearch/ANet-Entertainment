@@ -1,0 +1,29 @@
+subject_definitions:
+<Picture 1> is the keyframe of [Shot 1], showing a medium wide shot inside a dimly lit flooded server facility where exhausted, dripping wet technicians celebrate in front of glowing monitor banks while two technicians embrace in the foreground.
+<Subject 1> is the flooded underground root server staging area in <Picture 2>, also seen in <Picture 1>, characterized by massive bare concrete support pillars, standing dark water covering the entire floor, distant rows of industrial server cabinets, tripod-mounted dual LED floodlights casting harsh white illumination and lens flaring, yellow industrial safety guardrails, and staging tables surrounded by thick cable reels, diving equipment, heavy diving helmets, and yellow oxygen tanks resting on tarps.
+<Subject 2> is the team of exhausted, soaking wet technicians in <Picture 1>, wearing dark utilitarian waterproof flight suits, harnesses, and diving undersuits with water-drenched fabric clinging to their bodies, including a male and female technician tightly embracing with tearful relief in the foreground, and colleagues behind them pumping their fists and cheering before the glowing terminal screens.
+
+summary:
+[keyframe completion + reference generation] In a continuous 8-second handheld archival news clip, <Subject 2> erupts into ecstatic celebration within <Subject 1>, embracing and raising their fists as terminal displays and distant server racks blink to life, anchored by the composition and lighting of <Picture 1>.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - the shot directly realizes the staging, medium wide framing, lighting balance, wet tactile textures, and spatial positions of <Subject 2> and the equipment from the keyframe.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the flooded underground concrete environment, black standing water, tripod floodlights, yellow railings, diving gear, and distant server racks from <Picture 2> are fully retained as the physical setting.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the identities, sodden dark jumpsuits, wet hair, safety harnesses, and jubilant emotional states of the technicians celebrating at the terminals and embracing in the foreground are preserved without alteration.
+
+detailed_description:
+The target video is in archival news documentary style, rendered as vintage 2058 electronic news gathering broadcast tape footage. The image exhibits visible horizontal scanline texture, soft interlacing artifacts, slight red color bleeding and trailing along high-contrast edges, blown-out specular highlights on wet surfaces and floodlights, compressed murky shadow values, fine magnetic tape chroma noise, and an intentional soft focus and hasty handheld framing throughout.
+
+Documentary look of this era: archival 2058 broadcast news footage from a shoulder-mounted ENG camera recorded on tape: interlaced softness, faint scan lines, chroma smear on reds, clipped hot whites, crushed murky shadows, compression noise, urgent imperfect framing; archival footage quoted inside a documentary. Real documentary footage, unposed and unstaged, not a movie, not CGI. No hard subtitles, no burned-in captions, no on-screen text, no watermark, no logo overlay.
+
+[Shot 1] The shot's keyframe corresponds to <Picture 1>, capturing a medium wide shot inside the cavernous concrete interior of <Subject 1>. The handheld news camera wobbles slightly with realistic operator breathing and subtle jerks, maintaining an observational eye-level perspective. In the foreground, resting on a wet dark tarp, yellow oxygen cylinders and scratched metal diving helmets glisten beneath harsh white beams from tripod-mounted LED floodlights positioned at the frame edges. In the midground, two technicians of <Subject 2>—a man with graying wet hair seen from behind and a woman with soaked hair plastered to her temple—cling to each other in a fierce, emotional embrace, their sodden work jackets glistening as water droplets run down their collars and their shoulders tremble with relieved weeping. Just behind them at the crowded console desk, multiple stacked CRT and LCD monitors flicker and sequentially illuminate with cascades of green and cyan command code and server telemetry. Two male technicians and a female colleague seated beside the terminal jump slightly in their metal folding chairs, pumping their clenched fists overhead, clapping their hands together, and shouting in euphoric relief. Across the deep background, the dark, stagnant water flooding the facility ripples slightly, catching fractured reflections from distant rows of server rack LED indicators that steadily blink to life among the massive concrete pillars. The handheld camera performs a slight, jerky reframing adjustment to the left, momentarily following the raised arm of the celebrating technician before drifting back to center on the tearful embrace of the foreground pair as they pat each other's soaked shoulders. The scene concludes as the monitors remain brightly illuminated and the crew continues cheering into the dark chamber.
+
+Only raw sync sound is audible throughout the shot, featuring the hollow acoustic reverberation of the cavernous concrete hall, persistent water drips, faint electronics hum, and tape-compressed, slightly distorted applause and indistinct cheering echoing across the water.
+
+No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only.
+
+overall_soundscape:
+On-location sync audio echoes inside a cavernous flooded concrete chamber, dominated by hollow acoustic reverb, faint electronic hum from powering-up equipment, water lapping, and tape-saturated, distorted cheers and clapping without any legible speech. Raw production location sound only, dry and unscored: no background music, no score, no melody of any kind.
+
+non_diegetic_music:
+N/A

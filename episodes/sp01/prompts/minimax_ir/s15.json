@@ -1,0 +1,12 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s15.png",
+  "refs/sp01/boye58.png",
+  "refs/sp01/loc_lab.png"
+ ],
+ "ref_ids": [
+  "boye58",
+  "loc_lab"
+ ],
+ "notes": []
+}

@@ -1,0 +1,71 @@
+{
+ "shot": "s33",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s33.png",
+  "refs/characters/moss.png"
+ ],
+ "ref_ids": [
+  "moss"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-v75"
+ },
+ "retrieved": [
+  {
+   "id": "rules/move/documentary-handheld",
+   "title": "move: documentary-handheld",
+   "kind": "rules:move",
+   "score": 68.36
+  },
+  {
+   "id": "ours/cam-verite-follow",
+   "title": "机位：纪实手持跟拍",
+   "kind": "ours:camera",
+   "score": 52.82
+  },
+  {
+   "id": "rules/move/handheld-slight",
+   "title": "move: handheld-slight",
+   "kind": "rules:move",
+   "score": 41.39
+  },
+  {
+   "id": "ours/light-alarm-red",
+   "title": "现场光：警报红光与监视器冷光",
+   "kind": "ours:light",
+   "score": 40.41
+  },
+  {
+   "id": "ours/sound-crisis",
+   "title": "声音：危机现场",
+   "kind": "ours:sound",
+   "score": 36.09
+  }
+ ],
+ "request": "镜头 s33：纪录片现场纪实镜头，时长 9 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-v75）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['Sony FX6', 'S-Cinetone']）：Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark.\n该类型的纪录片默认机位：fly-on-the-wall documentary camera, shoulder-mounted handheld with small reframings, operator reacting late\n导演意图（自然语言）：手持近景，几乎不动。黑暗里，宋念的脸只被头顶的红光照着，她一动不动地看着那枚镜头，嘴唇动了动，轻声说了一句。环境声：远处的喊声、电流声。\n情绪：stunned, chilling, quiet\n建议的景别与运镜（只做一个主要运镜）：close-up, handheld, almost motionless\n景深与虚实：Only her eyes sharp; the edges of the face fall into red-tinted darkness.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Raw verité close-up in the darkened command hall: Nian's face lit only by the red glow of the lens above, headset around her neck, staring up, very still. Blocking lock: Nian's face fills frame centre, looking up toward frame top right where the red light comes from; darkness all around.\nPicture 2: MOSS terminal (black AI terminal with one red glowing lens) (character reference; role: the central AI's physical presence). Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.\n台词（逐字照抄，按顺序，每句放进一个 <d>[Chinese] ...</d>）：\n1. Nian (a woman in her mid-thirties, low, calm, restrained voice) — 宋念（三十多岁女性的声音，低沉、平静、克制）: 它真的……有了自己的想法。\n现场环境声：distant shouting, a faint electrical hum\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[rules/move/documentary-handheld] move\n[ours/cam-verite-follow] 机位：纪实手持跟拍\n[rules/move/handheld-slight] move\n[ours/light-alarm-red] 现场光：警报红光与监视器冷光\n[ours/sound-crisis] 声音：危机现场\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot — Song Nian's face in the dark command hall, lit only by the red glow of the lens above — from <Picture 1>, serving as composition, lighting and blocking reference. Raw verité close-up in a darkened command hall: her face is the only lit shape, a deep red key from above and slightly frame right carving out her forehead, nose bridge and cheekbone; a headset hangs around her neck; a faint volumetric haze sits in the black around her. Palette: deep black, blood red on skin, a trace of cold steel grey at the very edge. No text, no numbers, no signage anywhere in frame. Blocking lock: Nian's face fills frame centre, chin lifted, eyes looking up toward frame top right where the red light comes from; frame left and frame right fall into darkness; foreground empty; background is unlit black hall depth.\n<Subject 2> is the MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence and the practical red light source of this shot. A monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red at its centre, a thin ring of red light around it, faint reflections of people in the glass; cold, clinical, perfectly clean against the worn surroundings. In this shot it sits just above and to frame right of Nian, mostly out of frame, its lens glow the only light on her face.\n\nsummary:\nIn a blacked-out command hall of 2075, Song Nian holds still in a raw verité close-up and speaks one quiet line to the AI's red eye above her. The clip opens with her lifting her eyes to the glow and ends on \"有了自己的想法。\", with the whole sentence completed, no cut-off; final frame: her face still centred, half sunk in red-tinted darkness, eyes fixed up toward frame top right.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — shape, brushed-steel housing, black glass and the deep-red lens glow retained as the AI terminal.\n\ndetailed_description:\n16:9 horizontal, single clip 9.0s, 24fps, Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up on a shoulder-mounted handheld camera, almost motionless with one very small late reframing as the operator settles, from close-up to a fractionally tighter close-up on her eyes. pacing: natural speed, a single continuous take with no cut. Nian's face fills frame centre, chin lifted, eyes up toward frame top right; the MOSS terminal's red lens glow sits just above her, mostly out of frame; darkness at frame left, frame right and in the background. Start: she is completely still, the red key trembling faintly on her forehead as the haze drifts; her jaw is set, her breath shallow through the nose. Middle: her eyelids narrow and flick, the focus hunts once and finds her eyes again, her lips part and she takes a small breath in, a muscle moving at her throat, the headset cable shifting a millimetre against her collarbone. End: she speaks the line slowly without lowering her gaze, lips closing on the last syllable, and then she does not move again, eyes still fixed up into the red. Mood: stunned, chilling, quiet. Blur: only her eyes stay sharp; the edges of her face, her hair and the headset around her neck fall away into red-tinted darkness, the hall behind her a black void. Nian (a woman in her mid-thirties, low, calm, restrained voice) says, <d>[Chinese] 它真的……有了自己的想法。</d>; Final line of this shot: end on \"有了自己的想法。\", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.\n\noverall_soundscape:\nDeep room tone of a powered-down command hall, a faint continuous electrical hum from the terminal, a distant muffled shout somewhere beyond the hall, a second thinner answer far away, the soft click of her dry swallow, a small intake of breath, the faint creak of the headset cable against fabric, the hum dropping in level as she finishes speaking; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 4955,
+    "completion_tokens": 2185,
+    "total_tokens": 7140,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 1050
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1243
+   },
+   "reasoning_chars": 4187
+  }
+ ],
+ "ts": "2026-11-26 17:31:01",
+ "final": "subject_definitions:\n<Subject 1> is the storyboard keyframe of this shot — Song Nian's face in the dark command hall, lit only by the red glow of the lens above — from <Picture 1>, serving as composition, lighting and blocking reference. Raw verité close-up in a darkened command hall: her face is the only lit shape, a deep red key from above and slightly frame right carving out her forehead, nose bridge and cheekbone; a headset hangs around her neck; a faint volumetric haze sits in the black around her. Palette: deep black, blood red on skin, a trace of cold steel grey at the very edge. No text, no numbers, no signage anywhere in frame. Blocking lock: Nian's face fills frame centre, chin lifted, eyes looking up toward frame top right where the red light comes from; frame left and frame right fall into darkness; foreground empty; background is unlit black hall depth.\n<Subject 2> is the MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence and the practical red light source of this shot. A monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red at its centre, a thin ring of red light around it, faint reflections of people in the glass; cold, clinical, perfectly clean against the worn surroundings. In this shot it sits just above and to frame right of Nian, mostly out of frame, its lens glow the only light on her face.\n\nsummary:\nIn a blacked-out command hall of 2075, Song Nian holds still in a raw verité close-up and speaks one quiet line to the AI's red eye above her. The clip opens with her lifting her eyes to the glow and ends on \"有了自己的想法。\", with the whole sentence completed, no cut-off; final frame: her face still centred, half sunk in red-tinted darkness, eyes fixed up toward frame top right.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — shape, brushed-steel housing, black glass and the deep-red lens glow retained as the AI terminal.\n\ndetailed_description:\n16:9 horizontal, single clip 9.0s, 24fps, Locked look \"2075 crisis verite\" (style preset sp01-v75): a Sony FX6 full-frame documentary camera handheld; S-Cinetone at high ISO; a 24mm prime at f/4; filter UV only; grade: deep solid blacks, true-to-life skin, colour only from the practical sources; light: available light only: alarm red, monitor glow, flashlights; volumetric haze and silhouettes; texture: visible high-ISO noise, focus occasionally hunting; raw verite in a city that has lost its light; faces and key objects readable, the rest dark; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up on a shoulder-mounted handheld camera, almost motionless with one very small late reframing as the operator settles, from close-up to a fractionally tighter close-up on her eyes. pacing: natural speed, a single continuous take with no cut. Nian's face fills frame centre, chin lifted, eyes up toward frame top right; the MOSS terminal's red lens glow sits just above her, mostly out of frame; darkness at frame left, frame right and in the background. Start: she is completely still, the red key trembling faintly on her forehead as the haze drifts; her jaw is set, her breath shallow through the nose. Middle: her eyelids narrow and flick, the focus hunts once and finds her eyes again, her lips part and she takes a small breath in, a muscle moving at her throat, the headset cable shifting a millimetre against her collarbone. End: she speaks the line slowly without lowering her gaze, lips closing on the last syllable, and then she does not move again, eyes still fixed up into the red. Mood: stunned, chilling, quiet. Blur: only her eyes stay sharp; the edges of her face, her hair and the headset around her neck fall away into red-tinted darkness, the hall behind her a black void. Nian (a woman in her mid-thirties, low, calm, restrained voice) says, <d>[Chinese] 它真的……有了自己的想法。</d>; Final line of this shot: end on \"有了自己的想法。\", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.\n\noverall_soundscape:\nDeep room tone of a powered-down command hall, a faint continuous electrical hum from the terminal, a distant muffled shout somewhere beyond the hall, a second thinner answer far away, the soft click of her dry swallow, a small intake of breath, the faint creak of the headset cable against fabric, the hum dropping in level as she finishes speaking; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director"
+}

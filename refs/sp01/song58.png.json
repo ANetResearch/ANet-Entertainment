@@ -1,0 +1,25 @@
+{
+ "id": "song58",
+ "out": "refs/sp01/song58.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "The man in the reference image, ten years older, at 43. Keep exactly the same person as in the reference image: the same face shape, eyes, nose, mouth and distinguishing marks, so that the two images are unmistakably the same individual. Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. The same man ten years later, 43: the same face, mole and thin round steel-rimmed glasses, now grey at the temples, short stubble, a thinner face with deeper lines and tired eyes. Dark olive engineering field jacket with reflective strips over a black thermal undersuit. Plain blurred background of a floodlit concrete staging area. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [
+  "refs/sp01/song.png"
+ ],
+ "usage": {
+  "input_tokens": 1761,
+  "output_tokens": 5488,
+  "input_tokens_details": {
+   "text_tokens": 225,
+   "image_tokens": 1536
+  },
+  "output_tokens_details": {
+   "text_tokens": 0,
+   "image_tokens": 5488
+  },
+  "total_tokens": 7249
+ },
+ "seconds": 93.6,
+ "ts": "2026-11-26 17:06:30"
+}

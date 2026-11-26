@@ -1,0 +1,28 @@
+# sp01 s16_a  duration=6s  seed=367920011  prompt_source=ir  cost=0.24
+# input images: ['episodes/sp01/storyboard/s16.png', 'refs/sp01/loc_lab.png']
+
+subject_definitions:
+<Picture 1> is the keyframe of [Shot 1], establishing the tight observational close-up composition, warm desk lamp lighting, researcher hand placement, and vintage CRT monitor displaying a glowing intersection between a smooth horizontal baseline and a jagged ascending signal curve.
+<Subject 1> is the 2050s Project 550 research laboratory environment in <Picture 2>, defined by a heavy industrial workbench cluttered with oscilloscopes, wire coils, circuit boards, and tools, set against a floor-to-ceiling glass partition that reveals a vast server room illuminated by cool white fluorescent fixtures and anchored by a central black server cabinet with a glowing circular red lens aperture.
+
+summary:
+[keyframe completion + reference generation] In a single observational documentary close-up anchored by <Picture 1>, the camera executes a slow push in on a vintage CRT display inside the dim <Subject 1> laboratory as a researcher's index finger gently touches down on the glowing intersection of a flat baseline and a jagged ascending signal line, illuminated by a warm overhead desk lamp amidst cold, steady equipment fan noise.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - The framing, industrial CRT monitor casing with adjustment knobs, dual phosphor waveforms meeting at a single luminous node, researcher's pointing hand and white coat sleeve, overhead conical lamp angle, and out-of-focus background instruments are preserved exactly as the keyframe anchor of [Shot 1].
+<Subject 1> (appears in [Shot 1]): partially_preserved - The core visual atmosphere of the laboratory is preserved through the background depth layers, including the brass wire coil, electronic chassis, and glass partition reflecting the cold server room and distant red sensor dot, while the wider workbench layout and full server hall from <Picture 2> remain outside the frame due to the tight close-up composition.
+
+detailed_description:
+The target video is in realistic Super 16 color negative archival documentary style, characterized by organic film grain, slightly softened optical resolution, low-saturation tones, deep atmospheric shadows, and a mixed color temperature blending cool overhead fluorescents with a warm tungsten desk lamp.
+
+Documentary look of this era: observational documentary footage from a research institute's own 2050s film archive, shot on Super 16 colour negative: lively visible grain, slightly soft resolution, cold fluorescent light mixed with one warm desk lamp, muted desaturated palette, deep shadows, imperfect handheld framing; documentary insert close-up grabbed handheld, focus breathing. Real documentary footage, unposed and unstaged, not a movie, not CGI. No hard subtitles, no burned-in captions, no on-screen text, no watermark, no logo overlay.
+
+[Shot 1] The shot begins from <Picture 1> in a medium close-up, capturing a heavy industrial CRT monitor resting on a metal workbench in the dimly lit <Subject 1> laboratory. In the upper-left foreground, a weathered metal desk lamp casts a warm, concentrated pool of amber light downward across the rugged metallic casing and control knobs of the display. On the dark glass screen, two glowing green phosphor signal traces are illuminated: a gentle, nearly flat horizontal baseline and an irregularly stepped, jagged curve that climbs steeply from the lower left toward the upper right. Positioned in the lower-left foreground, the hand of a researcher dressed in a pale lab coat extends into the frame, with their index finger poised millimeters away from the luminous bright node where the two curves intersect. In the softly blurred background, the atmospheric depth of <Subject 1> is visible, showing tabletop instrument chassis, a brass wire spool, and the dark glass wall separating the work area from the cool-white server room, where a single circular red camera eye faintly glows in the distance. The camera operates as a slow Push In combined with Shake Slightly, evoking an imperfect handheld observational documentary operator steadily closing distance on the display. As the camera pushes closer, the researcher's index finger smoothly advances and gently presses its fingertip directly against the glass over the glowing point of convergence. The fingertip creates a subtle organic pressure against the reflective glass surface without shaking, grounding the visual tension on the single cross point of the signals. Throughout the shot, the camera maintains its deliberate, slow forward creep, tightening the framing around the illuminated phosphor lines, the contact point of the finger, and the textured glass of the monitor until the screen fills the majority of the frame. Diegetic ambient sound runs continuously across the scene, dominated by the low-frequency hum of ventilation fans, electrical line buzz from the CRT display, and muffled, distant, indecipherable background murmurs from off-screen personnel deep inside the facility.
+
+No character speaks any line in this shot; any human voices are indistinct, unintelligible Mandarin Chinese walla only.
+
+overall_soundscape:
+A continuous low-frequency drone of heavy ventilation fans and server rack cooling systems, layered with subtle electrical hum from vintage CRT monitors and distant, muffled, indistinct background murmurs of technicians working in the facility. Raw production location sound only, dry and unscored: no background music, no score, no melody of any kind.
+
+non_diegetic_music:
+N/A

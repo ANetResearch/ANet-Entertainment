@@ -1,0 +1,12 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s31.png",
+  "refs/characters/moss.png",
+  "refs/locations/loc_admin.png"
+ ],
+ "ref_ids": [
+  "moss",
+  "loc_admin"
+ ],
+ "notes": []
+}

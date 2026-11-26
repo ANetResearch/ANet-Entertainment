@@ -1,0 +1,22 @@
+subject_definitions:
+<Picture 1> is the keyframe of [Shot 1], establishing the high-angle close-up framing, warm sunlight, and initial position of the young girl drawing at a wooden table.
+<Subject 1> is the young girl, Niannian, seen in <Picture 1>, featuring a dark bob haircut with straight bangs, small hands, and wearing a textured mustard-yellow knit sweater.
+<Subject 2> is the crayon drawing on crinkled kraft paper shown in <Picture 1> and detailed in <Picture 2>, depicting a large central black square with a single red circular eye and stick legs, surrounded by smaller colorful squares with two-dot eyes and smiling faces holding hands.
+
+summary:
+[keyframe completion + reference generation] Anchored by <Picture 1>, a continuous handheld close-up captures <Subject 1> using a green crayon to connect figures on <Subject 2> while speaking aloud in a sunlit room.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - The high-angle composition, golden backlighting, subject placement, and desktop arrangement directly establish the opening state of [Shot 1].
+<Subject 1> (appears in [Shot 1]): fully_preserved - Retains the child's facial features, dark bob hairstyle, small hands, and mustard-yellow knitted sweater from <Picture 1>.
+<Subject 2> (appears in [Shot 1]): fully_preserved - Fully maintains the crayon artwork composition from <Picture 2>, including the central black square with a red eye and the ring of smaller colorful smiling figures.
+
+detailed_description:
+The target video is in a vintage 2048 home video documentary style, marked by soft naturalistic lighting, subtle autofocus breathing, muted warm tones, and gentle handheld drift.
+[Shot 1] Starting from the keyframe composition of <Picture 1>, the camera maintains a high-angle close-up looking down at the sunlit wooden table. In the upper portion of the frame, <Subject 1>, wearing her mustard-yellow sweater, leans forward with a soft, focused expression. In the foreground, her small hand firmly grips a green crayon over <Subject 2>. As the shot begins, only the rhythmic, tactile scratching of the crayon on paper and gentle room ambience are audible. With a slow, subtle handheld drift, the camera slightly reframes as <Subject 1> draws a wobbly green line connecting two of the smiling square figures, then begins bridging another. In a clear, youthful, and innocent 6-year-old vocal timbre, <Subject 1> (S1) speaks aloud, <d>[Chinese] 小的们手拉手，就不怕大的了。</d> Upon finishing her sentence, her voice stops, and she completes the crayon stroke across the paper, resting her hand lightly against the page as quiet room tone and soft breathing linger through the end of the shot.
+
+overall_soundscape:
+Quiet domestic room tone layered with the tactile, rhythmic scratching of wax crayon dragging across textured paper.
+
+non_diegetic_music:
+N/A

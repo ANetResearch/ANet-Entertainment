@@ -1,0 +1,14 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s27.png",
+  "refs/characters/boye.png",
+  "refs/props/prop_node.png"
+ ],
+ "ref_ids": [
+  "boye",
+  "prop_node"
+ ],
+ "notes": [
+  "line split into 2 parts by the IR (words exact)"
+ ]
+}

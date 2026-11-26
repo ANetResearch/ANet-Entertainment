@@ -1,0 +1,23 @@
+{
+ "id": "song",
+ "out": "refs/sp01/song.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "Waist-up environmental portrait, eye level, subject looking slightly off camera, shallow depth of field. A 33-year-old Chinese man, systems engineer on a national quantum-computer project. Slim, medium height, short neat black hair with a side parting, clean-shaven, a small mole under his right eye, warm attentive eyes with faint laugh lines, thin round steel-rimmed glasses. Light-grey knitted cardigan over a pale blue collared work shirt, a blank white ID card on a dark lanyard, a cheap black digital wristwatch on his left wrist. Plain blurred background of a research-institute corridor under fluorescent tubes. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Muted cold palette with a few warm practical lamps.",
+ "inputs": [],
+ "usage": {
+  "input_tokens": 204,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 204
+  },
+  "output_tokens": 5488,
+  "output_tokens_details": {
+   "image_tokens": 5488,
+   "text_tokens": 0
+  },
+  "total_tokens": 5692
+ },
+ "seconds": 92.7,
+ "ts": "2026-11-26 16:58:22"
+}

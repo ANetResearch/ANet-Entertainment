@@ -1,0 +1,10 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s05.png",
+  "refs/sp01/prop_drawing.png"
+ ],
+ "ref_ids": [
+  "prop_drawing"
+ ],
+ "notes": []
+}

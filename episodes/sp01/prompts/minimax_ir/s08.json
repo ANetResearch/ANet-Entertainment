@@ -1,0 +1,12 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s08.png",
+  "refs/sp01/prop_proto.png",
+  "refs/sp01/song.png"
+ ],
+ "ref_ids": [
+  "prop_proto",
+  "song"
+ ],
+ "notes": []
+}

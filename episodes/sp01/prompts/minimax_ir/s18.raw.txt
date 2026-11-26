@@ -1,0 +1,22 @@
+subject_definitions:
+<Picture 1> is the keyframe of [Shot 1], setting the medium wide staging, lighting, and placement of technicians wading into dark water.
+<Subject 1> is the team of technicians in <Picture 1>, equipped in dark diving suits, heavy helmets, yellow oxygen tanks, and carrying waterproof equipment cases.
+<Subject 2> is the flooded underground server room depicted in <Picture 1> and <Picture 2>, featuring a wet staging platform strewn with diving gear, high-intensity tripod floodlights, massive concrete pillars, and dark knee-deep water submerging distant server racks.
+
+summary:
+[keyframe completion + reference generation] Recorded as shaky archival news footage, <Subject 1> wades through the knee-deep black water of <Subject 2> carrying equipment cases, opening from the composition of <Picture 1>.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - establishes the opening composition, lighting contrast, and initial positions of the technicians and foreground staging gear.
+<Subject 1> (appears in [Shot 1]): fully_preserved - the technicians maintain their diving suits, helmets, yellow back-mounted tanks, and hard cases as they move through the water.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the flooded server environment retains the concrete staging deck, floodlights, support pillars, and submerged rack layout from <Picture 1> and <Picture 2>.
+
+detailed_description:
+The target video is in degraded 2058 ENG archival tape style, featuring scanlines, color fringing, highlight bloom, and heavy tape compression artifacts.
+[Shot 1] The shot begins from <Picture 1> in a medium wide framing. Foreground equipment tarps, diving helmets, and yellow tanks sit on the wet concrete staging floor of <Subject 2>, illuminated by harsh tripod floodlights. In the midground, <Subject 1> wades away from the platform into knee-deep, murky black water, pushing forward past yellow safety railings toward distant, half-submerged server racks. The camera executes a Tracking Shot combined with Shake Strongly at fast speed, unsteadily following behind the technicians. Water churns violently around their legs as emergency strobe lights reflect against the dark surface. Distorted walkie-talkie bursts, echoing water sloshes, and muffled, unintelligible background shouts resonate through the chamber without musical accompaniment.
+
+overall_soundscape:
+Diegetic atmosphere featuring heavy water splashing, resonant mechanical hums, harsh radio interference, and muffled, indistinct background shouts echoing in the subterranean chamber.
+
+non_diegetic_music:
+N/A

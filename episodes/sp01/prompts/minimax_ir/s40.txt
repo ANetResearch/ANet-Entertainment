@@ -1,0 +1,23 @@
+subject_definitions:
+<Picture 1> is the keyframe and composition anchor of [Shot 1], establishing the seated interview framing, industrial room, boom mic placement, lighting, and subject pose.
+<Subject 1> is Song Nian, a 36-year-old female dispatch engineer depicted in <Picture 1> and <Picture 2>, with shoulder-length black hair tucked behind her ears, short side bangs, a restrained expression, wearing a dark grey stand-collar dispatcher uniform with a neck-worn headset as referenced in <Picture 2> and seated as framed in <Picture 1>.
+<Subject 2> is the worn hardcover engineering notebook held in <Picture 1> and detailed in <Picture 3>, featuring aged pages filled with pencil network diagrams and a taped crayon drawing on the front page.
+
+summary:
+[keyframe completion + reference generation] In a documentary interview setup anchored by <Picture 1>, <Subject 1> sits in an industrial room holding <Subject 2>, flips to the final page of the notebook, looks up at the interviewer, and delivers her line in a calm, steady voice before quietly holding her gaze as the camera slowly pushes in.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - Anchors the medium-shot interview composition, left-side soft lighting, industrial background, boom microphone placement, and seated posture in [Shot 1].
+<Subject 1> (appears in [Shot 1]): fully_preserved - Facial identity, hairstyle, calm demeanor, and attire from <Picture 1> and <Picture 2> are preserved throughout [Shot 1].
+<Subject 2> (appears in [Shot 1]): fully_preserved - The hardcover engineering notebook from <Picture 1> and <Picture 3> is retained, transitioning from its open page to its final page.
+
+detailed_description:
+Documentary look of this era: a clean oral-history documentary interview recorded in 2078 on a Sony FX6 with a 50mm lens at f/2.8: one soft key light from the left with gentle falloff, true-to-life skin texture, shallow depth of field, neutral colour, calm and restrained; documentary talking-head interview, tripod camera, subject looks past the lens at the interviewer. Real documentary footage, unposed and unstaged, not a movie, not CGI. No hard subtitles, no burned-in captions, no on-screen text, no watermark, no logo overlay.
+
+The target video is in realistic 2078 oral history documentary style with neutral tones, shallow depth of field, and natural skin tones lit by soft key lighting from the left. [Shot 1] The shot begins anchored by <Picture 1> in a medium shot showing <Subject 1> seated on a metal chair in an industrial concrete room with an overhead boom mic visible above her head. She holds <Subject 2> open across her lap. As the camera performs a slow, subtle Push In, the room's quiet room tone is audible. <Subject 1> lowers her gaze to turn the pages of <Subject 2> to its final page, then raises her head to look directly at the off-screen interviewer. With a low, calm, and restrained female voice, Song Nian (S1) speaks, <d>[Chinese] 最后一页他写着：规则不属于任何一个人，所以才能属于所有人。</d> After delivering the line, her lips close into a composed expression, and she holds her steady, reflective gaze toward the interviewer while her hands rest quietly on the open notebook as the camera continues its gentle push until the shot ends.
+
+overall_soundscape:
+A quiet, dry room tone of an empty underground concrete interior with faint ventilation hum, accompanied by natural foley of pages turning in a paper notebook. Raw production location sound only, dry and unscored: no background music, no score, no melody of any kind.
+
+non_diegetic_music:
+N/A

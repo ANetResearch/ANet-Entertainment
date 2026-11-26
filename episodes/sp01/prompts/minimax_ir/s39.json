@@ -1,0 +1,14 @@
+{
+ "images": [
+  "episodes/sp01/storyboard/s39.png",
+  "refs/sp01/nian.png",
+  "refs/locations/loc_street.png",
+  "refs/sp01/prop_notebook.png"
+ ],
+ "ref_ids": [
+  "nian",
+  "loc_street",
+  "prop_notebook"
+ ],
+ "notes": []
+}

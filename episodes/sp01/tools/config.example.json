@@ -1,0 +1,16 @@
+{
+ "gravitex": {
+  "url": "https://api.gravitex.ai",
+  "image_model": "gpt-image-2.6-sunburst"
+ },
+ "autodl": {
+  "base": "https://autodl.art/api/v1/comfyui/comfyui_workflow",
+  "workflow": "minimax_h3_adl_int8",
+  "price_per_sec": 0.04,
+  "budget_cny": 100
+ },
+ "minimax": {
+  "base": "https://api.minimaxi.com",
+  "model": "MiniMax-H3"
+ }
+}

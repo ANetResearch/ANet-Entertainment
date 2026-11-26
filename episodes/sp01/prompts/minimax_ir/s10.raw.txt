@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the prototype node iron box in <Picture 2> and <Picture 1>, featuring a battered olive-green metal casing with a plain lid, exposed circuitry, a compact aluminum heatsink, three small indicator LEDs, and a short black antenna.
+<Subject 2> is the 550 project laboratory in <Picture 3> and <Picture 1>, featuring an industrial workbench laden with oscilloscopes, soldering tools, and a desk lamp, fronting a glass wall that reveals a cold-lit server room with a central black server rack bearing a circular red optical lens.
+<Picture 1> is the storyboard and shot-plan reference for [Shot 1], establishing the workbench prop placement, lighting balance, and spatial arrangement of the two prototype units.
+
+summary:
+[reference generation] Inside <Subject 2>, a macro documentary close-up slowly slides laterally across the workbench from one <Subject 1> prototype box to another, capturing their indicator LEDs shifting from red to synchronized green flashes.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - The two prototype units retain the dented metal chassis, exposed circuitry, heatsink, antenna, and tri-color indicator layout from <Picture 2>, animating light color changes per prompt.
+<Subject 2> (appears in [Shot 1]): fully_preserved - The workbench environment retains the dark industrial textures, vintage test equipment, mixed warm-and-cold lighting, and server room backdrop from <Picture 3>.
+<Picture 1> ([Shot 1] shot-plan): fully_preserved - Directly informs the spatial arrangement of the workbench, background server room perspective, and lighting contrast.
+
+detailed_description:
+The target video is in Super 16mm color negative documentary style with visible film grain, muted saturation, soft resolution, deep shadows, and naturalistic handheld observation.
+
+[Shot 1] The macro close-up opens in shallow focus on the first <Subject 1> resting on the left side of the metal workbench in <Subject 2>. The battered olive-green casing, aluminum heatsink, and short antenna are highlighted by the warm desk lamp, while its three small indicator LEDs pulse steadily in red. In the background beyond the glass partition, the cold fluorescent rows of server racks and the red optical lens on the central cabinet remain softly blurred. The camera executes a slow, steady lateral slide (Truck Right) across the workbench surface, gliding past scattered wires, open logbooks, and test instruments. Midway through the movement, both <Subject 1> units' indicator LEDs abruptly switch from red to green, flashing simultaneously three times in crisp unison as the camera settles on the second unlinked <Subject 1> on the right. Throughout the shot, a heavy low-frequency server hum and ventilation drone permeate the space, accompanied by faint, unintelligible background chatter in Mandarin. Two soft, delicate electronic alert chimes sound in synchrony with the green flashes, before receding back into the continuous ambient drone through the end.
+
+overall_soundscape:
+A steady ambient acoustic environment dominated by low-frequency server room hum and ventilation drone, layered with distant unintelligible background speech in Mandarin and two subtle electronic notification chimes.
+
+non_diegetic_music:
+N/A

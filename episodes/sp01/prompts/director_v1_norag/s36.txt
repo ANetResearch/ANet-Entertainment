@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot (raw verité close-up, dark cramped apartment during the blackout) from <Picture 1>, serving as composition, lighting and blocking reference. Nian's face is held close in the bounce light of the flashlight, eyes wet but steady, reading the last page of the notebook held up near her chin. Behind her, softly out of focus, the steel wall and the round porthole window; no monitors. Palette: near-black, cold steel grey, one warm pale pool of torchlight on skin; available light only, deep solid blacks, volumetric haze. Blocking lock: Nian's face at frame centre-right, the notebook edge at frame lower left catching the flashlight, darkness filling the frame edges and the background behind her.
+<Subject 2> is Nian (Song's daughter, dispatch engineer, 33 in 2075, 36 in 2078) from <Picture 2>, serving as the daughter, now grown up. A Chinese woman in her mid-thirties, dispatch engineer of an underground city: straight black shoulder-length hair tucked behind her ears with short side-swept bangs, calm guarded tired eyes, faint lines, a round face grown lean. Costume lock for this shot: dark grey dispatcher uniform jacket with a high collar, a light headset around her neck; this picture is the character reference.
+<Subject 3> is Song's notebook with the crayon drawing taped on the first page from <Picture 3>, serving as the prop she reads. A worn hardback engineer's notebook lying open: on the first page the child's crayon drawing (a big black box with one red eye and many small smiling coloured boxes holding hands) is taped in with yellowed tape; around it and across the facing page, an adult's dense pencil diagrams of networks, many small circles linked by lines, arrows and loops spreading outward. Only abstract shapes, no legible words or numbers. Softened board edges, scuffed spine, finger-worn page corners.
+<Subject 4> is Nian's cramped apartment in the underground city from <Picture 4>, serving as the location. A cramped family apartment in an underground city: steel walls, a narrow bunk bed, a small wall screen glowing blue, a round porthole window looking out on the lit shaft of the city, a folding table with a teapot and a worn notebook. Empty of people, dim.
+
+summary:
+A handheld verité close-up in the blackout dark of a cramped underground-city apartment in 2075: Nian reads the last page of Song's notebook by flashlight, eyes reddening, and says the line quietly. The clip ends on "我们就得有彼此。", with the whole sentence completed, no cut-off; final frame: Nian's face at frame centre-right, wet-eyed and still, the notebook edge at frame lower left, the rest sinking into black.
+
+retention_analysis:
+<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape, taped drawing and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw verite documentary footage shot handheld in 2075 on a high-ISO full-frame documentary camera in available light only: visible sensor noise, deep solid blacks, volumetric haze and silhouettes, true-to-life skin tones, focus occasionally hunting; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.
+[Shot 1] At 0.0s, close-up, shoulder-mounted handheld fly-on-the-wall documentary camera, nearly still with one very slow small drift in from close-up to a slightly tighter close-up, operator reacting late; pacing: natural speed, a single continuous take with no cut.
+Blocking at the start: Nian's face at frame centre-right, the flashlight glow bouncing up onto her cheeks; the open notebook edge at frame lower left, her hands steadying it; the steel wall and the round porthole window soft and dark behind her at frame right depth; the rest of the room lost in black.
+Start: Nian holds the notebook up close, the flashlight in her other hand angled so its reflection climbs across her cheekbones; her eyes move down the last page, tracking the pencil loops. Middle: she blinks twice, her jaw tightens, the wet line along her lower lids catches the light and one blink makes it shimmer without falling; her thumb presses flat on the page edge and stays there. End: she lifts her eyes off the page, looks slightly past the camera into the dark, breathes in and speaks the line slowly and quietly, then her lips close and she holds, still, the notebook edge trembling a fraction.
+Mood: moved, quiet, resolute. Blur: her eyes are sharp; the notebook edge in the foreground and the steel wall, porthole window and blue screen glow behind her all fall soft and undefined.
+Nian (a woman in her mid-thirties, low, calm, restrained voice) says, <d>[Chinese] 要是它有了自己的想法……我们就得有彼此。</d>;
+Final line of this shot: end on "我们就得有彼此。", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+Near silence of a sealed steel apartment, faint distant alarm echoing down the city shaft, the small click of the flashlight being gripped, dry page paper under her thumb, her slow breath in, the quiet low voice close to the microphone, faint hum of the wall screen; raw production location sound only, dry and unscored, no background music.
+
+non_diegetic_music:
+N/A

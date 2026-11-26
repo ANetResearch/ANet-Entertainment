@@ -1,0 +1,71 @@
+{
+ "shot": "s05",
+ "model": "deepseek-flash",
+ "images": [
+  "episodes/sp01/storyboard/s05.png",
+  "refs/sp01/prop_drawing.png"
+ ],
+ "ref_ids": [
+  "prop_drawing"
+ ],
+ "style": {
+  "mode": "fixed",
+  "preset": "sp01-home48"
+ },
+ "retrieved": [
+  {
+   "id": "ours/cam-insert",
+   "title": "机位：细节特写插入",
+   "kind": "ours:camera",
+   "score": 58.16
+  },
+  {
+   "id": "ours/sound-home",
+   "title": "声音：家里的午后",
+   "kind": "ours:sound",
+   "score": 57.93
+  },
+  {
+   "id": "rules/move/documentary-handheld",
+   "title": "move: documentary-handheld",
+   "kind": "rules:move",
+   "score": 41.95
+  },
+  {
+   "id": "rules/size/insert-shot",
+   "title": "size: insert-shot",
+   "kind": "rules:size",
+   "score": 39.61
+  },
+  {
+   "id": "aigc/28/video1",
+   "title": "《寂静的朋友》影像风格提示词 · 视频提示词 1",
+   "kind": "aigc:video",
+   "score": 23.0
+  }
+ ],
+ "request": "镜头 s05：纪录片细节特写镜头，时长 7 秒，16:9 横屏，24fps，单镜头一镜到底（只写 [Shot 1]）。\n风格模式：固定风格（style preset sp01-home48）。锁定外观 / Locked look（detailed_description 第一行必须照此书写，并逐字包含 ['consumer handheld family camera', 'low-bitrate']）：Locked look \"2040s family home video\" (style preset sp01-home48): a 2040s consumer handheld family camera on full auto; low-bitrate consumer digital video; fixed wide-normal zoom around 28mm equivalent at automatic, deep but soft focus; filter none; grade: warm faded beige, lifted greyish blacks, low saturation; light: available window daylight, auto-exposure pumping, highlights blooming; texture: macroblocking on motion, chroma noise in shadows, slight motion blur, focus hunting; remembered family footage: warm, soft, imperfect, held by a parent's hand.\n该类型的纪录片默认机位：documentary insert close-up grabbed handheld, focus breathing\n导演意图（自然语言）：俯拍特写，手持轻微晃动，阳光洒在纸上。小手握着绿色蜡笔，把两个小方块用歪歪扭扭的线连起来，又连了一个。小女孩一边画一边说。环境声：蜡笔的沙沙声。\n情绪：innocent, playful, quietly prophetic\n建议的景别与运镜（只做一个主要运镜）：close-up looking down, handheld home camera with a slow slight drift\n景深与虚实：Shallow focus on the crayon tip and the paper; the far edge of the drawing and the table fall soft.\n输入图片（按发送顺序；Subject N 对应 Picture N）：\nPicture 1: the storyboard keyframe of this shot (opening frame). It shows: Close-up looking down at a child's crayon drawing on a sunlit wooden table: a big black box with one red eye in the middle and many small smiling coloured boxes around it; a small child's hand holding a green crayon draws a wobbly line that joins two of the small boxes. Blocking lock: the drawing fills the frame; the big black box with the red eye sits at frame centre, the small coloured boxes around it; the child's hand enters from frame right.\nPicture 2: little Nian's crayon drawing (prop reference; role: prop reference). A child's crayon drawing on a sheet of slightly crumpled paper on a wooden table in sunlight: in the middle a big black square box with one round red eye; around it many small boxes in different bright colours (yellow, blue, green, orange), each with two dot eyes and a little smile, joined to each other by wobbly crayon lines like holding hands. Naive childlike strokes, no letters or words. A few crayons beside it.\n台词（逐字照抄，按顺序，每句放进一个 <d>[Chinese] ...</d>）：\n1. Little Nian (a six-year-old girl's high, soft, clear voice) — 小念念（6 岁小女孩的声音，稚嫩清亮）: 小的们手拉手，就不怕大的了。\n现场环境声：crayon scratching on paper, faint kitchen room tone\n参考词汇（检索所得，只借用术语与思路，不要整段照抄，不得改变锁定外观）：\n[ours/cam-insert] 机位：细节特写插入\n[ours/sound-home] 声音：家里的午后\n[rules/move/documentary-handheld] move\n[rules/size/insert-shot] size\n[aigc/28/video1] 《寂静的朋友》影像风格提示词 · 视频提示词 1\n画面中没有字幕、文字、数字和水印；没有任何音乐和旁白；只说普通话。",
+ "attempts": [
+  {
+   "output": "subject_definitions:\n<Subject 1> is the storyboard keyframe of a close-up looking down at a child's crayon drawing on a sunlit wooden table from <Picture 1>, serving as composition, lighting and blocking reference. The drawing fills the frame: a big black box with one red eye at frame centre, many small smiling coloured boxes around it, a small child's hand holding a green crayon entering from frame right. The table is warm brown wood, with soft window daylight falling across the paper and highlights blooming slightly on the sheet. Palette: warm faded beige, bright crayon colours, lifted greyish blacks. No letters, words or numbers on the paper. Blocking lock: the drawing fills the frame, the big black box with the red eye sits at frame centre, the small coloured boxes around it, the child's hand enters from frame right; no other figure in frame.\n<Subject 2> is little Nian's crayon drawing from <Picture 2>, serving as prop reference. A child's crayon drawing on a sheet of slightly crumpled paper on a wooden table in sunlight: in the middle a big black square box with one round red eye; around it many small boxes in different bright colours (yellow, blue, green, orange), each with two dot eyes and a little smile, joined to each other by wobbly crayon lines like holding hands. Naive childlike strokes, no letters or words. A few crayons beside it.\n\nsummary:\nClose-up looking down at a sunlit wooden table in a 2040s family home, shot on a 2040s consumer handheld family camera as low-bitrate home video with a warm, faded beige look: a six-year-old girl's small hand draws wobbly green crayon lines between the little coloured boxes on her drawing. The clip opens with Little Nian saying \"小的们手拉手，就不怕大的了。\" and ends on \"就不怕大的了。\", with the whole sentence completed, no cut-off; final frame: the green crayon resting on the paper beside a newly drawn line, the drawing still filling the frame.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2040s family home video\" (style preset sp01-home48): a 2040s consumer handheld family camera on full auto; low-bitrate consumer digital video; fixed wide-normal zoom around 28mm equivalent at automatic, deep but soft focus; filter none; grade: warm faded beige, lifted greyish blacks, low saturation; light: available window daylight, auto-exposure pumping, highlights blooming; texture: macroblocking on motion, chroma noise in shadows, slight motion blur, focus hunting; remembered family footage: warm, soft, imperfect, held by a parent's hand; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up looking down, handheld consumer home camera with one slow slight drift from the centre of the drawing toward the child's hand at frame right, ending slightly tighter on the crayon tip and the paper. pacing: natural speed, a single continuous take with no cut. The drawing fills the frame at the start: the big black box with one red eye at frame centre, the small coloured boxes around it, the child's hand entering from frame right, the far edge of the table falling soft in the background. Start: the green crayon tip touches the paper beside one small yellow box and presses down, the sheet shifting a little on the wood, the focus breathing softly on the crayon tip. Middle: the hand moves in short, uneven strokes, drawing a wobbly green line across to a blue box, then lifting and starting a second line toward an orange box, the crayon squeaking and skipping over the paper fibres. End: the second line closes the gap between the boxes, the hand pauses with the crayon still on the paper, and the crayon tip lifts a few millimetres as the drawing holds in frame. Mood: innocent, playful, quietly prophetic. Blur: the crayon tip, the fresh green lines and the paper immediately under the hand are sharp; the far edge of the drawing, the loose crayons and the table fall soft, the background fully dissolved. Little Nian (a six-year-old girl's high, soft, clear voice) says, <d>[Chinese] 小的们手拉手，就不怕大的了。</d>; Nobody else says anything intelligible. Final line of this shot: end on \"就不怕大的了。\", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.\n\noverall_soundscape:\nCrayon scratching and skipping on paper, the soft rustle of the paper on the wooden table, a faint kitchen room tone, a low fridge hum from another room, the child's small breath and soft voice close to the microphone; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+   "errors": [],
+   "usage": {
+    "prompt_tokens": 4979,
+    "completion_tokens": 4286,
+    "total_tokens": 9265,
+    "prompt_tokens_details": {
+     "cached_tokens": 3712
+    },
+    "completion_tokens_details": {
+     "reasoning_tokens": 3141
+    },
+    "prompt_cache_hit_tokens": 3712,
+    "prompt_cache_miss_tokens": 1267
+   },
+   "reasoning_chars": 13321
+  }
+ ],
+ "ts": "2026-11-26 17:30:17",
+ "final": "subject_definitions:\n<Subject 1> is the storyboard keyframe of a close-up looking down at a child's crayon drawing on a sunlit wooden table from <Picture 1>, serving as composition, lighting and blocking reference. The drawing fills the frame: a big black box with one red eye at frame centre, many small smiling coloured boxes around it, a small child's hand holding a green crayon entering from frame right. The table is warm brown wood, with soft window daylight falling across the paper and highlights blooming slightly on the sheet. Palette: warm faded beige, bright crayon colours, lifted greyish blacks. No letters, words or numbers on the paper. Blocking lock: the drawing fills the frame, the big black box with the red eye sits at frame centre, the small coloured boxes around it, the child's hand enters from frame right; no other figure in frame.\n<Subject 2> is little Nian's crayon drawing from <Picture 2>, serving as prop reference. A child's crayon drawing on a sheet of slightly crumpled paper on a wooden table in sunlight: in the middle a big black square box with one round red eye; around it many small boxes in different bright colours (yellow, blue, green, orange), each with two dot eyes and a little smile, joined to each other by wobbly crayon lines like holding hands. Naive childlike strokes, no letters or words. A few crayons beside it.\n\nsummary:\nClose-up looking down at a sunlit wooden table in a 2040s family home, shot on a 2040s consumer handheld family camera as low-bitrate home video with a warm, faded beige look: a six-year-old girl's small hand draws wobbly green crayon lines between the little coloured boxes on her drawing. The clip opens with Little Nian saying \"小的们手拉手，就不怕大的了。\" and ends on \"就不怕大的了。\", with the whole sentence completed, no cut-off; final frame: the green crayon resting on the paper beside a newly drawn line, the drawing still filling the frame.\n\nretention_analysis:\n<Subject 1> (appears in this shot): fully_preserved — composition, environment, lighting and layout retained as the opening frame.\n<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.\n\ndetailed_description:\n16:9 horizontal, single clip 7.0s, 24fps, Locked look \"2040s family home video\" (style preset sp01-home48): a 2040s consumer handheld family camera on full auto; low-bitrate consumer digital video; fixed wide-normal zoom around 28mm equivalent at automatic, deep but soft focus; filter none; grade: warm faded beige, lifted greyish blacks, low saturation; light: available window daylight, auto-exposure pumping, highlights blooming; texture: macroblocking on motion, chroma noise in shadows, slight motion blur, focus hunting; remembered family footage: warm, soft, imperfect, held by a parent's hand; real documentary footage, not a movie, not CGI, unposed; no hard subtitles, no burned-in captions, no on-screen text, no logo, watermark or platform bugs.\n[Shot 1] At 0.0s, close-up looking down, handheld consumer home camera with one slow slight drift from the centre of the drawing toward the child's hand at frame right, ending slightly tighter on the crayon tip and the paper. pacing: natural speed, a single continuous take with no cut. The drawing fills the frame at the start: the big black box with one red eye at frame centre, the small coloured boxes around it, the child's hand entering from frame right, the far edge of the table falling soft in the background. Start: the green crayon tip touches the paper beside one small yellow box and presses down, the sheet shifting a little on the wood, the focus breathing softly on the crayon tip. Middle: the hand moves in short, uneven strokes, drawing a wobbly green line across to a blue box, then lifting and starting a second line toward an orange box, the crayon squeaking and skipping over the paper fibres. End: the second line closes the gap between the boxes, the hand pauses with the crayon still on the paper, and the crayon tip lifts a few millimetres as the drawing holds in frame. Mood: innocent, playful, quietly prophetic. Blur: the crayon tip, the fresh green lines and the paper immediately under the hand are sharp; the far edge of the drawing, the loose crayons and the table fall soft, the background fully dissolved. Little Nian (a six-year-old girl's high, soft, clear voice) says, <d>[Chinese] 小的们手拉手，就不怕大的了。</d>; Nobody else says anything intelligible. Final line of this shot: end on \"就不怕大的了。\", complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.\n\noverall_soundscape:\nCrayon scratching and skipping on paper, the soft rustle of the paper on the wooden table, a faint kitchen room tone, a low fridge hum from another room, the child's small breath and soft voice close to the microphone; raw production location sound only, dry and unscored, no background music.\n\nnon_diegetic_music:\nN/A",
+ "source": "director"
+}

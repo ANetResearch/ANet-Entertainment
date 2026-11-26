@@ -1,0 +1,26 @@
+subject_definitions:
+<Picture 1> is the keyframe of [Shot 1], establishing the medium two-shot composition, lighting, and staging of two engineers over a lab workbench.
+<Subject 1> is Song Qi (Song Gong) in <Picture 2> and <Picture 1>, a slender 33-year-old male engineer with side-parted short black hair, round thin steel-rimmed glasses, a small mole under his right eye, wearing a light gray knit cardigan over a light blue collared shirt and a blank lanyard badge.
+<Subject 2> is Bo Ye in <Picture 3> and <Picture 1>, a 44-year-old male engineer with stubble, greying short black hair, black-rimmed glasses, wearing a dark blue quilted jacket over a brown knit vest and a distressed work apron.
+<Subject 3> is the prototype node device in <Picture 4> and <Picture 1>, built into a dented olive-drab metal box with an exposed recycled circuit board, an aluminum heatsink, three small LEDs (two red, one white), and a short stubby black antenna.
+<Subject 4> is the 550 project quantum computer laboratory in <Picture 5> and <Picture 1>, featuring an industrial workbench cluttered with oscilloscopes, wire spools, and tools, positioned before a glass partition revealing a cold-white illuminated server room with dark server racks and a central unit housing a glowing red lens.
+
+summary:
+[keyframe completion + reference generation] In [Shot 1], anchored by <Picture 1> inside the laboratory <Subject 4>, <Subject 1> presents the prototype node <Subject 3> to <Subject 2>, speaking softly about machine identity as <Subject 2> leans in closely to examine the hardware under archival documentary cinematography.
+
+retention_analysis:
+<Picture 1> ([Shot 1] keyframe): fully_preserved - anchors the medium two-shot composition, character placement, warm desk lamp mixed with cool fluorescent background lighting, and framing.
+<Subject 1> (appears in [Shot 1]): fully_preserved - retains the facial features, round steel-rimmed glasses, mole under right eye, and gray cardigan over light blue shirt.
+<Subject 2> (appears in [Shot 1]): fully_preserved - retains the 44-year-old appearance with stubble, black-rimmed glasses, quilted navy jacket, and work apron.
+<Subject 3> (appears in [Shot 1]): fully_preserved - retains the battered metal enclosure, exposed circuit board, heatsink, illuminated indicator lights, and antenna.
+<Subject 4> (appears in [Shot 1]): fully_preserved - retains the cluttered workbench setting backed by the glass wall and the server room with the red-lens quantum computer rack.
+
+detailed_description:
+The target video is in 2050s archival Super 16mm color documentary style, featuring visible film grain, slightly softened optical sharpness, deep shadows, and desaturated tones lit by a warm gooseneck desk lamp against cold overhead fluorescent lighting.
+[Shot 1] The shot begins from the composition in <Picture 1> as a medium two-shot captured by a shoulder-mounted handheld camera with subtle natural drift. On the left side of the frame across a worn wooden workbench inside <Subject 4>, <Subject 1> sits wearing round steel-rimmed glasses and a gray cardigan over a light blue shirt. Holding <Subject 3>—a dented olive metal box with illuminated status LEDs, heatsink, and short antenna—in both hands, he angles it forward. On the right, <Subject 2>, clad in a quilted jacket and apron with black-rimmed glasses, leans forward over his folded arms with a furrowed brow to inspect the device. Before speech begins, the steady background hum of server racks and distant air conditioning fills the space. Looking earnestly toward his colleague, <Subject 1> (S1), speaking in the voice of a man in his early thirties with a warm, gentle, and faintly smiling delivery, says, <d>[Chinese] 每台机器，自己带一把钥匙，自己证明自己是谁。</d> Upon finishing the line, <Subject 1> (S1) closes his mouth and ceases speaking, maintaining a slight respectful smile while keeping the box steadily tilted upward. <Subject 2> shifts his gaze across the exposed circuit board and small indicator lights of <Subject 3>, giving a slow, contemplative nod in complete silence as the continuous room hum carries through the end of the shot.
+
+overall_soundscape:
+A continuous low mechanical hum from the quantum computer server racks layered with distant ambient air conditioning ventilation and subtle handling rustle.
+
+non_diegetic_music:
+N/A

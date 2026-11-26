@@ -1,0 +1,23 @@
+{
+ "id": "prop_drawing",
+ "out": "refs/sp01/prop_drawing.png",
+ "model": "gpt-image-2.6-sunburst",
+ "size": "1536x1024",
+ "prompt": "A child's crayon drawing on a sheet of slightly crumpled paper on a wooden table in sunlight: in the middle a big black square box with one round red eye; around it many small boxes in different bright colours (yellow, blue, green, orange), each with two dot eyes and a little smile, joined to each other by wobbly crayon lines like holding hands. Naive childlike strokes, no letters or words. A few crayons beside it. Documentary still photograph, shot on a 35mm cinema camera in available light, natural film grain, unposed and observational, photorealistic, near-future hard science fiction, worn and lived-in. No captions, no subtitles, no watermark, no legible text anywhere. Soft warm late-afternoon daylight, desaturated warm beige base, gentle shadows, quiet domestic atmosphere.",
+ "inputs": [],
+ "usage": {
+  "input_tokens_details": {
+   "text_tokens": 178,
+   "image_tokens": 0
+  },
+  "output_tokens_details": {
+   "image_tokens": 1372,
+   "text_tokens": 0
+  },
+  "total_tokens": 1550,
+  "input_tokens": 178,
+  "output_tokens": 1372
+ },
+ "seconds": 36.1,
+ "ts": "2026-11-26 16:57:26"
+}
