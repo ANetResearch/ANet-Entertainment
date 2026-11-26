@@ -1,0 +1,25 @@
+# ep11 s08_b  duration=10s  seed=1150322898
+# input images: ['episodes/ep11/storyboard/s08.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of young Xiaoman, messy hair, big headphones around his neck, oversized army-green jacket, sitting on a crate in front of a monitor in the pump-station machine room, a grey GPU compute chassis with a blue three-bladed swirl badge humming on the rack behind him, scratching his head. Blocking lock: Xiaoman sits at frame centre on a crate facing the monitor, which is at frame right foreground; the grey GPU chassis with the blue three-bladed swirl badge sits on the rack behind him in the background.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 3> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 3>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the pump-station machine room, Xiaoman scrolls through a monitor, slows down, scratches his head and turns to someone off-camera, opening with and ending on the line "冷却液在咱们这儿，备件在兰州，电在三台邻机手里。谁也不认识谁。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits at frame centre on a crate facing the monitor, which is at frame right foreground; the grey GPU chassis with the blue three-bladed swirl badge sits on the rack behind him in the background. Start: Xiaoman stares at the monitor and scrolls down through entries one by one, eyes fixed on the screen. Middle: His scrolling gradually slows as he reads, his brow tightening and his gaze lingering on the screen. End: He scratches his head with one hand and turns his face toward someone off-camera. Mood: puzzled, restless, intimate. Blur: shallow depth of field, rack and chassis softly out of focus behind him, sharp focus on his face Xiaoman (young male voice, quick and light) says, <d>[Chinese] 冷却液在咱们这儿，备件在兰州，电在三台邻机手里。谁也不认识谁。</d>; Final line of this shot: end on “。谁也不认识谁。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+steady server fan hum, keyboard key presses; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

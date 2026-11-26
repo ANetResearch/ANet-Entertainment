@@ -314,5 +314,319 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "各发动机注意：推力不足以脱离。唯一的办法，是点燃木星。",
+  "heard": "各发动机注意，推力不足以脱离，唯一的办法是点燃木星。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "满功率要烧十五分钟。冷却液只够四分钟。",
+  "heard": "满功率要烧15分钟，冷却液只够4分钟。",
+  "ratio": 0.82,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "缺冷却液，缺备件，缺电，缺人。能下命令的那台机器，不说话了。",
+  "heard": "啊，缺冷却液，缺备件，缺电，缺人。能下命令的那台机器，不说话了。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "Go, ready. Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s07_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "冷却液在咱们这儿，备件在兰州，电在三台邻机手里。谁也不认识谁。",
+  "heard": "冷雀叶在咱们这，配件在兰州，电在三台林机手里，谁也不认识谁。",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "凭什么给？我车上的油是拿命换的。给了一个没见过的人，找谁要去？",
+  "heard": "凭什么给？我车上的油是拿命换的，给了一个没见过的人，找谁要去？",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "你们敦煌的人，我凭什么信？",
+  "heard": "呵，你们敦煌的人，我凭什么信？",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "别信我。信这个盒子，账都在里头，你自己查。",
+  "heard": "哈。别信我，信这个盒子，账都在里头，你自己查。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "就像路边客栈墙上的账。谁欠谁一碗面，过路的都能看见。所以你敢赊给一个再也见不着的人。",
+  "heard": "就像路边客栈墙上的账，谁欠谁一碗面，过路的都能看见。所以，你敢赊给一个再也见不着的人",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "Look at that, it's...",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s14_b": {
+  "want": "给出去的，网上记成贝壳。往后你缺东西，拿贝壳换。不是钱，是记性。",
+  "heard": "呀，给出去的，网上系上贝壳，往后你缺东西，拿贝壳换。不是钱，是记性。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "",
+  "heard": "The free air film of Verlandens, you in the trip receive in the market a bottle of water, to think that I needed and could use.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s16_b": {
+  "want": "城里的备用冷却液，够他们多烧六分钟。全城会降四度。给。我来签。",
+  "heard": "对。城里的备用冷却液，够他们多烧六分钟。全城会降四度。给。我来签。",
+  "ratio": 0.98,
+  "music": "a low, tense ambient synth drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s17_b": {
+  "want": "冷就冷吧。七区冷过，知道怎么熬。",
+  "heard": "哦。冷就冷吧。七区冷过，知道怎么熬。冷就冷吧，知道怎么熬。",
+  "ratio": 0.72,
+  "music": "none",
+  "flags": [
+   "extra_speech"
+  ]
+ },
+ "s18_b": {
+  "want": "这一笔，记我的名字。出了事，找我。",
+  "heard": "这一笔 记我的名字 出了事 找我",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "那是全城的储备。我没有请示任何人。字是我签的，账上记的是我。",
+  "heard": "那是全城的储备。我没有请示任何人。字是我签的，账上记的是我。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "周研究员，我是阿牧。喷口的图纸我有，我念，你做。",
+  "heard": "喂，救援队员，我是阿木。喷口的图纸我有，我念，你做。",
+  "ratio": 0.77,
+  "music": "A low, pulsing cinematic electronic score building suspense in the background.",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s25_b": {
+  "want": "听到了。我们没见过面，对吧？没有。",
+  "heard": "到了。我们没见过面对吧？没有。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "第三道卡箍，逆时针半圈。听见咔一声再松手。",
+  "heard": "第三道卡箍，逆时针半圈。听见咔一声再松手。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "咔了。冷却液在走。",
+  "heard": "呀 卡拉 等澈也再走",
+  "ratio": 0.13,
+  "music": "none",
+  "flags": [
+   "speech_mismatch"
+  ]
+ },
+ "s30_b": {
+  "want": "那天用的冷却液来自一座我没去过的城。拧阀门的手，听的是一个陌生人的声音。",
+  "heard": "那天用的冷却液来自一座我没去过的城。拧阀门的手听得是一个陌生人的声音。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "苏拉威西签收了！四十一项，全齐了！",
+  "heard": "布拉维奇签收了！四十一箱，全齐了！",
+  "ratio": 0.71,
+  "music": "a low, tense ambient electronic score with subtle synth drones",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s32_b": {
+  "want": "转向发动机，满功率。点火。",
+  "heard": "转向发动机，满功率，点火",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "够得着吗？看着。",
+  "heard": "哈，够得着吗？看着。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "a dramatic cinematic brass swell and deep sustained orchestral horn hit",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s39_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "没人下过命令。一群互不相识的人，各自给了一点，账记清了，火就点着了。",
+  "heard": "可 没人下过命令 一群互不相识的人 各自给了一点 账记清了 火就点着了",
+  "ratio": 0.98,
+  "music": "a gentle, emotional piano and soft orchestral synth melody in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s41_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s42_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

@@ -1,0 +1,25 @@
+# ep11 s26_b  duration=9s  seed=417326405
+# input images: ['episodes/ep11/storyboard/s26.png', 'refs/characters/zhou.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide handheld shot on an exposed maintenance gantry beside the giant engine nozzle: a small crew in bulky thermal suits bent against the wind, clipped to safety lines, the nozzle rim glowing orange above them, frost and steam whipping across, frozen sea far below. Blocking lock: the crew in bulky thermal suits is strung out along the gantry from frame left to centre, the glowing orange nozzle rim fills the upper frame, and the frozen sea lies far below in the background.
+<Subject 2> is Researcher Zhou (38, female, resident researcher at the Sulawesi steering engine) from <Picture 2>, serving as the remote ally. A 38-year-old Chinese woman, resident researcher at an equatorial steering-engine control station. Shoulder-length black hair tied in a low ponytail, thin wire-framed glasses, calm focused eyes, a pencil tucked behind her ear. White technical uniform jacket with blue shoulder stripes, sleeves pushed up, a lanyard with a blank badge. Background: blurred control room with cold blue monitors.
+<Subject 3> is the Sulawesi steering-engine control room from <Picture 3>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+On an exposed maintenance gantry beside the giant engine nozzle, a small crew in thermal suits inches forward against a violent wind, with no dialogue in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld with violent shaking; pacing: natural speed, a single continuous take with no cut. Blocking lock: the crew in bulky thermal suits is strung out along the gantry from frame left to centre, the glowing orange nozzle rim fills the upper frame, and the frozen sea lies far below in the background. Start: The crew, clipped to taut safety lines, bends into the wind and starts edging forward along the gantry. Middle: They keep inching along the gantry step by step as steam and ice flakes whip sideways across the frame. End: The crew is still pushing forward against the wind, safety lines rigid, beneath the red-hot nozzle rim. Mood: harsh, tense, perilous. Blur: Deep focus on the wide frame, with steam and ice flakes streaking and softening parts of the image. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+deafening engine roar, shrieking wind, heavy breathing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

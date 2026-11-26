@@ -1,0 +1,23 @@
+# ep11 s27_b  duration=8s  seed=1529878707
+# input images: ['episodes/ep11/storyboard/s27.png', 'refs/characters/zhou.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of thick thermal gloves forcing a heavy coolant coupling onto a frost-caked steel pipe, a wrench braced against it, steam bursting from the joint, orange glow reflected on the metal. Blocking lock: thick-gloved hands at frame centre gripping the coupling, wrench braced at frame right, frost-caked pipe running through the centre background, steam rising at the joint in the upper centre.
+<Subject 2> is Researcher Zhou (38, female, resident researcher at the Sulawesi steering engine) from <Picture 2>, serving as the remote ally. A 38-year-old Chinese woman, resident researcher at an equatorial steering-engine control station. Shoulder-length black hair tied in a low ponytail, thin wire-framed glasses, calm focused eyes, a pencil tucked behind her ear. White technical uniform jacket with blue shoulder stripes, sleeves pushed up, a lanyard with a blank badge. Background: blurred control room with cold blue monitors.
+
+summary:
+In a freezing industrial pipe bay, gloved hands force a heavy coolant coupling onto a frost-caked steel pipe and crank a wrench inch by inch while steam bursts from the joint; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro close-up, handheld with a noticeable shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: thick-gloved hands at frame centre gripping the coupling, wrench braced at frame right, frost-caked pipe running through the centre background, steam rising at the joint in the upper centre. Start: Thick thermal gloves press the heavy coupling hard against the frost-caked mouth of the steel pipe, forcing it into place. Middle: The wrench bears down on the coupling and turns it slowly, one inch at a time, as the metal grinds and resists. End: A burst of white steam shoots out from the seam of the joint, catching the orange glow on the metal. Mood: tense, strained, gritty. Blur: extremely shallow depth of field; only the coupling and joint are sharp, the pipe and surroundings fall into soft orange blur No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+sharp screech of metal scraping on metal, hissing steam; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

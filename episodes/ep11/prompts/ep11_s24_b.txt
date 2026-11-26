@@ -1,0 +1,23 @@
+# ep11 s24_b  duration=10s  seed=1796713681
+# input images: ['episodes/ep11/storyboard/s24.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of Amu at the cluttered workbench in the cramped communications bay, headset on, large paper engineering drawings spread under a desk lamp, one finger pinned on the drawing. Blocking lock: Amu sits at frame centre behind the cluttered workbench, headset on; large paper drawings spread in the foreground under the desk lamp; his pinned finger at lower centre; server racks blurred in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In the cramped communications bay, Amu smooths his engineering drawings under a desk lamp and speaks into his headset mic, opening and ending on the line "周研究员，我是阿牧。喷口的图纸我有，我念，你做。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium close-up, handheld with a faint natural shake, held steady on Amu's face and the drawing.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre behind the cluttered workbench, headset on; large paper drawings spread in the foreground under the desk lamp; his pinned finger at lower centre; server racks blurred in the background. Start: Amu, headset on, flattens the large paper drawing on the workbench under the desk lamp with both hands. Middle: He presses one finger firmly onto a specific spot on the drawing and leans slightly toward the microphone. End: His finger stays pinned on the drawing, his eyes fixed ahead on the mic, his expression focused and deliberate. Mood: focused, tense, determined. Blur: Shallow depth of field; Amu and the drawing are sharp while the cramped bay and server equipment behind him fall soft. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 周研究员，我是阿牧。喷口的图纸我有，我念，你做。</d>; Final line of this shot: end on “有，我念，你做。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+server fan hum, electrical crackle and static in the headset; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

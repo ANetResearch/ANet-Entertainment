@@ -1,0 +1,29 @@
+# ep11 s31_b  duration=10s  seed=1995227873
+# input images: ['episodes/ep11/storyboard/s31.png', 'refs/characters/xiaoman.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the pump-station machine room: receipt tape pouring out of a thermal printer into a pile on the floor, Xiaoman jumping up from his crate with a handful of tape, old Boye behind him gripping the edge of the rack beside the grey compute chassis with its blue swirl badge. Blocking lock: printer and tape pile at frame left foreground, Xiaoman centre on his wooden crate, old Boye behind him at frame right gripping the rack edge beside the grey compute chassis with its blue swirl badge.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is the secret ANET hub in an abandoned pump station from <Picture 4>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 5> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 5>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the pump-station machine room, receipt tape floods out of a printer as Xiaoman leaps up and shouts to Boye, opening and ending on "苏拉威西签收了！四十一项，全齐了！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 5> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight organic shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: printer and tape pile at frame left foreground, Xiaoman centre on his wooden crate, old Boye behind him at frame right gripping the rack edge beside the grey compute chassis with its blue swirl badge. Start: Receipt tape pours out of the thermal printer and piles up on the floor while Xiaoman, seated on his crate, scoops up a handful of it. Middle: Xiaoman springs up off the wooden crate, the tape streaming from his fist. End: Xiaoman turns toward Boye with the tape raised, while Boye keeps a firm grip on the rack edge without letting go. Mood: frantic, elated, tense. Blur: Shallow depth of field keeps Xiaoman and the tape sharp, with Boye and the compute chassis slightly soft behind. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 苏拉威西签收了！四十一项，全齐了！</d>; Final line of this shot: end on “十一项，全齐了！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+dense rapid clatter of the printer, whirring fan of the compute chassis, run of overlapping notification chimes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

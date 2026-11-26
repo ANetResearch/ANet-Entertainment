@@ -1,0 +1,23 @@
+# ep11 s40_b  duration=12s  seed=1150230760
+# input images: ['episodes/ep11/storyboard/s40.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: Amu in his worn orange-grey coverall in the dim interview room, short messy black hair, scar on his left eyebrow, hands loosely clasped, looking at the interviewer off camera. Blocking lock: Amu sits at frame centre in his worn orange-grey coverall, facing slightly off camera toward the unseen interviewer, with the dim room wall behind him and no one else in frame.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a dim interview room, Amu thinks briefly, then answers calmly, opening and ending on the line "没人下过命令。一群互不相识的人，各自给了一点，账记清了，火就点着了。" before exhaling and looking at the floor.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre in his worn orange-grey coverall, facing slightly off camera toward the unseen interviewer, with the dim room wall behind him and no one else in frame. Start: Amu sits with his hands loosely clasped, eyes on the off-camera interviewer, pausing a moment as he thinks. Middle: He settles into a calm, even delivery, his clasped hands and shoulders staying nearly still. End: He lets out a soft breath and lowers his gaze to the floor. Mood: calm, reflective, quiet. Blur: Shallow depth of field, the dim room background softly out of focus while Amu's face and scarred left eyebrow stay sharp. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 没人下过命令。一群互不相识的人，各自给了一点，账记清了，火就点着了。</d>; Final line of this shot: end on “了，火就点着了。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

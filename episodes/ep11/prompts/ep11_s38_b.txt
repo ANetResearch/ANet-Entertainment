@@ -1,0 +1,23 @@
+# ep11 s38_b  duration=9s  seed=1479483863
+# input images: ['episodes/ep11/storyboard/s38.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot on the main street of the underground city mid-tremor: dust and frost falling from overhead pipes, hanging lamps swinging wildly, residents crouching and holding on to each other and to stall frames. Blocking lock: residents crouch in the centre and foreground of the main street, stall frames stand at frame left and right, and swinging hanging lamps and overhead pipes fill the upper background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+A shockwave reaches the underground city and violently shakes its main street as dust and frost rain from the pipes, lamps swing, and residents crouch and cling to each other; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, violently shaking handheld camera at street level; pacing: natural speed, a single continuous take with no cut. Blocking lock: residents crouch in the centre and foreground of the main street, stall frames stand at frame left and right, and swinging hanging lamps and overhead pipes fill the upper background. Start: The main street lurches suddenly as the shockwave hits, and the handheld camera jolts hard while dust begins to sift from the overhead pipes. Middle: Dust and frost flakes pour from the pipes, hanging lamps swing in wide arcs, and residents drop into crouches along the street. End: People huddle low, gripping each other and the stall frames, as the lamps keep swaying and dust hangs in the air. Mood: panicked, chaotic, tense. Blur: Deep focus on the crowd, with falling dust and the swinging lamps slightly smeared by motion blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+deep muffled boom, groaning steel structures, children crying; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

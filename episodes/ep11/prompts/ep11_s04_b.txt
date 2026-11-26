@@ -1,0 +1,25 @@
+# ep11 s04_b  duration=10s  seed=1093389516
+# input images: ['episodes/ep11/storyboard/s04.png', 'refs/characters/zhou.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Over-the-shoulder shot in the ring-shaped control room: Researcher Zhou, a Chinese woman with a low ponytail and thin wire glasses, in her white uniform with blue stripes, pen behind her ear, leans over a console of gauges, one hand on her headset; through the huge observation window the tilted beam over the frozen sea. Blocking lock: Researcher Zhou at frame centre-left, bent over the gauge console in the foreground; the camera sits over her shoulder; the huge observation window with the tilted beam over the frozen sea fills the background right.
+<Subject 2> is Researcher Zhou (38, female, resident researcher at the Sulawesi steering engine) from <Picture 2>, serving as the remote ally. A 38-year-old Chinese woman, resident researcher at an equatorial steering-engine control station. Shoulder-length black hair tied in a low ponytail, thin wire-framed glasses, calm focused eyes, a pencil tucked behind her ear. White technical uniform jacket with blue shoulder stripes, sleeves pushed up, a lanyard with a blank badge. Background: blurred control room with cold blue monitors.
+<Subject 3> is the Sulawesi steering-engine control room from <Picture 3>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+In the ring-shaped control room, Researcher Zhou checks a row of gauges and radios a warning, opening and ending on the line "满功率要烧十五分钟。冷却液只够四分钟。", then straightens up to look at the tilted beam over the frozen sea.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, over-the-shoulder medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Researcher Zhou at frame centre-left, bent over the gauge console in the foreground; the camera sits over her shoulder; the huge observation window with the tilted beam over the frozen sea fills the background right. Start: Zhou leans over the console and fixes her eyes on a row of gauges, then taps the tip of her pen against one of them. Middle: She presses one hand against her headset and leans toward the microphone, her attention locked on the gauges. End: She straightens up and turns her gaze through the observation window toward the tilted beam of light. Mood: tense, urgent, restrained. Blur: Shallow depth of field: the shoulder in the foreground is softly blurred, with Zhou sharp and the window and beam slightly soft behind her. Researcher Zhou (female voice, calm) says, <d>[Chinese] 满功率要烧十五分钟。冷却液只够四分钟。</d>; Final line of this shot: end on “却液只够四分钟。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+control room alarm beeping, steady equipment hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

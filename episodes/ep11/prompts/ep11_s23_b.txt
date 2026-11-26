@@ -1,0 +1,23 @@
+# ep11 s23_b  duration=8s  seed=1384140591
+# input images: ['episodes/ep11/storyboard/s23.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Handheld shot on the dimmed main street of the underground city: half the lamps off, frost creeping along pipes, families in blankets huddled around a small stove, children's breath fogging. Blocking lock: a small stove with blanketed families huddled around it at centre, a child breathing into their hands at frame right of the group, frosted pipes along the left wall and unlit lamps overhead in the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+A handheld camera drifts slowly along the dimmed main street of the underground city, where half the lamps are out, frost coats the pipes, and huddled families warm themselves around a small stove; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, handheld slow forward drift with a faint organic shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: a small stove with blanketed families huddled around it at centre, a child breathing into their hands at frame right of the group, frosted pipes along the left wall and unlit lamps overhead in the background. Start: The camera creeps forward down the dim street past a row of unlit lamps and pipes furred with white frost. Middle: The camera approaches the families wrapped in blankets and crowded around the small stove, its glow flickering on their faces. End: The camera settles near a child who blows warm breath into their cupped hands, the breath fogging in the cold air. Mood: bleak, cold, resilient. Blur: shallow focus on the stove and the child's fogging breath, with the far street and dead lamps softly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crackling stove fire, occasional coughing, low humming of ventilation pipes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

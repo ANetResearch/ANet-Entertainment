@@ -1,0 +1,23 @@
+# ep11 s15_b  duration=8s  seed=540026881
+# input images: ['episodes/ep11/storyboard/s15.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of the tiny monochrome screen on a handmade node box: rows of small shell-shaped icons filling up one by one, a short antenna and solder joints in soft focus. Blocking lock: the small monochrome screen fills the centre of frame, the indicator light sits at frame right beside it, and the short antenna and solder joints stay in soft focus in the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+In a macro close-up, shell-shaped icons light up one by one on the tiny monochrome screen of a handmade node box, while a nearby indicator light blinks in time.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme macro close-up, very slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: the small monochrome screen fills the centre of frame, the indicator light sits at frame right beside it, and the short antenna and solder joints stay in soft focus in the background. Start: The screen shows only a few shell-shaped icons, with the first row barely begun and the indicator light glowing steadily beside it. Middle: More shell icons light up one at a time and line up into rows, and the indicator light flickers with each new icon. End: The rows of shell icons are nearly full across the screen as the camera finishes its slow push-in, and the indicator light blinks once more. Mood: quiet, delicate, hopeful. Blur: very shallow depth of field, with only the screen icons sharp and the antenna and solder joints softly blurred No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+faint electronic notification beeps, low electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

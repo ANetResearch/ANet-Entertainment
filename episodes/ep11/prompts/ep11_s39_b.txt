@@ -1,0 +1,23 @@
+# ep11 s39_b  duration=10s  seed=1582291832
+# input images: ['episodes/ep11/storyboard/s39.png', 'refs/characters/moss.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the command hall after the tremor: Governor Xing gripping the front rail, hair slightly loosened, staring up; white light from a small external camera monitor washing over the operators' faces, the red lens above pale in the glare. Blocking lock: Governor Xing at centre foreground gripping the front rail, operators standing in the mid-ground around her, the monitor's white light at upper frame, the pale red lens above in the background.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+
+summary:
+In the command hall just after a tremor stops, Governor Xing grips the rail and looks up at a monitor's white glare while operators straighten up; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint shake, slow tilt up; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing at centre foreground gripping the front rail, operators standing in the mid-ground around her, the monitor's white light at upper frame, the pale red lens above in the background. Start: The tremor has just stopped; Governor Xing holds the front rail tightly, her hair slightly loosened, as the operators behind her remain hunched at their stations. Middle: She lifts her head and stares up at the monitor, whose white light washes over her face and the operators' faces. End: The operators one by one straighten their bodies, and the camera finishes tilting up to the red lens, pale in the glare. Mood: tense, stunned, uneasy. Blur: Shallow depth of field; the operators and background consoles are slightly soft, and the red lens is faint in the overexposed glare. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+scattered equipment alarm beeps gradually fading to silence, faint hum of the hall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
