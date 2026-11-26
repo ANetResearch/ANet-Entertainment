@@ -1,0 +1,25 @@
+# ep04 s06_b  duration=12s  seed=829340574
+# input images: ['episodes/ep04/storyboard/s06.png', 'refs/characters/xing.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: Governor Xing in her crisp charcoal uniform, grey hair in a neat bun, sits upright on the metal chair in the dim interview room, hands folded on her knee. Blocking lock: Governor Xing sits upright on a metal chair at frame centre, hands folded on her knee, with the dim interview room empty behind her.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Governor Xing sits for a locked-off interview, opening and closing with the line "那几周，全球都在为木星做准备。优先级是MOSS排的，我改不动。我只能派人守着水温。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing sits upright on a metal chair at frame centre, hands folded on her knee, with the dim interview room empty behind her. Start: Governor Xing sits upright on the metal chair, hands folded on her knee, looking steadily toward the interviewer. Middle: She stays composed and still, her posture unchanged, her gaze fixed in an even, measured manner. End: Near the end her eyes drift away from the interviewer for a brief moment, then the clip holds on her stillness. Mood: sombre, restrained, reflective. Blur: Shallow depth of field, with the dim room background softly out of focus behind her. Governor Xing (middle-aged female voice, steady and composed) says, <d>[Chinese] 那几周，全球都在为木星做准备。优先级是MOSS排的，我改不动。我只能派人守着水温。</d>; Final line of this shot: end on “能派人守着水温。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

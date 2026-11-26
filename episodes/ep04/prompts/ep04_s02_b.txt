@@ -1,0 +1,23 @@
+# ep04 s02_b  duration=9s  seed=916780124
+# input images: ['episodes/ep04/storyboard/s02.png', 'refs/locations/loc_engine.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle wide shot at the foot of the planetary engine: coolant pipes as thick as houses running from the engine wall down into the ice, wrapped in frost, plumes of white vapour venting from joints, tiny maintenance lights along the catwalks. Blocking lock: thick coolant pipes dominate the centre and foreground, running from the engine wall at upper frame down into the ice at bottom; vapour plumes vent along the joints, and small catwalk lights sit in the mid and background.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+
+summary:
+At the foot of the planetary engine, enormous frost-wrapped coolant pipes plunge into the ice while white vapour vents from their joints and tiny maintenance lights blink along the catwalks; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Wide shot from a low angle, slow upward tilt.; pacing: natural speed, a single continuous take with no cut. Blocking lock: thick coolant pipes dominate the centre and foreground, running from the engine wall at upper frame down into the ice at bottom; vapour plumes vent along the joints, and small catwalk lights sit in the mid and background. Start: The camera sits low at the icy base, framing the frost-covered pipe bases sunk into the ice as white vapour jets from their joints. Middle: The camera tilts slowly upward along the huge pipes, with vapour streaming from the seams and catwalk maintenance lights blinking. End: The frame rises to reveal the towering engine wall, with the pipes stretching overhead and vapour drifting past the blinking catwalk lights. Mood: monumental, cold, industrial. Blur: Deep focus, with distant catwalk lights and upper engine wall slightly softened by drifting vapour. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+muffled rushing of water inside the giant pipes, hissing steam; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

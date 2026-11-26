@@ -1,0 +1,25 @@
+# ep04 s19_b  duration=10s  seed=569746052
+# input images: ['episodes/ep04/storyboard/s19.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of Boss Jin in the dark cab, broad face and frostbite scars lit green by the cab console, holding the radio handset near his mouth, frowning. Blocking lock: Boss Jin fills the centre of frame, handset raised at his mouth in the right foreground, green cab console glowing at lower frame, dark windscreen blurred behind him.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the frozen plain with the heavy-truck convoy from <Picture 3>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+In the dark cab of his convoy truck at night, Boss Jin grabs the radio handset and gruffly answers a crackling call from Xiaoman, opening with "大半夜的，谁在叫我的车？" and ending on "金老板，是螺丝。它想借您的绞盘。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a faint, natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin fills the centre of frame, handset raised at his mouth in the right foreground, green cab console glowing at lower frame, dark windscreen blurred behind him. Start: Boss Jin's hand snatches the radio handset from its cradle and lifts it toward his mouth, his frown already set. Middle: He holds the handset close to his mouth, scowling irritably, green console light flickering across his frostbite scars. End: He lowers the handset slightly and listens to the static-laced reply, his frown holding as his eyes narrow. Mood: gruff, tense, intimate. Blur: Shallow depth of field; cab interior and windscreen behind Jin fall into dark blur, focus on his face and handset. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 大半夜的，谁在叫我的车？</d>; Xiaoman (young male voice, quick and light) says, <d>[Chinese] 金老板，是螺丝。它想借您的绞盘。</d>; Final line of this shot: end on “它想借您的绞盘。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio static and electrical hum from the handset, wind outside the cab; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

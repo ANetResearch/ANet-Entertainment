@@ -1,0 +1,23 @@
+# ep04 s12_b  duration=9s  seed=594817396
+# input images: ['episodes/ep04/storyboard/s12.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot in the machine room: Xiaoman half risen from his stool pointing after the robot, Amu standing by the rack with a coil of cable over his shoulder, watching it go. Blocking lock: Xiaoman at frame left, half risen from his stool; Amu at frame right beside the equipment rack with a cable coil on his shoulder; the doorway in the background where the robot has gone.
+<Subject 2> is the secret ANET hub in an abandoned pump station from <Picture 2>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In the machine room, Xiaoman jumps up and points after the departing robot Luosi, and Amu answers by gesturing a very low height; the clip opens with "螺丝接了！" and ends on "管廊只有四十公分高。它正合适。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left, half risen from his stool; Amu at frame right beside the equipment rack with a cable coil on his shoulder; the doorway in the background where the robot has gone. Start: Xiaoman springs up from his stool and points toward the doorway where the robot went, while Amu stands by the rack, cable coil on his shoulder. Middle: Amu keeps his eyes on the direction the robot drove off, his body still and the cable coil resting on his shoulder. End: Amu raises one hand and holds it flat at a very low height to show how small the space is, still looking toward the exit. Mood: urgent, warm, hopeful. Blur: Shallow depth of field; the rack and doorway in the background are slightly soft while Xiaoman and Amu stay sharp. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 螺丝接了！</d>; Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 管廊只有四十公分高。它正合适。</d>; Final line of this shot: end on “分高。它正合适。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+distant fading tracked rolling sound, steady fan hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

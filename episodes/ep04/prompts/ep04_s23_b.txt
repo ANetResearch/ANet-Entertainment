@@ -1,0 +1,23 @@
+# ep04 s23_b  duration=9s  seed=576204949
+# input images: ['episodes/ep04/storyboard/s23.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low shot inside the narrow pipe gallery: a heavy steel cable hook hanging down through a shaft opening into the robot's headlamp beam, the small yellow robot reaching up for it with its manipulator arm, steam around. Blocking lock: Luosi at frame centre-low on the gallery floor facing up, the cable hook descending from the shaft opening at upper frame, steam drifting in the background and along the pipe walls.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Inside a narrow pipe gallery, a steel cable hook swings down from a shaft opening into the headlamp beam of the small yellow robot Luosi, which grabs it with its manipulator arm and drags the cable deeper into the gallery in reverse.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle shot at floor level, handheld-style documentary camera with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi at frame centre-low on the gallery floor facing up, the cable hook descending from the shaft opening at upper frame, steam drifting in the background and along the pipe walls. Start: The heavy steel cable hook hangs down from the shaft opening and swings slowly into Luosi's headlamp beam. Middle: Luosi extends its manipulator arm and clamps onto the swinging hook. End: Luosi reverses on its tracks, dragging the steel cable along the floor grating deeper into the pipe gallery. Mood: tense, gritty, determined. Blur: Shallow depth of field; the steam and the far end of the gallery fall soft behind the sharp robot and hook. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+steel cable scraping across the grating, tracked motor whine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

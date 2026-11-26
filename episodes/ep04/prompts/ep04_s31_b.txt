@@ -1,0 +1,23 @@
+# ep04 s31_b  duration=8s  seed=2065505092
+# input images: ['episodes/ep04/storyboard/s31.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up in headlamp light: hands in fingerless work gloves holding a steel pin in the eye of a valve linkage and striking it with a small hammer, flakes of ice jumping off the metal. Blocking lock: gloved hands holding the steel pin at centre frame, valve linkage and pin hole filling the centre-right, small hammer entering from frame right, and dark out-of-focus background behind.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a macro close-up lit by a headlamp, gloved hands steadily hammer a steel pin into the pin hole of a valve linkage, and ice flakes jump off the metal with each blow. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with only a faint vibration from each hammer blow; pacing: natural speed, a single continuous take with no cut. Blocking lock: gloved hands holding the steel pin at centre frame, valve linkage and pin hole filling the centre-right, small hammer entering from frame right, and dark out-of-focus background behind. Start: A gloved hand steadies the steel pin upright at the mouth of the pin hole in the valve linkage, with headlamp light glinting on frosted metal. Middle: The small hammer strikes the pin again and again, driving it deeper into the hole while ice flakes jump off the metal with each blow. End: The pin sits nearly flush in the linkage, the hammer lifts away, and a last few ice flakes settle on the steel. Mood: tense, tactile, determined. Blur: Very shallow depth of field: only the pin and hole edge are sharp, while the fingers, linkage and background fall into soft darkness. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crisp ringing hammer strikes on metal, faint ice chips skittering over steel; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

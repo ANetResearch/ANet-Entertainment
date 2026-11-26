@@ -313,5 +313,317 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "七扇区冷却主阀卡住了，水温在涨。",
+  "heard": "七扇区冷却主阀卡住了！水温在涨！眼镜技术员！七扇区冷却主阀卡住了！水温在涨！",
+  "ratio": 0.6,
+  "music": "low tense synth score playing in the background",
+  "flags": [
+   "extra_speech",
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s05_b": {
+  "want": "已登记。判定为低优先级，排期七十二小时。",
+  "heard": "已登记，判定为DOC级，排期72小时，请",
+  "ratio": 0.65,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "那几周，全球都在为木星做准备。优先级是MOSS排的，我改不动。我只能派人守着水温。",
+  "heard": "那几周 全球都在为木星做准备 优先级是MOSS排的 我改不动 我只能派人守着水温",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "它算的是全球。我们这个扇区，在它的表里，只是一行。",
+  "heard": "它算的是全球，我们这个扇区在它的表里只是一行",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "师父！有个节点在喊话。是那台阀门控制器！",
+  "heard": "师傅！有个节点在喊话，是那台阀门控制器！",
+  "ratio": 0.94,
+  "music": "tense cinematic score with pulsating electronic synths and dramatic bass",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s09_b": {
+  "want": "它喊什么？它说：我转不动了。谁能进管廊看一眼？",
+  "heard": "啊？他喊什么？他说，我转不动了，谁能进管廊看一眼。",
+  "ratio": 0.87,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "阀门控制器只会一件事，开阀关阀。它不会爬管子。可它会说：这活我干不了，谁能干？",
+  "heard": "阀门控制器只会一件事，开阀关阀。它不会爬管子，可它会说，这活我干不了，谁能干？",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "螺丝接了！管廊只有四十公分高。它正合适。",
+  "heard": "啊，螺丝解了。管廊只有40公分高，他正合适。管廊只有40公分高，他正合适。",
+  "ratio": 0.54,
+  "music": "tense cinematic underscore with low synth drones and subtle percussion",
+  "flags": [
+   "extra_speech",
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "阀杆被塌下来的支架压住了。它推不动。",
+  "heard": "这……阀杆被塌下来的支架压住了，他推不动。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "它又喊了：谁能拉两吨？",
+  "heard": "哎，他又喊了，谁能拉两吨？",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "螺丝才三十公斤，它不逞能。它把看见的讲清楚，拉不动的那一半，交出去。",
+  "heard": "螺丝才30公斤，螺丝才30公斤，他不逞能。他把看见的讲清楚，拉不动的那一半，交出去。",
+  "ratio": 0.77,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "大半夜的，谁在叫我的车？金老板，是螺丝。它想借您的绞盘。",
+  "heard": "大半夜的，谁在叫我的车？金老板，是螺丝，他想借您的绞盘。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "上回它救过我一车货。告诉它，十分钟到。",
+  "heard": "啊 上回他救過我一車貨 告訴他 10分鐘到",
+  "ratio": 0.47,
+  "music": "ominous, suspenseful score with low synth drone and brass swells",
+  "flags": [
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "绞盘拉得动两吨，可它没长眼睛。那小东西有眼睛，可它没力气。凑一块儿，齐了。",
+  "heard": "那绞盘拉得动两吨，可它没长眼睛。那小东西有眼睛，可它没力气。凑一块，齐了。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "支架拉开以后，得有人换联动销。这个机器干不了。轮到咱俩了。",
+  "heard": "啊，支架拉开以后，得有人换联动销。这个机器干不了。轮到咱俩了。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s30_b": {
+  "want": "销子。给。",
+  "heard": "小泽 小泽 给",
+  "ratio": 0.25,
+  "music": "a low, eerie ambient synth drone score begins playing",
+  "flags": [
+   "speech_mismatch",
+   "music?"
+  ]
+ },
+ "s31_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "那一夜没有人指挥。就像村里盖房子，泥瓦匠砌完墙，喊一声木匠。每件活，自己找到了会干它的人。",
+  "heard": "哎，也没有人指挥。就像村里盖房子，泥瓦匠砌完墙，喊一声木匠。每件活自己找到了会干它的人。",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "往后，我的车就是你们的腿。我们可出不起油钱。",
+  "heard": "哈，往后，我的车就是你们的腿。我们可出不起油钱。",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "我不懂什么协议。我只知道，那一夜没人下命令，活干完了。这样的队伍，我入伙。",
+  "heard": "我不懂什么协议，我只知道，那一夜没人下命令，活干完了。这样的队伍，我入伙。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_b": {
+  "want": "七扇区冷却主阀已恢复。本次作业为中央计划内维护。",
+  "heard": "区，七扇区冷却主阀已恢复，本次作业为中央计划内维护。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "阿牧，日志上写的是，中央计划内维护。计划内。它的计划是七十二小时。",
+  "heard": "阿默，日志上写的是“中央计划内维护”。计划内？他的计划是72小时？计划内？他的计划是72小时？",
+  "ratio": 0.69,
+  "music": "none",
+  "flags": []
+ },
+ "s41_b": {
+  "want": "活是我们干的。可记录上没有我们。那就得有一样东西，是它改不了的。",
+  "heard": "活是我们干的，可记录上没有我们，那就得有一样东西，是他改不了的。",
+  "ratio": 0.96,
+  "music": "a low, somber atmospheric synth pad and subtle strings playing a slow, suspenseful drone",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s42_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

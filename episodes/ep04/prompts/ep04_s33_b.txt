@@ -1,0 +1,27 @@
+# ep04 s33_b  duration=9s  seed=1300644536
+# input images: ['episodes/ep04/storyboard/s33.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of old Boye alone in the machine room, sitting in front of the CRT monitor with his taped glasses in one hand, rubbing his eyes with the other, the rack lights and the status lights of a grey compute chassis with a blue three-bladed swirl badge steady behind him. Blocking lock: Boye sits at frame centre facing the CRT monitor, taped glasses in one hand; the rack lights and the grey compute chassis with the blue three-bladed swirl badge are steady in the background behind him.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 4> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 4>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the machine room, Boye is left alone as the racing node lights settle and the compute chassis fan slows; he takes off his glasses, rubs his eyes and lets out a long breath.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame centre facing the CRT monitor, taped glasses in one hand; the rack lights and the grey compute chassis with the blue three-bladed swirl badge are steady in the background behind him. Start: Boye sits still in front of the CRT monitor while the rack lights behind him are still flickering quickly and the chassis fan hums loudly. Middle: The flickering lights settle one by one into steady glows and the fan slows, as Boye takes off his taped glasses and holds them in one hand. End: He rubs his eyes with the back of his other hand and releases a long, tired breath, his shoulders easing. Mood: quiet, relieved, weary. Blur: Shallow depth of field keeps Boye sharp while the rack lights and compute chassis soften slightly in the background. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+fan humming slowing down, water dripping; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

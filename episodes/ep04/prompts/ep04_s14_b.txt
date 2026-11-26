@@ -1,0 +1,23 @@
+# ep04 s14_b  duration=8s  seed=659924796
+# input images: ['episodes/ep04/storyboard/s14.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up in the robot's headlamp beam: the linkage rod of the big valve pinned under a collapsed steel bracket crusted with ice, the robot's small manipulator arm pressed against the bracket. Blocking lock: the ice-crusted collapsed steel bracket pinning the valve linkage rod fills the centre of frame, Luosi's small manipulator arm enters from frame left pressing against the bracket, and the dark background is behind them.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+In a dark industrial space, the headlamp of Luosi, the small yellow robot, lights a valve linkage rod pinned under an ice-crusted collapsed steel bracket, and its small manipulator arm pushes at the bracket twice, slips, and fails to move it. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off with a faint handheld tremor, lit only by the robot's headlamp beam; pacing: natural speed, a single continuous take with no cut. Blocking lock: the ice-crusted collapsed steel bracket pinning the valve linkage rod fills the centre of frame, Luosi's small manipulator arm enters from frame left pressing against the bracket, and the dark background is behind them. Start: The headlamp beam holds on the valve linkage rod trapped under the frosted steel bracket, with the small manipulator arm already resting against the bracket. Middle: The manipulator arm pushes up against the bracket twice, its grip skidding on the icy steel surface both times. End: The arm slips off and stays pressed against the bracket, which has not moved at all, still pinning the rod. Mood: strained, tense, futile. Blur: Very shallow depth of field; only the bracket edge, rod and arm tip are sharp, while the surroundings fall into dark blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+small motor straining under load, metal scraping on icy steel; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
