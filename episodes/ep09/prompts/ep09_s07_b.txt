@@ -1,0 +1,25 @@
+# ep09 s07_b  duration=8s  seed=464184632
+# input images: ['episodes/ep09/storyboard/s07.png', 'refs/props/prop_node.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro shot on the truck dashboard: the node box with its smiley sticker, LED lit, and beside it the small dark navigation screen showing a few glowing dots, no text. Blocking lock: node box with smiley sticker at frame left in the foreground, small navigation screen at frame right, dashboard surface filling the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 3> is the ANET smiley logo from <Picture 3>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+On the truck dashboard, the node box's indicator light comes on and the dark navigation screen beside it gradually fills with glowing dots that line up in a row.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro shot, locked-off static camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: node box with smiley sticker at frame left in the foreground, small navigation screen at frame right, dashboard surface filling the background. Start: The node box's LED lights up while the navigation screen beside it is still completely dark. Middle: A single glowing dot appears on the screen, then a second and a third pop up one after another. End: The glowing dots sit lined up in a neat row across the navigation screen, with the node box LED still lit. Mood: quiet, anticipatory, hopeful. Blur: Very shallow depth of field, the node box and screen sharp while the rest of the dashboard falls into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+vehicle infotainment startup chime; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

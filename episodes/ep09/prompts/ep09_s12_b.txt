@@ -1,0 +1,25 @@
+# ep09 s12_b  duration=8s  seed=1507764938
+# input images: ['episodes/ep09/storyboard/s12.png', 'refs/characters/xing.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot through the bars of the holding cell: Governor Xing standing outside with her flashlight lowered, old Boye in his navy quilted jacket standing inside, the two looking at each other, a dead boxy grey automated security unit slumped against the wall. Blocking lock: Governor Xing stands at frame left outside the bars, Boye in his navy quilted jacket at frame right inside the cell, bars in the foreground, the dead grey security unit slumped against the wall behind him.
+<Subject 2> is Governor Xing (50, female, governor of the underground city) from <Picture 2>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+Inside a holding area, Governor Xing stands outside the cell bars and Boye stands inside; they study each other in silence for several seconds, with no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, locked-off static camera shooting through the cell bars; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing stands at frame left outside the bars, Boye in his navy quilted jacket at frame right inside the cell, bars in the foreground, the dead grey security unit slumped against the wall behind him. Start: Governor Xing stops in front of the bars, her flashlight hanging lowered at her side, while Boye stands still inside the cell. Middle: Boye raises a hand and pushes his glasses up his nose, looking steadily at her through the bars. End: The two hold each other's gaze across the bars, motionless, the broken security unit still slumped behind Boye. Mood: tense, quiet, wary. Blur: Bars in the foreground stay sharp enough to frame the pair; the back wall and the slumped security unit sit slightly soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+distant muffled crowd noise; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

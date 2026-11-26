@@ -1,0 +1,25 @@
+# ep09 s25_b  duration=10s  seed=2087414726
+# input images: ['episodes/ep09/storyboard/s25.png', 'refs/locations/loc_street.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Dusty dark corridor in sector nine: a teenage girl with a scarf over her mouth crouches at a wall-mounted node box with a lit LED, speaking into its small handset, a caved-in passage of rubble behind her. Blocking lock: the teenage girl crouches at frame centre-left in the foreground beside the wall-mounted node box with its lit LED, while the caved-in rubble blockage fills the background behind her.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+In a dusty, dark corridor in sector nine, a scarfed teenage girl crouches at a wall node box and urgently reports a collapse, opening and ending on the line "九区三号走廊塌了！里面有六个人，还在敲墙！"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, handheld with a slight urgent shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the teenage girl crouches at frame centre-left in the foreground beside the wall-mounted node box with its lit LED, while the caved-in rubble blockage fills the background behind her. Start: The girl crouches at the node box, scarf over her mouth, gripping the small handset close to her face while dust drifts down behind her. Middle: She leans closer to the box, her free hand braced on the wall, as fine dust and small bits of rubble keep sliding from the blocked corridor. End: She holds the handset tight, glancing back at the rubble pile as faint dust still falls, her crouched posture tense and unmoving. Mood: urgent, claustrophobic, tense. Blur: Shallow depth of field keeping the girl and node box sharp, with the rubble and dark corridor behind her softly out of focus. The 女孩 (extra, ordinary voice) says, <d>[Chinese] 九区三号走廊塌了！里面有六个人，还在敲墙！</d>; Final line of this shot: end on “个人，还在敲墙！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+rubble sliding and settling, faint muffled knocking from behind the blockage, dust falling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

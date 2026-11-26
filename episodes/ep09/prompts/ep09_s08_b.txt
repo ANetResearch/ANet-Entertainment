@@ -1,0 +1,27 @@
+# ep09 s08_b  duration=10s  seed=354556296
+# input images: ['episodes/ep09/storyboard/s08.png', 'refs/locations/loc_ice.png', 'refs/locations/loc_jupiter.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot across the scattered convoy on the orange-lit ice plain: heavy trucks flashing their headlights at one another through blowing snow, a spray-painted smiley visible on the nearest truck door. Blocking lock: a truck with a spray-painted smiley on its door fills the foreground, other heavy trucks are scattered across the middle ground and background of the ice plain, with the convoy drifting toward frame centre.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+<Subject 4> is the ANET smiley logo from <Picture 4>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+On the orange-lit ice plain, scattered convoy trucks flash their headlights at each other through blowing snow and slowly begin to gather toward the middle; the clip opens and ends on the driver's line 队长！我看见你了！三号车在你左后方！
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto long shot, slow horizontal pan across the convoy, documentary verite feel; pacing: natural speed, a single continuous take with no cut. Blocking lock: a truck with a spray-painted smiley on its door fills the foreground, other heavy trucks are scattered across the middle ground and background of the ice plain, with the convoy drifting toward frame centre. Start: Through blowing snow, one truck flashes its headlights, and a few distant trucks flash back. Middle: The camera pans across the plain as trucks flash their headlights one after another, passing the smiley graffiti on the nearest door. End: The trucks creep slowly toward the middle of the frame, closing the gaps between them. Mood: tense, hopeful, desolate. Blur: Shallow telephoto depth of field, with distant trucks and drifting snow softly compressed and blurred behind the nearest truck. The 司机 (extra, ordinary voice) says, <d>[Chinese] 队长！我看见你了！三号车在你左后方！</d>; Final line of this shot: end on “号车在你左后方！”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+roaring engines, howling wind, radio chatter suddenly becoming clear; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

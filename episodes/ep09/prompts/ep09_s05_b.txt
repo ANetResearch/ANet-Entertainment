@@ -1,0 +1,23 @@
+# ep09 s05_b  duration=8s  seed=1121559361
+# input images: ['episodes/ep09/storyboard/s05.png', 'refs/props/prop_node.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Dark frosted residential corridor: a small valve controller box bolted to the wall beside a heating pipe, a smiley sticker on its cover and a single lit LED, three residents wrapped in blankets leaning close with a flashlight. Blocking lock: the valve controller box with the smiley sticker is at frame centre on the wall beside the heating pipe, three blanketed residents are at frame right and foreground leaning toward it, and the dark corridor recedes in the background.
+<Subject 2> is the handmade ANET node box with the smiley sticker from <Picture 2>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+
+summary:
+In a dark frosted residential corridor, a valve controller box with a smiley sticker lights up its indicator as water starts flowing in the nearby pipe, and blanket-wrapped residents lean in with a flashlight to look; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld camera creeping slowly closer with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the valve controller box with the smiley sticker is at frame centre on the wall beside the heating pipe, three blanketed residents are at frame right and foreground leaning toward it, and the dark corridor recedes in the background. Start: The camera drifts forward along the dark corridor toward the small controller box on the wall, its LED still unlit and the residents hanging back in their blankets. Middle: The LED on the smiley-stickered box switches on and glows steadily while water begins to move through the adjacent pipe. End: The three residents lean in close, raising a flashlight to the box and pipe, their faces and blankets lit by the beam as the camera settles near them. Mood: hopeful, hushed, tentative. Blur: Shallow depth of field keeping the box and LED sharp, with the far corridor and the residents' edges softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+water flowing again inside the pipe, hushed murmurs of wonder, rustling blankets, faint cold air in the corridor; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

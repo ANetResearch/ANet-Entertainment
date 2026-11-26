@@ -1,0 +1,29 @@
+# ep09 s37_b  duration=9s  seed=104330306
+# input images: ['episodes/ep09/storyboard/s37.png', 'refs/props/prop_core.png', 'refs/characters/jin.png', 'refs/locations/loc_ice.png', 'assets/logos/anet-smiley.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Exterior in blowing snow: two drivers in surface suits lifting the steel core case up into the cab of the lead heavy truck, a large spray-painted smiley on the truck door, Boss Jin steadying the case from above. Blocking lock: two drivers in surface suits at frame left and centre foreground lifting the case, Boss Jin at frame right on the cab step above, the truck door with the large spray-painted smiley filling the background.
+<Subject 2> is the engine igniter core in its steel case from <Picture 2>, serving as prop reference. Close-up of an engine igniter core resting in the foam cradle of an open rugged steel carrying case inside a truck cabin: a forearm-length metal cylinder with a translucent section glowing deep ember red, frost on the case latches, a gloved hand on the lid.
+<Subject 3> is Boss Jin (45, male, surface convoy boss) from <Picture 3>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 4> is the frozen plain with the heavy-truck convoy from <Picture 4>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+<Subject 5> is the ANET smiley logo from <Picture 5>, serving as in-world logo reference. A red rounded speech-bubble outline containing red connected node squares and a white smile, on black. Reproduce its shape exactly wherever it appears on a screen, sticker or painted surface.
+
+summary:
+In blowing snow outside, two drivers heave the steel core case up into the cab of the lead heavy truck while Boss Jin takes its weight from above; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 5> (appears in this shot): fully_preserved — shape and colours retained exactly as an in-world mark.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld documentary camera with a slight shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: two drivers in surface suits at frame left and centre foreground lifting the case, Boss Jin at frame right on the cab step above, the truck door with the large spray-painted smiley filling the background. Start: The two drivers brace in the wind and begin hoisting the steel core case upward toward the open cab door, snow streaking sideways across the frame. Middle: They push the case higher against the truck door as Boss Jin leans down from above and grips its edge to steady it. End: Boss Jin pulls the case into the cab while the drivers shove from below, the smiley graffiti still visible behind them. Mood: urgent, harsh, determined. Blur: Shallow focus on the case and figures, with the snow-streaked background and truck edges slightly soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+howling wind, rustling of cold-weather suits, clanging of the metal case against the truck body; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

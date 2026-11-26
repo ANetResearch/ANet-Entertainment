@@ -1,0 +1,27 @@
+# ep09 s34_b  duration=9s  seed=1059627032
+# input images: ['episodes/ep09/storyboard/s34.png', 'refs/characters/amu.png', 'refs/characters/boye.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium two-shot at the central table: Amu leaning on both hands over the paper plan, old Boye beside him with the radio, both looking up toward the wall. Blocking lock: Amu at centre, bent over the paper plan on the central table; old Boye at frame right beside him holding the radio; the wall of light dots in the background; the operator console off to the side.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is the administration command hall from <Picture 4>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In a control room, Amu leans over the central table and scans the lit dots on the wall, then turns toward the operator console; the clip opens on "敦煌的火石在哪？" and ends on "地表仓库有一枚。离发动机四十公里。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, handheld with a slight natural shake, framed as a two-shot that follows Amu's head turn toward the console.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at centre, bent over the paper plan on the central table; old Boye at frame right beside him holding the radio; the wall of light dots in the background; the operator console off to the side. Start: Amu braces both hands on the table over the paper plan and lifts his head, his eyes sweeping across the glowing dots on the wall. Middle: He turns his head away from the wall toward the operator console, his hands still planted on the table. End: An operator at the console raises a freshly printed strip of paper tape and holds it up toward him. Mood: tense, urgent, focused. Blur: Shallow depth of field: Amu and Boye sharp in the midground, the wall lights and console operator slightly soft. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 敦煌的火石在哪？</d>; The 操作员 (extra, ordinary voice) says, <d>[Chinese] 地表仓库有一枚。离发动机四十公里。</d>; Final line of this shot: end on “发动机四十公里。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio static hiss, printer clatter; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

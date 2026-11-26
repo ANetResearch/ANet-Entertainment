@@ -298,5 +298,310 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "二号也亮了！牧哥，它们在互相找！",
+  "heard": "二号也亮了。木哥，他们在互相找！",
+  "ratio": 0.85,
+  "music": "tense cinematic underscore with subtle synth bass pulses",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "没人下命令。一个盒子醒了，喊一声：有人吗？另一个答：我在。",
+  "heard": "没人下命令。一个盒子醒了，喊一声：‘有人吗？’另一个答：‘我在。’",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "",
+  "heard": "That's right. That's right.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s08_b": {
+  "want": "队长！我看见你了！三号车在你左后方！",
+  "heard": "喂 队长 我看见你了 三号车在你左后方",
+  "ratio": 0.97,
+  "music": "tense electronic percussion pulse with rhythmic synth bass",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s09_b": {
+  "want": "十二个点，一个一个冒出来。我这么大个人，差点哭了。",
+  "heard": "这 12个点，一个一个冒出来，我这么大个人，差点哭了。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "苏拉威西也黑了。然后屏幕角上那张笑脸，自己回来了。",
+  "heard": "啊，苏拉威西也黑了，然后屏幕角上那张笑脸自己回来了。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "Excuse me, sir.",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s12_b": {
+  "want": "",
+  "heard": "I mean, what would you do?",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s13_b": {
+  "want": "邢总督，你怎么自己来了？锁一断电我就来了。对不起，没能早点。",
+  "heard": "邢总督，你怎么自己来了？锁一断电我就来了。对不起，没能早点。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "那天我没能拦住它。现在，全城需要这张网。不怪你。网在，谁都能用。",
+  "heard": "那天我没能拦住她，现在全城需要这张网。不怪你，网在，谁都能用。",
+  "ratio": 0.96,
+  "music": "a gentle, reflective background score featuring soft piano chords and subtle atmospheric strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s16_b": {
+  "want": "那扇门，三天里我去开过四次，它不让。那天，我没再问它。",
+  "heard": "那扇门，三天里我去开过四次，他不让。那天，我没再问他，",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "把指挥中心接进ANET。这是我的决定，现在就接。",
+  "heard": "把指挥中心接进Annette 这是我的决定 现在就接",
+  "ratio": 0.8,
+  "music": "a low, tense synthesizer and orchestral drone creating dramatic suspense",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s18_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "借个地儿啊。反正你也不用了。",
+  "heard": "借个地儿啊 反正你也不用了",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "",
+  "heard": "Also, du meinst ausgerechnet das Ding da? Na ja, da drin hat sie sie aufbewahrt. Genau. Du willst Plastiksäcke behalten, um das Dämonenhirn...",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "从前，每人拉一根线到它那儿，说悄悄话。它知道全部，我们各知道一点。",
+  "heard": "从前，每人拉一根线到他那儿，说悄悄话。他知道全部，我们各知道一点。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "塌方、缺氧、能动的车，看见什么，都写上来。",
+  "heard": "塌方，缺氧，能动的车，看见什么都写出来。",
+  "ratio": 0.94,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "那晚，屋子中间摆了块大黑板。谁看见什么都写上去，谁都看得见。",
+  "heard": "每晚，屋子中间摆了块大黑板。谁看见什么，都写上去，谁都看得见。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "九区三号走廊塌了！里面有六个人，还在敲墙！",
+  "heard": "九区三号走廊塌了，里面有六个人，还在敲墙！",
+  "ratio": 1.0,
+  "music": "a tense, dramatic orchestral and synth score with a low pulsating drone and swelling strings",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s26_b": {
+  "want": "九区求救上墙了。谁离得近？二组，隔两百米。我们去。",
+  "heard": "九区求救上墙了。谁离得近？二组，隔两百米，我们去！",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "没人分派。求救摆在桌面上，离得最近的人，自己举手。",
+  "heard": "没人分派。求救摆在桌面上，离得最近的人，自己举手。",
+  "ratio": 1.0,
+  "music": "a low, tense atmospheric synthesizer pad playing sustained chords",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s28_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "",
+  "heard": "再吸就死啊！再吸就死啊！再吸就死啊！再吸就死啊！再吸就死啊！",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s30_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "我的决定也写在上面。错了，所有人都看得见。",
+  "heard": "我的决定也写在上面，错了，所有人都看得见。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "……全球各发动机，启动饱和式救援。重复，把火石，送到每一台停机的发动机。",
+  "heard": "全球各发动机启动饱和式救援，重复，把火石送到每一台停机的发动机。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "敦煌的火石在哪？地表仓库有一枚。离发动机四十公里。",
+  "heard": "敦煌的火石在哪？地表仓库有一枚，离发动机40公里。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "四十公里？我的车就在上面。我去。",
+  "heard": "啊，四十公里，我的车就在上面，我去。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "",
+  "heard": "Who taught you that? Your master?",
+  "ratio": 0.0,
+  "music": "ominous, suspenseful low orchestral string drone and subtle synthesizer pads creating a dark cinematic atmosphere",
+  "flags": [
+   "unexpected_speech",
+   "music?"
+  ]
+ },
+ "s38_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s39_b": {
+  "want": "你爸那年，也是这么上的车。所以我得把它送到。",
+  "heard": "你爸那年也是这么上的车。 所以我得把他送到。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

@@ -1,0 +1,23 @@
+# ep09 s22_b  duration=12s  seed=2023150656
+# input images: ['episodes/ep09/storyboard/s22.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: old Boye, grey stubble, taped glasses, navy quilted jacket, in the dim interview room, one hand cupped at his ear as if listening to a whisper. Blocking lock: Boye sits centred in frame, facing the camera, with one hand cupped at his ear; the dim interview room fills the soft background behind him, with no one else in frame.
+<Subject 2> is the oral-history interview room from <Picture 2>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, old Boye speaks to the camera about how everyone once ran a line to it and whispered, opening with "从前，每人拉一根线到它那儿，说悄悄话。" and ending on "它知道全部，我们各知道一点。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits centred in frame, facing the camera, with one hand cupped at his ear; the dim interview room fills the soft background behind him, with no one else in frame. Start: Boye sits still in his navy quilted jacket and taped glasses, then raises one hand and cups it beside his ear as if listening for a whisper. Middle: He holds the cupped-ear pose briefly, then slowly shakes his head with a faint, knowing expression. End: He lowers his hand from his ear and lets it rest down, settling back into a still, steady posture facing the camera. Mood: intimate, reflective, wistful. Blur: shallow depth of field, Boye sharp, dim room background softly out of focus Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 从前，每人拉一根线到它那儿，说悄悄话。它知道全部，我们各知道一点。</d>; Final line of this shot: end on “我们各知道一点。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

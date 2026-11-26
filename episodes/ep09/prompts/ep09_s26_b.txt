@@ -1,0 +1,25 @@
+# ep09 s26_b  duration=10s  seed=2049554992
+# input images: ['episodes/ep09/storyboard/s26.png', 'refs/locations/loc_admin.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot at the central table: an operator marking a red cross on the paper plan while a new red dot pulses on the wall behind, a maintenance worker in a hard hat raising his hand, Governor Xing watching. Blocking lock: the operator stands at centre at the table with the paper plan in the foreground, the pulsing red dot on the wall behind him, the hard-hatted maintenance worker at frame right, Governor Xing at frame left watching.
+<Subject 2> is the administration command hall from <Picture 2>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+In a control room at the central table, an operator marks a red cross for Zone Nine on the paper plan, and a maintenance worker in a hard hat volunteers and runs out while Governor Xing watches; it opens on "九区求救上墙了。谁离得近？" and ends on "二组，隔两百米。我们去。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Medium shot, handheld with a slight documentary shake, loosely following the operator and then the worker's movement.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the operator stands at centre at the table with the paper plan in the foreground, the pulsing red dot on the wall behind him, the hard-hatted maintenance worker at frame right, Governor Xing at frame left watching. Start: The operator leans over the paper plan at the central table and draws a red cross on the Zone Nine location with a marker. Middle: The operator lifts his head toward the crowd, and the maintenance worker in the hard hat immediately raises his hand. End: The worker turns sharply and runs toward the exit, leaving frame, while Governor Xing watches from the side. Mood: Urgent, tense, purposeful. Blur: Shallow depth of field: the operator and the plan stay sharp, the pulsing red dot on the wall and the crowd behind are slightly soft. The 操作员 (extra, ordinary voice) says, <d>[Chinese] 九区求救上墙了。谁离得近？</d>; The 维修工 (extra, ordinary voice) says, <d>[Chinese] 二组，隔两百米。我们去。</d>; Final line of this shot: end on “两百米。我们去。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+marker squeaking on paper, hurried running footsteps; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep09 s14_b  duration=8s  seed=1451040037
+# input images: ['episodes/ep09/storyboard/s14.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. One single close-up image (not a collage, not split panels): under a flashlight beam, a creased strip of thermal receipt paper with rows of barcode-like check patterns and a small red stamp at its end lies flat on a woman's open palm, the dark charcoal sleeve of a uniform visible at the wrist. Blocking lock: Governor Xing's open palm with the paper strip is centre foreground, her fingers curl at frame edges, and Boye's hand and figure are softly implied at frame right in the background.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+Under flashlight beam, Governor Xing unfolds a deeply creased receipt strip from her chest pocket, flattens it on her palm and holds it out toward Boye; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro shot, locked-off camera with a very slight breathing drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing's open palm with the paper strip is centre foreground, her fingers curl at frame edges, and Boye's hand and figure are softly implied at frame right in the background. Start: Governor Xing's fingers draw the creased paper strip out of her chest pocket and begin to unfold it under the flashlight beam. Middle: She smooths the strip flat across her open palm, revealing rows of barcode-like check patterns and the small red stamp at its end. End: Her palm steadies and extends the flattened strip forward toward Boye, holding it still in the light. Mood: tense, intimate, solemn. Blur: very shallow depth of field, only the paper's printed rows and red stamp sharp, background and surroundings falling into soft darkness No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+soft rustle of the paper strip unfolding, faint paper crinkle, quiet ambient room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

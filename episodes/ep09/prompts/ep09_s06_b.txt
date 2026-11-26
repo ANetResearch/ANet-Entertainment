@@ -1,0 +1,27 @@
+# ep09 s06_b  duration=9s  seed=397070997
+# input images: ['episodes/ep09/storyboard/s06.png', 'refs/characters/jin.png', 'refs/props/prop_node.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the truck cab on the ice: Boss Jin in his black surface suit bent sideways, dragging a dented ammo-tin node box with a short antenna out from under the driver's seat, orange light through the frosted windshield. Blocking lock: Boss Jin fills frame centre, bent sideways toward the driver's seat at frame left; the frosted windshield with orange light is in the background at frame right; the dashboard unit sits in the foreground.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the handmade ANET node box with the smiley sticker from <Picture 3>, serving as prop reference. Close-up product-less documentary photo of a handmade network node device on a workbench: an old dented steel ammunition tin fitted with a salvaged circuit board, a small heat sink, three tiny indicator LEDs (two red, one white) and a short screw-on antenna. On its lid is a slightly worn sticker that reproduces exactly the smiley speech-bubble logo from the reference image. Solder wire and a multimeter beside it.
+<Subject 4> is the frozen plain with the heavy-truck convoy from <Picture 4>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+Inside his truck cab on the ice, Boss Jin hauls a dented node box out from under the driver's seat, blows the dust off it and jams its plug back into the dashboard unit.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld inside the cab with a slight organic shake, drifting to follow Jin's movement; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin fills frame centre, bent sideways toward the driver's seat at frame left; the frosted windshield with orange light is in the background at frame right; the dashboard unit sits in the foreground. Start: Boss Jin, in his black surface suit, bends sideways and grips the dented ammo-tin node box with its short antenna, pulling it out from under the driver's seat. Middle: He straightens a little, holds the unplugged box up and blows a puff of dust off its dented surface. End: He pushes the plug hard into the dashboard unit's port and seats it with a firm shove, his hand still gripping the box. Mood: tense, gritty, urgent. Blur: shallow depth of field, frosted windshield and orange light softly blurred behind Jin, dust drifting slightly out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+wind and snow buffeting the truck body, plug clicking into the port; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
