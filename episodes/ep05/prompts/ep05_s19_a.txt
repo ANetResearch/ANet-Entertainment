@@ -1,0 +1,29 @@
+# ep05 s19_a  duration=9s  seed=539546930
+# input images: ['episodes/ep05/storyboard/s19.png', 'refs/characters/xiaoman.png', 'refs/characters/boye.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. At the plank table in the pump-station server room: Chen Xiaoman, grinning, holds a pencil stub over one paper strip in the middle of the long line, old Boye beside him with arms folded, nodding. Blocking lock: Xiaoman at frame left-centre holding a pencil over the paper strip in the middle of the long line on the plank table; Boye at frame right beside him, arms folded; table in the foreground, server room behind.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is the receipt paper strip from a field printer from <Picture 4>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 5> is the secret ANET hub in an abandoned pump station from <Picture 5>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+At the plank table in the pump-station server room, Xiaoman hovers a pencil over a paper strip and asks permission to edit it, opening with "我改一条试试？" and ending on Boye's "改。" before Xiaoman marks the strip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 5> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake, documentary verite feel; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman at frame left-centre holding a pencil over the paper strip in the middle of the long line on the plank table; Boye at frame right beside him, arms folded; table in the foreground, server room behind. Start: Xiaoman holds the pencil stub poised above a paper strip in the middle of the line, then turns his head toward Boye with a sly grin. Middle: Boye, arms folded, gives a single slow nod of approval while Xiaoman keeps the pencil hovering over the strip. End: Xiaoman turns back, lowers his head and draws one pencil stroke across the paper strip. Mood: playful, warm, conspiratorial. Blur: Shallow depth of field; server racks and pump-station equipment behind them fall softly out of focus. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 我改一条试试？</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 改。</d>; Final line of this shot: end on “改。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+pencil scratching on paper, steady fan hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,23 @@
+# ep05 s20_a  duration=10s  seed=467650205
+# input images: ['episodes/ep05/storyboard/s20.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up along the line of paper strips on the table: a small hand-held scanner made from salvaged parts with a single indicator lamp is held over a strip that has a pencil smear across its pattern, the lamp glowing red; earlier strips out of focus behind. Blocking lock: the hand-held scanner and the pencil-smeared paper strip sit in sharp focus at centre foreground, the line of strips runs away toward frame left and into the background, and the earlier strips are soft behind.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In a macro tracking shot along a table, a hand-held salvaged scanner passes over paper strips one by one, its lamp green until it reaches the pencil-smeared strip, then turns red and stays red for every strip after it.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, slow lateral tracking move along the line of strips; pacing: natural speed, a single continuous take with no cut. Blocking lock: the hand-held scanner and the pencil-smeared paper strip sit in sharp focus at centre foreground, the line of strips runs away toward frame left and into the background, and the earlier strips are soft behind. Start: The hand holds the small scanner over the first paper strip, its indicator lamp glowing green as it begins to move along the line. Middle: The scanner passes strip after strip with the lamp steady green, then reaches the strip with the pencil smear and the lamp switches to red. End: The scanner keeps moving over the remaining strips, and the lamp stays red on every one of them. Mood: tense, precise, ominous. Blur: Very shallow macro depth of field, with only the scanner and the current strip sharp and the earlier strips softly out of focus behind. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+short scanner beeps, beeps shifting from crisp to low and dull, faint paper rustle; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

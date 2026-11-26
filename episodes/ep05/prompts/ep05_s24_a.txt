@@ -1,0 +1,23 @@
+# ep05 s24_a  duration=8s  seed=1659252799
+# input images: ['episodes/ep05/storyboard/s24.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up: a creased paper strip being slid by a thick gloved finger into a gap in the line of strips on the table, its pattern lining up with the strips on both sides, the scanner's lamp glowing green above it. Blocking lock: creased paper strip and gloved finger at centre foreground, the line of strips running left and right of it, the scanner head above the strip at upper centre.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In a macro close-up on a worktable, a gloved finger slides a creased paper strip into the gap in a long line of strips, the patterns join on both sides, and the scanner passes over it and lights green. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a very slight settle; pacing: natural speed, a single continuous take with no cut. Blocking lock: creased paper strip and gloved finger at centre foreground, the line of strips running left and right of it, the scanner head above the strip at upper centre. Start: A thick gloved finger pushes the creased paper strip toward the empty gap in the line of strips. Middle: The strip seats into the gap and its pattern lines up with the strips on both sides as the scanner head sweeps over it. End: The finger draws back and the scanner's indicator lamp glows steady green above the joined line. Mood: precise, tense, quietly satisfying. Blur: Very shallow depth of field, with only the strip and the finger tip sharp and the rest of the table and the scanner body softly blurred. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crisp electronic chime, faint scanner hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

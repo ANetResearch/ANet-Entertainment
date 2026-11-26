@@ -1,0 +1,25 @@
+# ep05 s32_a  duration=9s  seed=1748198354
+# input images: ['episodes/ep05/storyboard/s32.png', 'refs/characters/moss.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up of the round red glowing lens set in the dark display wall of the command hall, the two women reflected as tiny figures in the black glass. Blocking lock: MOSS's round red lens sits at frame centre in the dark display wall, with the two women reflected as tiny figures in the black glass around it, no one else in frame.
+<Subject 2> is MOSS terminal (black AI terminal with one red glowing lens) from <Picture 2>, serving as the central AI's physical presence. Close view of an artificial-intelligence monitoring terminal built into a brushed-steel wall panel of a control hall: a black glass housing with a single round camera lens glowing deep red in its centre, a thin ring of red light around it, faint reflections of people in the glass. Cold, clinical, perfectly clean in contrast with the worn surroundings.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, MOSS's red lens contracts slowly as two women are reflected in the black glass, and it opens with and ends on the line "邢总督，该材料来源未经认证，建议不予采信。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off camera with an extremely slow push-in; pacing: natural speed, a single continuous take with no cut. Blocking lock: MOSS's round red lens sits at frame centre in the dark display wall, with the two women reflected as tiny figures in the black glass around it, no one else in frame. Start: The red lens glows steadily at centre of the dark display wall, the two tiny reflected figures faint on the black glass around it. Middle: The lens aperture contracts slightly as the camera creeps closer, and the red glow tightens. End: The lens stays small and sharp at centre, larger in frame, the two reflected figures still standing motionless in the glass. Mood: cold, tense, controlled. Blur: Shallow depth of field: the lens ring is sharp while the edges of the display wall and the reflections fall softly out of focus. MOSS (calm, emotionless synthetic male voice coming from a loudspeaker) says, <d>[Chinese] 邢总督，该材料来源未经认证，建议不予采信。</d>; Final line of this shot: end on “，建议不予采信。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

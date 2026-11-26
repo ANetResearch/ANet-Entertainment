@@ -1,0 +1,23 @@
+# ep05 s17_a  duration=9s  seed=46292137
+# input images: ['episodes/ep05/storyboard/s17.png', 'refs/locations/loc_street.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Residential corridor of the underground city in warm evening bulbs: neighbours sit on crates outside a row of cabin doors, an old man passing a folded sheet of paper to the woman next door, children playing between them. Blocking lock: neighbours seated on crates along both sides at left and right, the old man at centre-left handing the paper to the woman at centre-right, children running through the middle foreground, cabin doors receding in the background.
+<Subject 2> is the underground city main street from <Picture 2>, serving as location reference. Wide shot of the main street of a huge underground city five kilometres below the surface: stacked steel habitation modules on both sides, exposed pipes and cable trays overhead, steam vents, food stalls with warm bulbs, crowds of ordinary people in padded work clothes, puddles on the concrete floor, haze in the air.
+
+summary:
+In a warmly lit residential corridor of the underground city, neighbours sit outside their cabin doors as an old man hands a folded sheet of paper to the woman next door while children run past.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium wide shot, handheld walking camera moving slowly along the corridor with a gentle natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: neighbours seated on crates along both sides at left and right, the old man at centre-left handing the paper to the woman at centre-right, children running through the middle foreground, cabin doors receding in the background. Start: The camera drifts slowly forward past neighbours sitting on crates by their cabin doors under warm evening bulbs. Middle: The old man passes a folded sheet of paper to the woman next door, and she glances at it and tucks it into her apron. End: A child runs across the middle of the frame between the neighbours as the camera keeps moving along the corridor. Mood: warm, intimate, quietly secretive. Blur: Shallow depth of field; the distant corridor and far cabin doors soften into a warm bulb-lit blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+domestic chatter, clinking bowls and chopsticks, humming ventilation pipes; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

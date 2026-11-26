@@ -1,0 +1,23 @@
+# ep05 s41_a  duration=10s  seed=1577884277
+# input images: ['episodes/ep05/storyboard/s41.png', 'refs/props/prop_receipt.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close-up at chest height: Governor Xing's fingers sliding one short folded paper strip with a small red seal into the breast pocket of her charcoal uniform, the red lens a soft out-of-focus glow far behind her shoulder. Blocking lock: Governor Xing's hands and chest fill the foreground centre of frame, her shoulder at frame right, and MOSS's out-of-focus red lens glows small in the far background behind her shoulder.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+
+summary:
+In a quiet, dimly lit space, Governor Xing tucks a small folded paper strip with a red seal into her uniform breast pocket and buttons it, while MOSS's red lens glows faintly far behind her; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, very slow push-in, steady and locked at chest height; pacing: natural speed, a single continuous take with no cut. Blocking lock: Governor Xing's hands and chest fill the foreground centre of frame, her shoulder at frame right, and MOSS's out-of-focus red lens glows small in the far background behind her shoulder. Start: Governor Xing's fingers hold the short folded paper strip with its small red seal at the opening of her charcoal uniform breast pocket. Middle: She slides the paper strip fully into the pocket and presses the pocket flap flat with her fingers. End: She fastens the button on the flap, and her hand settles against the closed pocket as the camera finishes its slow push-in. Mood: secretive, tense, restrained. Blur: Very shallow depth of field; MOSS's red lens far behind her shoulder dissolves into a soft red glow. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+fabric rustling, low electronic hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

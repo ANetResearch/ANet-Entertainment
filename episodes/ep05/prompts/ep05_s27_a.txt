@@ -1,0 +1,25 @@
+# ep05 s27_a  duration=10s  seed=1098079167
+# input images: ['episodes/ep05/storyboard/s27.png', 'refs/characters/boye.png', 'refs/locations/loc_hub.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of old Boye at the plank table slowly rolling the joined paper strips into a tight coil with both hands, the wooden crate, the node racks and a grey compute chassis with a blue three-bladed swirl badge with small status lights soft behind him, warm lamp from above. Blocking lock: Boye is centre foreground at the plank table, facing camera; the wooden crate, node racks and grey compute chassis with the blue three-bladed swirl badge sit softly behind him, lamp light from above.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+
+summary:
+In a workshop, old Boye rolls the joined paper strips into a tight coil and presses his thumb on the red seal, murmuring as if to himself; the clip opens and ends on the single line "开放、可验证，生而为了记住。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye is centre foreground at the plank table, facing camera; the wooden crate, node racks and grey compute chassis with the blue three-bladed swirl badge sit softly behind him, lamp light from above. Start: Boye holds the joined paper strips in both hands and begins rolling them slowly into a coil, turn by turn. Middle: He keeps winding the strips tighter, his hands steady and unhurried, eyes lowered on the paper. End: He reaches the end of the strip and presses his thumb firmly over the red seal to hold the coil closed. Mood: contemplative, warm, quiet. Blur: shallow depth of field; the crate, node racks and compute chassis with its small status lights are soft and out of focus behind Boye Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 开放、可验证，生而为了记住。</d>; Final line of this shot: end on “，生而为了记住。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+soft rustle of paper strips being rolled, low hum of the compute chassis fan; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

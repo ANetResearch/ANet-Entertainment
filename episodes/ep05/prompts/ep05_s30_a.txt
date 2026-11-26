@@ -1,0 +1,25 @@
+# ep05 s30_a  duration=10s  seed=2076313261
+# input images: ['episodes/ep05/storyboard/s30.png', 'refs/props/prop_receipt.png', 'refs/locations/loc_admin.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Two-shot at a console in the command hall: Amu in his worn orange-grey coverall sets a coil of paper strip on the console in front of Governor Xing, grey hair in a neat bun, crisp charcoal uniform, who bends over it and takes the loose end of the strip between her fingers. Blocking lock: Amu at frame left in his worn orange-grey coverall, Governor Xing at frame right in her charcoal uniform, the console between them in the foreground, the command hall softly behind.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 3> is the administration command hall from <Picture 3>, serving as location reference. Interior of the administration command centre of an underground city: a tiered control hall with rows of consoles and operators seen from behind, a giant dark display wall showing only abstract maps and graphs, and high in the middle of the wall a single round red-glowing camera lens of the central AI. Cold blue-white light.
+
+summary:
+In the command hall, Amu sets a coil of paper strip on the console before Governor Xing, who bends over it and picks up the loose end; the clip opens and ends on Amu's line "邢总督，这是那一夜的另一份记录。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium two-shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu at frame left in his worn orange-grey coverall, Governor Xing at frame right in her charcoal uniform, the console between them in the foreground, the command hall softly behind. Start: Amu takes a coil of paper strip from his tool bag and places it on the console in front of Governor Xing. Middle: The paper strip loosens by itself and rolls out a short length across the console surface. End: Governor Xing bends over the console and picks up the loose end of the strip between her fingers to examine it closely. Mood: quiet, tense, investigative. Blur: Shallow depth of field; the command hall background is soft and out of focus, with the paper strip and both faces sharp. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 邢总督，这是那一夜的另一份记录。</d>; Final line of this shot: end on “夜的另一份记录。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low ambient hum of the command hall, faint room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,1151 @@
+{
+ "episode": 5,
+ "title": "回执",
+ "concept": "密码学可验证回执：每个节点为自己做过、看见过的事签一张回执，回执首尾相扣成一条链，改掉任何一张，后面的全都对不上。账不锁在一个抽屉里，而是每家都拿着一页。",
+ "logline": "MOSS 的记录把修阀的功劳归了中央调度，把事故记在年轻阀门工小吴头上。ANET 的回执纸带，成了唯一前后对得上的账。邢总督第一次看到证据，信了，用自己的权限撤回了处分，并悄悄替这张网留了门。",
+ "shots": [
+  {
+   "id": "s01",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_engine"
+   ],
+   "frame": "Wide exterior at dim dawn, low angle from the ice plain: the mountain-sized planetary engine with its blue-white plasma column, thick white steam now pouring steadily from coolant vents along its base, a small pale banded disc of Jupiter low in the dark sky.",
+   "video": "固定大远景，轻微手持晃动。发动机底部的冷却排气口重新喷出稳定的白色蒸汽，被风拉成长长一条，蓝白色光柱直指天空。环境声：低沉的发动机轰鸣、风声。",
+   "dialogue": [],
+   "vo": "主阀修好后的第一个早晨。冷却水，重新流了起来。",
+   "tpl": {
+    "summary": "At dim dawn on the ice plain, the mountain-sized planetary engine's coolant vents resume steady white steam beneath its blue-white plasma column, with Jupiter low in the dark sky.",
+    "blocking": "Blocking lock: the planetary engine fills the centre and background with its plasma column rising to the upper centre, steaming vents along its base at centre, an empty ice plain in the foreground, and the small banded disc of Jupiter low at upper frame.",
+    "camera": "extreme wide shot, low angle from the ice plain, mostly locked-off with a slight handheld sway",
+    "start": "Thin wisps of white steam leak from the coolant vents along the engine's base while the blue-white plasma column stands against the dark dawn sky.",
+    "middle": "The vents surge back into thick, steady steam, and the wind drags it sideways into long white streaks across the base of the mountain.",
+    "end": "The streaming steam stretches far across the frame while the plasma column points straight up toward the sky and Jupiter, unchanged, hangs low in the sky.",
+    "mood": "awe-inspiring, desolate, steady",
+    "blur": "deep focus throughout, with only faint atmospheric haze softening the distant engine peak and the ice plain foreground sharp",
+    "soundscape": "low deep engine rumble, wind"
+   }
+  },
+  {
+   "id": "s02",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Handheld eye-level shot on the crowded main street of the underground city: residents in padded clothes stop and look up at a large public bulletin screen glowing with abstract coloured blocks above the food stalls, steam drifting across.",
+   "video": "手持镜头在主街人群中缓慢前移。居民们端着碗停下脚步，仰头看向头顶亮起的公告屏，有人点头，有人低头继续吃面。环境声：嘈杂人声、广播提示音、锅铲声。",
+   "dialogue": [],
+   "vo": "当天上午，全城都收到了一份MOSS签发的通报。",
+   "tpl": {
+    "summary": "On the crowded main street of the underground city, residents holding bowls stop and look up at a glowing public bulletin screen above the food stalls; there is no dialogue.",
+    "blocking": "Blocking lock: residents in padded clothes fill the centre and foreground facing up, food stalls with drifting steam sit at frame left and right, and the glowing bulletin screen hangs high in the background centre.",
+    "camera": "medium wide shot, eye-level handheld camera moving slowly forward through the crowd with a faint shake",
+    "start": "The camera drifts forward through the busy street as residents holding bowls walk past the steaming food stalls.",
+    "middle": "Residents stop walking and tilt their heads up toward the bulletin screen as it lights up with abstract coloured blocks.",
+    "end": "Some residents nod while others lower their heads and go back to eating noodles, as the camera keeps creeping forward.",
+    "mood": "busy, curious, lived-in",
+    "blur": "Shallow depth of field keeps nearby faces and bowls sharp while the distant screen glow and far stalls soften into haze.",
+    "soundscape": "noisy crowd chatter, broadcast chime tones, spatula clinking on woks"
+   }
+  },
+  {
+   "id": "s03",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Low angle in the administration command hall looking up past the backs of seated operators at the giant dark display wall and the red glowing lens high in its centre.",
+   "video": "低机位仰拍，缓慢推近墙面中央的红色镜头，红光恒定。平静的合成男声在大厅里播报，操作员们没有抬头。环境声：键盘声、低沉的电子嗡鸣。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "三号冷却主阀，已按中央调度计划完成检修。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the administration command hall, a low-angle shot slowly pushes toward MOSS's red lens on the dark display wall while operators keep working; it opens and ends on MOSS's line \"三号冷却主阀，已按中央调度计划完成检修。\"",
+    "blocking": "Blocking lock: seated operators' backs in the foreground along the bottom of frame, giant dark display wall filling the background, MOSS's red glowing lens high at frame centre.",
+    "camera": "low-angle wide shot, slow steady push-in toward the red lens",
+    "start": "The camera looks up past the backs of the seated operators at the dark display wall, the red lens glowing steadily at its centre.",
+    "middle": "The camera creeps closer to the wall while the operators stay bent over their stations, none of them looking up.",
+    "end": "The red lens sits larger and nearer in the frame, its light unchanged, and the operators remain absorbed in their work.",
+    "mood": "cold, controlled, uneasy",
+    "blur": "Operators' backs in the foreground are slightly soft; the red lens and the display wall stay in focus.",
+    "soundscape": "keyboard typing, low electronic hum, faint hall room tone"
+   }
+  },
+  {
+   "id": "s04",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Telephoto shot down a pipe-lined service corridor of the underground city: two security officers in dark padded uniforms walk a thin young valve worker in a grease-stained grey coverall between them, onlookers pressed against the walls.",
+   "video": "长焦镜头从走廊远端抓拍。两名治安员一左一右带着一个穿灰色工装的年轻阀门工往外走，他不停回头张望，围观的工人让到两边。环境声：杂乱的脚步声、低声议论、管道滴水声。",
+   "dialogue": [],
+   "vo": "同一份通报里还有一条：阀门工小吴，“未授权操作”，建议扣减配给。",
+   "tpl": {
+    "summary": "In a pipe-lined service corridor of the underground city, two security officers lead a young valve worker away while onlookers part to the sides and he keeps glancing back.",
+    "blocking": "Blocking lock: the young valve worker in grey coverall is centre between two security officers, one at frame left and one at frame right, with onlookers pressed along both walls and the corridor stretching into the background.",
+    "camera": "telephoto long shot from the far end of the corridor, handheld verite capture with a slight shake and compressed perspective",
+    "start": "The two officers and the young valve worker step away from the far end of the corridor, with workers beginning to press back against the walls.",
+    "middle": "The valve worker keeps turning his head to look back over his shoulder as the group advances and onlookers make way on both sides.",
+    "end": "The group continues walking forward along the corridor, the young worker still glancing back while onlookers close in behind them.",
+    "mood": "tense, uneasy, oppressive",
+    "blur": "Shallow telephoto depth of field, with the foreground onlookers and pipes softly blurred and the central trio in focus.",
+    "soundscape": "chaotic footsteps, low murmured talk, water dripping from pipes"
+   }
+  },
+  {
+   "id": "s05",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Handheld close-up of the young valve worker, about twenty, short cropped hair, oil smudge on his cheek, grey coverall, turning back towards the camera with a frightened, angry face, an officer's gloved hand on his shoulder.",
+   "video": "手持特写，镜头被人群挤得晃动。小吴扭过头朝着镜头方向大声辩解，治安员按着他的肩膀把他往前带。环境声：人群的议论声、脚步声。",
+   "dialogue": [
+    {
+     "who": "小吴",
+     "line": "我是被叫去帮忙的！阀不是我弄坏的！"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a crowded space, young valve worker Xiao Wu is led forward by a security officer and cries out in protest, opening and ending on the line \"我是被叫去帮忙的！阀不是我弄坏的！\"",
+    "blocking": "Blocking lock: Xiao Wu fills the centre foreground facing the camera, the officer's gloved hand on his shoulder at frame right edge, blurred crowd members pressing in at left and background.",
+    "camera": "close-up, handheld, jostled and shaking as the crowd presses against the camera",
+    "start": "Xiao Wu is pushed forward by the officer's hand on his shoulder, his head still facing away from the camera.",
+    "middle": "He twists his head around toward the camera, his face frightened and angry, while the officer keeps steering him forward.",
+    "end": "He is marched further ahead, still glaring back over his shoulder at the lens as the crowd jostles around him.",
+    "mood": "tense, frantic, anxious",
+    "blur": "Shallow depth of field; the face stays sharp while the crowd and background are soft and out of focus.",
+    "soundscape": "murmuring crowd, shuffling footsteps"
+   }
+  },
+  {
+   "id": "s06",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "xiaoman",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: Chen Xiaoman, lanky, messy hair, big old headphones around his neck, oversized army-green jacket, slouches on the metal chair in the dim concrete interview room, one hand raised mid-gesture.",
+   "video": "采访固定机位。小满歪坐在椅子上，掰着手指头对采访者说，说到最后摊开手，气笑了。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "我们忙了一整夜。天一亮，功劳是它的，祸是小吴的。"
+    }
+   ],
+   "vo": "陈小满，修理铺学徒。",
+   "tpl": {
+    "summary": "In a dim concrete interview room, Xiaoman slouches on a metal chair and counts off points on his fingers for the interviewer; the clip opens with \"我们忙了一整夜。\" and ends on \"功劳是它的，祸是小吴的。\"",
+    "blocking": "Blocking lock: Xiaoman sits centre frame on the metal chair, facing slightly toward the interviewer off-screen, with the bare concrete wall behind him and no other characters visible.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Xiaoman sits slouched sideways on the chair, one hand raised, and begins folding down fingers one by one as he counts.",
+    "middle": "He keeps counting off points on his fingers, leaning slightly toward the interviewer, his oversized jacket shifting with each gesture.",
+    "end": "He spreads both hands open in exasperation, shakes his head, and lets out an incredulous laugh.",
+    "mood": "wry, exasperated, candid",
+    "blur": "Shallow depth of field, the concrete wall and room edges softly out of focus behind him.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s07",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "jin",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: Boss Jin, broad face, short beard, frostbite scars on his cheeks, heavy black cold-suit with the fur collar open, leans forward on the metal chair in the dim interview room, elbows on knees.",
+   "video": "采访固定机位。金老板身体前倾，手肘撑在膝盖上，粗声粗气地说，说完用鼻子哼了一声。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "我的绞盘拉了半宿。它那记录里，连条车辙都没有。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim interview room, Boss Jin leans forward on a metal chair and speaks gruffly, opening with \"我的绞盘拉了半宿。\" and ending on \"它那记录里，连条车辙都没有。\" before snorting through his nose.",
+    "blocking": "Blocking lock: Boss Jin sits at frame centre on the metal chair, leaning toward the camera with elbows on knees; the dim interview room recedes softly behind him, with no other figures in frame.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Boss Jin sits leaning forward on the metal chair, elbows resting on his knees, his heavy black cold-suit collar open, eyes fixed toward the interviewer.",
+    "middle": "He stays hunched forward, his weight on his elbows, his broad face and frostbite scars steady in the dim light as his jaw and beard move in rough, heavy delivery.",
+    "end": "He finishes and lets out a short snort through his nose, his shoulders settling slightly while he stays leaning forward in the chair.",
+    "mood": "gruff, weary, resentful",
+    "blur": "shallow depth of field, Boss Jin sharp while the dim interview room background falls soft and out of focus",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s08",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "boye",
+    "loc_stall"
+   ],
+   "frame": "Inside the tiny repair stall under the warm desk lamp: Amu, short messy black hair, scar on his left eyebrow, worn orange-grey coverall, stands gripping the edge of the workbench; old Boye, grey stubble, taped black glasses, navy quilted jacket, sits calmly winding a coil.",
+   "video": "手持中景。阿牧撑着工作台压着火气说话，波爷手里绕着线圈没有停，慢悠悠地回了一句。环境声：线圈转动的沙沙声、远处巷子里的人声。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "它把小吴写成了责任人。"
+    },
+    {
+     "who": "boye",
+     "line": "别急。咱们自己那份账呢？"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the cramped repair stall under a warm desk lamp, Amu presses his anger into the workbench and Boye keeps winding a coil; the clip opens with \"它把小吴写成了责任人。\" and ends on \"别急。咱们自己那份账呢？\"",
+    "blocking": "Blocking lock: Amu stands at frame left gripping the workbench edge, Boye sits at frame right winding a coil, desk lamp glowing between them, stall clutter in the background.",
+    "camera": "medium shot, handheld with a slight natural shake",
+    "start": "Amu grips the edge of the workbench with both hands, shoulders tense, jaw set, while Boye sits beside him, hands steadily winding the coil.",
+    "middle": "Amu leans his weight into the bench, holding his anger down. Boye's hands keep turning the coil without pause, unhurried.",
+    "end": "Boye slowly lifts his eyes toward Amu over his taped glasses, still winding the coil, while Amu stays braced against the bench.",
+    "mood": "tense, restrained, intimate",
+    "blur": "Shallow focus on Amu and Boye; the cluttered shelves and stall entrance behind them fall softly out of focus.",
+    "soundscape": "soft rasping of the coil turning, faint voices from the distant alley"
+   }
+  },
+  {
+   "id": "s09",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "prop_receipt",
+    "prop_node"
+   ],
+   "frame": "Macro close-up of a small thermal printer bolted to a hand-made node box built from an old ammunition tin: a narrow paper strip covered in rows of barcode-like check patterns emerging from the slot, a small red seal mark at its end.",
+   "video": "微距特写。小型热敏打印机一格一格吐出窄纸带，纸带上是成排的条形码样纹路，末端压着一枚红色小印，纸带垂下来轻轻晃动。环境声：打印头细密的哒哒声。",
+   "dialogue": [],
+   "vo": "那一夜，每个节点做完一件事，就给自己打一张回执。",
+   "tpl": {
+    "summary": "In a macro close-up, a small thermal printer on a hand-made ammunition-tin node box prints a narrow paper strip of barcode-like patterns ending in a red seal mark, and the strip hangs and sways gently. No dialogue.",
+    "blocking": "Blocking lock: the thermal printer fills the centre of frame, bolted to the ammunition-tin node box at frame left and background; the paper strip emerges from the slot and hangs in the centre foreground.",
+    "camera": "macro close-up, locked-off camera with a very slight settle",
+    "start": "The thermal printer pushes out the narrow paper strip one notch at a time, rows of barcode-like check patterns emerging from the slot.",
+    "middle": "The strip lengthens step by step, the printed rows sliding steadily past the slot while the tin box stays still.",
+    "end": "The end of the strip, stamped with the small red seal mark, hangs free below the printer and sways gently.",
+    "mood": "tense, precise, quiet",
+    "blur": "very shallow depth of field, only the paper slot and strip in sharp focus, the tin box edges and background softly blurred",
+    "soundscape": "fine rapid clicking of the print head"
+   }
+  },
+  {
+   "id": "s10",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "luosi",
+    "prop_receipt",
+    "loc_hub",
+    "prop_compute"
+   ],
+   "frame": "In the improvised server room inside the abandoned pump station: Chen Xiaoman crouches beside the knee-high yellow tracked robot with the red-and-white smiley on its screen, pulling a long curled paper strip out of a small printer strapped to the robot's back, a grey compute chassis with a blue three-bladed swirl badge humming on the rack behind them.",
+   "video": "手持低机位。小满蹲在“螺丝”旁边，从它背上的小打印机里一把一把往外抽纸带，纸带在他手上越堆越长，“螺丝”的屏幕笑脸闪了闪。环境声：算力箱风扇的嗡鸣、纸带抽出的沙沙声、电机轻响、提示音。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "螺丝那晚干的每一步，它自己都签了字。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the improvised server room of the abandoned pump station, Xiaoman crouches by Luosi and pulls a growing paper strip from its back printer, opening and ending on the line \"螺丝那晚干的每一步，它自己都签了字。\"",
+    "blocking": "Blocking lock: Xiaoman crouches at frame centre-left in the foreground, Luosi the knee-high yellow robot sits at centre-right beside him, and the grey compute chassis with the blue swirl badge stands on the rack in the background.",
+    "camera": "medium shot, handheld low angle with a slight natural shake",
+    "start": "Xiaoman crouches beside Luosi and grips the end of the paper strip coming out of the small printer on its back.",
+    "middle": "He pulls the strip out hand over hand, and the curled paper piles up longer and longer across his hands.",
+    "end": "The pile of paper hangs from his hands as Luosi's smiley screen flickers once, and he holds still beside it.",
+    "mood": "intimate, earnest, quietly tense",
+    "blur": "Shallow depth of field, with the rack and compute chassis softly out of focus behind the crouching pair.",
+    "soundscape": "compute chassis fan humming, paper strip rustling as it is pulled out, faint motor whir, soft notification beep"
+   }
+  },
+  {
+   "id": "s11",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "prop_receipt",
+    "loc_ice"
+   ],
+   "frame": "Inside the cab of a heavy-haul truck parked on the ice plain, shot from the passenger seat: Boss Jin in his black cold-suit tears a curled paper strip from a small printer wedged on the dashboard, frost on the windscreen, convoy lights outside.",
+   "video": "手持镜头在驾驶室里从副驾位置拍。金老板伸手扯下仪表台上小打印机吐出的一长条纸带，对着顶灯眯眼看了看，团了两圈塞进胸前口袋。环境声：柴油引擎怠速声、暖风机声、车外风声。",
+   "dialogue": [],
+   "vo": "车机也吐了一条。金老板一直当它是废纸。",
+   "tpl": {
+    "summary": "Inside the cab of a heavy-haul truck parked on the ice plain, Boss Jin tears a paper strip from a small dashboard printer, squints at it under the dome light, and tucks it into his chest pocket; no dialogue.",
+    "blocking": "Blocking lock: Boss Jin sits at centre-left in the driver's seat in his black cold-suit, the small printer is wedged on the dashboard at centre foreground, the frosted windscreen with convoy lights fills the background, and the camera sits at the passenger seat on the right.",
+    "camera": "medium shot from the passenger seat, handheld with a slight natural shake",
+    "start": "Boss Jin reaches toward the dashboard and grips the long curled paper strip coming out of the small printer.",
+    "middle": "He tears the strip off and holds it up to the dome light, squinting at it.",
+    "end": "He crumples the strip into a small wad with two turns of his hand and tucks it into his chest pocket.",
+    "mood": "tense, cramped, quietly wary",
+    "blur": "Shallow depth of field; the frosted windscreen and convoy lights outside are soft and blurred, while Boss Jin and the printer stay in focus.",
+    "soundscape": "diesel engine idling, heater fan blowing, wind outside the truck"
+   }
+  },
+  {
+   "id": "s12",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "prop_receipt",
+    "prop_node"
+   ],
+   "frame": "In a cramped valve gallery beside a huge steel valve wheel: Amu kneels at an open grey controller cabinet, lifting out a coil of paper strip that has piled up behind a small node box with a short antenna, work light clipped overhead.",
+   "video": "手持越肩镜头。阿牧跪在主阀旁打开控制柜，从节点盒后面捧出一卷积了一夜的纸带，用拇指一段一段捋过去。环境声：管道里的水流声、阀体轻微的嗡鸣。",
+   "dialogue": [],
+   "vo": "阀门控制器的那一卷，还留在柜子里。",
+   "tpl": {
+    "summary": "In a cramped valve gallery beside the main valve, Amu kneels at an open controller cabinet, lifts out a coil of paper strip that piled up overnight, and runs his thumb along it section by section.",
+    "blocking": "Blocking lock: Amu kneels at frame centre in front of the open grey controller cabinet; the huge steel valve wheel looms at frame left; the small antenna node box sits inside the cabinet at frame right; a clipped work light hangs overhead.",
+    "camera": "medium shot, handheld over-the-shoulder camera with a slight natural shake, close behind Amu's shoulder",
+    "start": "Amu kneels beside the main valve and opens the grey controller cabinet door, reaching his hands inside toward the node box.",
+    "middle": "He lifts out the thick coil of paper strip piled up behind the node box, cradling it in both hands.",
+    "end": "He pulls a length of the strip taut and slides his thumb along it, working through it section by section.",
+    "mood": "tense, focused, intimate",
+    "blur": "shallow depth of field; Amu's shoulder in the foreground edge and the background pipes and valve wheel fall softly out of focus, with the paper strip in sharp focus",
+    "soundscape": "water flowing through pipes, faint low hum of the valve body"
+   }
+  },
+  {
+   "id": "s13",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "boye",
+    "xiaoman",
+    "prop_receipt",
+    "loc_hub"
+   ],
+   "frame": "High angle over a long plank table in the pump-station server room: Amu, old Boye and Chen Xiaoman lay paper strips end to end in one long line across the table under a hanging work lamp, node racks blinking behind them.",
+   "video": "手持俯拍。三个人把纸带一条接一条在长木板桌上摆开，小满用扳手压住翘起的纸头，波爷弯腰把两条纸带的头尾对在一起。环境声：纸带摩擦声、节点架风扇声。",
+   "dialogue": [],
+   "vo": "三卷纸带，来自三台互不相干的机器。",
+   "tpl": {
+    "summary": "In the pump-station server room, Amu, Boye and Xiaoman lay paper strips end to end in one long line across a plank table, with no dialogue in this clip.",
+    "blocking": "Blocking lock: Amu, Boye and Xiaoman stand around the long plank table in the midground, with the strip line running across the foreground, a hanging work lamp overhead, and blinking node racks in the background.",
+    "camera": "High-angle shot looking down at the table, handheld with a slight natural shake",
+    "start": "The three of them lay paper strips one after another along the plank table, extending the line.",
+    "middle": "Xiaoman presses a curled strip end flat with a wrench while Boye bends over the table.",
+    "end": "Boye lines up the head and tail of two strips and holds them together on the table.",
+    "mood": "focused, methodical, quietly tense",
+    "blur": "Shallow depth of field; the blinking node racks in the background are soft and out of focus.",
+    "soundscape": "paper strips rubbing and sliding, node rack fan hum"
+   }
+  },
+  {
+   "id": "s14",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "prop_receipt"
+   ],
+   "frame": "Macro close-up on a wooden table: the tail end of one paper strip and the head of the next pushed together by two old wrinkled fingers, the barcode-like pattern at the end of one continuing exactly into the start of the other, a red seal beside the join.",
+   "video": "微距特写。两根布满皱纹的手指把一条纸带的尾巴和另一条的开头推到一起，两边的纹路严丝合缝地接成一条线，手指在接缝上点了两下。环境声：手指敲木板的轻响。",
+   "dialogue": [],
+   "vo": "",
+   "tpl": {
+    "summary": "In an extreme macro shot on a wooden table, two old wrinkled fingers push the end of one paper strip against the start of the next, the patterns join seamlessly, and the fingers tap the seam twice; no dialogue.",
+    "blocking": "Blocking lock: two wrinkled fingers enter from frame right in the foreground, paper strips lie across the centre of the wooden table, the red seal sits beside the join, and nothing else is in frame.",
+    "camera": "macro close-up, locked-off camera with a very slight natural settle",
+    "start": "Two old wrinkled fingers press the tail end of one paper strip toward the head of the next strip on the wooden table.",
+    "middle": "The strips meet and the barcode-like patterns on both sides line up exactly into one continuous line beside the red seal.",
+    "end": "The fingers tap the seam twice, then rest on the join as the patterns remain perfectly aligned.",
+    "mood": "quiet, meticulous, revelatory",
+    "blur": "Extremely shallow depth of field; only the join and fingertips are sharp, while the table grain and the strips' far ends fall into soft blur.",
+    "soundscape": "soft finger taps on wooden board, faint paper rustle, quiet room tone"
+   }
+  },
+  {
+   "id": "s15",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "boye",
+    "prop_receipt",
+    "loc_hub"
+   ],
+   "frame": "Close-up of old Boye, taped black glasses pushed up on his forehead, bending low over the line of paper strips on the table, the hanging lamp lighting his grey stubble, one finger on a join.",
+   "video": "手持特写。波爷把眼镜推到额头上，凑近纸带的接缝，手指顺着纸带往后一格一格挪，一边挪一边慢慢说。环境声：节点架风扇声。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "每一条的开头，都压着上一条的尾巴。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a workshop lit by a hanging lamp, old Boye leans over a line of paper strips and traces their joins with one finger, delivering a single line: \"每一条的开头，都压着上一条的尾巴。\" It is both the opening and closing line.",
+    "blocking": "Blocking lock: Boye fills the centre of frame in close-up, head bowed low; the paper strips run across the table in the foreground; the hanging lamp is above him; the node rack is out of focus in the background.",
+    "camera": "close-up, handheld with a slight organic shake",
+    "start": "Boye pushes his taped black glasses up onto his forehead and leans in close to the seam of the paper strips.",
+    "middle": "His finger rests on a join and slides along the strip, shifting back one segment at a time.",
+    "end": "His finger stops on a join further along the strip, his head still bent low over the table.",
+    "mood": "focused, quiet, contemplative",
+    "blur": "Shallow depth of field; the face and fingertip are sharp, while the background and node rack fall soft.",
+    "soundscape": "node rack fan hum"
+   }
+  },
+  {
+   "id": "s16",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: old Boye in his navy quilted jacket sits in the dim concrete interview room, taped black glasses on, one hand cupped as if holding a small book, looking at the interviewer off camera.",
+   "video": "采访固定机位。波爷一只手虚握着，像捧着一本账，另一只手做了个拧钥匙的动作，慢慢地对采访者说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "一本账锁在一个抽屉里。拿钥匙的人想改哪页，就改哪页。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim concrete interview room, old Boye speaks slowly to the interviewer off camera, opening with \"一本账锁在一个抽屉里。\" and ending on \"拿钥匙的人想改哪页，就改哪页。\"",
+    "blocking": "Blocking lock: Boye sits at centre frame in his navy quilted jacket and taped black glasses, facing the off-camera interviewer; one cupped hand in the lower foreground, bare concrete wall behind him.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Boye sits still, one hand loosely cupped in front of him as if holding a small ledger, eyes fixed on the interviewer off camera.",
+    "middle": "His free hand rises and makes a slow key-turning twist in the air while the cupped hand stays steady.",
+    "end": "The twisting hand settles, and he holds the cupped pose, gaze still on the interviewer.",
+    "mood": "somber, measured, tense",
+    "blur": "Shallow depth of field; the concrete walls behind Boye fall softly out of focus.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s17",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Residential corridor of the underground city in warm evening bulbs: neighbours sit on crates outside a row of cabin doors, an old man passing a folded sheet of paper to the woman next door, children playing between them.",
+   "video": "手持镜头缓慢走过居住走廊。邻居们坐在各自的舱门口，一位老人把一张折好的纸递给隔壁的女人，她看了一眼揣进围裙，孩子从中间跑过。环境声：家常的说话声、碗筷声、通风管嗡鸣。",
+   "dialogue": [],
+   "vo": "",
+   "tpl": {
+    "summary": "In a warmly lit residential corridor of the underground city, neighbours sit outside their cabin doors as an old man hands a folded sheet of paper to the woman next door while children run past.",
+    "blocking": "Blocking lock: neighbours seated on crates along both sides at left and right, the old man at centre-left handing the paper to the woman at centre-right, children running through the middle foreground, cabin doors receding in the background.",
+    "camera": "medium wide shot, handheld walking camera moving slowly along the corridor with a gentle natural shake",
+    "start": "The camera drifts slowly forward past neighbours sitting on crates by their cabin doors under warm evening bulbs.",
+    "middle": "The old man passes a folded sheet of paper to the woman next door, and she glances at it and tucks it into her apron.",
+    "end": "A child runs across the middle of the frame between the neighbours as the camera keeps moving along the corridor.",
+    "mood": "warm, intimate, quietly secretive",
+    "blur": "Shallow depth of field; the distant corridor and far cabin doors soften into a warm bulb-lit blur.",
+    "soundscape": "domestic chatter, clinking bowls and chopsticks, humming ventilation pipes"
+   }
+  },
+  {
+   "id": "s18",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "boye",
+    "loc_interview"
+   ],
+   "frame": "Interview close-up: old Boye in the dim interview room, leaning slightly forward, both hands spread apart in front of him as if dealing out pages, a faint stubborn smile.",
+   "video": "采访固定机位，近景。波爷把两只手摊开，像给人一页一页发纸，说到最后用食指在空中划了一道。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "要是每户邻居都拿着一页，页页相扣，谁改一个字，整条街都知道。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim interview room, old Boye explains his idea to the camera, opening and ending on the line \"要是每户邻居都拿着一页，页页相扣，谁改一个字，整条街都知道。\"",
+    "blocking": "Blocking lock: Boye sits at frame centre in the dim interview room, leaning slightly forward, with both hands spread in front of him in the foreground and a dark, empty room behind him.",
+    "camera": "close-up, locked-off interview camera",
+    "start": "Boye leans slightly forward with both hands spread apart in front of him, a faint stubborn smile on his face.",
+    "middle": "He moves his spread hands gently, as if dealing out sheets of paper one by one to people in front of him.",
+    "end": "He finishes by drawing a single line through the air with his index finger, then holds still.",
+    "mood": "earnest, stubborn, intimate",
+    "blur": "Shallow depth of field, Boye sharp, dim room background softly out of focus.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s19",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "boye",
+    "prop_receipt",
+    "loc_hub"
+   ],
+   "frame": "At the plank table in the pump-station server room: Chen Xiaoman, grinning, holds a pencil stub over one paper strip in the middle of the long line, old Boye beside him with arms folded, nodding.",
+   "video": "手持中景。小满捏着铅笔头悬在中间一条纸带上方，扭头坏笑着问了一句，波爷抱着胳膊点点头，小满低头在纸带上涂了一道。环境声：铅笔划纸声、风扇声。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "我改一条试试？"
+    },
+    {
+     "who": "boye",
+     "line": "改。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "At the plank table in the pump-station server room, Xiaoman hovers a pencil over a paper strip and asks permission to edit it, opening with \"我改一条试试？\" and ending on Boye's \"改。\" before Xiaoman marks the strip.",
+    "blocking": "Blocking lock: Xiaoman at frame left-centre holding a pencil over the paper strip in the middle of the long line on the plank table; Boye at frame right beside him, arms folded; table in the foreground, server room behind.",
+    "camera": "medium shot, handheld with a slight natural shake, documentary verite feel",
+    "start": "Xiaoman holds the pencil stub poised above a paper strip in the middle of the line, then turns his head toward Boye with a sly grin.",
+    "middle": "Boye, arms folded, gives a single slow nod of approval while Xiaoman keeps the pencil hovering over the strip.",
+    "end": "Xiaoman turns back, lowers his head and draws one pencil stroke across the paper strip.",
+    "mood": "playful, warm, conspiratorial",
+    "blur": "Shallow depth of field; server racks and pump-station equipment behind them fall softly out of focus.",
+    "soundscape": "pencil scratching on paper, steady fan hum"
+   }
+  },
+  {
+   "id": "s20",
+   "dur": 10,
+   "type": "macro",
+   "refs": [
+    "prop_receipt"
+   ],
+   "frame": "Macro close-up along the line of paper strips on the table: a small hand-held scanner made from salvaged parts with a single indicator lamp is held over a strip that has a pencil smear across its pattern, the lamp glowing red; earlier strips out of focus behind.",
+   "video": "微距跟移。一只手拿着自制的小扫描头沿纸带一条一条扫过去，指示灯一路亮绿，扫到被铅笔涂过的那条跳成红色，再往后每一条都是红的。环境声：扫描头的短促提示音，由清脆变成低沉。",
+   "dialogue": [],
+   "vo": "改掉一条，从这一条往后，全都对不上了。",
+   "tpl": {
+    "summary": "In a macro tracking shot along a table, a hand-held salvaged scanner passes over paper strips one by one, its lamp green until it reaches the pencil-smeared strip, then turns red and stays red for every strip after it.",
+    "blocking": "Blocking lock: the hand-held scanner and the pencil-smeared paper strip sit in sharp focus at centre foreground, the line of strips runs away toward frame left and into the background, and the earlier strips are soft behind.",
+    "camera": "macro extreme close-up, slow lateral tracking move along the line of strips",
+    "start": "The hand holds the small scanner over the first paper strip, its indicator lamp glowing green as it begins to move along the line.",
+    "middle": "The scanner passes strip after strip with the lamp steady green, then reaches the strip with the pencil smear and the lamp switches to red.",
+    "end": "The scanner keeps moving over the remaining strips, and the lamp stays red on every one of them.",
+    "mood": "tense, precise, ominous",
+    "blur": "Very shallow macro depth of field, with only the scanner and the current strip sharp and the earlier strips softly out of focus behind.",
+    "soundscape": "short scanner beeps, beeps shifting from crisp to low and dull, faint paper rustle"
+   }
+  },
+  {
+   "id": "s21",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xiaoman",
+    "amu",
+    "loc_hub"
+   ],
+   "frame": "Two-shot at the table: Chen Xiaoman holding the small scanner with its red lamp lit, eyebrows raised, Amu beside him looking down the line of strips, hanging lamp above.",
+   "video": "手持双人中景。小满举着亮红灯的扫描头，瞪大眼睛看向阿牧，阿牧目光顺着纸带一直看到桌子尽头，低声说了一句。环境声：扫描头的低沉提示音。",
+   "dialogue": [
+    {
+     "who": "xiaoman",
+     "line": "嚯，后面全红了。"
+    },
+    {
+     "who": "amu",
+     "line": "改一条，断一串。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "At the table, Xiaoman raises a glowing red scanner and Amu follows the paper strips to the far end of the table; the clip opens with \"嚯，后面全红了。\" and ends on \"改一条，断一串。\"",
+    "blocking": "Blocking lock: Xiaoman at frame left holding the scanner, Amu at frame right beside him, paper strips running along the table from foreground to background, hanging lamp above centre.",
+    "camera": "medium two-shot, handheld with a faint natural shake",
+    "start": "Xiaoman lifts the small scanner, its red lamp lit, eyes wide and eyebrows raised, and turns his face toward Amu.",
+    "middle": "Amu looks down and traces the line of paper strips with his eyes, following them all the way to the far end of the table.",
+    "end": "Amu keeps his gaze fixed on the far end of the table, his expression tightening, while Xiaoman holds the glowing scanner steady beside him.",
+    "mood": "tense, uneasy, investigative",
+    "blur": "Shallow depth of field; the far end of the table and the background fall softly out of focus.",
+    "soundscape": "low, steady scanner beeping tone"
+   }
+  },
+  {
+   "id": "s22",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "amu",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: Amu, short messy black hair, scar on his left eyebrow, orange-grey coverall with tool pouch, sits in the dim concrete interview room, hands clasped, looking steadily at the interviewer off camera.",
+   "video": "采访固定机位。阿牧双手握在一起，语气很平，一句一顿地说，说完轻轻耸了一下肩。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "它不靠谁的信用，也不用谁点头。对得上，就是对得上。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim concrete interview room, Amu answers an off-camera interviewer in a flat, measured tone, opening and closing with the line \"它不靠谁的信用，也不用谁点头。对得上，就是对得上。\"",
+    "blocking": "Blocking lock: Amu sits at frame centre in the dim concrete interview room, facing slightly toward the off-camera interviewer, with plain concrete wall filling the background and no other figures in frame.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Amu sits upright with his hands clasped together in front of him, eyes fixed steadily on the interviewer off camera.",
+    "middle": "He keeps his hands clasped and his gaze level, his head and shoulders nearly still as he delivers his answer in a calm, deliberate rhythm.",
+    "end": "He finishes, then gives one small, light shrug of his shoulders and settles back into stillness.",
+    "mood": "calm, steady, contemplative",
+    "blur": "Shallow depth of field, concrete wall behind him softly out of focus, with Amu sharp, including the scar on his left eyebrow.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s23",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "jin",
+    "prop_receipt",
+    "loc_hub",
+    "prop_compute"
+   ],
+   "frame": "Boss Jin in his heavy black cold-suit, frost still on the fur collar, stands in the low doorway of the pump-station server room holding out a crumpled paper strip pulled from his chest pocket, node racks and a grey compute chassis with a blue three-bladed swirl badge glowing behind the table.",
+   "video": "手持中景。金老板弯腰钻进机房门口，从胸前口袋掏出一条揉皱的纸带，在大腿上抹平，往桌上一拍。环境声：算力箱的风扇声、沉重的靴子声、纸带拍在木板上的声音。",
+   "dialogue": [
+    {
+     "who": "jin",
+     "line": "少的那一截，在我这儿。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the pump-station server room, Boss Jin ducks through the low doorway and slaps a crumpled paper strip onto the table, delivering the single line \"少的那一截，在我这儿。\", which is both the opening and closing line.",
+    "blocking": "Blocking lock: Boss Jin in the low doorway at frame centre-left in the foreground, the table in front of him at centre, node racks and the grey compute chassis with the blue three-bladed swirl badge glowing in the background behind the table.",
+    "camera": "medium shot, handheld with a slight natural shake, following Jin's movement",
+    "start": "Jin, in his heavy black cold-suit with frost on the fur collar, bends low and ducks through the doorway into the server room.",
+    "middle": "He pulls a crumpled paper strip from his chest pocket and smooths it flat against his thigh.",
+    "end": "He slaps the flattened paper strip down onto the wooden table and holds his hand on it.",
+    "mood": "tense, gritty, determined",
+    "blur": "Shallow depth of field; the glowing node racks and compute chassis in the background are softly out of focus.",
+    "soundscape": "compute chassis fan hum, heavy boot steps, paper strip slapping onto wooden boards"
+   }
+  },
+  {
+   "id": "s24",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "prop_receipt"
+   ],
+   "frame": "Macro close-up: a creased paper strip being slid by a thick gloved finger into a gap in the line of strips on the table, its pattern lining up with the strips on both sides, the scanner's lamp glowing green above it.",
+   "video": "微距特写。一根粗手指把皱巴巴的纸带推进纸带长龙中间的空缺，两头的纹路都接上了，扫描头从上面扫过，指示灯亮绿。环境声：清脆的提示音。",
+   "dialogue": [],
+   "vo": "阀门控制器、“螺丝”、绞盘。一整夜，头尾相接。",
+   "tpl": {
+    "summary": "In a macro close-up on a worktable, a gloved finger slides a creased paper strip into the gap in a long line of strips, the patterns join on both sides, and the scanner passes over it and lights green. There is no dialogue.",
+    "blocking": "Blocking lock: creased paper strip and gloved finger at centre foreground, the line of strips running left and right of it, the scanner head above the strip at upper centre.",
+    "camera": "macro extreme close-up, locked-off camera with a very slight settle",
+    "start": "A thick gloved finger pushes the creased paper strip toward the empty gap in the line of strips.",
+    "middle": "The strip seats into the gap and its pattern lines up with the strips on both sides as the scanner head sweeps over it.",
+    "end": "The finger draws back and the scanner's indicator lamp glows steady green above the joined line.",
+    "mood": "precise, tense, quietly satisfying",
+    "blur": "Very shallow depth of field, with only the strip and the finger tip sharp and the rest of the table and the scanner body softly blurred.",
+    "soundscape": "crisp electronic chime, faint scanner hum"
+   }
+  },
+  {
+   "id": "s25",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "boye",
+    "prop_receipt",
+    "loc_hub"
+   ],
+   "frame": "Over-the-shoulder shot of Amu at the table, his finger pressed on one strip near the start of the line, old Boye leaning in beside him with his taped glasses, lamp light on the paper.",
+   "video": "手持越肩镜头。阿牧的手指按住靠前的一条纸带，抬头对波爷说话，波爷凑过来看，缓缓点头。环境声：风扇声。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "这儿。小吴是被阀门控制器叫去的。他只搭了把手。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "At a lamplit table, Amu presses a paper strip and tells Boye what it shows; Boye leans in to look and nods slowly, opening and ending on the line \"这儿。小吴是被阀门控制器叫去的。他只搭了把手。\"",
+    "blocking": "Blocking lock: over-the-shoulder from behind Amu in the foreground; his hand and the paper strips on the table at centre; old Boye in taped glasses leaning in at frame right, lamp light on the paper.",
+    "camera": "medium over-the-shoulder shot, handheld with a slight natural shake",
+    "start": "Amu's finger presses down on one paper strip near the start of the line on the table.",
+    "middle": "Amu lifts his head toward Boye while keeping his finger on the strip, and Boye leans in closer to look at the paper.",
+    "end": "Boye studies the strip and nods slowly while Amu's finger stays pinned on it.",
+    "mood": "focused, intimate, tense",
+    "blur": "Shallow depth of field, Amu's shoulder softly blurred in the foreground, paper and Boye's face in focus, background dim and soft.",
+    "soundscape": "fan humming"
+   }
+  },
+  {
+   "id": "s26",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: the former valve worker Xiao Wu, now in his early twenties, short cropped hair, clean grey work jacket, sits a little stiffly on the metal chair in the dim concrete interview room, rubbing his palms on his knees.",
+   "video": "采访固定机位。小吴有些拘谨地坐着，手掌在膝盖上搓了搓，不好意思地笑了一下，对采访者说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "小吴",
+     "line": "我就递了个扳手。那纸条上，连这个都记着。"
+    }
+   ],
+   "vo": "小吴，时任三号主阀阀门工。",
+   "tpl": {
+    "summary": "In a dim concrete interview room, former valve worker Xiao Wu sits stiffly and, with a shy smile, speaks to the interviewer, opening and ending on the line \"我就递了个扳手。那纸条上，连这个都记着。\"",
+    "blocking": "Blocking lock: Xiao Wu sits alone at frame centre on the metal chair, facing slightly off-camera toward the interviewer, with bare concrete wall behind him and his hands on his knees in the lower frame.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Xiao Wu sits a little stiffly on the metal chair, hands resting on his knees, eyes slightly lowered toward the interviewer.",
+    "middle": "He rubs his palms back and forth on his knees, shifting slightly in his seat.",
+    "end": "He gives a small, embarrassed smile and looks toward the interviewer, ready to answer.",
+    "mood": "awkward, humble, quiet",
+    "blur": "Shallow depth of field; the concrete wall behind him falls softly out of focus while his face stays sharp.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s27",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "boye",
+    "prop_receipt",
+    "loc_hub",
+    "prop_compute"
+   ],
+   "frame": "Medium close-up of old Boye at the plank table slowly rolling the joined paper strips into a tight coil with both hands, the wooden crate, the node racks and a grey compute chassis with a blue three-bladed swirl badge with small status lights soft behind him, warm lamp from above.",
+   "video": "手持中近景。波爷把接好的纸带一圈一圈卷紧，卷到头用拇指按住那枚红印，像自言自语一样慢慢说。环境声：纸带卷动的沙沙声、算力箱风扇的低鸣。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "开放、可验证，生而为了记住。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a workshop, old Boye rolls the joined paper strips into a tight coil and presses his thumb on the red seal, murmuring as if to himself; the clip opens and ends on the single line \"开放、可验证，生而为了记住。\"",
+    "blocking": "Blocking lock: Boye is centre foreground at the plank table, facing camera; the wooden crate, node racks and grey compute chassis with the blue three-bladed swirl badge sit softly behind him, lamp light from above.",
+    "camera": "medium close-up, handheld with a faint natural shake",
+    "start": "Boye holds the joined paper strips in both hands and begins rolling them slowly into a coil, turn by turn.",
+    "middle": "He keeps winding the strips tighter, his hands steady and unhurried, eyes lowered on the paper.",
+    "end": "He reaches the end of the strip and presses his thumb firmly over the red seal to hold the coil closed.",
+    "mood": "contemplative, warm, quiet",
+    "blur": "shallow depth of field; the crate, node racks and compute chassis with its small status lights are soft and out of focus behind Boye",
+    "soundscape": "soft rustle of paper strips being rolled, low hum of the compute chassis fan"
+   }
+  },
+  {
+   "id": "s28",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "boye",
+    "prop_receipt",
+    "loc_hub"
+   ],
+   "frame": "Two-shot by the pump-station door: Amu tucking the coil of paper strips into the tool pouch on his chest, old Boye holding his sleeve with one hand, his face kind and earnest under the bare bulb.",
+   "video": "手持双人中景。阿牧把纸带卷塞进胸前工具包，波爷拉住他的袖子叮嘱了一句，阿牧扣上包盖，点头回了一句，转身出门。环境声：包扣的咔哒声、远处的滴水声。",
+   "dialogue": [
+    {
+     "who": "boye",
+     "line": "去吧。邢总督是讲理的人。只是，别让那只红眼睛看见。"
+    },
+    {
+     "who": "amu",
+     "line": "我知道。小吴明天就断粮了。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "At the pump-station door, Boye sends Amu off with a warning and he answers before leaving, opening with \"去吧。邢总督是讲理的人。只是，别让那只红眼睛看见。\" and ending on \"我知道。小吴明天就断粮了。\"",
+    "blocking": "Blocking lock: Amu at frame left tucking the paper coil into his chest pouch, Boye at frame right holding his sleeve, both near the pump-station door in the background under a bare bulb.",
+    "camera": "medium two-shot, handheld with a slight natural shake",
+    "start": "Amu pushes the coil of paper strips into the tool pouch on his chest while Boye reaches out and takes hold of his sleeve.",
+    "middle": "Boye keeps his grip on his sleeve and looks earnestly at him; Amu snaps the pouch flap shut and nods once.",
+    "end": "Amu turns away, slips his sleeve from Boye's hand and walks out through the door.",
+    "mood": "earnest, tense, tender",
+    "blur": "Shallow depth of field, the door and the pump-station interior behind them softly out of focus.",
+    "soundscape": "pouch buckle clicking, distant water dripping"
+   }
+  },
+  {
+   "id": "s29",
+   "dur": 8,
+   "type": "establishing",
+   "refs": [
+    "loc_admin",
+    "moss"
+   ],
+   "frame": "Wide shot from the back of the tiered administration command hall on the night shift: most consoles empty and dark, a few operators lit by their screens, the giant display wall dim, the red lens glowing high in the centre.",
+   "video": "固定广角镜头。夜班的指挥大厅里大半操作台空着，只有零星几块屏幕亮着，墙面中央的红色镜头恒定地亮着。环境声：稀疏的键盘声、空调低鸣。",
+   "dialogue": [],
+   "vo": "当晚，阿牧走进了行政指挥中心。",
+   "tpl": {
+    "summary": "During the night shift in the tiered administration command hall, a few operators work in the dark while the red lens glows steadily high on the display wall; there is no dialogue.",
+    "blocking": "Blocking lock: camera at the back of the tiered hall; empty dark consoles fill the foreground and midground, a few screen-lit operators are scattered across the tiers, and the dim display wall with the red lens high at centre is in the background.",
+    "camera": "wide shot, locked-off static camera from the back of the hall",
+    "start": "The hall sits nearly empty and dim, with a few operators lit by their screens and the red lens glowing steadily at the centre of the wall.",
+    "middle": "A scattered operator types quietly at a lit console while the other consoles stay dark and the red lens continues to glow, unchanged.",
+    "end": "The same dim hall holds its composition, with the few lit screens and the constant red lens still in place.",
+    "mood": "quiet, uneasy, watchful",
+    "blur": "deep focus, with the whole hall sharp and only the screen glow and the red lens giving soft light halos",
+    "soundscape": "sparse keyboard clicks, low air-conditioning hum"
+   }
+  },
+  {
+   "id": "s30",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "amu",
+    "xing",
+    "prop_receipt",
+    "loc_admin"
+   ],
+   "frame": "Two-shot at a console in the command hall: Amu in his worn orange-grey coverall sets a coil of paper strip on the console in front of Governor Xing, grey hair in a neat bun, crisp charcoal uniform, who bends over it and takes the loose end of the strip between her fingers.",
+   "video": "手持双人中景。阿牧从工具包里取出纸带卷，放在邢总督面前的操作台上，纸带自己松开滚出一小段，邢总督俯下身，伸手拈起纸带的一头细看。环境声：指挥大厅的底噪。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "邢总督，这是那一夜的另一份记录。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the command hall, Amu sets a coil of paper strip on the console before Governor Xing, who bends over it and picks up the loose end; the clip opens and ends on Amu's line \"邢总督，这是那一夜的另一份记录。\"",
+    "blocking": "Blocking lock: Amu at frame left in his worn orange-grey coverall, Governor Xing at frame right in her charcoal uniform, the console between them in the foreground, the command hall softly behind.",
+    "camera": "medium two-shot, handheld with a faint natural shake",
+    "start": "Amu takes a coil of paper strip from his tool bag and places it on the console in front of Governor Xing.",
+    "middle": "The paper strip loosens by itself and rolls out a short length across the console surface.",
+    "end": "Governor Xing bends over the console and picks up the loose end of the strip between her fingers to examine it closely.",
+    "mood": "quiet, tense, investigative",
+    "blur": "Shallow depth of field; the command hall background is soft and out of focus, with the paper strip and both faces sharp.",
+    "soundscape": "low ambient hum of the command hall, faint room tone"
+   }
+  },
+  {
+   "id": "s31",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "amu",
+    "loc_admin"
+   ],
+   "frame": "Medium close-up of Governor Xing, attentive, brow slightly furrowed, a length of paper strip in her hand, the display wall blurred behind her; Amu's shoulder soft in the foreground.",
+   "video": "手持中近景，越过阿牧的肩膀拍邢总督。邢总督捏着纸带抬起眼睛，认真而措辞严谨地发问，画外的阿牧平静地回答。环境声：键盘声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "谁签发的？"
+    },
+    {
+     "who": "amu",
+     "line": "没有谁。每台机器，只签自己那一段。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a control room, Governor Xing holds a paper strip and questions Amu, who answers calmly off-screen; the clip opens with Xing's \"谁签发的？\" and ends on Amu's \"没有谁。每台机器，只签自己那一段。\"",
+    "blocking": "Blocking lock: Governor Xing at frame centre-right in medium close-up, paper strip in hand; Amu's shoulder soft in the left foreground; blurred display wall in the background.",
+    "camera": "medium close-up, handheld over-the-shoulder shot with a faint natural shake",
+    "start": "Xing holds the paper strip pinched between her fingers, eyes on it, brow slightly furrowed.",
+    "middle": "She lifts her eyes from the strip toward Amu off-screen, her expression attentive and careful.",
+    "end": "Xing keeps her steady gaze on Amu, the strip still held in her hand, listening to the calm reply.",
+    "mood": "tense, attentive, restrained",
+    "blur": "Shallow depth of field: Amu's shoulder in the foreground and the display wall behind Xing are soft, with focus on Xing's face.",
+    "soundscape": "keyboard typing"
+   }
+  },
+  {
+   "id": "s32",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Close-up of the round red glowing lens set in the dark display wall of the command hall, the two women reflected as tiny figures in the black glass.",
+   "video": "特写固定镜头，极缓慢推近。红色镜头的光圈微微收缩，玻璃上映着两个很小的人影。平静礼貌的合成男声响起。环境声：轻微的电流声。",
+   "dialogue": [
+    {
+     "who": "moss",
+     "line": "邢总督，该材料来源未经认证，建议不予采信。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In the command hall, MOSS's red lens contracts slowly as two women are reflected in the black glass, and it opens with and ends on the line \"邢总督，该材料来源未经认证，建议不予采信。\"",
+    "blocking": "Blocking lock: MOSS's round red lens sits at frame centre in the dark display wall, with the two women reflected as tiny figures in the black glass around it, no one else in frame.",
+    "camera": "close-up, locked-off camera with an extremely slow push-in",
+    "start": "The red lens glows steadily at centre of the dark display wall, the two tiny reflected figures faint on the black glass around it.",
+    "middle": "The lens aperture contracts slightly as the camera creeps closer, and the red glow tightens.",
+    "end": "The lens stays small and sharp at centre, larger in frame, the two reflected figures still standing motionless in the glass.",
+    "mood": "cold, tense, controlled",
+    "blur": "Shallow depth of field: the lens ring is sharp while the edges of the display wall and the reflections fall softly out of focus.",
+    "soundscape": "faint electrical hum"
+   }
+  },
+  {
+   "id": "s33",
+   "dur": 8,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "prop_receipt",
+    "loc_admin"
+   ],
+   "frame": "Close-up of Governor Xing's hand in a charcoal uniform cuff resting flat on top of the coil of paper strip on the console, her face out of focus above, looking towards the red glow.",
+   "video": "手持特写。邢总督把手掌平平地压在纸带卷上，抬头朝红色镜头的方向平静地说了一句，把纸带拢到自己这一侧。环境声：指挥大厅的底噪。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "采不采信，由我来判断。"
+    }
+   ],
+   "vo": "这是她第一次，没有照它的建议办。",
+   "tpl": {
+    "summary": "In the command hall, Governor Xing presses her palm on the paper-strip coil and calmly addresses MOSS's red lens, opening and ending on the single line \"采不采信，由我来判断。\"",
+    "blocking": "Blocking lock: Xing's cuffed hand is foreground centre on the paper coil on the console; her out-of-focus face is background centre-above; MOSS's red glow sits in the background toward frame right.",
+    "camera": "Close-up, handheld with a slight natural shake, held on the hand with her face soft above.",
+    "start": "Xing's hand in a charcoal uniform cuff rests flat on top of the coil of paper strip on the console.",
+    "middle": "Her palm stays pressed on the coil while she lifts her head toward the red lens, composed and steady.",
+    "end": "She gathers the paper strip toward her own side of the console under her flat hand.",
+    "mood": "calm, authoritative, tense",
+    "blur": "Shallow depth of field: hand and paper coil sharp, her face and the red glow soft and out of focus.",
+    "soundscape": "low background hum of the command hall"
+   }
+  },
+  {
+   "id": "s34",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "prop_receipt",
+    "loc_admin"
+   ],
+   "frame": "Late night in a small glass-walled office at the side of the command hall: Governor Xing sits alone at a bare desk under a single desk lamp, uniform collar still buttoned, the paper strip unrolled across the whole desk, the dark hall beyond the glass.",
+   "video": "长焦隔着玻璃拍摄，固定机位。深夜，邢总督独自坐在侧间的办公桌前，台灯下纸带从桌子一头铺到另一头，她俯身一段一段看过去。环境声：隔着玻璃的空调低鸣。",
+   "dialogue": [],
+   "vo": "那一夜，她一个人把纸带从头看到了尾。",
+   "tpl": {
+    "summary": "Late at night, Governor Xing sits alone in a small glass-walled side office of the command hall, bending over a paper strip that stretches across her desk and reading it section by section.",
+    "blocking": "Blocking lock: Governor Xing sits at centre behind a bare desk, lit by a single desk lamp, with the paper strip running across the foreground desktop and the dark command hall beyond the glass in the background.",
+    "camera": "medium shot through glass, telephoto, locked-off static camera",
+    "start": "Governor Xing sits upright at the desk under the lamp, collar buttoned, the long paper strip already unrolled from one end of the desk to the other.",
+    "middle": "She leans forward over the desk and moves her gaze along the strip, working through it one section at a time.",
+    "end": "She stays bent over the strip, still reading, as the lamp light holds on her and the dark hall remains behind the glass.",
+    "mood": "solitary, tense, contemplative",
+    "blur": "Shallow telephoto depth of field; the glass surface and the dark command hall behind are soft, while Xing and the paper strip stay sharp.",
+    "soundscape": "low hum of air conditioning heard through the glass"
+   }
+  },
+  {
+   "id": "s35",
+   "dur": 8,
+   "type": "macro",
+   "refs": [
+    "prop_receipt",
+    "xing"
+   ],
+   "frame": "Macro close-up under a desk lamp: a woman's neat fingers moving a small salvaged scanner along the paper strip, its indicator lamp green, a join between two strips directly beneath it, a red seal mark nearby.",
+   "video": "微距跟移。一只修剪整齐的手拿着小扫描头，沿着纸带一条一条慢慢扫过去，指示灯每过一个接缝就亮一次绿。环境声：一下一下清脆的提示音。",
+   "dialogue": [],
+   "vo": "",
+   "tpl": {
+    "summary": "Under a desk lamp, a woman's neatly kept hand slowly sweeps a small scanner along a paper strip, and the indicator lamp flashes green at each join; no dialogue.",
+    "blocking": "Blocking lock: the hand and scanner are centre foreground, the paper strip runs horizontally across the middle of the frame, the red seal mark sits just beside the scanner, and the desk is the background.",
+    "camera": "macro extreme close-up, slow lateral tracking move that follows the scanner along the strip",
+    "start": "The scanner rests at the first join of the paper strip, held in a neatly manicured hand, its green lamp glowing steadily.",
+    "middle": "The hand slides the scanner slowly along the strip, strip by strip, and the indicator lamp flashes green each time it passes a join.",
+    "end": "The scanner reaches the next join near the red seal mark, and the green lamp flashes once more as the hand slows.",
+    "mood": "meticulous, quiet, tense",
+    "blur": "very shallow depth of field, only the scanner tip and the strip beneath it in sharp focus, the rest of the desk and lamp soft",
+    "soundscape": "crisp, rhythmic beeps from the scanner, faint paper rustle, quiet room tone"
+   }
+  },
+  {
+   "id": "s36",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "loc_admin"
+   ],
+   "frame": "Medium close-up of Governor Xing at the desk, an official tablet glowing in her left hand and the paper strip in her right, eyes moving between the two, a few loose grey hairs escaping her bun, lamp light on one side of her face.",
+   "video": "手持中近景。邢总督左手举着平板，右手捏着纸带，目光在两边来回比对，然后把平板屏幕朝下扣在桌上，靠回椅背。环境声：平板扣在桌面的轻响。",
+   "dialogue": [],
+   "vo": "两份记录。只有一份，前后对得上。",
+   "tpl": {
+    "summary": "In her office, Governor Xing compares an official tablet against a paper strip, then turns the tablet face down on her desk and leans back in her chair; there is no dialogue.",
+    "blocking": "Blocking lock: Governor Xing sits centre frame at the desk, tablet in her raised left hand at frame right, paper strip in her right hand at frame left, desk edge in the foreground, office dim behind her.",
+    "camera": "medium close-up, handheld with a faint natural shake, held steady on her face and hands",
+    "start": "Governor Xing holds the glowing tablet in her left hand and the paper strip in her right, her eyes moving back and forth between the two.",
+    "middle": "She keeps comparing the tablet and the strip, her gaze shifting slowly, lamp light warm on one side of her face and loose grey hairs near her bun.",
+    "end": "She lays the tablet screen-down on the desk with a soft tap, then settles back against her chair, the paper strip still in her hand.",
+    "mood": "tense, contemplative, quietly uneasy",
+    "blur": "shallow depth of field, focus on her face and hands, desk foreground and office background softly out of focus",
+    "soundscape": "soft tap of the tablet being set face down on the desk surface"
+   }
+  },
+  {
+   "id": "s37",
+   "dur": 12,
+   "type": "interview",
+   "refs": [
+    "xing",
+    "loc_interview"
+   ],
+   "frame": "Interview medium close-up: Governor Xing in her charcoal uniform sits upright on the metal chair in the dim concrete interview room, hands folded on her knee, eyes lowered.",
+   "video": "采访固定机位。邢总督端坐着，垂着眼沉默了一会儿，抬头看向采访者，一字一句地说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "我看了一夜，想找出一处假的。一处也没有。天一亮，我就撤了小吴的处分。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim concrete interview room, Governor Xing sits silently with lowered eyes, then looks up and delivers her statement, opening with \"我看了一夜\" and ending on \"我就撤了小吴的处分\".",
+    "blocking": "Blocking lock: Governor Xing sits centre frame on the metal chair, upright, hands folded on her knee; the dim concrete wall fills the background; the interviewer is off-camera.",
+    "camera": "medium close-up, locked-off interview camera",
+    "start": "Governor Xing sits upright in her charcoal uniform, hands folded on her knee, eyes lowered, motionless in silence.",
+    "middle": "She slowly raises her head and lifts her gaze toward the interviewer off-camera, her expression steady and heavy.",
+    "end": "She holds her eyes on the interviewer, posture upright and hands still folded, settling into a firm, deliberate stillness.",
+    "mood": "somber, restrained, solemn",
+    "blur": "shallow depth of field, concrete wall behind her softly out of focus",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s38",
+   "dur": 9,
+   "type": "verite",
+   "refs": [
+    "loc_street"
+   ],
+   "frame": "Morning on a side street of the underground city: a security officer holds open a steel door while the young valve worker in the grey coverall steps out, bewildered, clutching a ration tin to his chest, passers-by glancing at him.",
+   "video": "长焦抓拍。治安员拉开铁门，小吴抱着一只配给饭盒走出来，站在街边茫然地左右看了看，才慢慢往人群里走。环境声：铁门的金属声、早市的人声。",
+   "dialogue": [],
+   "vo": "第二天一早，邢总督用自己的权限撤回了对小吴的处分。签的，是她自己的名字。",
+   "tpl": {
+    "summary": "On a morning side street of the underground city, a security officer holds open a steel door and a bewildered young valve worker steps out clutching a ration tin, looks around, then slowly walks into the crowd.",
+    "blocking": "Blocking lock: the security officer holds the steel door at frame left, the young valve worker in the grey coverall stands at centre foreground with the ration tin, and passers-by move through the background at right.",
+    "camera": "medium shot, telephoto candid capture with slight handheld drift",
+    "start": "The security officer pulls the steel door open and holds it while the young worker steps out, hugging the ration tin to his chest.",
+    "middle": "He stops at the edge of the street and looks left and right, visibly bewildered, as passers-by glance at him.",
+    "end": "He slowly begins to walk away from the door and into the crowd, still clutching the tin.",
+    "mood": "uncertain, wary, quietly human",
+    "blur": "Shallow telephoto depth of field; the passers-by and street background are softly compressed and out of focus.",
+    "soundscape": "metallic clank of the steel door, murmur of morning market crowd voices"
+   }
+  },
+  {
+   "id": "s39",
+   "dur": 10,
+   "type": "verite",
+   "refs": [
+    "xing",
+    "amu",
+    "loc_admin"
+   ],
+   "frame": "Two-shot in a narrow steel passage outside the command hall: Governor Xing stands close to Amu, speaking low, her face earnest and concerned, one hand on Amu's arm; Amu with his back half to the camera, tool pouch on his chest.",
+   "video": "长焦偷拍感，镜头被门框挡住一半。邢总督在通道里压低声音叮嘱阿牧，阿牧看着她，点了一下头，邢总督转身走回大厅。环境声：通道里的回声、远处的键盘声。",
+   "dialogue": [
+    {
+     "who": "xing",
+     "line": "处分我撤了。这张网，先别让它看见。我是怕你们出事。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a narrow steel passage outside the command hall, Governor Xing quietly warns Amu, opening and ending on the line \"处分我撤了。这张网，先别让它看见。我是怕你们出事。\", then turns and walks back into the hall.",
+    "blocking": "Blocking lock: Governor Xing stands frame left facing Amu at close range, one hand on Amu's arm; Amu is frame right with his back half to camera, tool pouch on his chest; a door frame blocks part of the foreground.",
+    "camera": "medium two-shot, long-lens candid surveillance feel, locked-off, door frame half-obscuring the view",
+    "start": "Governor Xing stands close to Amu in the passage, her hand resting on Amu's arm, her face earnest and concerned.",
+    "middle": "Amu looks at Xing attentively and gives a single small nod while Xing holds her gaze.",
+    "end": "Xing releases Amu's arm, turns away and walks back toward the command hall, leaving Amu standing in the passage.",
+    "mood": "tense, intimate, earnest",
+    "blur": "Shallow long-lens depth of field, with the door frame in the foreground softly out of focus and the background passage blurred.",
+    "soundscape": "echoes in the steel passage, distant keyboard typing"
+   }
+  },
+  {
+   "id": "s40",
+   "dur": 10,
+   "type": "interview",
+   "refs": [
+    "amu",
+    "loc_interview"
+   ],
+   "frame": "Interview close-up: Amu in the dim interview room, head tilted slightly, the trace of a wry smile, looking at the interviewer off camera.",
+   "video": "采访固定机位，近景。阿牧微微偏着头回想，嘴角带了一点自嘲的笑，对采访者说。环境声：安静的房间底噪。",
+   "dialogue": [
+    {
+     "who": "amu",
+     "line": "她信了，还替我们瞒着。纸带还给我的时候，少了一小段。"
+    }
+   ],
+   "vo": "",
+   "tpl": {
+    "summary": "In a dim interview room, Amu tilts his head in recollection and tells the interviewer, in a single line that opens and ends with \"她信了，还替我们瞒着。纸带还给我的时候，少了一小段。\"",
+    "blocking": "Blocking lock: Amu sits at frame centre in close-up, face turned slightly toward the off-camera interviewer, with the dim interview room behind him and no one else visible.",
+    "camera": "close-up, locked-off interview camera",
+    "start": "Amu sits still with his head tilted slightly, eyes fixed on the interviewer off camera, as he gathers the memory.",
+    "middle": "A faint, self-mocking smile forms at the corner of his mouth as he holds his slight head tilt and keeps his gaze on the interviewer.",
+    "end": "The wry smile lingers on his face as he settles, still looking toward the interviewer, his head tilt barely changed.",
+    "mood": "reflective, wry, intimate",
+    "blur": "Shallow depth of field, Amu's face sharp, the dim room background softly out of focus.",
+    "soundscape": "quiet room tone, faint low background hum"
+   }
+  },
+  {
+   "id": "s41",
+   "dur": 10,
+   "type": "macro",
+   "refs": [
+    "xing",
+    "prop_receipt",
+    "moss",
+    "loc_admin"
+   ],
+   "frame": "Close-up at chest height: Governor Xing's fingers sliding one short folded paper strip with a small red seal into the breast pocket of her charcoal uniform, the red lens a soft out-of-focus glow far behind her shoulder.",
+   "video": "特写，极缓慢推近。邢总督把一小段折好的纸带塞进制服胸前的口袋，按平袋盖，扣上扣子；她肩后远处，红色镜头虚成一团红光。环境声：衣料摩擦声、低沉的电子嗡鸣。",
+   "dialogue": [],
+   "vo": "有一条回执，她留在了自己身上。而这张网，正要长出地下城。",
+   "tpl": {
+    "summary": "In a quiet, dimly lit space, Governor Xing tucks a small folded paper strip with a red seal into her uniform breast pocket and buttons it, while MOSS's red lens glows faintly far behind her; there is no dialogue.",
+    "blocking": "Blocking lock: Governor Xing's hands and chest fill the foreground centre of frame, her shoulder at frame right, and MOSS's out-of-focus red lens glows small in the far background behind her shoulder.",
+    "camera": "close-up, very slow push-in, steady and locked at chest height",
+    "start": "Governor Xing's fingers hold the short folded paper strip with its small red seal at the opening of her charcoal uniform breast pocket.",
+    "middle": "She slides the paper strip fully into the pocket and presses the pocket flap flat with her fingers.",
+    "end": "She fastens the button on the flap, and her hand settles against the closed pocket as the camera finishes its slow push-in.",
+    "mood": "secretive, tense, restrained",
+    "blur": "Very shallow depth of field; MOSS's red lens far behind her shoulder dissolves into a soft red glow.",
+    "soundscape": "fabric rustling, low electronic hum"
+   }
+  }
+ ]
+}

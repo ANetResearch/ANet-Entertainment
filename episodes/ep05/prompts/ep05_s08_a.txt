@@ -1,0 +1,25 @@
+# ep05 s08_a  duration=10s  seed=1965216543
+# input images: ['episodes/ep05/storyboard/s08.png', 'refs/characters/amu.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the tiny repair stall under the warm desk lamp: Amu, short messy black hair, scar on his left eyebrow, worn orange-grey coverall, stands gripping the edge of the workbench; old Boye, grey stubble, taped black glasses, navy quilted jacket, sits calmly winding a coil. Blocking lock: Amu stands at frame left gripping the workbench edge, Boye sits at frame right winding a coil, desk lamp glowing between them, stall clutter in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye's electronics repair stall from <Picture 3>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+In the cramped repair stall under a warm desk lamp, Amu presses his anger into the workbench and Boye keeps winding a coil; the clip opens with "它把小吴写成了责任人。" and ends on "别急。咱们自己那份账呢？"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu stands at frame left gripping the workbench edge, Boye sits at frame right winding a coil, desk lamp glowing between them, stall clutter in the background. Start: Amu grips the edge of the workbench with both hands, shoulders tense, jaw set, while Boye sits beside him, hands steadily winding the coil. Middle: Amu leans his weight into the bench, holding his anger down. Boye's hands keep turning the coil without pause, unhurried. End: Boye slowly lifts his eyes toward Amu over his taped glasses, still winding the coil, while Amu stays braced against the bench. Mood: tense, restrained, intimate. Blur: Shallow focus on Amu and Boye; the cluttered shelves and stall entrance behind them fall softly out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 它把小吴写成了责任人。</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 别急。咱们自己那份账呢？</d>; Final line of this shot: end on “们自己那份账呢？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+soft rasping of the coil turning, faint voices from the distant alley; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

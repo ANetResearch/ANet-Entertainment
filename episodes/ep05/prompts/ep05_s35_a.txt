@@ -1,0 +1,25 @@
+# ep05 s35_a  duration=8s  seed=1781205661
+# input images: ['episodes/ep05/storyboard/s35.png', 'refs/props/prop_receipt.png', 'refs/characters/xing.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up under a desk lamp: a woman's neat fingers moving a small salvaged scanner along the paper strip, its indicator lamp green, a join between two strips directly beneath it, a red seal mark nearby. Blocking lock: the hand and scanner are centre foreground, the paper strip runs horizontally across the middle of the frame, the red seal mark sits just beside the scanner, and the desk is the background.
+<Subject 2> is the receipt paper strip from a field printer from <Picture 2>, serving as prop reference. Close-up of a long strip of thermal paper curling out of a small battered field printer held in gloved hands: the strip is covered with rows of abstract barcode-like verification marks and dot matrices (no readable letters), and near its end a small red square stamp mark. Shallow depth of field.
+<Subject 3> is Governor Xing (50, female, governor of the underground city) from <Picture 3>, serving as the city governor. A 50-year-old Chinese woman, chief administrator of an underground city. Grey-streaked hair in a tight neat bun, sharp cheekbones, composed and guarded expression, straight posture. Crisp dark charcoal government uniform jacket with a high collar and a plain unmarked metal pin, a slim tablet held against her chest.
+
+summary:
+Under a desk lamp, a woman's neatly kept hand slowly sweeps a small scanner along a paper strip, and the indicator lamp flashes green at each join; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, slow lateral tracking move that follows the scanner along the strip; pacing: natural speed, a single continuous take with no cut. Blocking lock: the hand and scanner are centre foreground, the paper strip runs horizontally across the middle of the frame, the red seal mark sits just beside the scanner, and the desk is the background. Start: The scanner rests at the first join of the paper strip, held in a neatly manicured hand, its green lamp glowing steadily. Middle: The hand slides the scanner slowly along the strip, strip by strip, and the indicator lamp flashes green each time it passes a join. End: The scanner reaches the next join near the red seal mark, and the green lamp flashes once more as the hand slows. Mood: meticulous, quiet, tense. Blur: very shallow depth of field, only the scanner tip and the strip beneath it in sharp focus, the rest of the desk and lamp soft No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+crisp, rhythmic beeps from the scanner, faint paper rustle, quiet room tone; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

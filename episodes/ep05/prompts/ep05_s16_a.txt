@@ -1,0 +1,23 @@
+# ep05 s16_a  duration=12s  seed=2066685755
+# input images: ['episodes/ep05/storyboard/s16.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview medium close-up: old Boye in his navy quilted jacket sits in the dim concrete interview room, taped black glasses on, one hand cupped as if holding a small book, looking at the interviewer off camera. Blocking lock: Boye sits at centre frame in his navy quilted jacket and taped black glasses, facing the off-camera interviewer; one cupped hand in the lower foreground, bare concrete wall behind him.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+In a dim concrete interview room, old Boye speaks slowly to the interviewer off camera, opening with "一本账锁在一个抽屉里。" and ending on "拿钥匙的人想改哪页，就改哪页。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at centre frame in his navy quilted jacket and taped black glasses, facing the off-camera interviewer; one cupped hand in the lower foreground, bare concrete wall behind him. Start: Boye sits still, one hand loosely cupped in front of him as if holding a small ledger, eyes fixed on the interviewer off camera. Middle: His free hand rises and makes a slow key-turning twist in the air while the cupped hand stays steady. End: The twisting hand settles, and he holds the cupped pose, gaze still on the interviewer. Mood: somber, measured, tense. Blur: Shallow depth of field; the concrete walls behind Boye fall softly out of focus. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 一本账锁在一个抽屉里。拿钥匙的人想改哪页，就改哪页。</d>; Final line of this shot: end on “哪页，就改哪页。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
