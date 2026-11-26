@@ -1,0 +1,23 @@
+# ep02 s04_b  duration=7s  seed=1329143948
+# input images: ['episodes/ep02/storyboard/s04.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a hand in a fingerless work glove pressed flat on a scuffed access scanner pad, the pad lit deep red under the fingers, scratched steel wall around it. Blocking lock: the gloved hand sits at centre frame, pressed flat on the scanner pad in the foreground, with the scratched steel wall filling the background on all sides.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a macro close-up at a scuffed steel access point, a gloved hand presses the scanner pad again and the red light flickers twice but stays red; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 7.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a barely perceptible handheld drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: the gloved hand sits at centre frame, pressed flat on the scanner pad in the foreground, with the scratched steel wall filling the background on all sides. Start: The fingerless-gloved hand lifts slightly, then presses down hard and flat on the scanner pad, red light seeping out between the fingers. Middle: The red glow under the fingers flickers twice, the hand holding firm and its knuckles tightening with pressure. End: The light settles back to steady deep red, and the hand stays pressed against the pad, unmoving. Mood: tense, frustrated, claustrophobic. Blur: very shallow depth of field, with the glove edge and scratched steel wall softly out of focus beyond the pad surface No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+repeated electronic rejection beeps, faint rubbing of glove material on the pad, low metallic hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

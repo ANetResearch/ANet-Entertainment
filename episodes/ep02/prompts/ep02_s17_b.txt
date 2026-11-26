@@ -1,0 +1,27 @@
+# ep02 s17_b  duration=10s  seed=126177252
+# input images: ['episodes/ep02/storyboard/s17.png', 'refs/characters/amu.png', 'refs/characters/boye.png', 'refs/locations/loc_stall.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the tiny repair stall under the warm desk lamp: old Boye, grey stubble, taped black-framed glasses, navy quilted jacket, pushes a chipped enamel mug of steaming water across the cluttered bench toward Amu sitting on a stool. Blocking lock: Boye at frame left behind the cluttered bench, Amu at frame right seated on a stool, the enamel mug in the centre foreground on the bench, warm desk lamp in the background.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+<Subject 4> is Boye's electronics repair stall from <Picture 4>, serving as location reference. Interior of a tiny electronics repair stall in an alley of an underground city: shelves overflowing with old routers, CRT monitors, radio parts, coils of wire, a soldering station under a single warm desk lamp, a kettle, a faded photograph pinned to the wall, a roll-up steel shutter half open. Empty of people.
+
+summary:
+Inside his tiny repair stall, old Boye pushes a steaming enamel mug toward Amu, settles back on his stool and speaks slowly; the clip opens and ends on the line "名字是它发的，它当然能收回去。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye at frame left behind the cluttered bench, Amu at frame right seated on a stool, the enamel mug in the centre foreground on the bench, warm desk lamp in the background. Start: Boye pushes the chipped enamel mug across the cluttered bench toward Amu, steam rising from it. Middle: Boye lets go of the mug and lowers himself back onto his stool, unhurried. End: Boye settles on the stool, facing Amu, and begins to speak in a slow, easy manner. Mood: intimate, quiet, wary. Blur: shallow depth of field, cluttered tools and stall shelves softly out of focus behind the two figures Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 名字是它发的，它当然能收回去。</d>; Final line of this shot: end on “它当然能收回去。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+faint electrical hum inside the stall, footsteps in the alley outside; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

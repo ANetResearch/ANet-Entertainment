@@ -1,0 +1,23 @@
+# ep02 s37_b  duration=7s  seed=472266166
+# input images: ['episodes/ep02/storyboard/s37.png', 'refs/characters/amu.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up of a thumb in a fingerless work glove pressing the single button on a tiny tape-wrapped handmade circuit board, a pinhead LED on it glowing green. Blocking lock: the thumb in the fingerless work glove enters from frame right and presses down at centre; the tape-wrapped circuit board fills the centre and foreground, with the pinhead LED just left of the button.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+
+summary:
+In a macro close-up, a gloved thumb presses the single button on a tiny handmade circuit board and a pinhead LED turns green; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 7.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a very slight settling drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: the thumb in the fingerless work glove enters from frame right and presses down at centre; the tape-wrapped circuit board fills the centre and foreground, with the pinhead LED just left of the button. Start: The gloved thumb hovers over the single button on the tape-wrapped circuit board while the tiny LED is dark. Middle: The thumb presses the button down and holds it still for two seconds as the LED begins to wake. End: The pinhead LED has shifted from dark to a steady green glow while the thumb remains on the button. Mood: tense, intimate, hopeful. Blur: Very shallow depth of field; only the button and LED are sharp, and the glove fabric edges and background fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+a faint click of the button being pressed; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

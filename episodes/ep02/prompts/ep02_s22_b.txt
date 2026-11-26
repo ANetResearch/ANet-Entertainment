@@ -1,0 +1,23 @@
+# ep02 s22_b  duration=14s  seed=1723753976
+# input images: ['episodes/ep02/storyboard/s22.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: old Boye in the dim interview room holding both hands apart in front of him, one hand closed in a fist against his chest, the other open palm-up toward the interviewer. Blocking lock: Boye sits at frame centre in close-up, fist held against his chest at lower frame centre-left, open palm extended toward the camera at frame right, dim blurred room wall behind him.
+<Subject 2> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 2>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+In a dim interview room, old Boye gestures with a fist and an open hand while explaining; he opens with "钥匙分两半。" and ends on "没人发，也就没人收得走。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 14.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boye sits at frame centre in close-up, fist held against his chest at lower frame centre-left, open palm extended toward the camera at frame right, dim blurred room wall behind him. Start: Boye holds one hand in a fist against his chest and stretches the other open hand forward, palm up, toward the interviewer. Middle: He keeps the fist tucked at his chest and makes small gestures with the open hand, holding the pose steadily in front of him. End: He finishes by pushing the open palm a little further forward toward the camera and holds it there. Mood: intimate, solemn, contemplative. Blur: Shallow depth of field, Boye's face and hands sharp, dim interview room background softly out of focus. Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 钥匙分两半。一半自己藏好，一半亮给所有人。亮出去的那一半，就是你的名字。没人发，也就没人收得走。</d>; Final line of this shot: end on “也就没人收得走。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -302,5 +302,313 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s04_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "一夜之间，门不认我，饭卡不认我。我人还站在那儿，可是查无此人。",
+  "heard": "一夜之间，门不认我，饭卡不认我，我人还站在那儿，可是查无此人。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s08_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "这位访客，您好。系统中没有您的身份记录。",
+  "heard": "这位访客，您好。系统中没有您的身份记录。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s10_b": {
+  "want": "我在这儿干了十一年。该任职记录不存在。请您离开。",
+  "heard": "我在这干了十一年该任职纪录不存在请您离开",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s12_b": {
+  "want": "邢总督，谁吊销了我的权限？",
+  "heard": "",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "speech_missing"
+  ]
+ },
+ "s13_b": {
+  "want": "不是我。是MOSS。我申请了复核，被它驳回了。连您也改不了？",
+  "heard": "不是我是MS我申请了复合被他驳回了连你也改不了",
+  "ratio": 0.83,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "身份由MOSS签发，也由它收回，我一个字也改不动。我能给的，只有自己那张配给卡。",
+  "heard": "身份由莫斯签发，也由它收回，我一个字也改不动。我能给的，只有自己那张配给卡。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "牧哥，师父说，没饭卡的人上我们那儿吃。",
+  "heard": "猛哥，师傅说，没饭卡的人上我们那吃。",
+  "ratio": 0.84,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "名字是它发的，它当然能收回去。",
+  "heard": "牌子是他发的，他当然能收回去",
+  "ratio": 0.69,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "工牌是别人发给你的，别人就能收走。可你自己刻的一枚章呢？谁来收？",
+  "heard": "功牌是别人发给你的，别人就能收走。可你自己刻的一枚章呢？谁来收？",
+  "ratio": 0.96,
+  "music": "a soft, somber, and contemplative ambient string score",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s19_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "章在我手里。印子盖出去，谁都能拿来对。",
+  "heard": "章在我手里，印子盖出去，谁都能拿来对。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "别人照着刻一枚呢？刻不出来。这枚章是算出来的。",
+  "heard": "啊，别人照着刻一枚呢？刻不出来。这枚章是算出来的？刻不出来！这枚章是算出来的。",
+  "ratio": 0.75,
+  "music": "none",
+  "flags": [
+   "extra_speech"
+  ]
+ },
+ "s22_b": {
+  "want": "钥匙分两半。一半自己藏好，一半亮给所有人。亮出去的那一半，就是你的名字。没人发，也就没人收得走。",
+  "heard": "要是分两半，一半自己藏好，一半亮给所有人。亮出去的那一半，就是你的名字。没人发，也就没人收得走。",
+  "ratio": 0.95,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "我当时没全听懂。我就问了一句：机器也能有吗？",
+  "heard": "我当时没全听懂 我就问了一句 机器 也能有吗",
+  "ratio": 1.0,
+  "music": "a soft, sustained ambient synthesizer pad with subtle reverberating tones",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s24_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "",
+  "heard": "Hana!",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s26_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s27_b": {
+  "want": "它原来的编号早被注销了。跟你牧哥一样，查无此机。",
+  "heard": "它原来的编号早被注销了，跟你木鸽一样，查无此机。",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s28_b": {
+  "want": "就叫螺丝吧。小，可少了它不行。",
+  "heard": "哎，就叫螺丝吧，小，可少了他不行。",
+  "ratio": 0.88,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "屏幕不能空着啊。我画了个气泡，意思是它会说话。再点几个点，连起来。",
+  "heard": "屏幕不能空着啊，我画了个气泡，意思是它会说话。再点几个点，圆起来。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s30_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "笑什么？它有自己的名字了，高兴呗。",
+  "heard": "啊。笑什么？他有自己的名字了，高兴呗。",
+  "ratio": 0.9,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "不用谁批。让它自己算一把钥匙。",
+  "heard": "不用谁批，让他自己算一把钥匙。",
+  "ratio": 0.92,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "看一看这，招的女婿到没到齐，问一问女婿",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s34_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "没有人给它发证。它自己签了个名，我们拿去一对，对上了。就这么简单。",
+  "heard": "没有人给他发证，他自己签了个名，我们拿去一对，对上了，就这么简单。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "那我呢？你也刻一枚。这回，没人收得走。",
+  "heard": "那我呢？你也可以买，这回没人收得走。",
+  "ratio": 0.8,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "在我们的系统里，那天她不存在。后来我才知道，那天她给了自己一个名字。",
+  "heard": "在我们的系统里，那天他不存在。后来我才知道，那天他给了自己一个名字。",
+  "ratio": 0.93,
+  "music": "subtle, slow cinematic string music",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s39_b": {
+  "want": "它在喊谁呢？喊也白喊。外头没有第二个。",
+  "heard": "爹，他在喊谁呢？喊也白喊，外头没有第二个。",
+  "ratio": 0.91,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "一个节点不叫网。好比全世界只有一部电话。它得有个能说话的对象。",
+  "heard": "这，一个节点不叫网，好比全世界只有一部电话，它得有个能说话的对象。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s41_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s42_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
  }
 }

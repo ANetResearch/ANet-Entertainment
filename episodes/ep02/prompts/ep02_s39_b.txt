@@ -1,0 +1,27 @@
+# ep02 s39_b  duration=10s  seed=1009094575
+# input images: ['episodes/ep02/storyboard/s39.png', 'refs/characters/luosi.png', 'refs/characters/xiaoman.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Night in the repair stall, low angle from the floor: the yellow robot with its glowing smiley screen turning in place on the concrete, a short antenna raised; Xiaoman squatting beside it, old Boye on his stool behind with the enamel mug. Blocking lock: Luosi is centre foreground on the concrete floor, Xiaoman squats at frame left beside it, and old Boye sits on his stool in the background right of centre holding the enamel mug.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 4>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+Night in the repair stall, Luosi spins slowly on the concrete floor, its antenna blinking and chirping, while Xiaoman squats watching and Boye sits behind; the clip opens with 「它在喊谁呢？」 and ends on 「喊也白喊。外头没有第二个。」
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot from a low angle near the floor, handheld with a slight natural sway; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi is centre foreground on the concrete floor, Xiaoman squats at frame left beside it, and old Boye sits on his stool in the background right of centre holding the enamel mug. Start: Luosi turns slowly in place on the concrete, its short antenna blinking, while Xiaoman squats beside it and watches the screen. Middle: Luosi completes another half-turn and its antenna flashes again. Xiaoman keeps staring at it, then glances back over the shoulder toward Boye. End: Boye sits still on his stool with the enamel mug in hand, looking toward the robot, while Luosi keeps turning in the foreground. Mood: quiet, lonely, wistful. Blur: Shallow depth of field: Luosi and Xiaoman stay sharp, while Boye and the dim stall behind soften slightly. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 它在喊谁呢？</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 喊也白喊。外头没有第二个。</d>; Final line of this shot: end on “外头没有第二个。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+low tracked-motor whirr, intermittent beeps at each half-turn, faint night air in the stall; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
