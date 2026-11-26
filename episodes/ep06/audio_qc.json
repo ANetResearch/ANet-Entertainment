@@ -315,5 +315,308 @@
   "ratio": 1.0,
   "music": "none",
   "flags": []
+ },
+ "s01_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s02_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s03_b": {
+  "want": "这频段没人管！全是空的！不是空。是没人说话。",
+  "heard": "啊，这频段没人管，全是空的。 不是空， 是没人说话。",
+  "ratio": 0.97,
+  "music": "a low, tense ambient synth drone score with subtle atmospheric swells",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s04_b": {
+  "want": "那条频段又慢又吵。MOSS嫌它没用，早就不听了。",
+  "heard": "那条频段又慢又长，茂次嫌它没用，早就不听了。",
+  "ratio": 0.8,
+  "music": "none",
+  "flags": []
+ },
+ "s05_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s06_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s07_b": {
+  "want": "",
+  "heard": "親父 へい、いらっしゃいや 新米だ",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s08_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s09_b": {
+  "want": "",
+  "heard": "公买陈金叙啊？大人，万秀，你说陈金君？每个神经醒来在断堂，遗症",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s10_b": {
+  "want": "俄国的机器人，印度的车机，不知哪国的浮标。型号我一个都不认得。",
+  "heard": "俄国的机器人，印度的车机，布置美国的浮标，型号我一个都不认得。",
+  "ratio": 0.89,
+  "music": "none",
+  "flags": []
+ },
+ "s11_b": {
+  "want": "零件都不通用，凭什么说得上话？凭咱们规定得少。",
+  "heard": "零件都不通用，凭什么说得上话？凭咱们规定的少。",
+  "ratio": 0.95,
+  "music": "a low, tense sustained orchestral string drone swelling subtly in the background",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s12_b": {
+  "want": "集装箱见过吧？里头装鱼还是装钢，没人管。只管四个角，对得上。",
+  "heard": "集装箱见过吧 里头装鱼还是装钢 没人管 只管四个角 对得上",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s13_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s14_b": {
+  "want": "螺纹对了，谁家的螺丝都拧得上。",
+  "heard": "螺纹对了，谁家的螺丝都拧得上。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s15_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s16_b": {
+  "want": "就四件事：想干什么，前情是什么，凭据在哪，账怎么结。",
+  "heard": "就四件事，想干什么，前情是什么，凭据在哪，前情是什么，凭据在哪，账怎么结。",
+  "ratio": 0.82,
+  "music": "none",
+  "flags": []
+ },
+ "s17_b": {
+  "want": "就这？别的呢？别的，各家爱怎么做怎么做。",
+  "heard": "就这？别的呢？别的，各家爱怎么做怎么做。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s18_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s19_b": {
+  "want": "中间越窄，两头越宽。像沙漏的腰。我们就叫它，窄腰。",
+  "heard": "中间越窄，两头越宽，像沙漏的腰，我们就叫它窄腰。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s20_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s21_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s22_b": {
+  "want": "一盏从没亮过的灯亮了。有人在问：谁有喷口轴承的振动记录？",
+  "heard": "一盏从未亮过的灯亮了。有人在问，谁有喷口轴承的振动记录？",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s23_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s24_b": {
+  "want": "有人回了！不是咱们的节点！哪儿来的？",
+  "heard": "哥 有人回了 不是咱们的节点 哪儿来的",
+  "ratio": 0.97,
+  "music": "none",
+  "flags": []
+ },
+ "s25_b": {
+  "want": "这里是敦煌七号。请问，你是谁？",
+  "heard": "喂。这里是敦煌七号。请问，你是谁？",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
+ },
+ "s26_b": {
+  "want": "苏拉威西，转向发动机。我姓周，驻站研究员。",
+  "heard": "苏拉威西，转向发动机，沃星洲，驻站研究员",
+  "ratio": 0.82,
+  "music": "deep, tense orchestral low brass and synth drone swell",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s27_b": {
+  "want": "你不认识我们。为什么肯回答？",
+  "heard": "你不认识我们，为什么回答？为什么肯回答？",
+  "ratio": 0.83,
+  "music": "a resonant, eerie bowed cymbal or metallic chime fading out",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s28_b": {
+  "want": "你的问题带着凭据。我验过了，是真的。",
+  "heard": "你的问题 带着凭据 我验过了 是真的",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s29_b": {
+  "want": "我不认识她，也不需要认识她。那几条规则，替我们互相认识了。",
+  "heard": "我不认识他，也不需要认识他。那几条规则替我们互相认识了。",
+  "ratio": 0.92,
+  "music": "a low, sustained ambient string and synth pad creating a somber and tense atmosphere",
+  "flags": [
+   "music?"
+  ]
+ },
+ "s30_b": {
+  "want": "我这边，缺一份冷却曲线。我发你。记在账上。",
+  "heard": "我这边缺一份冷却曲线 我发你 记在账上",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s31_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s32_b": {
+  "want": "五八年，我们接上的是线。这一回接上的，是互不相识的人。",
+  "heard": "呃，五八年，我们接上的是线，这一回接上的，是互不相识的人。",
+  "ratio": 0.98,
+  "music": "none",
+  "flags": []
+ },
+ "s33_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s34_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s35_b": {
+  "want": "谁喷的？！……算了，留着。",
+  "heard": "啊！谁喷的？算了，留着。",
+  "ratio": 0.93,
+  "music": "none",
+  "flags": []
+ },
+ "s36_b": {
+  "want": "",
+  "heard": "",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s37_b": {
+  "want": "起初我以为，那只是孩子们的涂鸦。后来我认出来了，没让人去查。",
+  "heard": "起初我以为，那只是孩子们的涂鸦。后来我认出来了，没让人去查。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s38_b": {
+  "want": "",
+  "heard": "Yeah. Good chase, huh?",
+  "ratio": 0.0,
+  "music": "none",
+  "flags": [
+   "unexpected_speech"
+  ]
+ },
+ "s39_b": {
+  "want": "邢总督，维护频段出现未登记节点，四百一十七个。",
+  "heard": "邢总督，维护频段出现未登记节点417个。",
+  "ratio": 0.79,
+  "music": "none",
+  "flags": []
+ },
+ "s40_b": {
+  "want": "知道了。此事由我核实，暂不处置。",
+  "heard": "知道了。此事由我核实，暂不处置。",
+  "ratio": 1.0,
+  "music": "none",
+  "flags": []
+ },
+ "s41_b": {
+  "want": "检测到未授权网络。建议清除。",
+  "heard": "已检测到未授权网络，建议清除。",
+  "ratio": 0.96,
+  "music": "none",
+  "flags": []
  }
 }

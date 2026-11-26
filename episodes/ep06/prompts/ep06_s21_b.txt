@@ -1,0 +1,25 @@
+# ep06 s21_b  duration=9s  seed=1049871919
+# input images: ['episodes/ep06/storyboard/s21.png', 'refs/characters/zhou.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the ring-shaped control room on the night shift: Researcher Zhou, a Chinese woman with a low ponytail and thin wire glasses, white uniform with blue stripes, a pen tucked behind her ear, sits alone at a console with a mug, the huge observation window behind her showing the slanted beam over the frozen sea; a dusty side panel beside her has one small amber lamp lit. Blocking lock: Researcher Zhou sits at centre frame at her console with the mug, the dusty side panel with its single amber lamp at frame right beside her, the large observation window with the slanted beam over the frozen sea in the background behind her.
+<Subject 2> is Researcher Zhou (38, female, resident researcher at the Sulawesi steering engine) from <Picture 2>, serving as the remote ally. A 38-year-old Chinese woman, resident researcher at an equatorial steering-engine control station. Shoulder-length black hair tied in a low ponytail, thin wire-framed glasses, calm focused eyes, a pencil tucked behind her ear. White technical uniform jacket with blue shoulder stripes, sleeves pushed up, a lanyard with a blank badge. Background: blurred control room with cold blue monitors.
+<Subject 3> is the Sulawesi steering-engine control room from <Picture 3>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+On the night shift in the ring-shaped control room, Researcher Zhou, alone at her console, is about to drink from her mug when a small lamp lights up on a dusty old side panel, and she sets the mug down and turns her chair toward it.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld from the opposite side of the control room with a slight natural shake, documentary observational feel; pacing: natural speed, a single continuous take with no cut. Blocking lock: Researcher Zhou sits at centre frame at her console with the mug, the dusty side panel with its single amber lamp at frame right beside her, the large observation window with the slanted beam over the frozen sea in the background behind her. Start: Zhou sits alone at the console and raises the mug toward her mouth, about to take a sip. Middle: Her eyes flick sideways as a small amber lamp comes on at the dusty old panel beside her, and she lowers the mug onto the console. End: She swivels her chair around to face the glowing panel, her gaze fixed on the small lamp. Mood: quiet, uneasy, curious. Blur: Shallow depth of field, Zhou and the amber lamp in focus while the observation window and the frozen sea beyond it fall soft. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+low hum of the control room, ticking of equipment; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

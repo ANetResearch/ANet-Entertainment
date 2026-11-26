@@ -1,0 +1,25 @@
+# ep06 s27_b  duration=10s  seed=1127013365
+# input images: ['episodes/ep06/storyboard/s27.png', 'refs/characters/amu.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium shot of Amu seated at the radio with the headset on, microphone at his lips, old Boye standing behind him with one hand on the back of his chair, both lit by the dial glow. Blocking lock: Amu sits at frame centre-left in the foreground at the radio with headset and microphone, old Boye stands directly behind his chair at centre-right, and the glowing radio dial sits in the foreground lower frame.
+<Subject 2> is Amu (34, male communications engineer, the protagonist) from <Picture 2>, serving as the protagonist. A 34-year-old Chinese man, communications maintenance engineer for a planetary engine. Short messy black hair, a thin old scar through his left eyebrow, light stubble, lean face, tired intelligent eyes. Worn orange-and-grey insulated work coverall with scuffed reflective strips, a small canvas tool pouch strapped across his chest, fingerless thermal gloves.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+Inside a dim radio room, Amu speaks into the microphone and then waits in silence while Boye listens behind him; the clip opens and ends on his line "你不认识我们。为什么肯回答？"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld with a faint natural shake, steady framing on both figures; pacing: natural speed, a single continuous take with no cut. Blocking lock: Amu sits at frame centre-left in the foreground at the radio with headset and microphone, old Boye stands directly behind his chair at centre-right, and the glowing radio dial sits in the foreground lower frame. Start: Amu leans toward the microphone at his lips, headset on, while Boye stands behind him with one hand resting on the back of his chair. Middle: Amu stops and holds still, eyes on the radio, waiting for a reply while the dial glow flickers softly on his face. End: Both remain motionless in the dial light, Amu watching the radio and Boye listening intently without moving his hand from the chair. Mood: tense, hushed, expectant. Blur: Shallow depth of field, focus on Amu and Boye, dark radio room background soft and out of focus. Amu (calm, restrained male voice, early thirties) says, <d>[Chinese] 你不认识我们。为什么肯回答？</d>; Final line of this shot: end on “。为什么肯回答？”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+radio static, faint electronic hiss, several seconds of rustling empty white noise; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

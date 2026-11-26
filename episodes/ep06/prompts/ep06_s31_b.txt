@@ -1,0 +1,23 @@
+# ep06 s31_b  duration=8s  seed=44772853
+# input images: ['episodes/ep06/storyboard/s31.png', 'refs/locations/loc_sulawesi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro close-up on the dusty side panel in the Sulawesi control room: a narrow paper strip with rows of barcode-like check patterns and a small red seal curling out of an old slot printer, blue light from the observation window on the paper. Blocking lock: the slot printer sits at frame centre on the dusty side panel, the paper strip curls out in the foreground, the blue observation-window light falls from the background, and the hand enters from frame right.
+<Subject 2> is the Sulawesi steering-engine control room from <Picture 2>, serving as location reference. Interior of the control room of an equatorial steering engine in Sulawesi: a ring of consoles with cold blue monitors showing abstract gauges, a huge observation window beyond which lies a frozen sea and a tilted colossal engine nozzle firing a blue plasma beam at an angle into the sky. A few operators in white uniforms seen from behind.
+
+summary:
+In the Sulawesi control room, an old slot printer feeds out a narrow paper strip stamped with a small red seal, and a hand reaches in to tear it off gently; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, macro extreme close-up, locked-off camera with a very slight settling drift; pacing: natural speed, a single continuous take with no cut. Blocking lock: the slot printer sits at frame centre on the dusty side panel, the paper strip curls out in the foreground, the blue observation-window light falls from the background, and the hand enters from frame right. Start: The old slot printer feeds a narrow paper strip, marked with rows of barcode-like check patterns, out of its slit onto the dusty panel. Middle: The end of the strip curls forward as a small red seal is pressed onto it, while blue window light glints across the paper surface. End: A hand reaches into frame and gently tears the stamped strip away from the printer slot. Mood: quiet, tactile, solemn. Blur: Very shallow depth of field: only the paper strip and red seal are sharp, while the panel edges and the blue window behind fall into soft blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+rhythmic clicking of the printer head, paper tearing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

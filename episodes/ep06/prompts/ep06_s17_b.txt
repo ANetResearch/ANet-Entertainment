@@ -1,0 +1,25 @@
+# ep06 s17_b  duration=9s  seed=217594418
+# input images: ['episodes/ep06/storyboard/s17.png', 'refs/characters/xiaoman.png', 'refs/characters/boye.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Medium close-up of Chen Xiaoman on an upturned crate, leaning forward in disbelief with his mouth half open, old Boye's chalk-dusted hand and the steel door soft in the foreground. Blocking lock: Xiaoman sits centre on an upturned crate in mid-ground; Boye's chalk-dusted hand and the steel door are soft in the foreground, with Boye mostly out of frame at frame right.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is Boye, 'Grandpa Bo' (61, male, old network protocol engineer) from <Picture 3>, serving as the mentor. A 61-year-old Chinese man, retired network protocol engineer who now runs a repair stall. Short grey-white beard, thinning grey hair, black-framed glasses with one temple wrapped in tape, deep wrinkles, gentle stubborn expression. Faded dark navy quilted cotton jacket over a brown knitted vest, a soldering-stained apron.
+
+summary:
+In a workshop, Xiaoman leans forward on an upturned crate and presses Boye in disbelief, while Boye flicks a chalk stub into the steel door's slot and dusts off his hands; the clip opens with "就这？别的呢？" and ends on "别的，各家爱怎么做怎么做。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium close-up, handheld with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman sits centre on an upturned crate in mid-ground; Boye's chalk-dusted hand and the steel door are soft in the foreground, with Boye mostly out of frame at frame right. Start: Xiaoman sits on the crate and leans forward toward Boye, mouth half open, his face full of disbelief. Middle: In the foreground, Boye's hand tosses a chalk stub into the groove of the steel door, and it drops in with a small clink. End: Boye pats the chalk dust off his hands, calm and unhurried, while Xiaoman stays leaning in, still unconvinced. Mood: skeptical, dry, intimate. Blur: Shallow depth of field: Xiaoman is sharp in the mid-ground, while Boye's hand and the steel door in the foreground are soft. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 就这？别的呢？</d>; Boye (old male voice, slow and slightly hoarse) says, <d>[Chinese] 别的，各家爱怎么做怎么做。</d>; Final line of this shot: end on “爱怎么做怎么做。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+light clink of chalk dropping into the iron slot, faint room tone, soft rustle of clothing; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

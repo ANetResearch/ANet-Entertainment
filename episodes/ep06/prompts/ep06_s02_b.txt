@@ -1,0 +1,27 @@
+# ep06 s02_b  duration=9s  seed=702574241
+# input images: ['episodes/ep06/storyboard/s02.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_hub.png', 'refs/props/prop_compute.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. In the pump-station server room: Chen Xiaoman, lanky, messy hair, oversized army-green jacket, big old headphones clamped over his ears, hunches over a salvaged radio receiver turning a large dial, node racks and two grey compute chassis with blue three-bladed swirl badges blinking behind him, the wooden crate in the corner. Blocking lock: Xiaoman is centre foreground, hunched over the radio receiver and seen from the side; node racks and two grey compute chassis with blue swirl badges are in the background behind him; the wooden crate is in the far corner.
+<Subject 2> is Xiaoman (19, male apprentice) from <Picture 2>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 3> is the secret ANET hub in an abandoned pump station from <Picture 3>, serving as location reference. Interior of a secret self-built network hub inside an abandoned pump station of an underground city: improvised racks made of scaffolding holding dozens of mismatched salvaged computers, radios and robot controllers linked by hand-crimped cables, small red and white indicator lights, a tarp roof, work lamps. In the foreground a wooden equipment crate carries a clean stencilled copy of the black-and-white wordmark logo from the reference image, reproduced exactly. Empty of people.
+<Subject 4> is the salvaged AutoDL GPU compute chassis with the blue three-bladed swirl badge from <Picture 4>, serving as prop reference. Documentary close view of a salvaged GPU compute server chassis sitting on a scaffolding shelf in an improvised machine room: a scuffed grey steel rack unit with ventilation grilles, spinning fans, a row of small green and white status lights, thick power cables. On its side panel is a clean enamel badge that reproduces exactly the blue three-bladed triangular swirl logo from the reference image. Work lamp light, dust.
+
+summary:
+In the pump-station server room, Xiaoman, wearing big headphones, slowly tunes a salvaged radio receiver, then abruptly stops and presses one earcup tight; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 4> (appears in this shot): fully_preserved — shape and surface details retained as the prop.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, handheld from the side with a slight natural shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman is centre foreground, hunched over the radio receiver and seen from the side; node racks and two grey compute chassis with blue swirl badges are in the background behind him; the wooden crate is in the far corner. Start: Xiaoman hunches over the old radio receiver, headphones clamped on, and turns the tuning dial bit by bit. Middle: His hand keeps inching the dial until he suddenly freezes, fingers still on the knob. End: He presses one side of the headphones tightly against his ear and holds still, listening intently. Mood: focused, tense, curious. Blur: shallow depth of field; the blinking racks and compute chassis soften behind him while his face, hand and dial stay sharp No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+radio white noise, occasional telegraph-like static sliding past, compute chassis fan hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
