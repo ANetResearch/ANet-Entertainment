@@ -1,0 +1,23 @@
+# ep10 s32_a  duration=9s  seed=111159226
+# input images: ['episodes/ep10/storyboard/s32.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the shaft: a slab of ice fallen across the robot's rear, one track crushed flat, its casing white with frost, the smiley on its cracked screen dimmer and broken by flicker lines. Blocking lock: Luosi sits centre frame, tilted onto its crushed side; the fallen ice slab lies across its rear in the foreground; severed cables are scattered around it, and the shaft walls close in on both sides.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Inside a narrow ice shaft, another slab of ice falls and crushes one track of the small robot Luosi, which topples among severed cables while still gripping a cable end, its cracked screen flickering.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, medium shot, locked-off fixed camera in a cramped space; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi sits centre frame, tilted onto its crushed side; the fallen ice slab lies across its rear in the foreground; severed cables are scattered around it, and the shaft walls close in on both sides. Start: Luosi sits among broken cables in the dim shaft, its frosted casing intact, its robotic arm holding a cable end. Middle: A new slab of ice crashes down onto Luosi's side, flattening one track, and the robot lurches and tips over. End: Luosi lies slanted between the severed cables, its arm still clamped on the cable end, its cracked screen showing a flickering smiley. Mood: desperate, tense, bleak. Blur: Shallow depth of field; the shaft walls and distant cables soften into dark blur while Luosi stays sharp. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+ice slabs crashing down, intermittent stuttering motor hum, faint cable scraping; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

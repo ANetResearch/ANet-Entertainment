@@ -1,0 +1,25 @@
+# ep10 s14_a  duration=12s  seed=1653475848
+# input images: ['episodes/ep10/storyboard/s14.png', 'refs/characters/jin.png', 'refs/locations/loc_interview.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Interview close-up: Boss Jin in the dim interview room, head down, one big hand covering his mouth and beard, eyes red. Blocking lock: Boss Jin sits centre frame in the dim interview room, head bowed, his big hand over his mouth and beard; nothing else is in the foreground or at either side.
+<Subject 2> is Boss Jin (45, male, surface convoy boss) from <Picture 2>, serving as the convoy boss. A 45-year-old man, boss and captain of a surface heavy-transport convoy. Broad weathered face, short full beard with frost-grey patches, old frostbite scars on both cheeks, heavy build. Bulky black insulated surface exosuit undersuit with the fur-lined collar open, helmet clipped at his hip, thick gloves tucked in belt.
+<Subject 3> is the oral-history interview room from <Picture 3>, serving as location reference. An oral-history interview set in a dim concrete room: one plain metal chair facing the camera, a single soft key light from the left, out-of-focus pipes and a small warm lamp in the background, a boom microphone tip at the top edge of frame. Empty chair, no people.
+
+summary:
+In a dim interview room, Boss Jin lowers his head, covers his mouth with one hand, then lowers it and speaks hoarsely, opening and ending with "老秦跟了我十一年。我没停车。停了，他就白死了。" before turning his face away.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 12.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), mockumentary talking-head interview: tripod camera with a slow slight zoom adjustment, subject looks past the lens at the interviewer, small glances and pauses, plain available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close-up, locked-off interview camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: Boss Jin sits centre frame in the dim interview room, head bowed, his big hand over his mouth and beard; nothing else is in the foreground or at either side. Start: Boss Jin sits with his head down, one big hand covering his mouth and beard, his red-rimmed eyes cast low. Middle: He lowers his hand from his face and lifts his gaze slightly, his jaw tight and his throat working. End: He turns his face away from the camera and holds still in profile, his eyes still red. Mood: somber, raw, restrained. Blur: Shallow depth of field; the dim room behind him falls into soft darkness while his face stays sharp. Boss Jin (middle-aged male voice, gruff and low) says, <d>[Chinese] 老秦跟了我十一年。我没停车。停了，他就白死了。</d>; Final line of this shot: end on “了，他就白死了。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+quiet room tone, faint low background hum; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

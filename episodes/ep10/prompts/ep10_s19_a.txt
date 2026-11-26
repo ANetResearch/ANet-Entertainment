@@ -1,0 +1,23 @@
+# ep10 s19_a  duration=9s  seed=145710730
+# input images: ['episodes/ep10/storyboard/s19.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot of a steel-framed relay tower and shaft head near the engine base, its lattice mast with dish antennas caught mid-collapse, folding down into the round concrete shaft opening in a cloud of ice dust. Blocking lock: the lattice relay tower stands at frame centre over the round concrete shaft opening, the engine base sits at frame left, and open icy ground fills the foreground and background.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+During an earthquake near the engine base, a steel relay tower with dish antennas shakes, snaps, and collapses with its shaft cover into the vertical shaft, venting ice dust; no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Telephoto long shot, shaking with the earthquake, with a handheld-like tremor throughout.; pacing: natural speed, a single continuous take with no cut. Blocking lock: the lattice relay tower stands at frame centre over the round concrete shaft opening, the engine base sits at frame left, and open icy ground fills the foreground and background. Start: The steel relay tower with its dish antennas sways and wobbles several times beside the engine base as the ground trembles. Middle: The lattice mast snaps and folds downward, dragging the shaft head cover with it toward the round opening. End: The tower and cover drop into the shaft, and a plume of ice dust bursts upward out of the opening. Mood: violent, catastrophic, tense. Blur: Compressed telephoto depth with a soft, dust-hazed background; the tower stays sharpest until the ice dust swallows detail. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+loud steel framework snapping, rumbling collapse, rushing ice dust, deep earthquake rumble; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

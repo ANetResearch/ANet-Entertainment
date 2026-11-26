@@ -1,0 +1,23 @@
+# ep10 s25_a  duration=10s  seed=1627122274
+# input images: ['episodes/ep10/storyboard/s25.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Close two-shot at the shaft rim: Xiaoman on his knees in the snow with both gloved hands on the robot's scratched yellow body, his face lit red-white by the smiley screen, frost on his eyelashes. Blocking lock: Xiaoman kneels at frame left and centre in the foreground, facing right; Luosi sits at frame right under his hands, its smiley screen facing him; the shaft rim and snow fill the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+At the rim of a shaft in the snow, Xiaoman kneels with his hands pressed on the robot Luosi and urgently pleads with it, opening and ending on the single line "不行。下面零下一百多度，你的电池撑不住的。"
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, close two-shot, handheld close-up with a faint shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman kneels at frame left and centre in the foreground, facing right; Luosi sits at frame right under his hands, its smiley screen facing him; the shaft rim and snow fill the background. Start: Xiaoman kneels in the snow with both gloved hands pressed flat on Luosi's scratched yellow casing, his eyes fixed on its glowing screen. Middle: He leans in closer, his grip tightening on the casing, his breath misting and his shoulders trembling in the wind. End: He holds his hands on the robot and stays locked on its screen, frost on his eyelashes, as the wind buffets him. Mood: urgent, desperate, fragile. Blur: Shallow depth of field; the snowy shaft rim and distant background are soft and blurred, while Xiaoman's face and the robot's screen stay sharp. Xiaoman (young male voice, quick and light) says, <d>[Chinese] 不行。下面零下一百多度，你的电池撑不住的。</d>; Final line of this shot: end on “的电池撑不住的。”, complete the whole sentence, no cut-off; after the last line nobody speaks. Hold the last frame.
+
+overall_soundscape:
+wind gusting across the snow, faint standby hum of the robot; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

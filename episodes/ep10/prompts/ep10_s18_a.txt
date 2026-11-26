@@ -1,0 +1,25 @@
+# ep10 s18_a  duration=9s  seed=212289173
+# input images: ['episodes/ep10/storyboard/s18.png', 'refs/locations/loc_engine.png', 'refs/locations/loc_jupiter.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Wide low-angle shot: the remaining eight trucks approaching the dark, unlit planetary engine, a black mountain with no beam against the Jupiter-filled sky, fallen ice slabs piled around its base. Blocking lock: the eight trucks are small in the lower foreground and midground moving toward the centre, the black planetary engine fills the centre background, Jupiter hangs in the sky above it, and fallen ice slabs are piled around its base.
+<Subject 2> is the planetary engine exterior on the ice plain from <Picture 2>, serving as location reference. Extreme wide exterior shot on the frozen surface of the Earth: a planetary engine the size of a mountain rises from an ice plain, a colossal industrial structure of steel and concrete, firing a blinding blue-white plasma column straight up into a black starry sky. Tiny lights of vehicles at its base give the scale, blowing snow, minus eighty degrees.
+<Subject 3> is the ice plain under a sky filled by Jupiter from <Picture 3>, serving as location reference. Exterior wide shot from the frozen surface of the Earth looking up: the planet Jupiter fills almost the entire sky, its bands and the Great Red Spot terrifyingly close, staining the ice plain dull orange; a faint stream of atmosphere is being pulled from the Earth towards it; silhouettes of a stalled planetary engine and a tiny transport truck on the horizon.
+
+summary:
+Eight remaining trucks drive across the ice toward the dark, unlit planetary engine standing beneath Jupiter, with no dialogue in this clip.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+<Subject 3> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary establishing shot filmed from the ground by a camera operator on a long zoom lens, slight handheld sway, atmospheric haze, natural light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, wide shot, low-angle, locked-off fixed camera; pacing: natural speed, a single continuous take with no cut. Blocking lock: the eight trucks are small in the lower foreground and midground moving toward the centre, the black planetary engine fills the centre background, Jupiter hangs in the sky above it, and fallen ice slabs are piled around its base. Start: The eight trucks enter the lower part of the frame and drive slowly toward the engine across the ice. Middle: The trucks continue forward, growing smaller against the huge black engine that rises like a mountain under Jupiter, with no beam of light from its top. End: The trucks reach the edge of the debris field, dwarfed by the engine and the ice slabs heaped around its base. Mood: ominous, desolate, awe-inspiring. Blur: deep focus, with the trucks, engine and ice slabs all sharp and only faint atmospheric haze softening the far sky No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+truck engine noise, wind, metallic cold-contraction creaks from inside the engine; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

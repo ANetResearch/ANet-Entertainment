@@ -1,0 +1,23 @@
+# ep10 s28_a  duration=9s  seed=2101671599
+# input images: ['episodes/ep10/storyboard/s28.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro shot deep in the shaft: the robot wedged between two severed trunk cable ends, its manipulator clamped on one, its short antenna extended toward the other, frost crystals growing over its yellow casing. Blocking lock: Luosi sits at frame centre, wedged in the gap; one severed cable end is at frame left, held by its manipulator, the other at frame right, and the dark shaft fills the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Deep in the shaft, the small robot Luosi wedges itself between two severed trunk cable ends and bridges them while frost creeps over its casing; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Macro close-up, locked-off camera with a barely perceptible drift.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi sits at frame centre, wedged in the gap; one severed cable end is at frame left, held by its manipulator, the other at frame right, and the dark shaft fills the background. Start: Luosi lodges its yellow body in the gap between the two cut cable ends and its manipulator clamps tight onto the left cable end. Middle: Its short antenna slowly extends toward the right cable end, while white frost visibly climbs across its yellow casing. End: The antenna tip reaches the right cable end and holds against it, completing the link as frost keeps spreading over the casing. Mood: tense, fragile, determined. Blur: Very shallow depth of field; the cable ends and antenna tip are sharp, the shaft walls behind fall into dark blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+metallic clicking of the clamp, low electric hum of current connecting; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

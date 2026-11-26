@@ -1,0 +1,23 @@
+# ep10 s11_a  duration=10s  seed=65513541
+# input images: ['episodes/ep10/storyboard/s11.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Telephoto shot from a truck's rear window: the last heavy truck of the convoy tilting sideways as the ice shelf under it breaks away, headlights pointing up into blowing snow, a wall of ice dust behind. Blocking lock: the last heavy truck is at frame centre, tilting sideways; the broken ice shelf edge is in the foreground; blowing snow and a wall of ice dust fill the background.
+<Subject 2> is the frozen plain with the heavy-truck convoy from <Picture 2>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+During an earthquake on the ice, the last transport truck of the convoy slides sideways with a collapsing ice shelf and vanishes into the ice fog, seen from the rear of the convoy; there is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 10.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, telephoto long shot from a truck's rear window, violent handheld shake; pacing: natural speed, a single continuous take with no cut. Blocking lock: the last heavy truck is at frame centre, tilting sideways; the broken ice shelf edge is in the foreground; blowing snow and a wall of ice dust fill the background. Start: The last heavy truck sits at the edge of the ice shelf as the ice begins to split, its headlights shining into blowing snow. Middle: The whole ice shelf section breaks away and sinks, and the truck tilts and slides sideways down the slope. End: The headlights sweep once up toward the sky, then the truck disappears into the swirling ice fog. Mood: terrifying, chaotic, desperate. Blur: Compressed telephoto depth with the truck slightly soft; ice dust and snow in the background blur into a white haze. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+deep rumble of the ice shelf collapsing, screech of twisting metal, wind-blown snow; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

@@ -1,0 +1,25 @@
+# ep10 s26_a  duration=8s  seed=849772420
+# input images: ['episodes/ep10/storyboard/s26.png', 'refs/characters/luosi.png', 'refs/characters/xiaoman.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Macro shot: the robot's small manipulator arm resting against Xiaoman's gloved hand, the smiley screen filling the background out of focus. Blocking lock: Xiaoman's gloved hand is in the lower-left foreground, Luosi's manipulator arm is centre touching the glove, its smiley screen is soft in the background, and the well rim and dark crack are at frame right.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+
+summary:
+In a macro close-up at the edge of a well, Luosi's small arm nudges Xiaoman's gloved hand, beeps, then pulls free and slides over the rim into a dark crack. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 8.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), documentary insert close-up grabbed handheld, focus breathing, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, extreme macro close-up, locked-off with a very slight handheld settle; pacing: natural speed, a single continuous take with no cut. Blocking lock: Xiaoman's gloved hand is in the lower-left foreground, Luosi's manipulator arm is centre touching the glove, its smiley screen is soft in the background, and the well rim and dark crack are at frame right. Start: Luosi's small manipulator arm rests against and gently taps Xiaoman's gloved hand, and a short beep sounds. Middle: Luosi's tracks start turning, and the robot wrenches itself out from under his hand. End: Luosi crosses the well rim and slides down into the black crack, and loose ice fragments tumble in after it. Mood: tender, tense, uncertain. Blur: very shallow depth of field, with the glove and arm sharp and the smiley screen and background heavily out of focus No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+short electronic beep, tracks grinding and turning, small ice fragments rolling and falling; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

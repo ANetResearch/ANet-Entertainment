@@ -1,0 +1,27 @@
+# ep10 s24_a  duration=9s  seed=1356920000
+# input images: ['episodes/ep10/storyboard/s24.png', 'refs/characters/luosi.png', 'refs/characters/xiaoman.png', 'refs/locations/loc_ice.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Low angle on the ice: the small yellow tracked robot rolling down the truck ramp on its own toward the shaft rim, smiley screen glowing, Xiaoman turning around in the background. Blocking lock: Luosi, the small yellow tracked robot, is in the low foreground centre, moving from the truck ramp toward the shaft rim; Xiaoman stands in the background, turning around; the truck ramp is behind Luosi.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+<Subject 3> is Xiaoman (19, male apprentice) from <Picture 3>, serving as the apprentice. A 19-year-old Chinese young man born in an underground city, apprentice technician. Tall and thin, messy overgrown black hair, pale skin that has never seen the sun, quick curious eyes, an oversized battered pair of headphones hanging around his neck. Oversized olive-green field jacket with rolled sleeves and many pockets full of wires.
+<Subject 4> is the frozen plain with the heavy-truck convoy from <Picture 4>, serving as location reference. Wide exterior shot of a convoy of massive heavy-haul transport trucks with huge wheels driving across a frozen plain between the ice-encased ruins of skyscrapers, headlights cutting through blowing snow, dark sky, a faint blue glow of a distant engine beam on the horizon.
+
+summary:
+On the icy ground near the shaft, Luosi rolls down the truck ramp by itself, drives to the shaft rim and stops, turning its smiley screen toward Xiaoman. There is no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 3> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+<Subject 4> (appears in this shot): fully_preserved — environment, lighting and layout retained as the location.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, low-angle shot at ice level, locked-off static camera in a documentary verite style; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi, the small yellow tracked robot, is in the low foreground centre, moving from the truck ramp toward the shaft rim; Xiaoman stands in the background, turning around; the truck ramp is behind Luosi. Start: Luosi rolls off the end of the truck ramp onto the ice, its tracks biting into the surface, its smiley screen glowing. Middle: Luosi drives steadily across the ice toward the shaft rim, tracks crunching, while Xiaoman in the background begins to turn around. End: Luosi stops at the shaft rim and swivels its head screen with the smiley face toward Xiaoman, who has turned to face it. Mood: curious, quiet, quietly tense. Blur: Shallow depth of field: Luosi is sharp in the foreground while Xiaoman and the truck in the background are softly out of focus. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+tracks crunching on ice, small electric motor whirr, one short electronic beep; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)

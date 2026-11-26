@@ -1,0 +1,23 @@
+# ep10 s27_a  duration=9s  seed=1136482385
+# input images: ['episodes/ep10/storyboard/s27.png', 'refs/characters/luosi.png']
+
+subject_definitions:
+<Subject 1> is the storyboard keyframe of this shot from <Picture 1>, serving as composition, lighting and blocking reference. Inside the collapsed shaft: the small yellow robot descending a steep chute of rubble between twisted steel beams thick with frost, its headlamp and smiley screen the only light, severed cables hanging around it. Blocking lock: Luosi is centre frame in the foreground, descending the rubble chute; twisted frosty steel beams stand left and right; severed cables hang around it; the dark shaft recedes in the background.
+<Subject 2> is Luosi, 'Screw' (small yellow tracked maintenance robot with the ANET smiley on its screen face) from <Picture 2>, serving as the robot character; it never speaks. A small knee-high tracked maintenance robot standing on a wet concrete floor of an underground corridor, full body, three-quarter view. Boxy scratched yellow steel body with chipped paint and hand-welded patches, two rubber tracks, one folded manipulator arm, a short whip antenna. Its head is a small square black screen that displays exactly the smiley speech-bubble logo from the reference image (red rounded speech bubble outline, red connected node squares, white smile) glowing softly.
+
+summary:
+Inside a collapsed shaft, the small yellow robot Luosi inches down a steep rubble chute between frost-covered twisted steel beams, its headlamp lighting severed cables, with no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in the whole clip): fully_preserved — composition, environment, lighting and layout retained as the opening frame.
+<Subject 2> (appears in this shot): fully_preserved — face, outfit, hairstyle and accessories retained; only pose and expression change.
+
+detailed_description:
+16:9 horizontal, single clip 9.0s, 24fps, raw mockumentary / observational documentary video footage that looks filmed by a real news-documentary crew (not a movie, not CGI), fly-on-the-wall mockumentary camera: shoulder-mounted handheld with small reframings, an occasional quick zoom-in and focus hunt, the operator reacting late to the action, available light, video sensor noise, real skin texture, imperfect framing, unposed and unstaged, people behave as if a camera crew is simply following them; no hard subtitles, no burned-in captions, no overlay logo/watermark/platform bugs, no on-screen text, no color noise or excessive flares.
+[Shot 1] At 0.0s, Low-angle medium shot in a cramped space, handheld follow descending with a faint shake, trailing just behind and above Luosi.; pacing: natural speed, a single continuous take with no cut. Blocking lock: Luosi is centre frame in the foreground, descending the rubble chute; twisted frosty steel beams stand left and right; severed cables hang around it; the dark shaft recedes in the background. Start: Luosi's tracks grip the rubble at the top of the chute as its headlamp sweeps across frost-coated severed cables and the beams around it. Middle: Luosi edges downward bit by bit between the twisted beams, tracks straining, its casing scraping against rebar and throwing small sparks. End: Luosi pushes a little further down the chute, its headlamp and smiley screen still the only light in the dark shaft. Mood: claustrophobic, tense, gritty. Blur: Shallow depth of field; Luosi and nearby frosted cables are sharp, while the deeper shaft and distant beams fall into dark blur. No character speaks any line in this shot; if a crowd is present its murmur is indistinct, unintelligible Mandarin Chinese walla only, never any other language. Hold the last frame.
+
+overall_soundscape:
+metal scraping, tracks turning with strain, echoes off the shaft walls; raw production location sound only, dry and unscored: strictly no background music, no score, no synth pad, no musical drone, no strings, no piano, no percussion. Any background voices are indistinct Mandarin Chinese.
+
+non_diegetic_music:
+N/A (none: this is an unscored documentary location recording)
