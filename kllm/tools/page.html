@@ -1,0 +1,599 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>kLLM 样例对照</title>
+<style>
+:root {
+  --bg: #f6f6f4; --surface: #ffffff; --surface-2: #f0f1f3; --fg: #16181d; --muted: #5a606c; --line: #dadde3;
+  --accent: #c42a20; --accent-fg: #ffffff; --focus: #1f5fbf; --ok: #2f6f3e; --warn: #9a3412;
+  --shadow: 0 1px 2px rgba(16, 18, 24, .06), 0 2px 8px rgba(16, 18, 24, .05);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1115; --surface: #171a20; --surface-2: #1f232b; --fg: #eceef2; --muted: #9ca3af; --line: #2b3039;
+    --accent: #ef4135; --accent-fg: #ffffff; --focus: #7aa7ff; --ok: #6fbf80; --warn: #f0a36b;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1115; --surface: #171a20; --surface-2: #1f232b; --fg: #eceef2; --muted: #9ca3af; --line: #2b3039;
+  --accent: #ef4135; --accent-fg: #ffffff; --focus: #7aa7ff; --ok: #6fbf80; --warn: #f0a36b;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+}
+a { color: var(--focus); }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.wrap { max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+header.top { border-bottom: 1px solid var(--line); background: var(--surface); }
+header.top .wrap { display: flex; align-items: center; gap: 14px; min-height: 60px; flex-wrap: wrap; }
+.logo { height: 22px; width: auto; display: block; }
+.logo .k { fill: var(--fg); }
+.logo .llm { fill: #e93024; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand span { font-weight: 600; letter-spacing: .02em; }
+.spacer { flex: 1; }
+.btn {
+  border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 6px 12px; cursor: pointer;
+  line-height: 1.4; white-space: nowrap;
+}
+.btn:hover { background: var(--surface-2); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
+.btn.primary:hover { filter: brightness(1.05); }
+.btn.sm { padding: 3px 9px; font-size: 13px; }
+.btn[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.btn:disabled { opacity: .55; cursor: default; }
+/* lock */
+#lock { min-height: calc(100vh - 61px); display: flex; align-items: center; justify-content: center; padding: 32px 16px; }
+.lockcard {
+  width: 100%; max-width: 420px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 28px 24px; box-shadow: var(--shadow);
+}
+.lockcard h1 { font-size: 20px; margin: 0 0 6px; }
+.lockcard p { margin: 0 0 18px; color: var(--muted); }
+.lockcard label.f { display: block; font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+.lockcard input[type="password"] {
+  width: 100%; padding: 9px 11px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg);
+}
+.lockcard .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+.lockcard .chk { display: flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
+.err { color: var(--warn); font-size: 14px; min-height: 1.6em; margin-top: 10px; }
+/* app */
+main.app { padding: 20px 0 40px; }
+h2 { font-size: 18px; margin: 28px 0 10px; }
+h2 small { font-weight: 400; color: var(--muted); font-size: 14px; margin-left: 8px; }
+.lede { color: var(--muted); margin: 4px 0 0; max-width: 980px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; box-shadow: var(--shadow); }
+.bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.bar + .bar { margin-top: 10px; }
+.bar label { font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+select, input[type="search"] {
+  border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 5px 8px; max-width: 100%;
+}
+input[type="search"] { min-width: 200px; }
+#seek { flex: 1 1 220px; min-width: 160px; accent-color: var(--accent); }
+.time { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 14px; min-width: 110px; }
+.slots { display: grid; gap: 12px; margin-top: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); }
+.slots.n1 { grid-template-columns: minmax(0, 720px); }
+.slot { margin: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface-2); display: flex; flex-direction: column; }
+.vwrap { background: #000; display: flex; align-items: center; justify-content: center; }
+.vwrap video { width: 100%; height: 100%; max-height: 72vh; display: block; background: #000; }
+.slot figcaption { padding: 9px 10px 10px; font-size: 13px; color: var(--muted); }
+.slot figcaption b { display: block; color: var(--fg); font-size: 14px; margin-bottom: 2px; }
+.slot .acts { display: flex; gap: 8px; align-items: center; margin-top: 6px; flex-wrap: wrap; }
+.slot .vmsg { color: var(--warn); }
+.hint { color: var(--muted); margin: 12px 0 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.series { margin-top: 18px; }
+.series > h3 { font-size: 16px; margin: 0 0 4px; }
+.series > p { margin: 0 0 8px; color: var(--muted); font-size: 14px; }
+details.grp { border-top: 1px solid var(--line); padding: 8px 0; }
+details.grp > summary { cursor: pointer; list-style: none; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+details.grp > summary::-webkit-details-marker { display: none; }
+details.grp > summary::before { content: "▸"; color: var(--muted); width: 1em; display: inline-block; transition: transform .15s; }
+details.grp[open] > summary::before { transform: rotate(90deg); }
+details.grp > summary .code { font-weight: 600; }
+details.grp > summary .desc { color: var(--muted); font-size: 14px; }
+details.grp > summary .cnt { color: var(--muted); font-size: 13px; margin-left: auto; }
+.cards { display: grid; gap: 8px; margin: 8px 0 4px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 9px 10px; font-size: 13px; }
+.card .t { font-size: 14px; font-weight: 600; color: var(--fg); }
+.card .m { color: var(--muted); }
+.card .acts { margin-top: 6px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.card.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.tw { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { padding: 6px 9px; border-bottom: 1px solid var(--line); text-align: left; white-space: nowrap; vertical-align: top; }
+th { position: sticky; top: 0; background: var(--surface-2); font-weight: 600; cursor: pointer; user-select: none; }
+th[aria-sort="ascending"]::after { content: " ▲"; font-size: 10px; }
+th[aria-sort="descending"]::after { content: " ▼"; font-size: 10px; }
+td.n { text-align: right; font-variant-numeric: tabular-nums; }
+td.w { white-space: normal; min-width: 220px; }
+tr.on td { background: color-mix(in srgb, var(--accent) 9%, transparent); }
+footer.foot { border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; padding: 18px 0 28px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+[hidden] { display: none !important; }
+@media (max-width: 640px) {
+  body { font-size: 14px; }
+  .lockcard { padding: 22px 18px; }
+  input[type="search"] { min-width: 0; width: 100%; }
+  .bar label { flex: 1 1 auto; }
+  .slots { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .slots.n1 { grid-template-columns: minmax(0, 1fr); }
+  .slot figcaption { padding: 7px 8px; font-size: 12px; }
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="brand">
+    <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459.63 100" role="img" aria-label="kLLM"><title>kLLM</title><path class="k" d="M17.63 0L57.63 0L51.64 34L11.64 34ZM74.11 20L114.11 20L112.34 30L102.34 30L101.64 34L61.64 34L62.34 30L72.34 30ZM10.58 40L90.58 40L88.82 50L78.82 50L77.93 55L7.93 55ZM6.88 61L86.88 61L85.29 70L95.29 70L94.23 76L54.23 76L55.29 70L45.29 70L44.23 76L4.23 76ZM3 83L43 83L40 100L0 100ZM63 83L103 83L100 100L60 100Z"/><path class="llm" d="M135.63 0L175.63 0L169.64 34L129.64 34ZM128.58 40L168.58 40L165.93 55L125.93 55ZM124.88 61L164.88 61L162.23 76L122.23 76ZM121 83L201 83L198 100L118 100ZM227.63 0L267.63 0L261.64 34L221.64 34ZM220.58 40L260.58 40L257.93 55L217.93 55ZM216.88 61L256.88 61L254.23 76L214.23 76ZM213 83L293 83L290 100L210 100ZM319.63 0L359.63 0L356.11 20L416.11 20L419.63 0L459.63 0L453.64 34L313.64 34ZM312.58 40L352.58 40L349.93 55L309.93 55ZM372.58 40L392.58 40L389.93 55L369.93 55ZM412.58 40L452.58 40L449.93 55L409.93 55ZM308.88 61L348.88 61L346.23 76L306.23 76ZM408.88 61L448.88 61L446.23 76L406.23 76ZM305 83L345 83L342 100L302 100ZM405 83L445 83L442 100L402 100Z"/></svg>
+    <span>样例对照</span>
+  </div>
+  <div class="spacer"></div>
+  <button class="btn sm" id="forget" type="button" hidden>忘记密钥并锁定</button>
+</div></header>
+
+<section id="lock" aria-labelledby="lock-title">
+  <form class="lockcard" id="lockform" autocomplete="on">
+    <h1 id="lock-title">kLLM 样例对照</h1>
+    <p>本页内容已加密，输入访问密钥后在本浏览器内解密。</p>
+    <input type="text" name="username" value="kllm-samples" autocomplete="username" hidden>
+    <label class="f" for="key">访问密钥</label>
+    <input type="password" id="key" name="password" autocomplete="current-password" required spellcheck="false">
+    <div class="row">
+      <label class="chk"><input type="checkbox" id="remember" checked> 在本浏览器记住密钥</label>
+      <button class="btn primary" id="unlock" type="submit">解锁</button>
+    </div>
+    <div class="err" id="err" role="alert"></div>
+  </form>
+</section>
+
+<main class="app wrap" id="app" hidden>
+  <p class="lede" id="lede"></p>
+
+  <h2>并排对比<small>选择两到四个样例，同步播放与拖动</small></h2>
+  <div class="panel" id="compare">
+    <div class="bar">
+      <label>预设对比 <select id="preset"><option value="">选择预设</option></select></label>
+      <button class="btn sm" id="clear" type="button">清空</button>
+    </div>
+    <div class="bar">
+      <button class="btn primary sm" id="play" type="button" disabled>播放</button>
+      <button class="btn sm" id="restart" type="button" disabled>从头</button>
+      <input type="range" id="seek" min="0" max="15" step="0.04" value="0" disabled aria-label="播放位置">
+      <span class="time" id="time">0.0 / 0.0 秒</span>
+      <label>速度 <select id="rate"><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
+      <label><input type="checkbox" id="loop"> 循环</label>
+    </div>
+    <p class="hint" id="cmphint">从下方的样例或全部样例表中选择“加入对比”，或选择一个预设对比。</p>
+    <div class="slots" id="slots"></div>
+  </div>
+
+  <h2>按系列浏览<small id="count"></small></h2>
+  <div class="panel">
+    <div class="bar">
+      <div class="chips" id="serieschips" role="group" aria-label="系列"></div>
+    </div>
+    <div class="bar">
+      <label>样例集 <select id="fset"><option value="all">全部</option></select></label>
+      <label>画幅 <select id="forient"><option value="all">全部</option><option value="portrait">竖屏</option><option value="landscape">横屏</option></select></label>
+      <label class="sr" for="fq">搜索</label>
+      <input type="search" id="fq" placeholder="搜索编号、标题或说明">
+    </div>
+    <p class="hint" id="seriesnote"></p>
+  </div>
+  <div id="browse"></div>
+
+  <h2>全部样例<small>点击表头排序；筛选条件与上方一致</small></h2>
+  <div class="tw"><table id="tbl"><thead><tr></tr></thead><tbody></tbody></table></div>
+</main>
+
+<footer class="foot" id="foot" hidden><div class="wrap">
+  <p>视频为发布页面中的原样文件，未重新编码。耗时与显存峰值为所列 GPU 上的实测值；画面质量只记录，不作评判。</p>
+</div></footer>
+
+<!--PAYLOAD-->
+<script>
+(function () {
+  "use strict";
+  var STORE = "kllm-samples-key";
+  var $ = function (id) { return document.getElementById(id); };
+  var S = null;
+
+  function store(op, v) {
+    try {
+      if (op === "get") return window.localStorage.getItem(STORE);
+      if (op === "set") window.localStorage.setItem(STORE, v);
+      if (op === "del") window.localStorage.removeItem(STORE);
+    } catch (e) { /* storage unavailable: the key is simply not remembered */ }
+    return null;
+  }
+  function b64(s) {
+    var bin = atob(s), out = new Uint8Array(bin.length);
+    for (var i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+    return out;
+  }
+  function decrypt(pass) {
+    var box = JSON.parse($("payload").textContent);
+    var enc = new TextEncoder();
+    return crypto.subtle.importKey("raw", enc.encode(pass), "PBKDF2", false, ["deriveKey"]).then(function (base) {
+      return crypto.subtle.deriveKey({ name: "PBKDF2", salt: b64(box.salt), iterations: box.iter, hash: "SHA-256" },
+        base, { name: "AES-GCM", length: 256 }, false, ["decrypt"]);
+    }).then(function (key) {
+      return crypto.subtle.decrypt({ name: "AES-GCM", iv: b64(box.iv) }, key, b64(box.ct));
+    }).then(function (buf) { return JSON.parse(new TextDecoder().decode(buf)); });
+  }
+
+  // ------------------------------------------------------------------ formatting
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function secs(s) {
+    if (s == null || isNaN(s)) return "—";
+    if (s < 60) return s.toFixed(1) + " 秒";
+    var r = Math.round(s), m = Math.floor(r / 60), x = r % 60;
+    if (m >= 60) return Math.floor(m / 60) + " 小时 " + (m % 60) + " 分";
+    return m + " 分 " + (x < 10 ? "0" : "") + x + " 秒";
+  }
+  function mb(b) { return b ? (b / 1e6).toFixed(1) + " MB" : "—"; }
+  function gib(g) { return g == null ? "—" : g.toFixed(1) + " GiB"; }
+  function orient(e) {
+    if (e.orientation === "portrait") return "竖屏";
+    if (e.orientation === "landscape") return "横屏";
+    return "—";
+  }
+  function res(e) { return e.width ? e.width + "×" + e.height : "—"; }
+  function dur(e) { return e.duration_s ? e.duration_s.toFixed(2) + " 秒" : "—"; }
+  function setTitle(id) { return (S.data.sets[id] || {}).title || id; }
+  function seriesTitle(id) { return (S.data.series[id] || {}).title || id; }
+  function natural(a, b) { return String(a).localeCompare(String(b), "zh-CN", { numeric: true }); }
+
+  // ------------------------------------------------------------------ compare
+  var C = { vids: [], timer: 0, playing: false, holding: false, dragging: false };
+
+  function master() {
+    var best = null;
+    C.vids.forEach(function (v) { if (!isNaN(v.duration) && (!best || v.duration > best.duration)) best = v; });
+    return best || C.vids[0];
+  }
+  function maxDur() { var m = master(); return m && !isNaN(m.duration) ? m.duration : 0; }
+  function setControls() {
+    var n = C.vids.length;
+    ["play", "restart", "seek"].forEach(function (id) { $(id).disabled = n === 0; });
+    $("play").textContent = C.playing ? "暂停" : "播放";
+    var d = maxDur();
+    $("seek").max = d ? d.toFixed(2) : "15";
+  }
+  function showTime() {
+    var m = master(), t = m ? m.currentTime : 0;
+    $("time").textContent = t.toFixed(1) + " / " + maxDur().toFixed(1) + " 秒";
+    if (!C.dragging) $("seek").value = t;
+  }
+  function seekAll(t) {
+    C.vids.forEach(function (v) {
+      var d = isNaN(v.duration) ? t : Math.max(0, v.duration - 0.04);
+      try { v.currentTime = Math.min(t, d); } catch (e) { /* not seekable yet */ }
+    });
+    showTime();
+  }
+  function playAll() {
+    var m = master();
+    if (m && !isNaN(m.duration) && m.currentTime >= m.duration - 0.05) seekAll(0);
+    C.playing = true; C.holding = false;
+    C.vids.forEach(function (v) {
+      if (!isNaN(v.duration) && v.currentTime >= v.duration - 0.05) return;
+      var p = v.play(); if (p && p.catch) p.catch(function () { });
+    });
+    setControls();
+  }
+  function pauseAll() {
+    C.playing = false; C.holding = false;
+    C.vids.forEach(function (v) { v.pause(); });
+    setControls();
+  }
+  function tick() {
+    if (!C.vids.length) return;
+    var m = master(), t = m.currentTime;
+    if (C.playing) {
+      var active = C.vids.filter(function (v) { return isNaN(v.duration) || t < v.duration - 0.05; });
+      var starving = active.some(function (v) { return v.readyState < 3; });
+      if (starving && !C.holding) {
+        C.holding = true; C.vids.forEach(function (v) { v.pause(); });
+      } else if (!starving && C.holding) {
+        C.holding = false;
+        active.forEach(function (v) { if (Math.abs(v.currentTime - t) > 0.05) v.currentTime = t; var p = v.play(); if (p && p.catch) p.catch(function () { }); });
+      } else if (!C.holding) {
+        active.forEach(function (v) {
+          if (v !== m && Math.abs(v.currentTime - t) > 0.2) v.currentTime = t;
+          if (v.paused && !v.ended) { var p = v.play(); if (p && p.catch) p.catch(function () { }); }
+        });
+      }
+      if (m.ended || (!isNaN(m.duration) && t >= m.duration - 0.05)) {
+        if ($("loop").checked) { seekAll(0); C.vids.forEach(function (v) { var p = v.play(); if (p && p.catch) p.catch(function () { }); }); }
+        else pauseAll();
+      }
+    }
+    showTime();
+  }
+  function audio(i) {
+    C.vids.forEach(function (v, j) { v.muted = j !== i; });
+  }
+  function renderSlots() {
+    pauseAll();
+    C.vids.forEach(function (v) { v.removeAttribute("src"); v.load(); });
+    C.vids = [];
+    var box = $("slots");
+    box.innerHTML = "";
+    box.className = "slots" + (S.slots.length === 1 ? " n1" : "");
+    $("cmphint").hidden = S.slots.length > 0;
+    S.slots.forEach(function (file, i) {
+      var e = S.byFile[file];
+      if (!e) return;
+      var fig = document.createElement("figure");
+      fig.className = "slot";
+      var ar = e.width && e.height ? e.width + " / " + e.height : "16 / 9";
+      fig.innerHTML =
+        '<div class="vwrap" style="aspect-ratio:' + ar + '"><video playsinline preload="metadata"></video></div>' +
+        "<figcaption><b>" + esc(e.title) + "</b>" +
+        esc(setTitle(e.set)) + " · " + esc(e.engine || "—") + "<br>" +
+        esc(res(e)) + " · " + esc(dur(e)) + " · " + esc(mb(e.bytes)) + "<br>" +
+        "耗时 " + esc(secs(e.wall_s)) + " · 显存峰值 " + esc(gib(e.gpu_peak_gib)) + " · " + esc(e.gpu || "—") +
+        '<div class="vmsg" hidden>视频暂时无法加载，可通过下方链接直接打开。</div>' +
+        '<div class="acts"><label><input type="radio" name="aud" value="' + i + '"' + (i === 0 ? " checked" : "") + "> 声音</label>" +
+        '<button class="btn sm" type="button" data-rm="' + esc(file) + '">移出</button>' +
+        '<a href="' + esc(e.url) + '" target="_blank" rel="noopener">打开文件</a></div></figcaption>';
+      var v = fig.querySelector("video");
+      v.muted = i !== 0;
+      v.src = e.url;
+      v.addEventListener("loadedmetadata", function () { setControls(); showTime(); });
+      v.addEventListener("error", function () { fig.querySelector(".vmsg").hidden = false; });
+      v.addEventListener("click", function () { C.playing ? pauseAll() : playAll(); });
+      C.vids.push(v);
+      box.appendChild(fig);
+    });
+    box.querySelectorAll("input[name=aud]").forEach(function (r) { r.addEventListener("change", function () { audio(+r.value); }); });
+    box.querySelectorAll("[data-rm]").forEach(function (b) { b.addEventListener("click", function () { toggle(b.getAttribute("data-rm")); }); });
+    var rate = +$("rate").value;
+    C.vids.forEach(function (v) { v.playbackRate = rate; v.defaultPlaybackRate = rate; });
+    setControls(); showTime();
+    try { history.replaceState(null, "", S.slots.length ? "#c=" + S.slots.map(encodeURIComponent).join(",") : location.pathname + location.search); } catch (e) { }
+    markOn();
+  }
+  function toggle(file) {
+    var i = S.slots.indexOf(file);
+    if (i >= 0) S.slots.splice(i, 1);
+    else {
+      if (S.slots.length >= 4) S.slots.shift();
+      S.slots.push(file);
+    }
+    renderSlots();
+  }
+  function markOn() {
+    document.querySelectorAll("[data-add]").forEach(function (b) {
+      var on = S.slots.indexOf(b.getAttribute("data-add")) >= 0;
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+      b.textContent = on ? "已加入对比" : "加入对比";
+      var host = b.closest(".card, tr");
+      if (host) host.classList.toggle("on", on);
+    });
+  }
+
+  // ------------------------------------------------------------------ browse and table
+  function filtered() {
+    var f = S.f, q = f.q.trim().toLowerCase();
+    return S.data.entries.filter(function (e) {
+      if (f.series !== "all" && e.series !== f.series) return false;
+      if (f.set !== "all" && e.set !== f.set) return false;
+      if (f.orient !== "all" && e.orientation !== f.orient) return false;
+      if (q) {
+        var hay = [e.code, e.group, e.title, e.note, e.engine, e.gpu, setTitle(e.set), e.file].join(" ").toLowerCase();
+        if (hay.indexOf(q) < 0) return false;
+      }
+      return true;
+    });
+  }
+  function setRank(id) { var i = S.data.set_order.indexOf(id); return i < 0 ? 99 : i; }
+  function cardHtml(e) {
+    return '<div class="card"><div class="t">' + esc(e.title) + "</div>" +
+      '<div class="m">' + esc(setTitle(e.set)) + " · " + esc(e.engine || "—") + "</div>" +
+      '<div class="m">' + esc(res(e)) + " · " + esc(dur(e)) + " · " + esc(mb(e.bytes)) +
+      (e.seed != null ? " · 种子 " + esc(e.seed) : "") + "</div>" +
+      '<div class="m">耗时 ' + esc(secs(e.wall_s)) + " · 显存峰值 " + esc(gib(e.gpu_peak_gib)) + " · " + esc(e.gpu || "—") + "</div>" +
+      (e.note ? '<div class="m">' + esc(e.note) + "</div>" : "") +
+      '<div class="acts"><button class="btn sm" type="button" data-add="' + esc(e.file) + '" aria-pressed="false">加入对比</button>' +
+      '<a href="' + esc(e.url) + '" target="_blank" rel="noopener">打开文件</a></div></div>';
+  }
+  function renderBrowse() {
+    var list = filtered();
+    $("count").textContent = "共 " + list.length + " 个样例";
+    var out = [];
+    S.data.series_order.forEach(function (sid) {
+      var xs = list.filter(function (e) { return e.series === sid; });
+      if (!xs.length) return;
+      var groups = {}, order = [];
+      xs.forEach(function (e) { var g = e.group || "其他"; if (!groups[g]) { groups[g] = []; order.push(g); } groups[g].push(e); });
+      if ("ABH".indexOf(sid) >= 0) order.sort(natural);
+      var ser = S.data.series[sid] || {};
+      out.push('<section class="series"><h3>' + esc(ser.title || sid) + "</h3><p>" + esc(ser.description || "") + "</p>");
+      order.forEach(function (g) {
+        var ys = groups[g].slice().sort(function (a, b) {
+          return setRank(a.set) - setRank(b.set) || natural(a.title, b.title);
+        });
+        var sch = S.data.schemes[g];
+        out.push('<details class="grp" open><summary><span class="code">' + esc(g) + "</span>" +
+          (sch ? '<span class="desc">' + esc(sch.description) + "</span>" : "") +
+          '<span class="cnt">' + ys.length + " 个</span></summary><div class=\"cards\">" +
+          ys.map(cardHtml).join("") + "</div></details>");
+      });
+      out.push("</section>");
+    });
+    $("browse").innerHTML = out.join("") || '<p class="hint">没有符合筛选条件的样例。</p>';
+    $("browse").querySelectorAll("[data-add]").forEach(function (b) { b.addEventListener("click", function () { toggle(b.getAttribute("data-add")); }); });
+    renderTable(list);
+    markOn();
+  }
+  var COLS = [
+    ["系列", function (e) { return seriesTitle(e.series); }, function (e) { return S.data.series_order.indexOf(e.series); }],
+    ["编号或分组", function (e) { return e.group || "—"; }, function (e) { return e.group || ""; }],
+    ["样例", function (e) { return e.title; }, function (e) { return e.title; }, "w"],
+    ["画幅", orient, function (e) { return e.orientation || ""; }],
+    ["种子", function (e) { return e.seed == null ? "—" : e.seed; }, function (e) { return e.seed == null ? -1 : e.seed; }, "n"],
+    ["分辨率", res, function (e) { return (e.width || 0) * (e.height || 0); }, "n"],
+    ["时长", dur, function (e) { return e.duration_s || 0; }, "n"],
+    ["大小", function (e) { return mb(e.bytes); }, function (e) { return e.bytes || 0; }, "n"],
+    ["耗时", function (e) { return secs(e.wall_s); }, function (e) { return e.wall_s == null ? -1 : e.wall_s; }, "n"],
+    ["显存峰值", function (e) { return gib(e.gpu_peak_gib); }, function (e) { return e.gpu_peak_gib == null ? -1 : e.gpu_peak_gib; }, "n"],
+    ["GPU", function (e) { return e.gpu || "—"; }, function (e) { return e.gpu || ""; }],
+    ["样例集", function (e) { return setTitle(e.set); }, function (e) { return setRank(e.set); }],
+    ["", null, null]
+  ];
+  function renderTable(list) {
+    var head = $("tbl").tHead.rows[0];
+    if (!head.cells.length) {
+      COLS.forEach(function (c, i) {
+        var th = document.createElement("th");
+        th.textContent = c[0];
+        th.scope = "col";
+        if (c[2]) th.addEventListener("click", function () {
+          S.sort = { i: i, dir: S.sort.i === i ? -S.sort.dir : 1 };
+          renderTable(filtered()); markOn();
+        });
+        head.appendChild(th);
+      });
+    }
+    Array.prototype.forEach.call(head.cells, function (th, i) {
+      th.removeAttribute("aria-sort");
+      if (S.sort.i === i) th.setAttribute("aria-sort", S.sort.dir > 0 ? "ascending" : "descending");
+    });
+    var rows = list.slice();
+    if (S.sort.i != null) {
+      var key = COLS[S.sort.i][2], dir = S.sort.dir;
+      rows.sort(function (a, b) {
+        var x = key(a), y = key(b);
+        return (typeof x === "number" && typeof y === "number" ? x - y : natural(x, y)) * dir;
+      });
+    } else {
+      rows.sort(function (a, b) {
+        return S.data.series_order.indexOf(a.series) - S.data.series_order.indexOf(b.series) ||
+          natural(a.group, b.group) || setRank(a.set) - setRank(b.set) || natural(a.title, b.title);
+      });
+    }
+    $("tbl").tBodies[0].innerHTML = rows.map(function (e) {
+      return "<tr>" + COLS.map(function (c) {
+        if (!c[1]) return '<td><button class="btn sm" type="button" data-add="' + esc(e.file) + '" aria-pressed="false">加入对比</button></td>';
+        return '<td class="' + (c[3] || "") + '">' + esc(c[1](e)) + "</td>";
+      }).join("") + "</tr>";
+    }).join("");
+    $("tbl").tBodies[0].querySelectorAll("[data-add]").forEach(function (b) { b.addEventListener("click", function () { toggle(b.getAttribute("data-add")); }); });
+  }
+
+  // ------------------------------------------------------------------ app
+  function start(data) {
+    S = { data: data, byFile: {}, slots: [], f: { series: "all", set: "all", orient: "all", q: "" }, sort: { i: null, dir: 1 } };
+    data.entries.forEach(function (e) { S.byFile[e.file] = e; });
+    $("lock").hidden = true; $("app").hidden = false; $("foot").hidden = false; $("forget").hidden = false;
+    var nset = {};
+    data.entries.forEach(function (e) { nset[e.set] = 1; });
+    $("lede").textContent = "MiniMax H3 视频生成样例，共 " + data.entries.length + " 个，分属 " + Object.keys(nset).length +
+      " 个样例集；系列按底模划分。数据更新于 " + (data.generated || "—") + "。";
+    $("seriesnote").textContent = data.series_note || "";
+    var chips = [["all", "全部"]].concat(data.series_order.filter(function (s) {
+      return data.entries.some(function (e) { return e.series === s; });
+    }).map(function (s) { return [s, seriesTitle(s)]; }));
+    $("serieschips").innerHTML = chips.map(function (c) {
+      return '<button class="btn sm" type="button" data-ser="' + esc(c[0]) + '" aria-pressed="' + (c[0] === "all") + '">' + esc(c[1]) + "</button>";
+    }).join("");
+    $("serieschips").querySelectorAll("[data-ser]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        S.f.series = b.getAttribute("data-ser");
+        $("serieschips").querySelectorAll("[data-ser]").forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+        renderBrowse();
+      });
+    });
+    $("fset").innerHTML = '<option value="all">全部</option>' + data.set_order.filter(function (s) { return nset[s]; }).map(function (s) {
+      return '<option value="' + esc(s) + '">' + esc(setTitle(s)) + "</option>";
+    }).join("");
+    $("preset").innerHTML = '<option value="">选择预设</option>' + data.comparisons.map(function (c, i) {
+      return '<option value="' + i + '">' + esc(c.title) + "</option>";
+    }).join("");
+    var m = /#c=([^&]+)/.exec(location.hash);
+    if (m) S.slots = m[1].split(",").map(decodeURIComponent).filter(function (f) { return S.byFile[f]; }).slice(0, 4);
+    renderBrowse();
+    renderSlots();
+    if (!C.timer) C.timer = setInterval(tick, 200);
+  }
+  function lock() {
+    if (S) { S.slots = []; renderSlots(); }
+    S = null;
+    $("browse").innerHTML = ""; $("tbl").tBodies[0].innerHTML = ""; $("slots").innerHTML = "";
+    $("app").hidden = true; $("foot").hidden = true; $("forget").hidden = true; $("lock").hidden = false;
+    $("key").value = ""; $("err").textContent = "";
+    $("key").focus();
+  }
+  function tryUnlock(pass, remember, quiet) {
+    $("unlock").disabled = true;
+    if (!quiet) $("err").textContent = "正在解密…";
+    return decrypt(pass).then(function (data) {
+      $("err").textContent = "";
+      if (remember) store("set", pass); else store("del");
+      start(data);
+    }, function () {
+      if (quiet) store("del");
+      $("err").textContent = quiet ? "" : "密钥不正确，请重新输入。";
+    }).then(function () { $("unlock").disabled = false; });
+  }
+
+  $("lockform").addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var pass = $("key").value.trim();
+    if (pass) tryUnlock(pass, $("remember").checked, false);
+  });
+  $("forget").addEventListener("click", function () { store("del"); lock(); });
+  $("play").addEventListener("click", function () { C.playing ? pauseAll() : playAll(); });
+  $("restart").addEventListener("click", function () { seekAll(0); });
+  $("seek").addEventListener("input", function () { C.dragging = true; seekAll(+$("seek").value); });
+  $("seek").addEventListener("change", function () { C.dragging = false; seekAll(+$("seek").value); });
+  $("rate").addEventListener("change", function () {
+    var r = +$("rate").value; C.vids.forEach(function (v) { v.playbackRate = r; v.defaultPlaybackRate = r; });
+  });
+  $("clear").addEventListener("click", function () { S.slots = []; renderSlots(); });
+  $("preset").addEventListener("change", function () {
+    var c = S.data.comparisons[+$("preset").value];
+    if (!c) return;
+    S.slots = c.files.filter(function (f) { return S.byFile[f]; }).slice(0, 4);
+    renderSlots();
+    $("compare").scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  ["fset", "forient"].forEach(function (id) {
+    $(id).addEventListener("change", function () { S.f[id === "fset" ? "set" : "orient"] = $(id).value; renderBrowse(); });
+  });
+  var qt = 0;
+  $("fq").addEventListener("input", function () { clearTimeout(qt); qt = setTimeout(function () { S.f.q = $("fq").value; renderBrowse(); }, 150); });
+
+  if (!window.crypto || !crypto.subtle) {
+    $("err").textContent = "当前浏览器不支持所需的加密接口，请使用最新版本的 Chrome、Edge、Safari 或 Firefox 通过 HTTPS 打开本页。";
+    $("unlock").disabled = true;
+    return;
+  }
+  var saved = store("get");
+  if (saved) tryUnlock(saved, true, true); else $("key").focus();
+})();
+</script>
+</body>
+</html>
