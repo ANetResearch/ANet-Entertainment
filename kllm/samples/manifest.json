@@ -2,7 +2,7 @@
  "schema": 1,
  "description": "kLLM 样例视频清单：每个文件的发布位置、SHA-256 与公开元数据。耗时单位为秒，显存与主机内存峰值单位为 GiB。",
  "repository": "ANetResearch/ANet-Entertainment",
- "generated": "2026-11-27 22:06 UTC",
+ "generated": "2026-11-27 22:36 UTC",
  "releases": {
   "kllm-samples": {
    "name": "kLLM 样例视频",
@@ -1958,6 +1958,30 @@
    "title": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
    "note": "",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h06-portrait-s42-04.mp4"
+  },
+  {
+   "file": "rc4-h08-portrait-s42-01.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "01689b1387be8ff6778881f89521442208b88c052d3bb9cb580aa8351c95edbd",
+   "bytes": 33992231,
+   "set": "rc4",
+   "series": "H",
+   "group": "H08",
+   "code": "H08",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "portrait",
+   "width": 768,
+   "height": 1344,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 42,
+   "wall_s": 575.7,
+   "gpu_peak_gib": 29.3,
+   "host_peak_gib": 57.1,
+   "title": "H08 · 768p 竖屏 · 15 秒 · 种子 42",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h08-portrait-s42-01.mp4"
   },
   {
    "file": "rc4-h55-landscape-s42-01.mp4",
