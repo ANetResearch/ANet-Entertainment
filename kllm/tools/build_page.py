@@ -30,8 +30,10 @@ def payload_bytes(manifest, comparisons):
         "series_order": manifest.get("series_order", []),
         "series_note": manifest.get("series_note", ""),
         "schemes": manifest.get("schemes", {}),
+        "components_note": manifest.get("components_note", ""),
         "releases": manifest.get("releases", {}),
         "entries": manifest.get("entries", []),
+        "themes": comparisons.get("themes", []),
         "comparisons": comparisons.get("comparisons", []),
     }
     return json.dumps(data, ensure_ascii=False, separators=(",", ":"), sort_keys=True).encode("utf-8")

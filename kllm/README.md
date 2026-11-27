@@ -5,10 +5,10 @@
 | 路径 | 内容 |
 |---|---|
 | [`samples/manifest.json`](samples/manifest.json) | 样例清单：每个文件的发布位置（`release`、`url`）、SHA-256、样例集、系列、方案编号或分组、画幅、种子、分辨率、时长、大小、实测耗时、显存与主机内存峰值、GPU 型号与说明 |
-| [`samples/comparisons.json`](samples/comparisons.json) | 预设对比记录：同一用例下需要并排查看的样例组合 |
-| [`schemes.md`](schemes.md) | 方案说明：A、B、H 系列与官方工作流的公开编号、用途，以及每个方案已发布样例的实测数据与下载链接 |
+| [`samples/comparisons.json`](samples/comparisons.json) | 对比方案：按主题分组的卡片，每张注明要回答的问题、比较的变量与同条件的样例；尚未发布的样例标为待出片 |
+| [`schemes.md`](schemes.md) | 方案说明：A、B、H 系列与官方工作流的公开编号、用途与组件（底模、LoRA、EasyCache、稀疏注意力、生成方式、分辨率），以及每个方案已发布样例的实测数据与下载链接 |
 | [`tools/build_page.py`](tools/build_page.py) | 对照页面生成器：把清单与对比记录合并为一份数据，用访问密钥加密后写入页面 |
-| [`tools/page.html`](tools/page.html) | 对照页面模板：输入访问密钥后在浏览器内解密，提供按系列浏览、同步并排播放与全部样例表 |
+| [`tools/page.html`](tools/page.html) | 对照页面模板：输入访问密钥后在浏览器内解密，提供对比方案卡片、同步并排播放、按系列浏览与全部样例表 |
 
 ## 发布
 

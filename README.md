@@ -48,19 +48,19 @@ kLLM 是 ANet Research 研发的大模型推理引擎，以单个可执行程序
 | 系列 | 底模 | 方案 |
 |---|---|---|
 | A 系列 | INT8 | A01–A05 为社区工作流；A57 为测试构建（未发布）；A58 为 A05 链路的原生 1080p 与 2K；A59 为 A05 生成 768p 后做 2 倍超分辨率 |
-| B 系列 | BF16 | B00 为官方 BF16 工作流的编号版本；B01–B17 为增强工作流；B55 为不加速的全精度参照；B59 与 B60 为剪枝 BF16 底模的加速与不加速配置 |
+| B 系列 | BF16 | B00 为官方 BF16 工作流的编号版本；B01–B17 为增强工作流；B54 为原镜像 A05 链路在 kLLM 中的原样复现（测试编号）；B55 为不加速的全精度参照；B59 与 B60 为剪枝 BF16 底模的加速与不加速配置；B61 为 B59 生成 768p 后做 2 倍超分辨率 |
 | H 系列 | 混合权重 | H02、H04、H05、H06、H08、H55，流程分别与 B 系列的同号方案相同，底模为混合权重 |
 | 官方工作流 | INT8 或 BF16 | MiniMax H3 官方参考生成视频工作流（官方 INT8、官方 BF16），在 kLLM 上运行 |
 
-各方案的详细说明与实测数据见 [`kllm/schemes.md`](kllm/schemes.md)。
+各方案的组件（底模、LoRA、EasyCache、稀疏注意力、生成方式与分辨率）、详细说明与实测数据见 [`kllm/schemes.md`](kllm/schemes.md)。
 
 ### `kllm/` 目录
 
 | 路径 | 内容 |
 |---|---|
 | `kllm/samples/manifest.json` | 样例清单（由同步脚本生成） |
-| `kllm/samples/comparisons.json` | 预设对比记录：同一用例下需要并排查看的样例组合 |
-| `kllm/schemes.md` | 方案说明与各方案样例的实测数据（由同步脚本生成） |
+| `kllm/samples/comparisons.json` | 对比方案：按主题分组的卡片，每张注明比较的变量与同条件的样例 |
+| `kllm/schemes.md` | 方案说明、各方案的组件与已发布样例的实测数据（由同步脚本生成） |
 | `kllm/tools/build_page.py`、`kllm/tools/page.html` | 对照页面生成器：把清单与对比记录加密后写入页面（PBKDF2-SHA256 派生密钥，AES-256-GCM） |
 
 ## 影视作品
