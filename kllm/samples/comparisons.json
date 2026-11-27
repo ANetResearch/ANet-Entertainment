@@ -251,36 +251,6 @@
   },
   {
    "theme": "B 系列",
-   "title": "原镜像、官方 BF16 编号版与 B55 · 竖屏",
-   "question": "同一用例下原镜像 A05、官方 BF16 工作流（B00）与原始 BF16 底模不加速（B55）的画面对照。",
-   "variable": "方案与底模；种子 42",
-   "note": "B00 为 5 秒输出（其余为 15 秒），在 RTX 4080 上运行；三条分别来自 0.2.9-rc.1.1、rc.4 开发构建与 rc.3。",
-   "status": "live",
-   "items": [
-    {
-     "file": "rc11-original-a05-768p-portrait-first.mp4",
-     "label": "原镜像 A05 · 768p 竖屏 · 15 秒 · 种子 42 · 首次运行",
-     "code": "A05"
-    },
-    {
-     "file": "rc4-b00-portrait-s42-01.mp4",
-     "label": "B00 · 768p 竖屏 · 5 秒 · 种子 42",
-     "code": "B00"
-    },
-    {
-     "file": "rc3-b55-portrait-s42.mp4",
-     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
-     "code": "B55"
-    }
-   ],
-   "files": [
-    "rc11-original-a05-768p-portrait-first.mp4",
-    "rc4-b00-portrait-s42-01.mp4",
-    "rc3-b55-portrait-s42.mp4"
-   ]
-  },
-  {
-   "theme": "B 系列",
    "title": "加速的代价 · 横屏",
    "question": "不加速的 B55 与两种加速方案 B03、B06 在画面与耗时上的差异。",
    "variable": "加速方式；同一 BF16 底模，种子 42",
