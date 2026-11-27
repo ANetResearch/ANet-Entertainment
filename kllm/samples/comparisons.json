@@ -1352,11 +1352,11 @@
    "question": "同一输入与种子重复运行时输出是否一致，以及确定性模式下的输出。",
    "variable": "运行次数与 Sol 稀疏注意力的确定性模式；768p 竖屏，种子 42",
    "note": "均为 rc.4 开发构建，在 RTX 4080 SUPER 上运行。",
-   "status": "partial",
+   "status": "live",
    "items": [
     {
-     "file": null,
-     "label": "A05 · 768p 竖屏 · 默认模式第一次运行",
+     "file": "rc4-a05-portrait-s42-11.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
      "code": "A05"
     },
     {
@@ -1371,6 +1371,7 @@
     }
    ],
    "files": [
+    "rc4-a05-portrait-s42-11.mp4",
     "rc4-a05-portrait-s42-09.mp4",
     "rc4-a05-portrait-s42-10.mp4"
    ]
