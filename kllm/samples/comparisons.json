@@ -1,0 +1,106 @@
+{
+ "description": "预设对比记录：每组为同一用例下需要并排查看的样例文件（见 manifest.json）。",
+ "comparisons": [
+  {
+   "title": "A05 一比一对照 · 横屏",
+   "note": "同一工作流、同一输入、同一种子：原镜像两次运行与 kLLM。",
+   "files": [
+    "parity-original-a05-landscape-run1.mp4",
+    "parity-original-a05-landscape-run2.mp4"
+   ]
+  },
+  {
+   "title": "原镜像 A05 与 kLLM A05 · 交付矩阵",
+   "note": "768p 横屏 15 秒，种子 42。",
+   "files": [
+    "rc11-original-a05-768p-landscape-warm.mp4",
+    "rc11-a05-768p-landscape.mp4"
+   ]
+  },
+  {
+   "title": "原镜像 A05、B55 与 B02 · 竖屏",
+   "note": "同一用例、种子 42。",
+   "files": [
+    "rc11-original-a05-768p-portrait-first.mp4",
+    "rc3-b55-portrait-s42.mp4",
+    "rc2-b02-portrait.mp4"
+   ]
+  },
+  {
+   "title": "H06 与 B06 · 竖屏",
+   "note": "同一流程，底模不同。",
+   "files": [
+    "rc2-b06-portrait.mp4",
+    "prerc4-h06-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "title": "H55 与 B55 · 竖屏",
+   "note": "均不加速，底模不同。",
+   "files": [
+    "rc3-b55-portrait-s42.mp4",
+    "prerc4-h55-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "title": "A05 768p、原生 1080p 与原生 2K",
+   "note": "竖屏，种子 42，新编码。",
+   "files": [
+    "prerc4-a05-768p-enc2-portrait-s42.mp4",
+    "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+    "prerc4-a05-2k-enc2-portrait-s42.mp4"
+   ]
+  },
+  {
+   "title": "A05 原生 1080p 与 A59 超分",
+   "note": "竖屏，种子 42。",
+   "files": [
+    "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+    "rc4-a59-portrait-s42-02.mp4"
+   ]
+  },
+  {
+   "title": "B59 与 B60 · 竖屏",
+   "note": "剪枝 BF16 底模，加速与不加速。",
+   "files": [
+    "rc4-b59-portrait-s42-01.mp4",
+    "rc4-b60-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "title": "H06 · 竖屏 · rc.4",
+   "note": "两台 GPU 上的同一方案。",
+   "files": [
+    "rc4-h06-portrait-s42-03.mp4",
+    "rc4-h06-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "title": "提示词：自然语言与编译",
+   "note": "A05 768p 竖屏，种子 42，同一参考图与音频。",
+   "files": [
+    "prerc4-a05-768p-prompt-plain-portrait-s42.mp4",
+    "prerc4-a05-768p-prompt-compiled-portrait-s42.mp4",
+    "prerc4-a05-768p-prompt-compiled-style-portrait-s42.mp4"
+   ]
+  },
+  {
+   "title": "早期引擎：原样部署与标准档",
+   "note": "官方模板用例，768p 横屏 15 秒。",
+   "files": [
+    "early-768p-baseline.mp4",
+    "early-768p-standard-1gpu.mp4",
+    "early-768p-standard-4gpu.mp4"
+   ]
+  },
+  {
+   "title": "8 卡 A40：SGLang 基线与低时延方案 · 用例 1",
+   "note": "864×480，10 秒。",
+   "files": [
+    "a40x8-sglang-baseline-case1.mp4",
+    "a40x8-lowlat2-case1.mp4",
+    "a40x8-lowlat2-quality-case1.mp4"
+   ]
+  }
+ ]
+}
