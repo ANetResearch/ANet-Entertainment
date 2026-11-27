@@ -405,6 +405,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
+| [B54 · 768p 横屏 · 15 秒 · 种子 20261126](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b54-landscape-s20261126-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 9 分 26 秒 | 23.2 GiB | 50.0 GiB | NVIDIA RTX 4080 32 GB |
 | [B54 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b54-landscape-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 9 分 21 秒 | 23.2 GiB | 49.5 GiB | NVIDIA RTX 4080 32 GB |
 | [B54 · 768p 竖屏 · 15 秒 · 种子 20261126](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b54-portrait-s20261126-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 26 秒 | 23.2 GiB | 49.9 GiB | NVIDIA RTX 4080 32 GB |
 | [B54 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b54-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 10 分 46 秒 | 28.5 GiB | 53.0 GiB | NVIDIA RTX 4080 32 GB |
@@ -454,7 +455,10 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 组件：BF16 剪枝底模 · 加速 LoRA（turbo） · EasyCache · Sol 稀疏注意力 · 两遍生成（潜空间放大） · RelayVSR ×2 超分 · 输出 1536p（由 768p 超分）
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B61 · 1536p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b61-landscape-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 2688×1536 | 15.08 秒 | 16 分 01 秒 | 26.0 GiB | 60.0 GiB | NVIDIA RTX 4080 32 GB |
+| [B61 · 1536p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b61-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 1536×2688 | 15.08 秒 | 18 分 01 秒 | 29.3 GiB | 60.5 GiB | NVIDIA RTX 4080 32 GB |
 
 ## H 系列
 

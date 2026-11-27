@@ -425,11 +425,11 @@
    "question": "剪枝 BF16 底模生成 768p 后做 2 倍超分与不超分的对照。",
    "variable": "超分辨率；同一底模，种子 42",
    "note": "",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
-     "file": null,
-     "label": "B61 · 2 倍超分 竖屏 · 种子 42",
+     "file": "rc4-b61-portrait-s42-01.mp4",
+     "label": "B61 · 1536p 竖屏 · 15 秒 · 种子 42",
      "code": "B61"
     },
     {
@@ -439,6 +439,7 @@
     }
    ],
    "files": [
+    "rc4-b61-portrait-s42-01.mp4",
     "rc4-b59-portrait-s42-01.mp4"
    ]
   },
@@ -448,11 +449,11 @@
    "question": "剪枝 BF16 底模生成 768p 后做 2 倍超分与不超分的对照。",
    "variable": "超分辨率；同一底模，种子 42",
    "note": "",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
-     "file": null,
-     "label": "B61 · 2 倍超分 横屏 · 种子 42",
+     "file": "rc4-b61-landscape-s42-01.mp4",
+     "label": "B61 · 1536p 横屏 · 15 秒 · 种子 42",
      "code": "B61"
     },
     {
@@ -462,6 +463,7 @@
     }
    ],
    "files": [
+    "rc4-b61-landscape-s42-01.mp4",
     "rc4-b59-landscape-s42-01.mp4"
    ]
   },
