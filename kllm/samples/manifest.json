@@ -2,7 +2,7 @@
  "schema": 1,
  "description": "kLLM 样例视频清单：每个文件的发布位置、SHA-256 与公开元数据。耗时单位为秒，显存与主机内存峰值单位为 GiB。",
  "repository": "ANetResearch/ANet-Entertainment",
- "generated": "2026-11-27 15:17 UTC",
+ "generated": "2026-11-27 15:19 UTC",
  "releases": {
   "kllm-samples": {
    "name": "kLLM 样例视频",
@@ -588,7 +588,7 @@
    "gpu_peak_gib": 28.6,
    "host_peak_gib": 55.8,
    "title": "A05 · 960p 竖屏 · 15 秒 · 种子 20261126",
-   "note": "",
+   "note": "A05 链路的 960p 竖屏输出（第二种子），用于缺陷复现与修复验证",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s20261126-01.mp4"
   },
   {
@@ -804,7 +804,7 @@
    "gpu_peak_gib": 26.1,
    "host_peak_gib": 51.6,
    "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
-   "note": "",
+   "note": "Sol 稀疏注意力一致性检查：默认模式，第二次运行",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-09.mp4"
   },
   {
@@ -828,7 +828,7 @@
    "gpu_peak_gib": 26.1,
    "host_peak_gib": 53.6,
    "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
-   "note": "",
+   "note": "Sol 稀疏注意力一致性检查：确定性模式",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-10.mp4"
   },
   {
