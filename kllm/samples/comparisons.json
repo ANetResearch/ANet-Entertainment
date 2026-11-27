@@ -939,20 +939,23 @@
    "question": "同一 2K 请求单卡与七卡部署的耗时。",
    "variable": "卡数；同一请求与 9 张参考图",
    "note": "",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
-     "file": null,
+     "file": "early-2k-standard-1gpu.mp4",
      "label": "早期引擎 · 标准档（单卡）· 2K 横屏 · 15 秒",
-     "code": null
+     "code": "早期引擎 · 标准档"
     },
     {
-     "file": null,
+     "file": "early-2k-standard-7gpu.mp4",
      "label": "早期引擎 · 标准档 · 7 卡 · 2K 横屏 · 15 秒",
-     "code": null
+     "code": "早期引擎 · 标准档"
     }
    ],
-   "files": []
+   "files": [
+    "early-2k-standard-1gpu.mp4",
+    "early-2k-standard-7gpu.mp4"
+   ]
   },
   {
    "theme": "调度与多卡",
@@ -1080,17 +1083,17 @@
    "question": "9 张参考图的 2K 请求下早期引擎与 MiniMax 官方 API 的对照。",
    "variable": "生成方；同一提示词与 9 张参考图",
    "note": "官方 API 的输出由第三方生成，仅供对照。",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
-     "file": null,
+     "file": "early-2k-standard-1gpu.mp4",
      "label": "早期引擎 · 标准档（单卡）· 2K 横屏 · 15 秒",
-     "code": null
+     "code": "早期引擎 · 标准档"
     },
     {
-     "file": null,
+     "file": "early-2k-standard-7gpu.mp4",
      "label": "早期引擎 · 标准档 · 7 卡 · 2K 横屏 · 15 秒",
-     "code": null
+     "code": "早期引擎 · 标准档"
     },
     {
      "file": "thirdparty-minimax-api-2k-landscape-2.mp4",
@@ -1099,6 +1102,8 @@
     }
    ],
    "files": [
+    "early-2k-standard-1gpu.mp4",
+    "early-2k-standard-7gpu.mp4",
     "thirdparty-minimax-api-2k-landscape-2.mp4"
    ]
   },
@@ -1108,7 +1113,7 @@
    "question": "同一工作流、同一输入与种子，原镜像两次运行与 kLLM 的输出是否一致。",
    "variable": "运行环境；种子为工作流内置值",
    "note": "",
-   "status": "partial",
+   "status": "live",
    "items": [
     {
      "file": "parity-original-a05-landscape-run1.mp4",
@@ -1121,14 +1126,15 @@
      "code": "A05"
     },
     {
-     "file": null,
+     "file": "parity-kllm-a05-landscape.mp4",
      "label": "A05 · 768p 横屏 · 15 秒 · 与原镜像一比一对照",
-     "code": null
+     "code": "A05"
     }
    ],
    "files": [
     "parity-original-a05-landscape-run1.mp4",
-    "parity-original-a05-landscape-run2.mp4"
+    "parity-original-a05-landscape-run2.mp4",
+    "parity-kllm-a05-landscape.mp4"
    ]
   },
   {
@@ -1137,7 +1143,7 @@
    "question": "同一工作流、同一输入与种子，原镜像与 kLLM 的输出是否一致。",
    "variable": "运行环境；种子为工作流内置值",
    "note": "",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
      "file": "parity-original-a05-portrait-run1.mp4",
@@ -1145,13 +1151,14 @@
      "code": "A05"
     },
     {
-     "file": null,
+     "file": "parity-kllm-a05-portrait.mp4",
      "label": "A05 · 768p 竖屏 · 15 秒 · 与原镜像一比一对照",
-     "code": null
+     "code": "A05"
     }
    ],
    "files": [
-    "parity-original-a05-portrait-run1.mp4"
+    "parity-original-a05-portrait-run1.mp4",
+    "parity-kllm-a05-portrait.mp4"
    ]
   },
   {
