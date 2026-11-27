@@ -2,7 +2,7 @@
  "schema": 1,
  "description": "kLLM 样例视频清单：每个文件的发布位置、SHA-256 与公开元数据。耗时单位为秒，显存与主机内存峰值单位为 GiB。",
  "repository": "ANetResearch/ANet-Entertainment",
- "generated": "2026-11-27 17:37 UTC",
+ "generated": "2026-11-27 18:06 UTC",
  "releases": {
   "kllm-samples": {
    "name": "kLLM 样例视频",
@@ -1166,6 +1166,30 @@
    "title": "B15 · 768p 竖屏 · 15 秒 · 种子 42",
    "note": "",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b15-portrait-s42-01.mp4"
+  },
+  {
+   "file": "rc4-b16-landscape-s42-01.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "94071b7b5b216fbc986f7ba2ef77bcc61301455d1ed011baef4b4e7a9a6e620f",
+   "bytes": 37807240,
+   "set": "rc4",
+   "series": "B",
+   "group": "B16",
+   "code": "B16",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 42,
+   "wall_s": 565.7,
+   "gpu_peak_gib": 23.9,
+   "host_peak_gib": 60.0,
+   "title": "B16 · 768p 横屏 · 15 秒 · 种子 42",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b16-landscape-s42-01.mp4"
   },
   {
    "file": "rc4-b16-portrait-s42-01.mp4",

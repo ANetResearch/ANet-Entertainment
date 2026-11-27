@@ -391,6 +391,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
+| [B16 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b16-landscape-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 9 分 26 秒 | 23.9 GiB | 60.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B16 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b16-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 41 秒 | 26.2 GiB | 60.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B16 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b16-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 9 分 49 秒 | 28.3 GiB | 46.3 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B16 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b16-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 9 分 25 秒 | 23.9 GiB | 46.1 GiB | NVIDIA RTX 4080 SUPER 32 GB |
