@@ -52,6 +52,8 @@
 | [A05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 11 分 26 秒 | 28.2 GiB | 60.0 GiB | NVIDIA RTX 4080 32 GB |
 | [A05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-02.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 50 秒 | 30.6 GiB | 54.1 GiB | NVIDIA RTX 4080 32 GB |
 | [A05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-03.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 37 秒 | 30.6 GiB | 55.4 GiB | NVIDIA RTX 4080 32 GB |
+| [A05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-04.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 37 秒 | 30.6 GiB | 54.9 GiB | NVIDIA RTX 4080 32 GB |
+| [A05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-05.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 9 分 37 秒 | 30.6 GiB | 52.1 GiB | NVIDIA RTX 4080 32 GB |
 | [A05 · 原生 1080p 竖屏 · 15 秒 · 种子 20261126 · 新编码](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/prerc4-a05-1080p-enc2-portrait-s20261126.mp4) | 下一版本多轮测试（2026-11-26） | 1088×1920 | 15.08 秒 | 22 分 28 秒 | 24.4 GiB | 57.1 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 原生 1080p 竖屏 · 15 秒 · 种子 42 · 新编码](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/prerc4-a05-1080p-enc2-portrait-s42.mp4) | 下一版本多轮测试（2026-11-26） | 1088×1920 | 15.08 秒 | 22 分 31 秒 | 24.4 GiB | 55.6 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 原生 1080p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/prerc4-a05-1080p-landscape-s42.mp4) | 下一版本多轮测试（2026-11-26） | 1920×1088 | 15.08 秒 | 22 分 31 秒 | 24.4 GiB | 55.2 GiB | NVIDIA RTX 4080 SUPER 32 GB |
@@ -67,6 +69,7 @@
 | [A05 · 768p 横屏 · 15 秒](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-a05-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 8 分 49 秒 | 30.6 GiB | 48.3 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 768p 竖屏 · 15 秒](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-a05-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 8 分 40 秒 | 30.6 GiB | 47.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 480p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-a05-480p-landscape.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 864×480 | 15.08 秒 | 3 分 28 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
+| [A05 · 480p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-a05-480p-portrait.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 480×864 | 15.08 秒 | 3 分 48 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-a05-768p-landscape.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 1344×768 | 15.08 秒 | 8 分 43 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 768p 横屏 · 5 秒 · 种子 42 · 精简 JSON 请求，2 张参考图、1 段音频](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-a05-768p-landscape-5s-compact-few.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 5.17 秒 | — | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [A05 · 768p 横屏 · 5 秒 · 种子 42 · 精简 JSON 请求，参考素材为 https 地址](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-a05-768p-landscape-5s-compact-https.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 5.17 秒 | — | — | — | NVIDIA RTX 4080 SUPER 32 GB |
@@ -153,6 +156,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
 | [B05 · 768p 横屏 · 15 秒 · 种子 42 · 对照运行](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b05-control-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 16 分 34 秒 | 29.3 GiB | 45.4 GiB | NVIDIA RTX 4080 SUPER 32 GB |
+| [B05 · 768p 竖屏 · 15 秒 · 种子 42 · 对照运行](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b05-control-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 13 分 22 秒 | 23.9 GiB | 46.1 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B05 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b05-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 15 分 43 秒 | 29.3 GiB | 46.2 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B05 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b05-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 13 分 10 秒 | 23.9 GiB | 46.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
@@ -184,25 +188,34 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 增强工作流：动作戏，徒手打斗。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B09 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b09-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 14 分 22 秒 | 29.3 GiB | 45.5 GiB | NVIDIA RTX 4080 SUPER 32 GB |
+| [B09 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b09-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 10 分 19 秒 | 23.9 GiB | 46.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B10
 
 增强工作流：动作戏，武术动作。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B10 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b10-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 12 分 34 秒 | 29.3 GiB | 45.5 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B11
 
 增强工作流：动作戏，动作节奏与冲击感。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B11 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b11-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 11 分 01 秒 | 23.9 GiB | 46.2 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B12
 
 增强工作流：人物动作、镜头运动与口型。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B12 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b12-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 9 分 28 秒 | 23.9 GiB | 47.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B13
 
@@ -217,7 +230,10 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 增强工作流：高速，细节增强。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B14 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b14-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 13 分 55 秒 | 29.3 GiB | 45.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
+| [B14 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b14-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 9 分 22 秒 | 23.9 GiB | 46.8 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B15
 
@@ -235,7 +251,9 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 增强工作流：高速，稳定加速。
 
-暂无已发布样例。
+| 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
+|---|---|---|---|---|---|---|---|
+| [B17 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b17-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 9 分 31 秒 | 23.9 GiB | 46.3 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 
 ### B55
 
@@ -244,6 +262,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
 | [B55 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc3-b55-landscape-s42.mp4) | B55 与原镜像对照（0.2.9-rc.3） | 1344×768 | 15.08 秒 | 25 分 56 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
+| [B55 · 768p 横屏 · 15 秒 · 种子 262347795642618](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc3-b55-landscape-seed2.mp4) | B55 与原镜像对照（0.2.9-rc.3） | 1344×768 | 15.08 秒 | 30 分 59 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [B55 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc3-b55-portrait-s42.mp4) | B55 与原镜像对照（0.2.9-rc.3） | 768×1344 | 15.08 秒 | 26 分 46 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [B55 · 768p 竖屏 · 15 秒 · 种子 262347795642618](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc3-b55-portrait-seed2.mp4) | B55 与原镜像对照（0.2.9-rc.3） | 768×1344 | 15.08 秒 | 27 分 53 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 
@@ -264,6 +283,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
+| [B60 · 768p 横屏 · 15 秒 · 种子 20261126](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b60-landscape-s20261126-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 12 分 41 秒 | 24.0 GiB | 59.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B60 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b60-landscape-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 12 分 41 秒 | 24.0 GiB | 60.1 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B60 · 768p 竖屏 · 15 秒 · 种子 20261126](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b60-portrait-s20261126-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 12 分 36 秒 | 24.0 GiB | 59.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [B60 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b60-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 15 分 11 秒 | 29.3 GiB | 60.1 GiB | NVIDIA RTX 4080 SUPER 32 GB |
@@ -363,13 +383,18 @@ MiniMax H3 官方参考生成视频工作流，INT8 权重。
 
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
+| [官方 INT8 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-int8-official-landscape.mp4) | 全方案样例（0.2.9-rc.2） | 1344×768 | 15.08 秒 | 15 分 10 秒 | 24.4 GiB | 49.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
+| [官方 INT8 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-int8-official-portrait.mp4) | 全方案样例（0.2.9-rc.2） | 768×1344 | 15.08 秒 | 14 分 25 秒 | 23.2 GiB | 48.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 480p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-int8-official-480p-landscape.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 864×480 | 15.08 秒 | 4 分 40 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 480p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-int8-official-480p-portrait.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 480×864 | 15.08 秒 | 4 分 55 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 720p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-int8-official-720p-landscape.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 1280×736 | 15.08 秒 | 12 分 44 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
+| [官方 INT8 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-int8-official-768p-landscape.mp4) | 15 秒交付矩阵（0.2.9-rc.1.1，2026-11-22） | 1344×768 | 15.08 秒 | 14 分 30 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 480p 横屏 · 5 秒 · 种子 42 · 复核运行](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-int8-official-480p-landscape-5s-check.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 864×480 | 5.17 秒 | — | — | — | NVIDIA RTX 4080 SUPER 32 GB |
+| [官方 INT8 · 768p 横屏 · 15 秒 · 种子 42 · 重跑，热态](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-int8-official-768p-landscape-15s-rerun.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 15.08 秒 | 14 分 27 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 768p 横屏 · 5 秒 · 种子 42 · 精简 JSON 请求，2 张参考图、1 段音频](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-int8-official-768p-landscape-5s-compact-few.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 5.17 秒 | — | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 768p 横屏 · 5 秒 · 种子 42 · 精简 JSON 请求](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-int8-official-768p-landscape-5s-compact.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 5.17 秒 | — | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 | [官方 INT8 · 768p 横屏 · 5 秒 · 种子 42 · 调用说明样例，含 51.5 秒档位切换](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc13-int8-official-768p-landscape-5s-sample.mp4) | 接口与交付检查（0.2.9-rc.1.3） | 1344×768 | 5.17 秒 | 5 分 47 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
+| [官方 INT8 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/v028-int8-official-768p-landscape.mp4) | 0.2.8 调用样例 | 1344×768 | 15.08 秒 | 14 分 32 秒 | — | — | NVIDIA RTX 4080 SUPER 32 GB |
 
 ## 参照输出与早期实测
 

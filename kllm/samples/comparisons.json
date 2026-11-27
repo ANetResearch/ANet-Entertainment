@@ -18,6 +18,14 @@
    ]
   },
   {
+   "title": "官方 INT8：原镜像与 kLLM",
+   "note": "768p 横屏 15 秒，种子 42。",
+   "files": [
+    "rc11-original-int8-official-768p-landscape-warm.mp4",
+    "rc11-int8-official-768p-landscape.mp4"
+   ]
+  },
+  {
    "title": "原镜像 A05、B55 与 B02 · 竖屏",
    "note": "同一用例、种子 42。",
    "files": [
@@ -100,6 +108,33 @@
     "a40x8-sglang-baseline-case1.mp4",
     "a40x8-lowlat2-case1.mp4",
     "a40x8-lowlat2-quality-case1.mp4"
+   ]
+  },
+  {
+   "title": "早期引擎与 MiniMax 官方 API · 768p",
+   "note": "官方模板用例，768p 横屏 15 秒；官方 API 的输出由第三方生成，仅供对照。",
+   "files": [
+    "early-768p-standard-1gpu.mp4",
+    "early-768p-standard-4gpu.mp4",
+    "thirdparty-minimax-api-768p-landscape.mp4"
+   ]
+  },
+  {
+   "title": "调度：同一请求在三种策略下 · 请求 11",
+   "note": "同一请求、同一到达时间，由不同调度策略分发到不同实例。",
+   "files": [
+    "router7-scheduler-req11.mp4",
+    "router7-shortest-queue-req11.mp4",
+    "router7-fifo-req11.mp4"
+   ]
+  },
+  {
+   "title": "调度：同一请求在三种策略下 · 请求 36",
+   "note": "同一请求、同一到达时间，由不同调度策略分发到不同实例。",
+   "files": [
+    "router7-scheduler-req36.mp4",
+    "router7-shortest-queue-req36.mp4",
+    "router7-fifo-req36.mp4"
    ]
   }
  ]
