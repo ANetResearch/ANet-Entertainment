@@ -15,7 +15,7 @@ kLLM 是 ANet Research 研发的大模型推理引擎，以单个可执行程序
 
 | 位置 | 内容 |
 |---|---|
-| [发布 `kllm-samples`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-samples) | 既有测试报告中的样例：全方案样例、15 秒交付矩阵、A05 一比一对照、B55 对照、下一版本多轮测试、部署实测、早期引擎与多卡实测 |
+| [发布 `kllm-samples`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-samples) | 既有测试报告中的样例：全方案样例、15 秒交付矩阵、A05 一比一对照、B55 对照、下一版本多轮测试、部署实测、早期引擎与多卡实测、多实例调度实测，以及第三方接口的对照输出 |
 | [发布 `kllm-rc4-runs`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-rc4-runs) | 0.2.9-rc.4 开发构建的全部实测出片，随测试进行持续追加 |
 | [对照页面](https://anetresearch.github.io/ANet-Entertainment/) | 按系列与方案浏览，两到四个样例同步并排播放，以及全部样例的数据表；页面内容已加密，需访问密钥 |
 | [`kllm/samples/manifest.json`](kllm/samples/manifest.json) | 全部样例文件的清单：发布位置、SHA-256、方案编号、画幅、种子、分辨率、时长、大小、实测耗时、显存峰值与 GPU 型号 |
@@ -30,7 +30,7 @@ kLLM 是 ANet Research 研发的大模型推理引擎，以单个可执行程序
 | 字段 | 含义 |
 |---|---|
 | `set` | 样例集，例如 `rc4`（0.2.9-rc.4 实测出片）、`wp-rc2`（0.2.9-rc.2 全方案样例）、`parity`（A05 一比一对照） |
-| `series` | 系列：`A`、`B`、`H`；`O` 为官方工作流，`R` 为参照输出（原镜像 ComfyUI 环境、原样部署或开源框架基线），`X` 为早期引擎与部署实测 |
+| `series` | 系列：`A`、`B`、`H`；`O` 为官方工作流，`R` 为参照输出（原镜像 ComfyUI 环境、原样部署、开源框架基线，或 MiniMax 官方 API 等第三方接口的输出，后者由第三方生成，仅供对照），`X` 为早期引擎、多实例调度与部署实测 |
 | `code`、`group` | 方案编号（例如 `A05`、`B59`、`H06`），或参照输出与早期实测的分组名称 |
 | `width`、`height`、`duration_s`、`bytes` | 输出分辨率、时长（秒）与文件大小（字节） |
 | `wall_s` | 实测耗时（秒）：提交请求到取回成片的端到端时间，个别样例集为单条时延或多次实测均值，见该样例集的说明 |

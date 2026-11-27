@@ -14,7 +14,7 @@
 
 | 发布 | 内容 |
 |---|---|
-| [`kllm-samples`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-samples) | 既有测试报告中的样例，原样文件 |
+| [`kllm-samples`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-samples) | 既有测试报告中的样例，原样文件；其中第三方接口（MiniMax 官方 API 等）的输出由第三方生成，仅供对照 |
 | [`kllm-rc4-runs`](https://github.com/ANetResearch/ANet-Entertainment/releases/tag/kllm-rc4-runs) | 0.2.9-rc.4 开发构建的全部实测出片，持续追加 |
 
 后续版本的实测出片以新的发布追加，命名方式相同（例如 `kllm-rc5-runs`），并登记在同一份清单中。
