@@ -231,11 +231,11 @@
    "question": "原生 2K 与 768p 生成后 2 倍超分的画面与耗时。",
    "variable": "高分辨率的实现方式；rc.4 开发构建，种子 42",
    "note": "",
-   "status": "pending",
+   "status": "live",
    "items": [
     {
-     "file": null,
-     "label": "A58 · 原生 2K 横屏 · 种子 42",
+     "file": "rc4-a58-landscape-s42-02.mp4",
+     "label": "A58 · 1440p 横屏 · 15 秒 · 种子 42",
      "code": "A58"
     },
     {
@@ -245,6 +245,7 @@
     }
    ],
    "files": [
+    "rc4-a58-landscape-s42-02.mp4",
     "rc4-a59-landscape-s42-02.mp4"
    ]
   },
