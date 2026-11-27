@@ -21,6 +21,7 @@ MOSS 沉默之后，一群小人物用回收的旧机器搭起一张不属于任
 | `episodes/epNN/prompts/` | 每条视频实际提交的完整提示词、随机种子和输入图列表 |
 | `episodes/epNN/script.json` | 该集分镜脚本副本 |
 | `episodes/epNN/audio_qc.json` | 自动试听结果：听到的对白、是否疑似有配乐、标记 |
+| `compare/zm_u24/` | 两个 H3 工作流的同输入清晰度对比（6 个镜头，含并排视频和指标），见其中的 `README.md` |
 | `tools/` | 生成流水线脚本（`config.example.json` 填入自己的密钥后改名为 `config.json`） |
 
 ## 短片《未熄》
