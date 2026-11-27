@@ -2,7 +2,7 @@
  "schema": 1,
  "description": "kLLM 样例视频清单：每个文件的发布位置、SHA-256 与公开元数据。耗时单位为秒，显存与主机内存峰值单位为 GiB。",
  "repository": "ANetResearch/ANet-Entertainment",
- "generated": "2026-11-27 22:36 UTC",
+ "generated": "2026-11-27 23:45 UTC",
  "releases": {
   "kllm-samples": {
    "name": "kLLM 样例视频",
@@ -258,7 +258,7 @@
    "description": "增强工作流：全精度底模，高速。",
    "components": [
     "BF16 原始底模",
-    "加速 LoRA",
+    "加速 LoRA（lightx2v）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -269,7 +269,7 @@
    "description": "增强工作流：全精度底模，高速，参考优先。",
    "components": [
     "BF16 原始底模（参考生视频版）",
-    "加速 LoRA",
+    "加速 LoRA（lightx2v）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -376,7 +376,7 @@
    "description": "增强工作流：高速，细节增强。",
    "components": [
     "BF16 原始底模",
-    "加速 LoRA",
+    "加速 LoRA（Flex）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -387,7 +387,7 @@
    "description": "增强工作流：高速，精简加速。",
    "components": [
     "BF16 原始底模",
-    "加速 LoRA",
+    "加速 LoRA（lightx2v）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -410,7 +410,7 @@
    "description": "增强工作流：高速，稳定加速。",
    "components": [
     "BF16 原始底模",
-    "加速 LoRA",
+    "加速 LoRA（HyperFlow）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -469,7 +469,7 @@
    "description": "混合权重底模，高速；流程与 B04 相同。",
    "components": [
     "混合权重底模（BF16）",
-    "加速 LoRA",
+    "加速 LoRA（lightx2v）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -480,7 +480,7 @@
    "description": "混合权重底模，高速，参考优先；流程与 B05 相同。",
    "components": [
     "混合权重底模（BF16）",
-    "加速 LoRA",
+    "加速 LoRA（lightx2v）",
     "Sol 稀疏注意力",
     "两遍生成（潜空间放大）",
     "480p、768p、960p"
@@ -565,7 +565,7 @@
    ]
   }
  },
- "components_note": "组件按 kLLM 0.2.9 中各方案的配置列出，不含采样参数。底模注明“参考生视频版”者为 MiniMax H3 官方发布的另一种底模变体，未注明者为默认变体；混合权重以默认变体为主，部分层取自参考生视频版。加速 LoRA 为减少采样计算量的适配权重，turbo 系列单独注明；其他 LoRA 按用途列出。EasyCache 为相邻采样步之间的计算复用，只在实际生效的方案中列出。Sol 稀疏注意力为块稀疏注意力。两遍生成（潜空间放大）指先在较小画布上生成，在潜空间放大后再细化。RelayVSR ×2 超分为成片的 2 倍视频超分辨率。除注明外，文本编码器为 INT8。分辨率为方案支持的输出档位。官方工作流的加速配置随版本变化，未列出。",
+ "components_note": "组件按 kLLM 0.2.9 中各方案的配置列出，不含采样参数。底模注明“参考生视频版”者为 MiniMax H3 官方发布的另一种底模变体，未注明者为默认变体；混合权重以默认变体为主，部分层取自参考生视频版。加速 LoRA 为减少采样计算量的适配权重，括号内为其来源系列，未注明者不单列；其他 LoRA 按用途列出。EasyCache 为相邻采样步之间的计算复用，只在实际生效的方案中列出。Sol 稀疏注意力为块稀疏注意力。两遍生成（潜空间放大）指先在较小画布上生成，在潜空间放大后再细化。RelayVSR ×2 超分为成片的 2 倍视频超分辨率。除注明外，文本编码器为 INT8。分辨率为方案支持的输出档位。官方工作流的加速配置随版本变化，未列出。",
  "entries": [
   {
    "file": "rc4-a05-portrait-s20261126-01.mp4",
@@ -828,7 +828,7 @@
    "gpu_peak_gib": 26.1,
    "host_peak_gib": 53.6,
    "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
-   "note": "Sol 稀疏注意力一致性检查：确定性模式",
+   "note": "Sol 稀疏注意力一致性检查：确定性模式（三次重复运行的输出逐位相同）",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-10.mp4"
   },
   {
@@ -876,7 +876,7 @@
    "gpu_peak_gib": 26.1,
    "host_peak_gib": 54.5,
    "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
-   "note": "",
+   "note": "Sol 稀疏注意力一致性检查：默认模式，第三次运行",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-12.mp4"
   },
   {

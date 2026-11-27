@@ -622,6 +622,144 @@
    ]
   },
   {
+   "theme": "B 系列",
+   "title": "B07、B15、B16 · 竖屏",
+   "question": "B 系列三种方案在同一用例下的画面风格与耗时：电影感与动作连贯、lightx2v 加速与社区风格。",
+   "variable": "方案；rc.4 开发构建，768p 竖屏，种子 42",
+   "note": "均在 RTX 4080 SUPER 上运行。",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-b07-portrait-s42-01.mp4",
+     "label": "B07 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B07"
+    },
+    {
+     "file": "rc4-b15-portrait-s42-01.mp4",
+     "label": "B15 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B15"
+    },
+    {
+     "file": "rc4-b16-portrait-s42-01.mp4",
+     "label": "B16 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B16"
+    }
+   ],
+   "files": [
+    "rc4-b07-portrait-s42-01.mp4",
+    "rc4-b15-portrait-s42-01.mp4",
+    "rc4-b16-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B07、B15、B16 · 横屏",
+   "question": "横屏下 B 系列三种方案的画面风格与耗时。",
+   "variable": "方案；rc.4 开发构建，768p 横屏，种子 42",
+   "note": "均在 RTX 4080 SUPER 上运行。",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-b07-landscape-s42-01.mp4",
+     "label": "B07 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B07"
+    },
+    {
+     "file": "rc4-b15-landscape-s42-01.mp4",
+     "label": "B15 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B15"
+    },
+    {
+     "file": "rc4-b16-landscape-s42-01.mp4",
+     "label": "B16 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B16"
+    }
+   ],
+   "files": [
+    "rc4-b07-landscape-s42-01.mp4",
+    "rc4-b15-landscape-s42-01.mp4",
+    "rc4-b16-landscape-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B07 与 B02 · 竖屏",
+   "question": "同一底模与加速，只加电影感与动作连续性修复 LoRA 后的画面差异。",
+   "variable": "其他 LoRA；0.2.9-rc.2，768p 竖屏，种子 42，热请求",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b02-portrait.mp4",
+     "label": "B02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B02"
+    },
+    {
+     "file": "rc2-b07-portrait.mp4",
+     "label": "B07 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B07"
+    }
+   ],
+   "files": [
+    "rc2-b02-portrait.mp4",
+    "rc2-b07-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "加速 LoRA 系列 · B15、B14、B17 · 竖屏",
+   "question": "同一底模与流程，只换加速 LoRA（lightx2v、Flex、HyperFlow）的画面与耗时差异。",
+   "variable": "加速 LoRA 系列；0.2.9-rc.2，768p 竖屏，种子 42，热请求",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b15-portrait.mp4",
+     "label": "B15 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B15"
+    },
+    {
+     "file": "rc2-b14-portrait.mp4",
+     "label": "B14 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B14"
+    },
+    {
+     "file": "rc2-b17-portrait.mp4",
+     "label": "B17 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B17"
+    }
+   ],
+   "files": [
+    "rc2-b15-portrait.mp4",
+    "rc2-b14-portrait.mp4",
+    "rc2-b17-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "lightx2v 两个版本 · B04 与 B15 · 竖屏",
+   "question": "同为 lightx2v 加速 LoRA，两个版本的画面与耗时差异。",
+   "variable": "加速 LoRA 版本；0.2.9-rc.2，768p 竖屏，种子 42，热请求",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b04-portrait.mp4",
+     "label": "B04 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B04"
+    },
+    {
+     "file": "rc2-b15-portrait.mp4",
+     "label": "B15 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B15"
+    }
+   ],
+   "files": [
+    "rc2-b04-portrait.mp4",
+    "rc2-b15-portrait.mp4"
+   ]
+  },
+  {
    "theme": "H 系列",
    "title": "H02 与 B02 · 竖屏",
    "question": "同一流程只换底模：BF16 与混合权重的画面差异。",
@@ -1378,6 +1516,11 @@
      "code": "A05"
     },
     {
+     "file": "rc4-a05-portrait-s42-12.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    },
+    {
      "file": "rc4-a05-portrait-s42-10.mp4",
      "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
      "code": "A05"
@@ -1386,6 +1529,7 @@
    "files": [
     "rc4-a05-portrait-s42-11.mp4",
     "rc4-a05-portrait-s42-09.mp4",
+    "rc4-a05-portrait-s42-12.mp4",
     "rc4-a05-portrait-s42-10.mp4"
    ]
   },
@@ -1441,6 +1585,54 @@
    "files": [
     "rc11-original-a05-768p-landscape-first.mp4",
     "rc4-b54-landscape-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "A58 原生 1080p 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）；rc.4 开发构建，RTX 4080",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-a58-portrait-s42-01.mp4",
+     "label": "A58 · 1088p 竖屏 · 15 秒 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": "rc4-a58-portrait-s20261126-01.mp4",
+     "label": "A58 · 1088p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "A58"
+    }
+   ],
+   "files": [
+    "rc4-a58-portrait-s42-01.mp4",
+    "rc4-a58-portrait-s20261126-01.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "A58 原生 2K 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）；rc.4 开发构建，RTX 4080",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-a58-portrait-s42-02.mp4",
+     "label": "A58 · 1440p 竖屏 · 15 秒 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": "rc4-a58-portrait-s20261126-02.mp4",
+     "label": "A58 · 1440p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "A58"
+    }
+   ],
+   "files": [
+    "rc4-a58-portrait-s42-02.mp4",
+    "rc4-a58-portrait-s20261126-02.mp4"
    ]
   }
  ]
