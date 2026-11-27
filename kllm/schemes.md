@@ -556,6 +556,7 @@ A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）�
 
 | 样例 | 样例集 | 分辨率 | 时长 | 耗时 | 显存峰值 | 主机内存峰值 | GPU |
 |---|---|---|---|---|---|---|---|
+| [H55 · 768p 横屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h55-landscape-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 1344×768 | 15.08 秒 | 22 分 56 秒 | 27.2 GiB | 57.7 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [H55 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h55-portrait-s42-01.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 28 分 30 秒 | 27.2 GiB | 60.7 GiB | NVIDIA RTX 4080 32 GB |
 | [H55 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h55-portrait-s42-02.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 27 分 16 秒 | 27.2 GiB | 60.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
 | [H55 · 768p 竖屏 · 15 秒 · 种子 42](https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-h55-portrait-s42-03.mp4) | 0.2.9-rc.4 实测出片 | 768×1344 | 15.08 秒 | 26 分 01 秒 | 27.2 GiB | 59.0 GiB | NVIDIA RTX 4080 SUPER 32 GB |
