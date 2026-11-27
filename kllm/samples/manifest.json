@@ -2,7 +2,7 @@
  "schema": 1,
  "description": "kLLM 样例视频清单：每个文件的发布位置、SHA-256 与公开元数据。耗时单位为秒，显存与主机内存峰值单位为 GiB。",
  "repository": "ANetResearch/ANet-Entertainment",
- "generated": "2026-11-27 15:07 UTC",
+ "generated": "2026-11-27 15:17 UTC",
  "releases": {
   "kllm-samples": {
    "name": "kLLM 样例视频",
@@ -120,23 +120,63 @@
  "schemes": {
   "A01": {
    "series": "A",
-   "description": "社区工作流：多图多音参考，兼顾动作与对白。"
+   "description": "社区工作流：多图多音参考，兼顾动作与对白。",
+   "components": [
+    "混合权重底模（INT8）",
+    "加速 LoRA",
+    "其他 LoRA（打斗动作、动作连续性修复、电影质感）",
+    "两遍生成（同分辨率）",
+    "NVFP4 文本编码器",
+    "480p、768p"
+   ]
   },
   "A02": {
    "series": "A",
-   "description": "社区工作流：多图多音参考。"
+   "description": "社区工作流：多图多音参考。",
+   "components": [
+    "INT8 剪枝底模（参考生视频版）",
+    "加速 LoRA",
+    "EasyCache",
+    "单遍生成",
+    "NVFP4 文本编码器",
+    "480p、768p"
+   ]
   },
   "A03": {
    "series": "A",
-   "description": "社区工作流：多图参考，不接受音频输入。"
+   "description": "社区工作流：多图参考，不接受音频输入。",
+   "components": [
+    "INT8 剪枝底模（参考生视频版）",
+    "加速 LoRA",
+    "EasyCache",
+    "单遍生成",
+    "NVFP4 文本编码器",
+    "480p、768p"
+   ]
   },
   "A04": {
    "series": "A",
-   "description": "社区工作流：多图多音参考，高速。"
+   "description": "社区工作流：多图多音参考，高速。",
+   "components": [
+    "INT8 剪枝底模（参考生视频版，社区微调）",
+    "加速 LoRA",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "A05": {
    "series": "A",
-   "description": "社区工作流：多图多音参考，高速；A 系列高清与超分方案均以其链路为基础。"
+   "description": "社区工作流：多图多音参考，高速；A 系列高清与超分方案均以其链路为基础。",
+   "components": [
+    "INT8 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "A57": {
    "series": "A",
@@ -144,138 +184,413 @@
   },
   "A58": {
    "series": "A",
-   "description": "A05 链路的原生高清：1080p（输出 1088×1920 或 1920×1088）与 2K（输出 1440×2560 或 2560×1440）。"
+   "description": "A05 链路的原生高清：1080p（输出 1088×1920 或 1920×1088）与 2K（输出 1440×2560 或 2560×1440）。",
+   "components": [
+    "INT8 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "1080p、2K"
+   ]
   },
   "A59": {
    "series": "A",
-   "description": "A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）。"
+   "description": "A05 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）。",
+   "components": [
+    "INT8 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "RelayVSR ×2 超分",
+    "输出 1536p（由 768p 超分）"
+   ]
   },
   "B00": {
    "series": "B",
-   "description": "官方 BF16 工作流的编号版本，按统一请求调用。"
+   "description": "官方 BF16 工作流的编号版本，按统一请求调用。",
+   "components": [
+    "BF16 原始底模（参考生视频版）",
+    "不使用 LoRA",
+    "单遍生成",
+    "480p、768p"
+   ]
   },
   "B01": {
    "series": "B",
-   "description": "增强工作流：全精度底模，标准加速。"
+   "description": "增强工作流：全精度底模，标准加速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B02": {
    "series": "B",
-   "description": "增强工作流：全精度底模，完整加速适配。"
+   "description": "增强工作流：全精度底模，完整加速适配。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo 完整版）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B03": {
    "series": "B",
-   "description": "增强工作流：全精度底模，完整加速适配，参考优先。"
+   "description": "增强工作流：全精度底模，完整加速适配，参考优先。",
+   "components": [
+    "BF16 原始底模（参考生视频版）",
+    "加速 LoRA（turbo 完整版）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B04": {
    "series": "B",
-   "description": "增强工作流：全精度底模，高速。"
+   "description": "增强工作流：全精度底模，高速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B05": {
    "series": "B",
-   "description": "增强工作流：全精度底模，高速，参考优先。"
+   "description": "增强工作流：全精度底模，高速，参考优先。",
+   "components": [
+    "BF16 原始底模（参考生视频版）",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B06": {
    "series": "B",
-   "description": "增强工作流：全精度底模，快速。"
+   "description": "增强工作流：全精度底模，快速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo 完整版）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B07": {
    "series": "B",
-   "description": "增强工作流：电影感与动作连贯。"
+   "description": "增强工作流：电影感与动作连贯。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo 完整版）",
+    "其他 LoRA（电影感、动作连续性修复）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B08": {
    "series": "B",
-   "description": "增强工作流：电影感，高速。"
+   "description": "增强工作流：电影感，高速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo 与另一种）",
+    "其他 LoRA（电影感、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B09": {
    "series": "B",
-   "description": "增强工作流：动作戏，徒手打斗。"
+   "description": "增强工作流：动作戏，徒手打斗。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（徒手打斗、打斗动作、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B10": {
    "series": "B",
-   "description": "增强工作流：动作戏，武术动作。"
+   "description": "增强工作流：动作戏，武术动作。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（武术动作、打斗动作、动作连续性修复、武术空间物理）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B11": {
    "series": "B",
-   "description": "增强工作流：动作戏，动作节奏与冲击感。"
+   "description": "增强工作流：动作戏，动作节奏与冲击感。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（动作与打斗推理、兵器速度、冲击反馈、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B12": {
    "series": "B",
-   "description": "增强工作流：人物动作、镜头运动与口型。"
+   "description": "增强工作流：人物动作、镜头运动与口型。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（动作增强、镜头运动、面部表情与口型、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B13": {
    "series": "B",
-   "description": "增强工作流：写实人物与电影质感。"
+   "description": "增强工作流：写实人物与电影质感。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（写实人物、写实度调节、电影感、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B14": {
    "series": "B",
-   "description": "增强工作流：高速，细节增强。"
+   "description": "增强工作流：高速，细节增强。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B15": {
    "series": "B",
-   "description": "增强工作流：高速，精简加速。"
+   "description": "增强工作流：高速，精简加速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B16": {
    "series": "B",
-   "description": "增强工作流：社区热门风格。"
+   "description": "增强工作流：社区热门风格。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA（turbo）",
+    "其他 LoRA（社区风格）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B17": {
    "series": "B",
-   "description": "增强工作流：高速，稳定加速。"
+   "description": "增强工作流：高速，稳定加速。",
+   "components": [
+    "BF16 原始底模",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "B55": {
    "series": "B",
-   "description": "原始 BF16 底模，不加速，作为全精度参照。"
+   "description": "原始 BF16 底模，不加速，作为全精度参照。",
+   "components": [
+    "BF16 原始底模",
+    "不使用 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "BF16 文本编码器",
+    "480p、768p、960p"
+   ]
   },
   "B59": {
    "series": "B",
-   "description": "剪枝 BF16 底模，采用 A05 同款链路（加速、缓存与两遍生成）。"
+   "description": "剪枝 BF16 底模，采用 A05 同款链路（加速、缓存与两遍生成）。",
+   "components": [
+    "BF16 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "768p"
+   ]
   },
   "B60": {
    "series": "B",
-   "description": "剪枝 BF16 底模，B59 去掉加速的参照配置。"
+   "description": "剪枝 BF16 底模，B59 去掉加速的参照配置。",
+   "components": [
+    "BF16 剪枝底模",
+    "不使用 LoRA",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "768p"
+   ]
   },
   "H02": {
    "series": "H",
-   "description": "混合权重底模，完整加速适配；流程与 B02 相同。"
+   "description": "混合权重底模，完整加速适配；流程与 B02 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "加速 LoRA（turbo 完整版）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "H04": {
    "series": "H",
-   "description": "混合权重底模，高速；流程与 B04 相同。"
+   "description": "混合权重底模，高速；流程与 B04 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "H05": {
    "series": "H",
-   "description": "混合权重底模，高速，参考优先；流程与 B05 相同。"
+   "description": "混合权重底模，高速，参考优先；流程与 B05 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "加速 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "H06": {
    "series": "H",
-   "description": "混合权重底模，快速；流程与 B06 相同。"
+   "description": "混合权重底模，快速；流程与 B06 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "加速 LoRA（turbo 完整版）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "H08": {
    "series": "H",
-   "description": "混合权重底模，电影感，高速；流程与 B08 相同。"
+   "description": "混合权重底模，电影感，高速；流程与 B08 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "加速 LoRA（turbo 与另一种）",
+    "其他 LoRA（电影感、动作连续性修复）",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   },
   "H55": {
    "series": "H",
-   "description": "混合权重底模，不加速；流程与 B55 相同。"
+   "description": "混合权重底模，不加速；流程与 B55 相同。",
+   "components": [
+    "混合权重底模（BF16）",
+    "不使用 LoRA",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "BF16 文本编码器",
+    "480p、768p、960p"
+   ]
   },
   "官方 INT8": {
    "series": "O",
-   "description": "MiniMax H3 官方参考生成视频工作流，INT8 权重。"
+   "description": "MiniMax H3 官方参考生成视频工作流，INT8 权重。",
+   "components": [
+    "INT8 底模（参考生视频版）",
+    "不使用 LoRA",
+    "单遍生成"
+   ]
   },
   "官方 BF16": {
    "series": "O",
-   "description": "MiniMax H3 官方参考生成视频工作流，BF16 全精度权重。"
+   "description": "MiniMax H3 官方参考生成视频工作流，BF16 全精度权重。",
+   "components": [
+    "BF16 原始底模（参考生视频版）",
+    "不使用 LoRA",
+    "单遍生成"
+   ]
   },
   "B61": {
    "series": "B",
-   "description": "剪枝 BF16 底模，B59 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）。"
+   "description": "剪枝 BF16 底模，B59 生成 768p 后做 2 倍超分辨率（输出 1536×2688 或 2688×1536）。",
+   "components": [
+    "BF16 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "RelayVSR ×2 超分",
+    "输出 1536p（由 768p 超分）"
+   ]
   },
   "B54": {
    "series": "B",
-   "description": "测试编号：原镜像 A05 链路在 kLLM 中的原样复现（剪枝 INT8 底模，加速与 EasyCache），用于检验与原镜像的一致性。"
+   "description": "测试编号：原镜像 A05 链路在 kLLM 中的原样复现（剪枝 INT8 底模，加速与 EasyCache），用于检验与原镜像的一致性。",
+   "components": [
+    "INT8 剪枝底模",
+    "加速 LoRA（turbo）",
+    "EasyCache",
+    "Sol 稀疏注意力",
+    "两遍生成（潜空间放大）",
+    "480p、768p、960p"
+   ]
   }
  },
+ "components_note": "组件按 kLLM 0.2.9 中各方案的配置列出，不含采样参数。底模注明“参考生视频版”者为 MiniMax H3 官方发布的另一种底模变体，未注明者为默认变体；混合权重以默认变体为主，部分层取自参考生视频版。加速 LoRA 为减少采样计算量的适配权重，turbo 系列单独注明；其他 LoRA 按用途列出。EasyCache 为相邻采样步之间的计算复用，只在实际生效的方案中列出。Sol 稀疏注意力为块稀疏注意力。两遍生成（潜空间放大）指先在较小画布上生成，在潜空间放大后再细化。RelayVSR ×2 超分为成片的 2 倍视频超分辨率。除注明外，文本编码器为 INT8。分辨率为方案支持的输出档位。官方工作流的加速配置随版本变化，未列出。",
  "entries": [
+  {
+   "file": "rc4-a05-portrait-s20261126-01.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "f921eff368e0d6257dac32a650b4eef5d0294215ed89e5f10db3e62da9de696e",
+   "bytes": 66551279,
+   "set": "rc4",
+   "series": "A",
+   "group": "A05",
+   "code": "A05",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "portrait",
+   "width": 960,
+   "height": 1728,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 20261126,
+   "wall_s": 943.1,
+   "gpu_peak_gib": 28.6,
+   "host_peak_gib": 55.8,
+   "title": "A05 · 960p 竖屏 · 15 秒 · 种子 20261126",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s20261126-01.mp4"
+  },
   {
    "file": "rc4-a05-portrait-s42-01.mp4",
    "release": "kllm-rc4-runs",
@@ -469,6 +784,54 @@
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-08.mp4"
   },
   {
+   "file": "rc4-a05-portrait-s42-09.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "90df7e51c39418a1ae9b565f01b81c818391008f556dbb309a51ff0f1e9e92b0",
+   "bytes": 39822725,
+   "set": "rc4",
+   "series": "A",
+   "group": "A05",
+   "code": "A05",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "portrait",
+   "width": 768,
+   "height": 1344,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 42,
+   "wall_s": 510.8,
+   "gpu_peak_gib": 26.1,
+   "host_peak_gib": 51.6,
+   "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-09.mp4"
+  },
+  {
+   "file": "rc4-a05-portrait-s42-10.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "09bfca0242ddd6062111be39d3a38edd1045af1f670a8ebba2576c6da2714947",
+   "bytes": 39299935,
+   "set": "rc4",
+   "series": "A",
+   "group": "A05",
+   "code": "A05",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "portrait",
+   "width": 768,
+   "height": 1344,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 42,
+   "wall_s": 525.9,
+   "gpu_peak_gib": 26.1,
+   "host_peak_gib": 53.6,
+   "title": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-a05-portrait-s42-10.mp4"
+  },
+  {
    "file": "rc4-a59-landscape-s42-01.mp4",
    "release": "kllm-rc4-runs",
    "sha256": "a70e134349196f577ece33c6c7ee2b00991772d0c83d893316a760ac8052ff3d",
@@ -611,6 +974,30 @@
    "title": "B04 · 768p 竖屏 · 5 秒 · 种子 42",
    "note": "接口检查：模拟 ComfyUI 的工作流图调用，5 秒",
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b04-portrait-s42-01.mp4"
+  },
+  {
+   "file": "rc4-b54-landscape-s42-01.mp4",
+   "release": "kllm-rc4-runs",
+   "sha256": "43e78211aa4d039c8fb2feedb784b68aa77398b49ef43038b444befcd7c5adf7",
+   "bytes": 29249633,
+   "set": "rc4",
+   "series": "B",
+   "group": "B54",
+   "code": "B54",
+   "engine": "kLLM 0.2.9-rc.4 开发构建",
+   "gpu": "NVIDIA RTX 4080 32 GB",
+   "orientation": "landscape",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "seed": 42,
+   "wall_s": 560.6,
+   "gpu_peak_gib": 23.2,
+   "host_peak_gib": 49.5,
+   "title": "B54 · 768p 横屏 · 15 秒 · 种子 42",
+   "note": "",
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-rc4-runs/rc4-b54-landscape-s42-01.mp4"
   },
   {
    "file": "rc4-b54-portrait-s20261126-01.mp4",
@@ -1765,6 +2152,30 @@
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc3-b55-portrait-seed2.mp4"
   },
   {
+   "sha256": "930e3cde12b52938e04e6fcfc33565958e15b16660f62b36ee2365064a7f2bca",
+   "bytes": 15414205,
+   "seed": 42,
+   "wall_s": 1072.2,
+   "gpu_peak_gib": 24.1,
+   "host_peak_gib": 46.5,
+   "note": "换方案后首个请求",
+   "code": "A01",
+   "set": "wp-rc2",
+   "series": "A",
+   "group": "A01",
+   "engine": "kLLM 0.2.9-rc.2",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "A01 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "rc2-a01-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-a01-landscape.mp4"
+  },
+  {
    "sha256": "44bb64e6cf5d8f15818d58e8fec760aa99577ad6591ebe94a612bf5f81307878",
    "bytes": 15399740,
    "seed": 42,
@@ -1979,6 +2390,30 @@
    "frames": 362,
    "duration_s": 15.083,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-a05-portrait.mp4"
+  },
+  {
+   "sha256": "b33d0271904330f0c0b9dc144587b50cc6e863e27ddbb33b8508e19aa35f6e28",
+   "bytes": 15472908,
+   "seed": 42,
+   "wall_s": 1063.1,
+   "gpu_peak_gib": 29.3,
+   "host_peak_gib": 45.5,
+   "note": "换方案后首个请求",
+   "code": "B01",
+   "set": "wp-rc2",
+   "series": "B",
+   "group": "B01",
+   "engine": "kLLM 0.2.9-rc.2",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "B01 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "rc2-b01-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b01-landscape.mp4"
   },
   {
    "sha256": "22296a2fdbf2bb1757c94728e00d64d379d534e712cb434a1a729167a3863740",
@@ -2533,6 +2968,30 @@
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b11-portrait.mp4"
   },
   {
+   "sha256": "8e3044308e942aa4179309a4252042e6943c902cd03117d08c990abc8927ff8c",
+   "bytes": 15429742,
+   "seed": 42,
+   "wall_s": 582.8,
+   "gpu_peak_gib": 28.3,
+   "host_peak_gib": 46.3,
+   "note": "换方案后首个请求",
+   "code": "B12",
+   "set": "wp-rc2",
+   "series": "B",
+   "group": "B12",
+   "engine": "kLLM 0.2.9-rc.2",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "B12 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "rc2-b12-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b12-landscape.mp4"
+  },
+  {
    "sha256": "c8e33ba19a5011f21f482b3f6130045e1ec739099ab933c771866a8e70e06723",
    "bytes": 14997642,
    "seed": 42,
@@ -2699,6 +3158,30 @@
    "frames": 362,
    "duration_s": 15.083,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b15-portrait.mp4"
+  },
+  {
+   "sha256": "c1e70df4add65e08e0bace8513d89d53194a181ee0c48877541bf564ca203691",
+   "bytes": 15446115,
+   "seed": 42,
+   "wall_s": 588.8,
+   "gpu_peak_gib": 28.3,
+   "host_peak_gib": 46.3,
+   "note": "换方案后首个请求",
+   "code": "B16",
+   "set": "wp-rc2",
+   "series": "B",
+   "group": "B16",
+   "engine": "kLLM 0.2.9-rc.2",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "B16 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "rc2-b16-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc2-b16-landscape.mp4"
   },
   {
    "sha256": "88d048f8782bfd97aaacfdca0c5a1dada5abcd65f949a9397416b480cc10614b",
@@ -2939,6 +3422,30 @@
    "frames": 362,
    "duration_s": 15.084,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/parity-original-a05-portrait-run1.mp4"
+  },
+  {
+   "sha256": "fef67df32e030db80704eb473a8c5ee7943e536ae2c24fedfbdd70ceeb4240ec",
+   "bytes": 15416585,
+   "seed": 42,
+   "wall_s": 996.1,
+   "gpu_peak_gib": null,
+   "host_peak_gib": null,
+   "note": "调用耗时：提交到取回成片",
+   "code": "A01",
+   "set": "rc11",
+   "series": "A",
+   "group": "A01",
+   "engine": "kLLM 0.2.9-rc.1.1",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "A01 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "rc11-a01-768p-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.084,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/rc11-a01-768p-landscape.mp4"
   },
   {
    "sha256": "2f1507c062eb805acac503cad0c75a496ab1fbfdc3b4174fb8f3e0a907d1a567",
@@ -4285,6 +4792,30 @@
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/test-a57-768p-landscape-warm.mp4"
   },
   {
+   "sha256": "89643cd24a88f4c9fa7a1732f5ec8c4abe8a99ba0ac5889bda8d864c4d7d73d2",
+   "bytes": 15418944,
+   "seed": 42,
+   "wall_s": 887.2,
+   "gpu_peak_gib": 28.3,
+   "host_peak_gib": 46.5,
+   "note": "热态",
+   "code": "A57",
+   "set": "a57",
+   "series": "A",
+   "group": "A57",
+   "engine": "kLLM 测试构建（未发布）",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "portrait",
+   "title": "A57 · 768p 竖屏 · 15 秒 · 种子 42 · 热态",
+   "file": "test-a57-768p-portrait-warm.mp4",
+   "release": "kllm-samples",
+   "width": 768,
+   "height": 1344,
+   "frames": 362,
+   "duration_s": 15.084,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/test-a57-768p-portrait-warm.mp4"
+  },
+  {
    "sha256": "9f3b25e04086e4f05ce6c618655e0bb7007c2594cb98a9062b03ad5b1fa24c01",
    "bytes": 15406611,
    "seed": 42,
@@ -4307,6 +4838,30 @@
    "frames": 362,
    "duration_s": 15.084,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/test-a57-768p-portrait-warm2.mp4"
+  },
+  {
+   "sha256": "2176c9dc67500d88c696e41df87ecd2a3a53909c3266afab0df3981db6db7f4c",
+   "bytes": 15443318,
+   "seed": 42,
+   "wall_s": 629.2,
+   "gpu_peak_gib": null,
+   "host_peak_gib": null,
+   "note": "调用耗时：提交到取回成片",
+   "code": "A05",
+   "set": "v028",
+   "series": "A",
+   "group": "A05",
+   "engine": "kLLM 0.2.8",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "A05 · 768p 横屏 · 15 秒 · 种子 42",
+   "file": "v028-a05-768p-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.084,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/v028-a05-768p-landscape.mp4"
   },
   {
    "sha256": "d401419506509c271e8aaae084bc045f14df8f5a8a59f669661cd1284c9e4d41",
@@ -4403,6 +4958,30 @@
    "frames": 362,
    "duration_s": 15.083,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/v023-template-768p-landscape-rtx6000d.mp4"
+  },
+  {
+   "sha256": "6cfaa68f6cdf9f785d7c4b13cd111a42ce61d93ce4556302e022971d3c3bb4c9",
+   "bytes": 15958144,
+   "seed": null,
+   "wall_s": 473,
+   "gpu_peak_gib": null,
+   "host_peak_gib": null,
+   "note": "预置镜像、令牌激活、ComfyUI 接口的全流程实测，两张参考图",
+   "code": null,
+   "set": "deploy",
+   "series": "X",
+   "group": "单卡部署",
+   "engine": "kLLM（2026-11-13）",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "官方模板用例 · 768p 横屏 · 15 秒 · AutoDL 预置镜像",
+   "file": "v1113-template-768p-landscape.mp4",
+   "release": "kllm-samples",
+   "width": 1344,
+   "height": 768,
+   "frames": 362,
+   "duration_s": 15.083,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/v1113-template-768p-landscape.mp4"
   },
   {
    "sha256": "148cc25ca61cd4f04ce1409c771b7b820b77fc97cf4c68c8d010407776b510f7",
@@ -4739,6 +5318,54 @@
    "frames": 124,
    "duration_s": 5.167,
    "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/early-workflow2-baseline.mp4"
+  },
+  {
+   "sha256": "3b549e6ada2327464911630a1b110ad1ea987b39b6c3bec3681e5ebfb926229b",
+   "bytes": 18492802,
+   "seed": null,
+   "wall_s": 476.0,
+   "gpu_peak_gib": null,
+   "host_peak_gib": null,
+   "note": "真实业务工作流，原样提示词与参考图",
+   "code": null,
+   "set": "early",
+   "series": "X",
+   "group": "早期引擎 · 四卡",
+   "engine": "kLLM 早期引擎",
+   "gpu": "4 × NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "业务工作流 4（参考生视频）· 早期引擎 · 四卡",
+   "file": "early-workflow4-4gpu.mp4",
+   "release": "kllm-samples",
+   "width": 1728,
+   "height": 960,
+   "frames": 243,
+   "duration_s": 10.125,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/early-workflow4-4gpu.mp4"
+  },
+  {
+   "sha256": "b49e76ce30ce50a4e34b3751ed091c2336f225960db43ecc0a8c2e0167d1fb7c",
+   "bytes": 16068724,
+   "seed": null,
+   "wall_s": 274.9,
+   "gpu_peak_gib": null,
+   "host_peak_gib": null,
+   "note": "真实业务工作流，原样提示词与参考图",
+   "code": null,
+   "set": "early",
+   "series": "X",
+   "group": "早期引擎 · 单卡",
+   "engine": "kLLM 早期引擎",
+   "gpu": "NVIDIA RTX 4080 SUPER 32 GB",
+   "orientation": "landscape",
+   "title": "业务工作流 5（角色短剧）· 早期引擎 · 单卡",
+   "file": "early-workflow5-1gpu.mp4",
+   "release": "kllm-samples",
+   "width": 1280,
+   "height": 704,
+   "frames": 243,
+   "duration_s": 10.125,
+   "url": "https://github.com/ANetResearch/ANet-Entertainment/releases/download/kllm-samples/early-workflow5-1gpu.mp4"
   },
   {
    "sha256": "1a955ce2079be478a6e4dc98c1ae17bdbc7d6c5e6cb04f77e2e500af6b91a9eb",

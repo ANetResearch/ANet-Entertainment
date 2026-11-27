@@ -1,4 +1,1350 @@
 {
- "description": "预设对比记录：每组为同一用例下需要并排查看的样例文件（见 manifest.json）。",
- "comparisons": []
+ "description": "对比方案：每张卡片为同一用例下需要并排查看的样例（见 manifest.json），注明比较的变量；尚未发布的样例标为待出片，发布后自动补全。",
+ "themes": [
+  "A 系列与分辨率",
+  "B 系列",
+  "H 系列",
+  "提示词与导演台",
+  "调度与多卡",
+  "第三方对照",
+  "一致性与种子"
+ ],
+ "comparisons": [
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A05 三种分辨率 · 竖屏",
+   "question": "同一 A05 链路在 768p、原生 1080p 与原生 2K 下的清晰度与耗时差异。",
+   "variable": "分辨率；同一测试轮次、同一编码方式、种子 42",
+   "note": "原生 2K 在 RTX 4080 上运行，另两条在 RTX 4080 SUPER 上运行，耗时不可直接比较。",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-a05-768p-enc2-portrait-s42.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+     "label": "A05 · 原生 1080p 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-2k-enc2-portrait-s42.mp4",
+     "label": "A05 · 原生 2K 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "prerc4-a05-768p-enc2-portrait-s42.mp4",
+    "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+    "prerc4-a05-2k-enc2-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A05 竖屏 · 768p、960p 与原生 1080p",
+   "question": "中间分辨率 960p 与 768p、原生 1080p 的画面对照。",
+   "variable": "分辨率；种子 42",
+   "note": "960p 为 rc.4 开发构建的输出，另两条为 2026-11-26 测试的输出；均在 RTX 4080 SUPER 上运行。",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-a05-768p-enc2-portrait-s42.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-a05-portrait-s42-08.mp4",
+     "label": "A05 · 960p 竖屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+     "label": "A05 · 原生 1080p 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "prerc4-a05-768p-enc2-portrait-s42.mp4",
+    "rc4-a05-portrait-s42-08.mp4",
+    "prerc4-a05-1080p-enc2-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A05 横屏 · 768p 与原生 1080p",
+   "question": "横屏下原生 1080p 相对 768p 的清晰度提升与耗时代价。",
+   "variable": "分辨率；种子 42",
+   "note": "768p 为 0.2.9-rc.1.1 的输出，原生 1080p 为 2026-11-26 测试的输出。",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-a05-768p-landscape.mp4",
+     "label": "A05 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-1080p-landscape-s42.mp4",
+     "label": "A05 · 原生 1080p 横屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "rc11-a05-768p-landscape.mp4",
+    "prerc4-a05-1080p-landscape-s42.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "原生 1080p 与 2 倍超分 · 竖屏",
+   "question": "高分辨率的两条路径：原生生成与 768p 生成后超分。",
+   "variable": "高分辨率的实现方式；种子 42",
+   "note": "原生 1080p 输出 1088×1920，在 RTX 4080 SUPER 上运行；A59 输出 1536×2688，在 RTX 4080 上运行。",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+     "label": "A05 · 原生 1080p 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-a59-portrait-s42-02.mp4",
+     "label": "A59 · 1536p 竖屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    }
+   ],
+   "files": [
+    "prerc4-a05-1080p-enc2-portrait-s42.mp4",
+    "rc4-a59-portrait-s42-02.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A59 超分与原生 2K · 竖屏",
+   "question": "768p 生成后 2 倍超分与原生 2K 的画面与耗时。",
+   "variable": "高分辨率的实现方式；种子 42；均在 RTX 4080 上运行",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-a59-portrait-s42-02.mp4",
+     "label": "A59 · 1536p 竖屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    },
+    {
+     "file": "prerc4-a05-2k-enc2-portrait-s42.mp4",
+     "label": "A05 · 原生 2K 竖屏 · 15 秒 · 种子 42 · 新编码",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "rc4-a59-portrait-s42-02.mp4",
+    "prerc4-a05-2k-enc2-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A58 原生 1080p、A05 768p 与 A59 超分 · 竖屏",
+   "question": "rc.4 三条高清路径在同一用例下的画面与耗时。",
+   "variable": "分辨率与高分辨率的实现方式；rc.4 开发构建，种子 42",
+   "note": "",
+   "status": "partial",
+   "items": [
+    {
+     "file": null,
+     "label": "A58 · 原生 1080p 竖屏 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": "rc4-a05-portrait-s42-03.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-a59-portrait-s42-02.mp4",
+     "label": "A59 · 1536p 竖屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    }
+   ],
+   "files": [
+    "rc4-a05-portrait-s42-03.mp4",
+    "rc4-a59-portrait-s42-02.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A58 原生 2K 与 A59 超分 · 竖屏",
+   "question": "原生 2K 与 768p 生成后 2 倍超分的画面与耗时。",
+   "variable": "高分辨率的实现方式；rc.4 开发构建，种子 42",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "A58 · 原生 2K 竖屏 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": "rc4-a59-portrait-s42-02.mp4",
+     "label": "A59 · 1536p 竖屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    }
+   ],
+   "files": [
+    "rc4-a59-portrait-s42-02.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A58 原生 1080p、A05 768p 与 A59 超分 · 横屏",
+   "question": "rc.4 三条高清路径在同一用例下的画面与耗时。",
+   "variable": "分辨率与高分辨率的实现方式；rc.4 开发构建，种子 42",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "A58 · 原生 1080p 横屏 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": null,
+     "label": "A05 · 768p 横屏 · 种子 42",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-a59-landscape-s42-02.mp4",
+     "label": "A59 · 1536p 横屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    }
+   ],
+   "files": [
+    "rc4-a59-landscape-s42-02.mp4"
+   ]
+  },
+  {
+   "theme": "A 系列与分辨率",
+   "title": "A58 原生 2K 与 A59 超分 · 横屏",
+   "question": "原生 2K 与 768p 生成后 2 倍超分的画面与耗时。",
+   "variable": "高分辨率的实现方式；rc.4 开发构建，种子 42",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "A58 · 原生 2K 横屏 · 种子 42",
+     "code": "A58"
+    },
+    {
+     "file": "rc4-a59-landscape-s42-02.mp4",
+     "label": "A59 · 1536p 横屏 · 15 秒 · 种子 42",
+     "code": "A59"
+    }
+   ],
+   "files": [
+    "rc4-a59-landscape-s42-02.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "原镜像、官方 BF16 编号版与 B55 · 竖屏",
+   "question": "同一用例下原镜像 A05、官方 BF16 工作流（B00）与原始 BF16 底模不加速（B55）的画面对照。",
+   "variable": "方案与底模；种子 42",
+   "note": "B00 为 5 秒输出（其余为 15 秒），在 RTX 4080 上运行；三条分别来自 0.2.9-rc.1.1、rc.4 开发构建与 rc.3。",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-a05-768p-portrait-first.mp4",
+     "label": "原镜像 A05 · 768p 竖屏 · 15 秒 · 种子 42 · 首次运行",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-b00-portrait-s42-01.mp4",
+     "label": "B00 · 768p 竖屏 · 5 秒 · 种子 42",
+     "code": "B00"
+    },
+    {
+     "file": "rc3-b55-portrait-s42.mp4",
+     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    }
+   ],
+   "files": [
+    "rc11-original-a05-768p-portrait-first.mp4",
+    "rc4-b00-portrait-s42-01.mp4",
+    "rc3-b55-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "加速的代价 · 横屏",
+   "question": "不加速的 B55 与两种加速方案 B03、B06 在画面与耗时上的差异。",
+   "variable": "加速方式；同一 BF16 底模，种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc3-b55-landscape-s42.mp4",
+     "label": "B55 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    },
+    {
+     "file": "rc2-b03-landscape.mp4",
+     "label": "B03 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B03"
+    },
+    {
+     "file": "rc2-b06-landscape.mp4",
+     "label": "B06 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B06"
+    }
+   ],
+   "files": [
+    "rc3-b55-landscape-s42.mp4",
+    "rc2-b03-landscape.mp4",
+    "rc2-b06-landscape.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "主推组合与原镜像 · 横屏",
+   "question": "B 系列主推方案 B03、B06 与原镜像 A05 的画面对照。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-a05-768p-landscape-first.mp4",
+     "label": "原镜像 A05 · 768p 横屏 · 15 秒 · 种子 42 · 首次运行",
+     "code": "A05"
+    },
+    {
+     "file": "rc2-b03-landscape.mp4",
+     "label": "B03 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B03"
+    },
+    {
+     "file": "rc2-b06-landscape.mp4",
+     "label": "B06 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B06"
+    }
+   ],
+   "files": [
+    "rc11-original-a05-768p-landscape-first.mp4",
+    "rc2-b03-landscape.mp4",
+    "rc2-b06-landscape.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "原镜像、B55 与 B02 · 竖屏",
+   "question": "B 系列不加速与完整加速方案相对原镜像的色调与清晰度。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-a05-768p-portrait-first.mp4",
+     "label": "原镜像 A05 · 768p 竖屏 · 15 秒 · 种子 42 · 首次运行",
+     "code": "A05"
+    },
+    {
+     "file": "rc3-b55-portrait-s42.mp4",
+     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    },
+    {
+     "file": "rc2-b02-portrait.mp4",
+     "label": "B02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B02"
+    }
+   ],
+   "files": [
+    "rc11-original-a05-768p-portrait-first.mp4",
+    "rc3-b55-portrait-s42.mp4",
+    "rc2-b02-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "剪枝 BF16 底模 · 竖屏",
+   "question": "原始 BF16 底模与剪枝 BF16 底模、以及剪枝后加速的画面与耗时。",
+   "variable": "底模剪枝与加速；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc3-b55-portrait-s42.mp4",
+     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    },
+    {
+     "file": "rc4-b60-portrait-s42-01.mp4",
+     "label": "B60 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B60"
+    },
+    {
+     "file": "rc4-b59-portrait-s42-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    }
+   ],
+   "files": [
+    "rc3-b55-portrait-s42.mp4",
+    "rc4-b60-portrait-s42-01.mp4",
+    "rc4-b59-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B59 与 B60 · 竖屏",
+   "question": "同一剪枝 BF16 底模加速与不加速的差异。",
+   "variable": "加速；同一底模，种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-b59-portrait-s42-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    },
+    {
+     "file": "rc4-b60-portrait-s42-01.mp4",
+     "label": "B60 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B60"
+    }
+   ],
+   "files": [
+    "rc4-b59-portrait-s42-01.mp4",
+    "rc4-b60-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B61 超分与 B59 · 竖屏",
+   "question": "剪枝 BF16 底模生成 768p 后做 2 倍超分与不超分的对照。",
+   "variable": "超分辨率；同一底模，种子 42",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "B61 · 2 倍超分 竖屏 · 种子 42",
+     "code": "B61"
+    },
+    {
+     "file": "rc4-b59-portrait-s42-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    }
+   ],
+   "files": [
+    "rc4-b59-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B61 超分与 B59 · 横屏",
+   "question": "剪枝 BF16 底模生成 768p 后做 2 倍超分与不超分的对照。",
+   "variable": "超分辨率；同一底模，种子 42",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "B61 · 2 倍超分 横屏 · 种子 42",
+     "code": "B61"
+    },
+    {
+     "file": "rc4-b59-landscape-s42-01.mp4",
+     "label": "B59 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    }
+   ],
+   "files": [
+    "rc4-b59-landscape-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B 系列一览 · B01、B02、B04 · 竖屏",
+   "question": "B 系列各方案在同一用例下的画面风格。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b01-portrait.mp4",
+     "label": "B01 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B01"
+    },
+    {
+     "file": "rc2-b02-portrait.mp4",
+     "label": "B02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B02"
+    },
+    {
+     "file": "rc2-b04-portrait.mp4",
+     "label": "B04 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B04"
+    }
+   ],
+   "files": [
+    "rc2-b01-portrait.mp4",
+    "rc2-b02-portrait.mp4",
+    "rc2-b04-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B 系列一览 · B05、B06、B08 · 竖屏",
+   "question": "B 系列各方案在同一用例下的画面风格。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b05-portrait.mp4",
+     "label": "B05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B05"
+    },
+    {
+     "file": "rc2-b06-portrait.mp4",
+     "label": "B06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B06"
+    },
+    {
+     "file": "rc2-b08-portrait.mp4",
+     "label": "B08 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B08"
+    }
+   ],
+   "files": [
+    "rc2-b05-portrait.mp4",
+    "rc2-b06-portrait.mp4",
+    "rc2-b08-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B 系列一览 · B09、B10、B11 · 竖屏",
+   "question": "B 系列各方案在同一用例下的画面风格。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b09-portrait.mp4",
+     "label": "B09 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B09"
+    },
+    {
+     "file": "rc2-b10-portrait.mp4",
+     "label": "B10 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B10"
+    },
+    {
+     "file": "rc2-b11-portrait.mp4",
+     "label": "B11 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B11"
+    }
+   ],
+   "files": [
+    "rc2-b09-portrait.mp4",
+    "rc2-b10-portrait.mp4",
+    "rc2-b11-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B 系列一览 · B12、B13、B14 · 竖屏",
+   "question": "B 系列各方案在同一用例下的画面风格。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b12-portrait.mp4",
+     "label": "B12 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B12"
+    },
+    {
+     "file": "rc2-b13-portrait.mp4",
+     "label": "B13 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B13"
+    },
+    {
+     "file": "rc2-b14-portrait.mp4",
+     "label": "B14 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B14"
+    }
+   ],
+   "files": [
+    "rc2-b12-portrait.mp4",
+    "rc2-b13-portrait.mp4",
+    "rc2-b14-portrait.mp4"
+   ]
+  },
+  {
+   "theme": "B 系列",
+   "title": "B 系列一览 · B17、B55、B59 · 竖屏",
+   "question": "B 系列各方案在同一用例下的画面风格。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b17-portrait.mp4",
+     "label": "B17 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B17"
+    },
+    {
+     "file": "rc3-b55-portrait-s42.mp4",
+     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    },
+    {
+     "file": "rc4-b59-portrait-s42-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    }
+   ],
+   "files": [
+    "rc2-b17-portrait.mp4",
+    "rc3-b55-portrait-s42.mp4",
+    "rc4-b59-portrait-s42-01.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H02 与 B02 · 竖屏",
+   "question": "同一流程只换底模：BF16 与混合权重的画面差异。",
+   "variable": "底模；种子 42",
+   "note": "H02 在 RTX 4080 上运行，耗时不可直接比较。",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b02-portrait.mp4",
+     "label": "B02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B02"
+    },
+    {
+     "file": "prerc4-h02-768p-portrait-s42.mp4",
+     "label": "H02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H02"
+    }
+   ],
+   "files": [
+    "rc2-b02-portrait.mp4",
+    "prerc4-h02-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H04 与 B04 · 竖屏",
+   "question": "同一流程只换底模：BF16 与混合权重的画面差异。",
+   "variable": "底模；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b04-portrait.mp4",
+     "label": "B04 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B04"
+    },
+    {
+     "file": "prerc4-h04-768p-portrait-s42.mp4",
+     "label": "H04 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H04"
+    }
+   ],
+   "files": [
+    "rc2-b04-portrait.mp4",
+    "prerc4-h04-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H06 与 B06 · 竖屏",
+   "question": "同一流程只换底模：BF16 与混合权重的画面差异。",
+   "variable": "底模；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b06-portrait.mp4",
+     "label": "B06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B06"
+    },
+    {
+     "file": "prerc4-h06-768p-portrait-s42.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    }
+   ],
+   "files": [
+    "rc2-b06-portrait.mp4",
+    "prerc4-h06-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H08 与 B08 · 竖屏",
+   "question": "同一流程只换底模：BF16 与混合权重的画面差异。",
+   "variable": "底模；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc2-b08-portrait.mp4",
+     "label": "B08 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B08"
+    },
+    {
+     "file": "prerc4-h08-768p-portrait-s42.mp4",
+     "label": "H08 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H08"
+    }
+   ],
+   "files": [
+    "rc2-b08-portrait.mp4",
+    "prerc4-h08-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H55 与 B55 · 竖屏",
+   "question": "同为不加速的流程，只换底模：BF16 与混合权重的画面差异。",
+   "variable": "底模；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc3-b55-portrait-s42.mp4",
+     "label": "B55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B55"
+    },
+    {
+     "file": "prerc4-h55-768p-portrait-s42.mp4",
+     "label": "H55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H55"
+    }
+   ],
+   "files": [
+    "rc3-b55-portrait-s42.mp4",
+    "prerc4-h55-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H 系列一览 · H02、H04、H06 · 竖屏",
+   "question": "H 系列各方案在同一用例下的画面风格（2026-11-26 测试）。",
+   "variable": "方案；种子 42",
+   "note": "H02 在 RTX 4080 上运行，另两条在 RTX 4080 SUPER 上运行。",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-h02-768p-portrait-s42.mp4",
+     "label": "H02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H02"
+    },
+    {
+     "file": "prerc4-h04-768p-portrait-s42.mp4",
+     "label": "H04 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H04"
+    },
+    {
+     "file": "prerc4-h06-768p-portrait-s42.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    }
+   ],
+   "files": [
+    "prerc4-h02-768p-portrait-s42.mp4",
+    "prerc4-h04-768p-portrait-s42.mp4",
+    "prerc4-h06-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H 系列一览 · H05、H08、H55 · 竖屏",
+   "question": "H 系列各方案在同一用例下的画面风格（2026-11-26 测试）。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-h05-768p-portrait-s42.mp4",
+     "label": "H05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H05"
+    },
+    {
+     "file": "prerc4-h08-768p-portrait-s42.mp4",
+     "label": "H08 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H08"
+    },
+    {
+     "file": "prerc4-h55-768p-portrait-s42.mp4",
+     "label": "H55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H55"
+    }
+   ],
+   "files": [
+    "prerc4-h05-768p-portrait-s42.mp4",
+    "prerc4-h08-768p-portrait-s42.mp4",
+    "prerc4-h55-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "H 系列",
+   "title": "H 系列与原镜像 · 竖屏",
+   "question": "H06、H55 相对原镜像 A05 的色调与清晰度。",
+   "variable": "方案；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-a05-768p-portrait-first.mp4",
+     "label": "原镜像 A05 · 768p 竖屏 · 15 秒 · 种子 42 · 首次运行",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-h06-768p-portrait-s42.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    },
+    {
+     "file": "prerc4-h55-768p-portrait-s42.mp4",
+     "label": "H55 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H55"
+    }
+   ],
+   "files": [
+    "rc11-original-a05-768p-portrait-first.mp4",
+    "prerc4-h06-768p-portrait-s42.mp4",
+    "prerc4-h55-768p-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "提示词与导演台",
+   "title": "自然语言与导演台编译 · 种子 42",
+   "question": "同一请求直接使用自然语言，与经导演台编译为标准提示词（只补全镜头语言或加固定风格）的画面对照。",
+   "variable": "提示词；A05 768p 竖屏，种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-a05-768p-prompt-plain-portrait-s42.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42 · 提示词：用户自然语言",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-768p-prompt-compiled-portrait-s42.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42 · 提示词：编译服务补全镜头语言",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-768p-prompt-compiled-style-portrait-s42.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42 · 提示词：编译服务加固定风格预设",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "prerc4-a05-768p-prompt-plain-portrait-s42.mp4",
+    "prerc4-a05-768p-prompt-compiled-portrait-s42.mp4",
+    "prerc4-a05-768p-prompt-compiled-style-portrait-s42.mp4"
+   ]
+  },
+  {
+   "theme": "提示词与导演台",
+   "title": "自然语言与导演台编译 · 第二种子",
+   "question": "第二种子下自然语言与导演台编译的对照，检验结论是否随种子变化。",
+   "variable": "提示词；A05 768p 竖屏，种子 20261126",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-a05-768p-prompt-plain-portrait-s20261126.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 20261126 · 提示词：用户自然语言",
+     "code": "A05"
+    },
+    {
+     "file": "prerc4-a05-768p-prompt-compiled-portrait-s20261126.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 20261126 · 提示词：编译服务补全镜头语言",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "prerc4-a05-768p-prompt-plain-portrait-s20261126.mp4",
+    "prerc4-a05-768p-prompt-compiled-portrait-s20261126.mp4"
+   ]
+  },
+  {
+   "theme": "提示词与导演台",
+   "title": "自然语言与标准提示词 · rc.4",
+   "question": "rc.4 开发构建中自然语言请求与标准提示词的画面对照。",
+   "variable": "提示词；A05 768p 竖屏，种子 42，均在 RTX 4080 上运行",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-a05-portrait-s42-07.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    },
+    {
+     "file": "rc4-a05-portrait-s42-06.mp4",
+     "label": "A05 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "rc4-a05-portrait-s42-07.mp4",
+    "rc4-a05-portrait-s42-06.mp4"
+   ]
+  },
+  {
+   "theme": "调度与多卡",
+   "title": "原样部署与早期引擎单卡、四卡",
+   "question": "官方模板用例下原样部署与早期引擎单卡、四卡的耗时与画面。",
+   "variable": "部署方式与卡数；同一请求与参考图",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "early-768p-baseline.mp4",
+     "label": "原样部署（单卡） · 768p 横屏 · 15 秒",
+     "code": "原样部署"
+    },
+    {
+     "file": "early-768p-standard-1gpu.mp4",
+     "label": "早期引擎 · 标准档（单卡） · 768p 横屏 · 15 秒",
+     "code": "早期引擎 · 标准档"
+    },
+    {
+     "file": "early-768p-standard-4gpu.mp4",
+     "label": "早期引擎 · 标准档 · 4 卡 · 768p 横屏 · 15 秒",
+     "code": "早期引擎 · 标准档"
+    }
+   ],
+   "files": [
+    "early-768p-baseline.mp4",
+    "early-768p-standard-1gpu.mp4",
+    "early-768p-standard-4gpu.mp4"
+   ]
+  },
+  {
+   "theme": "调度与多卡",
+   "title": "早期引擎 2K · 单卡与七卡",
+   "question": "同一 2K 请求单卡与七卡部署的耗时。",
+   "variable": "卡数；同一请求与 9 张参考图",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "早期引擎 · 标准档（单卡）· 2K 横屏 · 15 秒",
+     "code": null
+    },
+    {
+     "file": null,
+     "label": "早期引擎 · 标准档 · 7 卡 · 2K 横屏 · 15 秒",
+     "code": null
+    }
+   ],
+   "files": []
+  },
+  {
+   "theme": "调度与多卡",
+   "title": "8 卡 A40 · SGLang 基线与低时延方案 · 用例 1",
+   "question": "同一 8 卡主机上 SGLang 基线与低时延方案的单条时延与画面。",
+   "variable": "推理方案；同一用例与种子",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "a40x8-sglang-baseline-case1.mp4",
+     "label": "SGLang 基线（8 卡） · 用例 1（镜场）",
+     "code": "SGLang 基线（8 卡）"
+    },
+    {
+     "file": "a40x8-lowlat2-case1.mp4",
+     "label": "低时延第二版 · 标准（8 卡协同） · 用例 1（镜场）",
+     "code": "低时延第二版 · 标准（8 卡协同）"
+    },
+    {
+     "file": "a40x8-lowlat2-quality-case1.mp4",
+     "label": "低时延第二版 · 高质量（8 卡协同） · 用例 1（镜场）",
+     "code": "低时延第二版 · 高质量（8 卡协同）"
+    }
+   ],
+   "files": [
+    "a40x8-sglang-baseline-case1.mp4",
+    "a40x8-lowlat2-case1.mp4",
+    "a40x8-lowlat2-quality-case1.mp4"
+   ]
+  },
+  {
+   "theme": "调度与多卡",
+   "title": "调度策略 · 请求 11",
+   "question": "同一请求在不同调度策略下被分配到的实例与完成时间。",
+   "variable": "调度策略；同一请求、同一到达时间",
+   "note": "视频为网页预览版（640 宽）。",
+   "status": "live",
+   "items": [
+    {
+     "file": "router7-scheduler-req11.mp4",
+     "label": "请求 11 · 768p 15 秒 · 标准档 · kLLM 调度器",
+     "code": "调度 · kLLM 调度器"
+    },
+    {
+     "file": "router7-shortest-queue-req11.mp4",
+     "label": "请求 11 · 768p 15 秒 · 标准档 · 最短队列",
+     "code": "调度 · 最短队列"
+    },
+    {
+     "file": "router7-fifo-req11.mp4",
+     "label": "请求 11 · 768p 15 秒 · 标准档 · 先到先服务",
+     "code": "调度 · 先到先服务"
+    }
+   ],
+   "files": [
+    "router7-scheduler-req11.mp4",
+    "router7-shortest-queue-req11.mp4",
+    "router7-fifo-req11.mp4"
+   ]
+  },
+  {
+   "theme": "调度与多卡",
+   "title": "调度策略 · 请求 36",
+   "question": "同一请求在不同调度策略下被分配到的实例与完成时间。",
+   "variable": "调度策略；同一请求、同一到达时间",
+   "note": "视频为网页预览版（640 宽）。",
+   "status": "live",
+   "items": [
+    {
+     "file": "router7-scheduler-req36.mp4",
+     "label": "请求 36 · 2K 5 秒 · 标准档 · kLLM 调度器",
+     "code": "调度 · kLLM 调度器"
+    },
+    {
+     "file": "router7-shortest-queue-req36.mp4",
+     "label": "请求 36 · 2K 5 秒 · 标准档 · 最短队列",
+     "code": "调度 · 最短队列"
+    },
+    {
+     "file": "router7-fifo-req36.mp4",
+     "label": "请求 36 · 2K 5 秒 · 标准档 · 先到先服务",
+     "code": "调度 · 先到先服务"
+    }
+   ],
+   "files": [
+    "router7-scheduler-req36.mp4",
+    "router7-shortest-queue-req36.mp4",
+    "router7-fifo-req36.mp4"
+   ]
+  },
+  {
+   "theme": "第三方对照",
+   "title": "早期引擎与 MiniMax 官方 API · 768p",
+   "question": "早期引擎与 MiniMax 官方 API 在同一请求下的画面与耗时。",
+   "variable": "生成方；同一提示词与两张参考图",
+   "note": "官方 API 的输出由第三方生成，仅供对照；其耗时为提交到视频下载完成。",
+   "status": "live",
+   "items": [
+    {
+     "file": "early-768p-standard-1gpu.mp4",
+     "label": "早期引擎 · 标准档（单卡） · 768p 横屏 · 15 秒",
+     "code": "早期引擎 · 标准档"
+    },
+    {
+     "file": "early-768p-standard-4gpu.mp4",
+     "label": "早期引擎 · 标准档 · 4 卡 · 768p 横屏 · 15 秒",
+     "code": "早期引擎 · 标准档"
+    },
+    {
+     "file": "thirdparty-minimax-api-768p-landscape.mp4",
+     "label": "MiniMax 官方 API · 768p 横屏 · 15 秒 · 2 张参考图（第三方生成）",
+     "code": "MiniMax 官方 API"
+    }
+   ],
+   "files": [
+    "early-768p-standard-1gpu.mp4",
+    "early-768p-standard-4gpu.mp4",
+    "thirdparty-minimax-api-768p-landscape.mp4"
+   ]
+  },
+  {
+   "theme": "第三方对照",
+   "title": "早期引擎与 MiniMax 官方 API · 2K",
+   "question": "9 张参考图的 2K 请求下早期引擎与 MiniMax 官方 API 的对照。",
+   "variable": "生成方；同一提示词与 9 张参考图",
+   "note": "官方 API 的输出由第三方生成，仅供对照。",
+   "status": "pending",
+   "items": [
+    {
+     "file": null,
+     "label": "早期引擎 · 标准档（单卡）· 2K 横屏 · 15 秒",
+     "code": null
+    },
+    {
+     "file": null,
+     "label": "早期引擎 · 标准档 · 7 卡 · 2K 横屏 · 15 秒",
+     "code": null
+    },
+    {
+     "file": "thirdparty-minimax-api-2k-landscape-2.mp4",
+     "label": "MiniMax 官方 API · 2K 横屏 · 15 秒 · 9 张参考图（第三方生成）",
+     "code": "MiniMax 官方 API"
+    }
+   ],
+   "files": [
+    "thirdparty-minimax-api-2k-landscape-2.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "A05 一比一对照 · 横屏",
+   "question": "同一工作流、同一输入与种子，原镜像两次运行与 kLLM 的输出是否一致。",
+   "variable": "运行环境；种子为工作流内置值",
+   "note": "",
+   "status": "partial",
+   "items": [
+    {
+     "file": "parity-original-a05-landscape-run1.mp4",
+     "label": "原镜像 A05 · 768p 横屏 · 15 秒 · 首次运行",
+     "code": "A05"
+    },
+    {
+     "file": "parity-original-a05-landscape-run2.mp4",
+     "label": "原镜像 A05 · 768p 横屏 · 15 秒 · 第二次运行",
+     "code": "A05"
+    },
+    {
+     "file": null,
+     "label": "A05 · 768p 横屏 · 15 秒 · 与原镜像一比一对照",
+     "code": null
+    }
+   ],
+   "files": [
+    "parity-original-a05-landscape-run1.mp4",
+    "parity-original-a05-landscape-run2.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "A05 一比一对照 · 竖屏",
+   "question": "同一工作流、同一输入与种子，原镜像与 kLLM 的输出是否一致。",
+   "variable": "运行环境；种子为工作流内置值",
+   "note": "",
+   "status": "pending",
+   "items": [
+    {
+     "file": "parity-original-a05-portrait-run1.mp4",
+     "label": "原镜像 A05 · 768p 竖屏 · 15 秒 · 热态运行",
+     "code": "A05"
+    },
+    {
+     "file": null,
+     "label": "A05 · 768p 竖屏 · 15 秒 · 与原镜像一比一对照",
+     "code": null
+    }
+   ],
+   "files": [
+    "parity-original-a05-portrait-run1.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "原镜像 A05 与 kLLM A05 · 交付矩阵",
+   "question": "0.2.9-rc.1.1 交付矩阵中原镜像与 kLLM 的 A05 输出对照。",
+   "variable": "运行环境；768p 横屏，种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-a05-768p-landscape-warm.mp4",
+     "label": "原镜像 A05 · 768p 横屏 · 15 秒 · 种子 42 · 热态",
+     "code": "A05"
+    },
+    {
+     "file": "rc11-a05-768p-landscape.mp4",
+     "label": "A05 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "A05"
+    }
+   ],
+   "files": [
+    "rc11-original-a05-768p-landscape-warm.mp4",
+    "rc11-a05-768p-landscape.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "官方 INT8：原镜像与 kLLM",
+   "question": "官方 INT8 工作流在原镜像与 kLLM 上的输出与耗时。",
+   "variable": "运行环境；768p 横屏，种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc11-original-int8-official-768p-landscape-warm.mp4",
+     "label": "原镜像 官方 INT8 · 768p 横屏 · 15 秒 · 种子 42 · 热态",
+     "code": "原镜像 官方 INT8"
+    },
+    {
+     "file": "rc11-int8-official-768p-landscape.mp4",
+     "label": "官方 INT8 · 768p 横屏 · 15 秒 · 种子 42",
+     "code": "官方 INT8"
+    }
+   ],
+   "files": [
+    "rc11-original-int8-official-768p-landscape-warm.mp4",
+    "rc11-int8-official-768p-landscape.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "B59 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-b59-portrait-s42-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B59"
+    },
+    {
+     "file": "rc4-b59-portrait-s20261126-01.mp4",
+     "label": "B59 · 768p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "B59"
+    }
+   ],
+   "files": [
+    "rc4-b59-portrait-s42-01.mp4",
+    "rc4-b59-portrait-s20261126-01.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "B60 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-b60-portrait-s42-01.mp4",
+     "label": "B60 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "B60"
+    },
+    {
+     "file": "rc4-b60-portrait-s20261126-01.mp4",
+     "label": "B60 · 768p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "B60"
+    }
+   ],
+   "files": [
+    "rc4-b60-portrait-s42-01.mp4",
+    "rc4-b60-portrait-s20261126-01.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "H02 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-h02-768p-portrait-s42.mp4",
+     "label": "H02 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H02"
+    },
+    {
+     "file": "prerc4-h02-768p-portrait-s20261126.mp4",
+     "label": "H02 · 768p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "H02"
+    }
+   ],
+   "files": [
+    "prerc4-h02-768p-portrait-s42.mp4",
+    "prerc4-h02-768p-portrait-s20261126.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "H06 两个种子 · 竖屏",
+   "question": "同一方案换种子后构图、服装与动作是否稳定。",
+   "variable": "种子（42 与 20261126）",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-h06-768p-portrait-s42.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    },
+    {
+     "file": "prerc4-h06-768p-portrait-s20261126.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 20261126",
+     "code": "H06"
+    }
+   ],
+   "files": [
+    "prerc4-h06-768p-portrait-s42.mp4",
+    "prerc4-h06-768p-portrait-s20261126.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "H06 引擎版本 · 竖屏",
+   "question": "同一方案在 2026-11-26 开发构建与 rc.4 开发构建上的输出是否一致。",
+   "variable": "引擎版本；同型 GPU，种子 42",
+   "note": "rc.4 按工作流质量参数编码，文件更大。",
+   "status": "live",
+   "items": [
+    {
+     "file": "prerc4-h06-768p-portrait-s42.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    },
+    {
+     "file": "rc4-h06-portrait-s42-03.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    }
+   ],
+   "files": [
+    "prerc4-h06-768p-portrait-s42.mp4",
+    "rc4-h06-portrait-s42-03.mp4"
+   ]
+  },
+  {
+   "theme": "一致性与种子",
+   "title": "H06 两种 GPU · 竖屏",
+   "question": "同一方案、同一构建在 RTX 4080 SUPER 与 RTX 4080 上的输出与耗时。",
+   "variable": "GPU 型号；种子 42",
+   "note": "",
+   "status": "live",
+   "items": [
+    {
+     "file": "rc4-h06-portrait-s42-03.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    },
+    {
+     "file": "rc4-h06-portrait-s42-01.mp4",
+     "label": "H06 · 768p 竖屏 · 15 秒 · 种子 42",
+     "code": "H06"
+    }
+   ],
+   "files": [
+    "rc4-h06-portrait-s42-03.mp4",
+    "rc4-h06-portrait-s42-01.mp4"
+   ]
+  }
+ ]
 }
