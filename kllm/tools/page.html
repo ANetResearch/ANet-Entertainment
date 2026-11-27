@@ -138,6 +138,7 @@ details.comps p { color: var(--muted); margin: 6px 0; }
 .ccard li .h { color: var(--fg); font-weight: 600; }
 .ccard li .mt { color: var(--muted); }
 .ccard li .cp { color: var(--muted); font-size: 12px; }
+.ccard li .nt2 { color: var(--fg); font-size: 12px; }
 .ccard li.pend .h { color: var(--muted); font-weight: 400; }
 .ccard .nt { color: var(--muted); font-size: 12px; border-left: 2px solid var(--line); padding-left: 7px; }
 .ccard .acts { margin-top: auto; padding-top: 4px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
@@ -411,6 +412,7 @@ footer.foot { border-top: 1px solid var(--line); color: var(--muted); font-size:
       fig.innerHTML =
         '<div class="vwrap" style="aspect-ratio:' + ar + '"><video playsinline preload="metadata"></video></div>' +
         "<figcaption><b>" + esc(e.title) + "</b>" +
+        (e.note ? '<span class="cp">' + esc(e.note) + "</span>" : "") +
         (compLine(e) ? '<span class="cp">' + esc(compLine(e)) + "</span>" : "") +
         esc(setTitle(e.set)) + " · " + esc(e.engine || "—") + "<br>" +
         esc(res(e)) + " · " + esc(dur(e)) + " · " + esc(mb(e.bytes)) + "<br>" +
@@ -575,6 +577,7 @@ footer.foot { border-top: 1px solid var(--line); color: var(--muted); font-size:
     if (e.gpu) meta.push(e.gpu);
     var cp = compLine(e);
     return '<li><span class="h">' + esc(e.group || e.code || e.title) + '</span> <span class="mt">' + esc(meta.join(" · ")) + "</span>" +
+      (e.note ? '<div class="nt2">' + esc(e.note) + "</div>" : "") +
       (cp ? '<div class="cp">' + esc(cp) + "</div>" : "") + "</li>";
   }
   function liveFiles(c) { return c.items.filter(function (it) { return it.file && S.byFile[it.file]; }).map(function (it) { return it.file; }); }
